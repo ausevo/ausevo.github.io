@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Volunteer Field Assistant Sought:
+title: Volunteer Field Assistant Sought
 subtitle: Fairy-wrens in south-west WA
 categories: news
 ---
