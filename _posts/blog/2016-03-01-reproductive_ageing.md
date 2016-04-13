@@ -1,0 +1,18 @@
+---
+layout: post
+title: Reproductive Ageing and Individual Condition
+categories: blog
+author: Amy Hooper
+---
+Ageing, the decline in performance with increasing age, is often associated with a decline in reproductive performance, referred to as reproductive ageing. Despite important fitness consequences of this trait, why it varies within species remains poorly understood. At least some of this variation can be explained by variation in resource acquisition. Also called “condition”, this determines not only energy budget, but also can determine investment in reproduction. For example, for males of many species, high condition (usually larger) individuals often express exaggerated physical traits such as sexual ornaments or weapons, or are more aggressive. Investment in these traits may increase costs of reproduction in high condition males, as therefore may play an important role in maintaining variation in reproductive ageing within species. However, these patterns remain poorly understood.
+
+![]({{ site.url }}/img/hooper.png){: .center-image}
+<span class="caption text-muted">The Neriid fly _Telostylinus angusticolis_ (Photo: Russell Bonduriansky)</span>
+
+We investigated reproductive ageing in a Neriid fly, _Telostylinus angusticolis_. In this species, male reproductive performance is highly condition dependent, with larger, high condition males producing exaggerated weapons (forelimbs and antennae), and being more aggressive. Therefore, we expect large males to have a competitive advantage; however there is evidence of faster ageing and decreased fertilisation success in large males. We aimed to determine if this reduced performance in large males arises due to investment in weapons, or from increased investment in aggressive behaviours, and how these factors might affect reproductive ageing in this species. To do this, we measured male reproductive performance across a number of traits over their life, in a fully factorial design of high and low condition treatment, and two social treatments where males were either able or unable to engage in physical combat with another male.
+
+As we expected, large males aged faster than small males, and had a reduced life span. Additionally, when males were paired with a standard female, small males outperformed large males by mating more frequently, inducing females to lay more eggs, and producing eggs with higher egg to adult viability. When competing for matings against other males, contrary to our expectations, larger males were not more successful, despite being more aggressive and winning more fights. In fact, at old age, smaller males obtained more matings than large males. Although large body size decreased male performance across many reproductive traits, social treatment did not affect reproductive performance, though exposure to aggressive behaviours over their life did reduce life span. This suggests that the decreased performance of large males arises from inherent costs of being large, rather than from any costs associated with aggressive behaviours.
+
+These results have important implications for understanding life history evolution. Whilst we found many costs to being large, we also found few benefits, challenging the long-standing idea that high condition individuals are able to invest in costly traits without suffering a reduction in fitness. Furthermore, this highlights that what constitutes quality within a species can be complex, and that single measures of performance may not present a comprehensive picture of which individuals are the highest performers.
+
+**Contributed by [Amy Hooper](http://www.bees.unsw.edu.au/amy-hooper), PhD candidate at UNSW**
