@@ -4,11 +4,11 @@ title: Australasian Evolution Society
 subtitle: Promoting the scientific study of evolution
 css: "/css/index.css"
 bigimg:
-  - "/img/big-imgs/kook.jpg" : "Kookaburra (Tom White)"
-  - "/img/big-imgs/duck2.jpg" : "Goose (Tom White)"
-  - "/img/big-imgs/flower.JPG" : "Flower (Tom White)"
-  - "/img/big-imgs/katydid.jpg" : "Who did? Katydid (Tom White)"
-  - "/img/big-imgs/kook2.jpg" : "Good one (Tom White)"
+  - "/img/big-imgs/kook.jpg" : "Kookaburra"
+  - "/img/big-imgs/duck2.jpg" : "The Boss"
+  - "/img/big-imgs/flower.JPG" : "Flower"
+  - "/img/big-imgs/katydid.jpg" : "Who did? Katydid"
+  - "/img/big-imgs/kook2.jpg" : "Good one"
 ---
 
 Welcome to the **Australasian Evolution Society** web page. We aim to foster interest and intellectual exchange among those interested in all facets of evolution.

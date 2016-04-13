@@ -4,11 +4,11 @@ title: AES
 subtitle: Join!
 css: "/css/index.css"
 bigimg:
-  - "/img/big-imgs/kook.jpg" : "Kookaburra (Tom White)"
-  - "/img/big-imgs/duck2.jpg" : "Goose (Tom White)"
-  - "/img/big-imgs/flower.JPG" : "Flower (Tom White)"
-  - "/img/big-imgs/katydid.jpg" : "Who did? Katydid (Tom White)"
-  - "/img/big-imgs/kook2.jpg" : "Good one (Tom White)"
+  - "/img/big-imgs/kook.jpg" : "Kookaburra"
+  - "/img/big-imgs/duck2.jpg" : "The Boss"
+  - "/img/big-imgs/flower.JPG" : "Flower"
+  - "/img/big-imgs/katydid.jpg" : "Who did? Katydid"
+  - "/img/big-imgs/kook2.jpg" : "Good one"
 ---
 
 **Want to join the Australasian Evolution Society?**
