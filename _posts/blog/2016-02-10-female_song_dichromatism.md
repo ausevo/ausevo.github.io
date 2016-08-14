@@ -1,7 +1,6 @@
 ---
 layout: post
-title: The Colour and the shape
-subtitle: Female song occurs in songbirds with more elaborate female coloration and reduced sexual dichromatism
+title: Female Singers are Colourful
 categories: blog
 author: Wesley Webb
 ---
@@ -10,7 +9,7 @@ Elaborate plumages and songs in male birds provide classic evidence for Darwinia
 ![]({{ site.url }}/img/webb.png){: .center-image}
 <span class="caption text-muted">Birds display an astounding diversity of plumage colours. Males are much more colourful than females in some species (e.g., top row, left-to-right: Baltimore Oriole, Red-legged Honeycreeper and Variable Seedeater). In many other species however, females look the same as males and have just as dramatic plumage (e.g., bottow row, left-to-right: Blue-winged Mountain-Tanager, Cromson-collared Tanager, and Chestnut-capped Brush-funch). What is the relationship between female plumage colourfulness and the occurrence of female song? (Photo: Bill Holsten)</span>
 
-Using phylogenetically-controlled comparative analysis, we tested for an evolutionary association between female song and plumage colour elaboration in songbirds (Webb et al., in review). If there is an evolutionary trade-off between signalling modes, we predicted a negative correlation between acoustic and visual elaboration: species where females sing should have less colourful females on average than species where females do not sing. Alternatively, if song and plumage have similar or overlapping functions and evolve under similar selection pressures, we predicted a positive correlation between female song and female plumage elaboration: species where females sing should have more colourful females on average. We used published data on female song for 1,023 species of songbirds and a novel approach that allows objective comparison of colour elaboration between species and genders.
+Using phylogenetically-controlled comparative analysis, we tested for an evolutionary association between female song and plumage colour elaboration in songbirds (Webb et al. 2016). If there is an evolutionary trade-off between signalling modes, we predicted a negative correlation between acoustic and visual elaboration: species where females sing should have less colourful females on average than species where females do not sing. Alternatively, if song and plumage have similar or overlapping functions and evolve under similar selection pressures, we predicted a positive correlation between female song and female plumage elaboration: species where females sing should have more colourful females on average. We used published data on female song for 1,023 species of songbirds and a novel approach that allows objective comparison of colour elaboration between species and genders.
 
 We found strong evidence for a positive co-evolutionary relationship between female colourfulness and female song presence. In species where females sing, females (but not males) are on average more colourful (and hence exhibit reduced dichromatism), compared to species where females do not sing. In simpler terms, female song is more prevalent amongst species with colourful females.
 
