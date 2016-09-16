@@ -19,4 +19,4 @@ Membership in the society allows you to participate in our bi-annual conferences
 
 On our website you can learn about the cutting edge research being conducted by Australasian evolutionary biologists in our [blog]({{ site.baseurl }}/index). You can meet the people behind the research in our [scientist profiles]({{ site.baseurl }}/profiles) section where we get an insight into the minds and imaginations of evolutionary biologists. The [links]({{ site.baseurl }}/links) section contains information about institutions across Australasia where evolutionary research is being conducted.
 
-If you have any jobs, events, scholarships etc, that you would like advertised on the site contact our [webmaster](thomas.white@mq.edu.au) and we can add it to our [news]({{ site.baseurl }}/news) section.
+If you have any jobs, events, scholarships etc, that you would like advertised on the site contact our [webmaster](mailto:thomas.white@mq.edu.au) and we can add it to our [news]({{ site.baseurl }}/news) section.
