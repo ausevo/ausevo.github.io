@@ -19,6 +19,6 @@ Interested applicants please submit: a brief cover letter outlining your researc
 
 For further information, and to submit an application, please contact:
 
-**A/Prof. Devi Stuart-Fox**
-**Email:** [d.stuart-fox@unimelb.edu.au](mailto:d.stuart-fox@unimelb.edu.au)  
-**Website:** [devistuartfox.com](http://devistuartfox.com)
+**A/Prof. Devi Stuart-Fox**  
+***Email:*** [d.stuart-fox@unimelb.edu.au](mailto:d.stuart-fox@unimelb.edu.au)  
+***Website:*** [devistuartfox.com](http://devistuartfox.com)
