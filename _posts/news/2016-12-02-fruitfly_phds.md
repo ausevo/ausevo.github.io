@@ -1,7 +1,7 @@
 ---
 layout: post
-title: PhD Opportunities (Macquarie U. & CSIRO)
-subtitle: Sexual performance & nutrigenomics in the Queensland fruit-fly
+title: PhD Opportunities
+subtitle: Sexual performance & nutrigenomics in the Queensland fruit-fly (Macquarie U. & CSIRO)
 categories: news
 ---
 
