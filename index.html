@@ -1,11 +1,11 @@
 ---
 layout: page
 title: AES
-subtitle: Evolutionary research highlights
+subtitle: News
 ---
 
 <div class="posts-list">
-  {% for post in site.categories.blog %}
+  {% for post in site.categories.news %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
@@ -18,7 +18,7 @@ subtitle: Evolutionary research highlights
     </a>
 
     <p class="post-meta">
-      {{ post.date | date: "%B %-d, %Y" }}, by {{ post.author }}
+      {{ post.date | date: "%B %-d, %Y" }}
     </p>
 
     <div class="post-entry">
