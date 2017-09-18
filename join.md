@@ -13,6 +13,6 @@ bigimg:
 
 **Want to join the Australasian Evolution Society?**
 
-Come to the 2017 conference!
+Come to [the 2017 conference](https://aesconference2017.wordpress.com)!
 
 Membership of the Australasian Evolution Society is automatically included in the registration for the biannual conference. Current costs are $20 for student members and $40 for non-students. This membership covers you for two years and you will need to renew it for the 2019 conference.
