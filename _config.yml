@@ -22,8 +22,7 @@ navbar-links:
   Blog: "blog"
   Profiles: "profiles"
   Join!: "join"
-  Conferences:
-    - Behaviour 2015: "http://www.behaviour2015.org/"
+  Conference: "conference"
   Resources:
     - Contact us: "contact"
     - AES Constitution: "constitution"
