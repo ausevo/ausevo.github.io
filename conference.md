@@ -7,4 +7,4 @@ css: "/css/index.css"
 
 The [Behavioural and Evolutionary Ecology Research (BEER) group](http://www.utas.edu.au/zoology/research/behavioural-and-evolutionary-ecology/behavioural-and-evolutionary-ecology-research-group), the [Theoretical Phylogenetics group](http://www.maths.utas.edu.au/People/Holland/theoreticalPhylogenetics.htm) and [The University of Tasmania](http://www.utas.edu.au) is excited to host this years Australasian Evolution Society Meeting. The meeting will be held in Hobart, Tasmania from the **4th to the 6th of December, 2017** and will be run in conjunction with the annual Phylomania conference (6th to the 8th of December).
 
-For full details, take a look at **[the conference website](https://aesconference2017.wordpress.com)**, and keep an eye on it for updates.
+**Registration is now open!** For full details, take a look at **[the conference website](https://aesconference2017.wordpress.com)**, and keep an eye on it for updates.
