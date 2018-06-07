@@ -31,4 +31,4 @@ School of Life and Environmental Sciences, Deakin University
 
 Thomas White  
 Department of Biological Sciences, Macquarie University  
-**E:** thomas.white[at]mq.edu.au
+**E:** thomas.white[at]sydney.edu.au
