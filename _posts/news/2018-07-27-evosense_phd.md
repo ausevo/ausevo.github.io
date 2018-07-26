@@ -4,10 +4,8 @@ title: PhD projects in evolutionary and sensory ecology
 subtitle: University of Sydney
 categories: news
 ---
- 
-**Expressions of interest for potential Ph.D. projects at the Evolutionary and Sensory Ecology Lab, The University of Sydney**
 
-**Projects:** The [Evolutionary and Sensory Ecology Lab](https://www.tomwhite.io) at The University of Sydney is seeking expressions of interest from enthusiastic students looking to pursue a PhD. Potential topics are diverse, though well-defined projects exist around questions of (1) the evolution and ecology of dynamic visual communication, using model butterflies (2) the coevolution of sensory systems and visual signals, combining broad-scale field work and experimental evolution, and (3) the optics, function, and evolution of iridescence. Students will be strongly encouraged to develop their own research agendas within these broader contexts, and will ultimately integrate observational, experimental, and theoretical approaches to test evolutionary theory.
+**Projects:** The [Evolutionary and Sensory Ecology Lab](https://tomwhite.io) at The University of Sydney is seeking expressions of interest from enthusiastic students looking to pursue a PhD. Potential topics are diverse, though well-defined projects exist around questions of (1) the evolution and ecology of dynamic visual communication, using model butterflies (2) the coevolution of sensory systems and visual signals, combining broad-scale field work and experimental evolution, and (3) the optics, function, and evolution of iridescence. Students will be strongly encouraged to develop their own research agendas within these broader contexts, and will ultimately integrate observational, experimental, and theoretical approaches to test evolutionary theory.
 
 **Location:** [The University of Sydney](https://sydney.edu.au) is a world-class research institution, and one of the top-ranked universities in Australia. It is home to outstanding researchers and facilities, and the candidate will be able to make full use of the resources at hand, while pursuing the rich opportunities for collaboration within the university, its immediate surrounds, and abroad. 
 
