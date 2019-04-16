@@ -5,30 +5,31 @@ subtitle: Contact
 ---
 **President**
 
-Associate Professor Erik Wapstra  
-Department of Zoology, University of Tasmania  
-**E:** erik.wapstra[at]utas.edu.au
+Associate Professor Michael Kasumovic  
+School of Biological, Earth & Environmental Sciences, University of New South Wales  
+**E:** m.kasumovic[at]unsw.edu.au
 
 **Vice President**
 
-Dr Ben Fanson  
-Department of Biological Sciences, Macquarie University  
-**E:** bfanson[at]gmail.com
+Associate Professor Lisa Schwanz  
+School of Biological, Earth & Environmental Sciences, University of New South Wales  
+**E:** l.schwanz[at]unsw.edu.au
+
 
 **Treasurer**
 
-Dr Lee Ann Rollins  
-School of Life and Environmental Sciences, Deakin University  
-**E:** lee.rollins[at]deakin.edu.au
+Dr Lee Ann Rollins
+School of Biological, Earth & Environmental Sciences, University of New South Wales  
+**E:** l.rollins[at]unsw.edu.au
 
 **Secretary**
 
-Dr Kerry Fanson  
-School of Life and Environmental Sciences, Deakin University  
-**E:** kerry.fanson[at]deakin.edu.au
+TBA  
+**E:** 
+
 
 **Webmaster**
 
-Thomas White  
-Department of Biological Sciences, Macquarie University  
-**E:** thomas.white[at]sydney.edu.au
+Dr Susanne Zajitschek  
+School of Biological, Earth & Environmental Sciences, University of New South Wales  
+**E:** s.zajitschek@unsw.edu.au
