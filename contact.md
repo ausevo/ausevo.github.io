@@ -18,7 +18,7 @@ School of Biological, Earth & Environmental Sciences, University of New South Wa
 
 **Treasurer**
 
-Dr Lee Ann Rollins
+Dr Lee Ann Rollins  
 School of Biological, Earth & Environmental Sciences, University of New South Wales  
 **E:** l.rollins[at]unsw.edu.au
 
