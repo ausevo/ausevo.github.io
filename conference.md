@@ -1,10 +1,16 @@
 ---
 layout: page
-title: AES 2017!
+title: AES 2019
 subtitle: Conference
 css: "/css/index.css"
 ---
 
-The [Behavioural and Evolutionary Ecology Research (BEER) group](http://www.utas.edu.au/zoology/research/behavioural-and-evolutionary-ecology/behavioural-and-evolutionary-ecology-research-group), the [Theoretical Phylogenetics group](http://www.maths.utas.edu.au/People/Holland/theoreticalPhylogenetics.htm) and [The University of Tasmania](http://www.utas.edu.au) is excited to host this years Australasian Evolution Society Meeting. The meeting will be held in Hobart, Tasmania from the **4th to the 6th of December, 2017** and will be run in conjunction with the annual Phylomania conference (6th to the 8th of December).
+AES is coming to Sydney!
 
-**Registration is now open!** For full details, take a look at **[the conference website](https://aesconference2017.wordpress.com)**, and keep an eye on it for updates.
+The [Evolution & Ecology Research Centre](http://www.eerc.unsw.edu.au/) at the [School of Biological, Earth and Environmental Sciences](https://www.bees.unsw.edu.au/)  at [UNSW](https://www.unsw.edu.au/) will be hosting the Australasion Evolution Society conference this year. 
+
+The meeting will be held on campus at the University of New South Wales from the **25th to the 27th of November, 2019**, with a 
+welcome reception taking place on the 24th of November, and the conference dinner on 27th.
+
+
+**Please watch this space to for more details in the near future!** 
