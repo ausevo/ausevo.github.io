@@ -14,4 +14,4 @@ The meeting will be held on campus at the University of New South Wales from the
 Mark your diaries for the welcome reception on the 24th of November, and the conference dinner on the 27th.
 
 
-**Please watch this space to for more details and information about registration in the near future!** 
+**Please watch this space for more details and information about registration in the near future!** 
