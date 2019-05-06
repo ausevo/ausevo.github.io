@@ -23,6 +23,7 @@ navbar-links:
   Profiles: "profiles"
   Join!: "join"
   Conference: "conference"
+  Conference links:
     - Registration: "registration"
     - Accomodation: "accomodation"
     - Sponsors: "sponsors"
