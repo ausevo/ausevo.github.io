@@ -20,12 +20,11 @@ navbar-links:
   About: "about"
   News: "index"
   Blog: "blog"
-  Profiles: "profiles"
   Join!: "join"
-  Conference: "conference"
-  Conference links:
+  Conference: 
+    - Overview: "conference"
     - Registration: "registration"
-    - Accomodation: "accomodation"
+    - Accomodation: "accommodation"
     - Sponsors: "sponsors"
     - Venue: "map"
     - Student prices: "prices"
