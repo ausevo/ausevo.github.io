@@ -5,11 +5,11 @@ subtitle: Conference
 css: "/css/index.css"
 ---
 
-**AES 2019 is coming to [Sydney] (https://www.sydney.com/)!**
+**AES 2019 is coming to [Sydney](https://www.sydney.com/)!**
 
 The [Evolution & Ecology Research Centre](http://www.eerc.unsw.edu.au/) at the [School of Biological, Earth and Environmental Sciences](https://www.bees.unsw.edu.au/)  at [UNSW](https://www.unsw.edu.au/) will be hosting the **Australasian Evolution Society conference** this year. 
 
-The meeting will be held on campus at the University of New South Wales from the 
+The meeting will be held on campus at the University of New South Wales from the  
 **25th to the 27th of November, 2019**.
 
 Registration and Abstract submisson will open **June 17th 2019**,  
