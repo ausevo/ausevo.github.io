@@ -21,8 +21,7 @@ navbar-links:
   News: "index"
   Blog: "blog"
   Join!: "join"
-  Conference: 
-    - Overview: "conference"
+  Conference: "conference"
     - Registration: "registration"
     - Accomodation: "accommodation"
     - Sponsors: "sponsors"
