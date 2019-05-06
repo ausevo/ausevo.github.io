@@ -14,8 +14,8 @@ The meeting will be held on campus at the University of New South Wales from the
 
 Registration and Abstract submisson will open **June 17th 2019**,  
 submission of Abstracts will **close August 12 2019**
-
-
+   
+   
 ***Preliminary program***  
 
   24th Nov Welcome Reception  
@@ -25,7 +25,7 @@ submission of Abstracts will **close August 12 2019**
   27th Nov CONFERENCE DINNER  
   
 
-**Final Program**
+***Final Program***
 
 The final scientific schedule will be provided ***here*** by 25th Sepyt 2019.
 
