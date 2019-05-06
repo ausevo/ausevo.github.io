@@ -23,6 +23,11 @@ navbar-links:
   Profiles: "profiles"
   Join!: "join"
   Conference: "conference"
+    - Registration: "registration"
+    - Accomodation: "accomodation"
+    - Sponsors: "sponsors"
+    - Venue: "map"
+    - Student prices: "prices"
   Resources:
     - Contact us: "contact"
     - AES Constitution: "constitution"
