@@ -13,7 +13,7 @@ bigimg:
 
 Welcome to the **Australasian Evolution Society** web page. We aim to foster interest and intellectual exchange among those interested in all facets of evolution.
 
-The society’s main event is its biannual meeting, where evolutionary biologists come together to present and discuss the current state of evolutionary research in Australasia. 2015 marked the 9th biennial meeting which was held in Cairns as part of the international conference _Behaviour 2015_.
+The society’s main event is its biannual meeting, where evolutionary biologists come together to present and discuss the current state of evolutionary research in Australasia. 2015 marked the 9th biennial meeting which was held in Cairns as part of the international conference _Behaviour 2015_. In 2017, the meeting was held in [Tasmania](https://aesconference2017.wordpress.com/), and in 2019 it is scheduled to be held in [Sydney](http://ausevo.com/conference/).
 
 Membership in the society allows you to participate in our bi-annual conferences to engage with other members. Feel free to join the discussion via [twitter](http://twitter.com/austevolsoc) and the [AES Facebook Group](https://www.facebook.com/groups/95240533874/) to be notified about the latest research, news, jobs, and events.
 
