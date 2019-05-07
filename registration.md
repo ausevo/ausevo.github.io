@@ -11,8 +11,8 @@ submission of Abstracts will **close August 12 2019**
 **Registration costs**  
 *please note - registration automatically includes membership*
 
-Student registration: ??  
-Full member regstration: ??
+Student registration: TBD  
+Full member regstration: TBD
 
 
 **Presentation formats**
