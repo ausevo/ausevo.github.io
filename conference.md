@@ -27,13 +27,13 @@ submission of Abstracts will **close August 12 2019**
 
 ***Final Program***
 
-The final scientific schedule will be provided ***here*** by 25th Sepyt 2019.
+The final scientific schedule will be provided ***here*** by 25th Sept 2019.
 
 
 **Please watch this space for more details and information about**   
 
 - Abstract submission and registration (opens June 17 2019)
-- Accomodation options
+- Accommodation options
 - Student Sholarships (applications open June 17 2019)
 - Sponsors
 - Map / Venue
