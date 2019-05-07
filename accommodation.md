@@ -1,8 +1,8 @@
 ---
 layout: page
-title: AES
-subtitle: Accomodation
+title: AES 2019
+subtitle: Accommodation
 ---
 
-**Accomodation**  
-We might have some hints for accomodation in the Randwick / Kensington / Kingsford / Coogee area in the near future
+**Accommodation**  
+We might have some hints for accommodation in the Randwick / Kensington / Kingsford / Coogee area in the near future... 
