@@ -8,6 +8,9 @@ css: "/css/index.css"
 
  **Student scholarships**
 
-or prices (?) 
-best poster / best talk?
-conference costs covered?
+Information on student scholarships and assitance covering registration and/or travel costs will be made available here soon.
+
+**Student prices**
+
+Awards for the best posters and best talks will be announced on the 27th of November
+
