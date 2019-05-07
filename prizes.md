@@ -10,7 +10,7 @@ css: "/css/index.css"
 
 Information on student scholarships and assitance covering registration and/or travel costs will be made available here soon.
 
-**Student prices**
+**Student prizes**
 
 Awards for the best posters and best talks will be announced on the 27th of November
 
