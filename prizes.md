@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AES 2019
-subtitle: Conference
+subtitle: Prizes & Sholarships
 css: "/css/index.css"
 ---
   
