@@ -32,4 +32,4 @@ TBA
 
 Dr Susanne Zajitschek  
 School of Biological, Earth & Environmental Sciences, University of New South Wales  
-**E:** s.zajitschek@unsw.edu.au
+**E:** s.zajitschek[at]unsw.edu.au
