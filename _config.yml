@@ -17,8 +17,8 @@ description: Promoting the scientific study of evolution
 
 # List of links in the navigation bar
 navbar-links:
-  About: "about"
-  News: "index"
+  About: "index"
+  News: "news"
   Blog: "blog"
   Join!: "join"
   Conference: 
