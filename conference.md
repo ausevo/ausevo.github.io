@@ -1,9 +1,11 @@
 ---
 layout: page
 title: AES 2019
-subtitle: Conference
 css: "/css/index.css"
+bigimg:
+  - "/img/big-imgs/operabridge.jpg" : "Sydney Opera House & Harbour Bridge"
 ---
+
 
 **AES 2019 is coming to [Sydney](https://www.sydney.com/)!**
 
