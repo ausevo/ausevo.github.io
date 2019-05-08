@@ -24,10 +24,11 @@ navbar-links:
   Conference: 
     - Overview: "conference"
     - Registration: "registration"
-    - Accomodation: "accommodation"
-    - Sponsors: "sponsors"
     - Venue: "map"
     - Student prizes: "prizes"
+    - Accomodation: "accommodation"
+    - Sponsors: "sponsors"
+   
   Resources:
     - Contact us: "contact"
     - AES Constitution: "constitution"
