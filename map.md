@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AES 2019
-subtitle: Conference
+subtitle: Conference Venue
 css: "/css/index.css"
 ---
   
