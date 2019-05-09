@@ -36,6 +36,6 @@ The final scientific schedule will be provided ***here*** by 25th Sept 2019.
 
 - Abstract submission and registration (opens June 17 2019)
 - Accommodation options
-- Student Sholarships (applications open June 17 2019)
+- Student Scholarships (applications open June 17 2019)
 - Sponsors
 - Map / Venue
