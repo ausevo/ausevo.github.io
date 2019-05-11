@@ -24,9 +24,8 @@ School of Biological, Earth & Environmental Sciences, University of New South Wa
 
 **Secretary**
 
-TBA  
-**E:** 
-
+Melissa Pappas   
+**E:** melissa.pappas[at]unsw.edu.au 
 
 **Webmaster**
 
