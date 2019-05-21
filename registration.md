@@ -18,7 +18,7 @@ Full member regstration: TBD
 **Presentation formats**
   
   - Short talks (5 minutes, plus 2 minutes for questions)
-  - Long talks (12 minutes, plus 3 minutes for questons)
+  - Long talks (12 minutes, plus 3 minutes for questions)
   - Poster (max dimensions tbd)
 
   
