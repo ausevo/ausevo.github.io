@@ -12,7 +12,8 @@ The AES Student Research Award will be given in recognition of a single, signifi
 The Award includes an invitation to present an Award talk at the AES conference, with registration fees covered by AES. Student scholarships are often available to assist with a portion of travel and accommodation costs, but are not guaranteed. 
 
 Details on Eligibility, Selection Criteria and Application process can be found    
-[HERE]({{ site.url }}/docs/AES_Student_Research_Award.docx).
+[HERE](http://ausevo.github.io/docs/AES_Student_Research_Award.docx).
+
     
 ***AES Early Career Researcher Award***   
 
