@@ -17,12 +17,12 @@ Full member regstration: TBD
 
 **Presentation formats**
   
-  - Short talks 
-  - Long talks
-  - Poster
+  - Short talks (5 minutes, plus 2 minutes for questions)
+  - Long talks (12 minutes, plus 3 minutes for questons)
+  - Poster (max dimensions tbd)
 
   
-Please submit your Abstract (max 300 words) and preference for presenting format during the registartion process, usimng the link below.
+Please submit your Abstract (ca 200 words) and preference for presenting format during the registartion process, usimng the link below.
    
    
 **Soon to come - link to registration**
