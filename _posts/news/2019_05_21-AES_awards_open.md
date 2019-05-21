@@ -10,4 +10,4 @@ We are proud to announce that applications for the
 and  the **AES Early Career Researcher Award** are now open! 
 
 Please check out the [details](http://ausevo.com/prizes/) for your chance to win the 
-opportunity to give a plenary, and get the registration costs and more covered by AES!
+opportunity to give a plenary and get your registration costs and more covered by AES!
