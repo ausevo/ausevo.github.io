@@ -14,6 +14,8 @@ The [Evolution & Ecology Research Centre](http://www.eerc.unsw.edu.au/) at the [
 The meeting will be held on campus at the University of New South Wales from the  
 **25th to the 27th of November, 2019**.
 
+Applications for Student and Early Career Awards are [NOW OPEN!](http://ausevo.com/prizes/)   
+
 Registration and Abstract submisson will open **June 17th 2019**,  
 submission of Abstracts will **close August 12 2019**
    
