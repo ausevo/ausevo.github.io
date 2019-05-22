@@ -19,8 +19,7 @@ Full member regstration: TBD
   
   - Short talks (5 minutes, plus 2 minutes for questions)
   - Long talks (12 minutes, plus 3 minutes for questions)
-  - Poster (max dimensions tbd)
-
+  - Poster (max dimensions 1.2 x 1.2 m)
   
 Please submit your Abstract (ca 200 words) and preference for presenting format during the registartion process, usimng the link below.
    
