@@ -21,7 +21,7 @@ The AES Early Career Researcher Award will be given to a researcher less than 5 
 The Award includes an invitation to present a plenary lecture at the AES conference, with registration fees, domestic travel, and accommodation covered by AES.    
 
 Details on Eligibility, Selection Criteria and Application process can be found    
-[HERE](http://ausevo.github.io/docs/AES_ECR_Award.docx).   
+[HERE](http://ausevo.github.io/docs/AES_ECR_Award.docx).   *(link currently not working - but details pasted below)*
 
     
 
