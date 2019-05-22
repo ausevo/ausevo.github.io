@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AES 2019
-subtitle: Prizes & Scholarships
+subtitle: Research Awards 2019
 css: "/css/index.css"
 ---
   
@@ -19,6 +19,11 @@ Details on Eligibility, Selection Criteria and Application process can be found
 
 The AES Early Career Researcher Award will be given to a researcher less than 5 years post-PhD who has shown substantive and significant contributions to evolutionary biology. The awardee is expected to have multiple research outputs and show a strong trajectory in research quality, independence, and leadership.
 The Award includes an invitation to present a plenary lecture at the AES conference, with registration fees, domestic travel, and accommodation covered by AES.    
+
+Details on Eligibility, Selection Criteria and Application process can be found    
+[HERE](http://ausevo.github.io/docs/AES_ECR_Award.docx).   
+
+    
 
 *Eligibility:*   
 •	The applicant must have a PhD conferred within the previous 5 years (since 1 January 2014). Extensions will be granted for career interruptions according to the ARC guidelines.   
