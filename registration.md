@@ -9,10 +9,10 @@ Registration and Abstract submisson will open **June 17th 2019**,
 submission of Abstracts will **close August 12 2019**
 
 **Registration costs**  
-*please note - registration automatically includes membership*
+*please note - registration automatically includes AES membership*
 
 Student registration: TBD  
-Full member regstration: TBD
+Full member registration: TBD
 
 
 **Presentation formats**
@@ -21,7 +21,7 @@ Full member regstration: TBD
   - Long talks (12 minutes, plus 3 minutes for questions)
   - Poster (max dimensions 1.2 x 1.2 m)
   
-Please submit your Abstract (ca 200 words) and preference for presenting format during the registartion process, usimng the link below.
+Please submit your Abstract (ca 200 words) and preference for presenting format during the registartion process, using the link below.
    
    
 **Soon to come - link to registration**
