@@ -4,24 +4,26 @@ title: AES 2019
 subtitle: Conference Registration
 ---
 
-**Registration & Abstract Submission**  
-Registration and Abstract submisson will open **June 17th 2019**,  
-submission of Abstracts will **close August 12 2019**
+**Registration & Abstract Submission**   
+   - Registration and Abstract submisson will open **June 17th 2019**   
+   - Submission of Abstracts will close **August 12th 2019**   
 
 **Registration costs**  
-*please note - registration automatically includes AES membership*
+*(please note - registration automatically includes AES membership)*    
 
-Student registration: TBD  
-Full member registration: TBD
+   - Student member registration: $380   
+   - Full (Academic) member registration: $540   
+   - Single-day registration: $200   
+   - Dinner-only ticket: $60   
 
 
-**Presentation formats**
+**Presentation formats**   
   
-  - Short talks (5 minutes, plus 2 minutes for questions)
-  - Long talks (12 minutes, plus 3 minutes for questions)
-  - Poster (max dimensions 1.2 x 1.2 m)
+  - Short talks (5 minutes, no question time)   
+  - Long talks (12 minutes, plus 3 minutes for questions)   
+  - Poster (max dimensions 1.2 x 1.2 m)   
   
-Please submit your Abstract (ca 200 words) and preference for presenting format during the registration process, using the link below.
+Please submit your abstract (ca 200 words) and preference for presenting format using the registration link below.
    
    
-**Soon to come - link to registration**
+** *Soon to come - link to registration portal* **
