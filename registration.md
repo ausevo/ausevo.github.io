@@ -18,12 +18,15 @@ subtitle: Conference Registration
 
 
 **Presentation formats**   
-  
-  - Short talks (5 minutes, no question time)   
+
   - Long talks (12 minutes, plus 3 minutes for questions)   
+  - Short talks (5 minutes, no question time)   
   - Poster (max dimensions 1.2 x 1.2 m)   
-  
-Please submit your abstract (ca 200 words) and preference for presenting format using the registration link below.
-   
+
+The Organisers warmly encourage early career researchers (especially students), females and any under-represented minorities, to apply for Long Talks.
+
+Please submit your abstract (ca 200 words) and preference for presenting format using the registration link below.   
+
+During registration, please indicate any special needs, including these traleted to carying for accompaning family members. If you would like to have your presentation recorder, please also indicate this.    
    
 ** *Soon to come - link to registration portal* **
