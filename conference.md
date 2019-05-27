@@ -14,6 +14,9 @@ The [Evolution & Ecology Research Centre](http://www.eerc.unsw.edu.au/) at the [
 The meeting will be held on campus at the University of New South Wales from the  
 **25th to the 27th of November, 2019**.
 
+This conference aims to provide a friendly environment for everybody, including students, female researchers and minority groups, to present their evolutionary research work.   
+Thus, the Organisers warmly encourage early career researchers (especially students), women and any under-represented minorities, to apply for Long Talks and also to communicate any special needs or accommodations you may require during this event.   
+
 Applications for Student and Early Career Awards are [NOW OPEN!](http://ausevo.com/prizes/)   
 
 Registration and Abstract submisson will open **June 17th 2019**,  
@@ -36,8 +39,8 @@ The final scientific schedule will be provided ***here*** by 25th Sept 2019.
 
 **Please watch this space for more details and information about**   
 
-- Abstract submission and registration (opens June 17 2019)
-- Accommodation options
-- Student Scholarships (applications open June 17 2019)
-- Sponsors
-- Map / Venue
+- [Abstract submission and registration (opens June 17 2019)](http://ausevo.com/registration/)
+- [Accommodation options](http://ausevo.com/accommodation/)
+- [Early Career and Student Awards](http://ausevo.com/prizes/)
+- [Sponsors](http://ausevo.com/sponsors/)
+- [Venue / Map](http://ausevo.com/map/)
