@@ -32,7 +32,7 @@ navbar-links:
   Resources:
     - Contact us: "contact"
     - AES Constitution: "constitution"
-    - AES 2014 AGM Minutes: "requestMins.md"  
+    - AES 2014 AGM Minutes: "requestMins"  
     - Useful Links: "links"      
     
 # docs/aes_agm_2014.pdf  removed from resources
