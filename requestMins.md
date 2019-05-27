@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AES
-subtitle: Useful links
+subtitle: Information for Members
 ---
 
 ## AES minutes
