@@ -27,6 +27,7 @@ The Organisers warmly encourage early career researchers (especially students), 
 
 Please submit your abstract (ca 200 words) and preference for presenting format using the registration link below.   
 
-During registration, please indicate any special needs, including these traleted to caring for accompaning family members. If you would like to have your presentation recorder, please also indicate this.    
+During registration, please indicate any special needs, including these related to caring for accompanying family members.   
+If you would like to have your presentation recorded, please also indicate this.    
    
 ** *Soon to come - link to registration portal* **
