@@ -6,4 +6,4 @@ subtitle: Information for Members
 
 ## AES minutes
 
-The mintues from the 2014 AES meeting can be supplied to members upon request.
+The mintues from previous AES meetings can be supplied to members upon request.
