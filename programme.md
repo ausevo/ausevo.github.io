@@ -9,10 +9,13 @@ bigimg:
 
 # Plenary speakers
 
+![Emma Sherratt](/img/profiles/Emma_Sherratt.jpeg)
+
 * Dr. Emma Sherratt, University of Adelaide
 
 *"I am an expert in morphometrics - the statistical analysis of organismal form (shape and size), which I apply to the study of morphological evolution at macroevolutionary scales. I also use these method to answer questions pertaining to systematics and phylogenetics, biogeography, environmental adaptation, developmental biology and palaeontology."* ... read more at https://researchers.adelaide.edu.au/profile/emma.sherratt
 
+![Michael Whitehead](/img/profiles/Michael_Whitehead.jpg)
 
 * Dr. Michael Whitehead, University of Melbourne
 
