@@ -21,7 +21,7 @@ subtitle: Conference Registration
 
   - Long talks (12 minutes, plus 3 minutes for questions)   
   - Short talks (5 minutes, no question time)   
-  - Poster (max dimensions 1.2 x 1.2 m)   
+  - Poster (max dimensions 1.0 x 1.4 m)   
 
 The Organisers warmly encourage early career researchers (especially students), females and any under-represented minorities, to apply for Long Talks.
 
