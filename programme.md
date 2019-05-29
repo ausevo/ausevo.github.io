@@ -13,7 +13,7 @@ bigimg:
 
 **Dr. Emma Sherratt, University of Adelaide**
 
-*"I am an expert in morphometrics - the statistical analysis of organismal form (shape and size), which I apply to the study of morphological evolution at macroevolutionary scales. I also use these method to answer questions pertaining to systematics and phylogenetics, biogeography, environmental adaptation, developmental biology and palaeontology."* ... read more at https://researchers.adelaide.edu.au/profile/emma.sherratt
+*"I am an expert in morphometrics - the statistical analysis of organismal form (shape and size), which I apply to the study of morphological evolution at macroevolutionary scales. I also use these method to answer questions pertaining to systematics and phylogenetics, biogeography, environmental adaptation, developmental biology and palaeontology."* ... read more about [Emma](https://researchers.adelaide.edu.au/profile/emma.sherratt)
 
 ****
 
@@ -21,7 +21,7 @@ bigimg:
 
 **Dr. Michael Whitehead, University of Melbourne**
 
-*"My research aims to see the world from a plant’s perspective, to better understand not only plant ecology, but also the behaviour and ecology of the animals and fungi with which they interact. I work on some of the most fascinating examples of plant evolution in some of the world’s most renowned hotspots for plant biodiversity. For example, I have worked on sexual mimicry in Australian orchids, specialized orchid-fungi relationships in south-west Australia, and the incredible long-tongue fly of South Africa."* ... read more at https://michaelwhitehead.net/
+*"My research aims to see the world from a plant’s perspective, to better understand not only plant ecology, but also the behaviour and ecology of the animals and fungi with which they interact. I work on some of the most fascinating examples of plant evolution in some of the world’s most renowned hotspots for plant biodiversity. For example, I have worked on sexual mimicry in Australian orchids, specialized orchid-fungi relationships in south-west Australia, and the incredible long-tongue fly of South Africa."* ... read more about [Michael](https://michaelwhitehead.net/)
 
 ****
 
