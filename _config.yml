@@ -24,7 +24,7 @@ navbar-links:
   Conference: 
     - Overview: "conference"
     - Registration: "registration"
-    - Programme: "program"
+    - Programme: "programme"
     - Venue: "map"
     - Awards: "prizes"
     - Accommodation: "accommodation"
