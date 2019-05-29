@@ -33,8 +33,8 @@ bigimg:
 
 ## Preliminary Schedule
 
-24th Nov Welcome Reception
-25th Nov Australasian Evolution Society - Scientific Program
-26th Nov Australasian Evolution Society - Scientific Program
-27th Nov Australasian Evolution Society - Scientific Program
-27th Nov CONFERENCE DINNER
+24th Nov Welcome Reception   
+25th Nov Australasian Evolution Society - Scientific Program   
+26th Nov Australasian Evolution Society - Scientific Program   
+27th Nov Australasian Evolution Society - Scientific Program   
+27th Nov CONFERENCE DINNER   
