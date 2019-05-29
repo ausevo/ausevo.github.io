@@ -30,4 +30,4 @@ Please submit your abstract (ca 200 words) and preference for presenting format 
 During registration, please indicate any special needs, including these related to caring for accompanying family members.   
 If you would like to have your presentation recorded, please also indicate this.    
    
-** *Soon to come - link to registration portal* **
+** *https://aes.corsizio.com/* **
