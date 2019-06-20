@@ -4,7 +4,7 @@ title: AES 2019
 subtitle: Accommodation
 ---
 
-**Places to stay**  
+## Places to stay
 
 **Randwick**   
 
@@ -49,11 +49,15 @@ Tel: +61 2 96 651 162
 272 Clovelly Rd, Clovelly NSW 2031   
 Tel: +61 2 8065 9796   
 *120/night, 3 Km from UNSW, Gate 8  *   
+   
+   
+**Additional options**   
 
 [Airbnb](https://www.airbnb.com.au/)   
 
 [Backpackers and hostels](https://www.hostelworld.com/hostels/Sydney/Coogee)
 
-**Public Transport to UNSW**   
+## Public Transport to UNSW   
 Buses from Randwick to UNSW: 400, 348, 372   
+
 Buses from Coogee to UNSW: 400, 370, 314, 339, 372
