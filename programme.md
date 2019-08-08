@@ -25,7 +25,7 @@ bigimg:
 
 ****
 
-![Oliver Griffith](/img/profiles/Oliver_Griffith-sml.jpg)
+![Oliver Griffith](/img/profiles/Oliver_Griffith.jpg)
 
 **Dr. Oliver Griffith, University of Melbourne**
 AES Early Career Researcher Award winner
