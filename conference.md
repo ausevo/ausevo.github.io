@@ -17,7 +17,7 @@ The meeting will be held on campus at the University of New South Wales from the
 This conference aims to provide a friendly environment for everybody, including students, female researchers and minority groups, to present their evolutionary research work.   
 Thus, the Organisers warmly encourage early career researchers (especially students), women and any under-represented minorities, to apply for Long Talks and also to communicate any special needs or accommodations you may require during this event.   
 
-Applications for Student and Early Career Awards are closed. Read about our winners[here!](http://ausevo.com/news/)   
+Applications for Student and Early Career Awards are closed. Read about our winners [here!](http://ausevo.com/2019-08-08-AES_Award_Winners/)   
 
 Registration and Abstract submisson has opened **June 17th 2019**,  
 submission of Abstracts will **close August 12 2019**
