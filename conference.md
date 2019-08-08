@@ -19,7 +19,7 @@ Thus, the Organisers warmly encourage early career researchers (especially stude
 
 Applications for Student and Early Career Awards are [NOW OPEN!](http://ausevo.com/prizes/)   
 
-Registration and Abstract submisson will open **June 17th 2019**,  
+Registration and Abstract submisson has opened **June 17th 2019**,  
 submission of Abstracts will **close August 12 2019**
    
    
