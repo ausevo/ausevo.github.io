@@ -5,7 +5,7 @@ subtitle: Student & Early Career Awards
 categories: news
 ---
 
-We are proud to announce the winners of our Early Career and Student awards!
+We are proud to announce the winners of our Early Career and Student awards!   
 ****
 
 ***[AES Early Career Researcher Award](http://ausevo.com/programme/)***   
