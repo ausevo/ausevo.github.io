@@ -41,6 +41,6 @@ The final scientific schedule will be provided ***here*** by 25th Sept 2019.
 
 - [Abstract submission and registration (opened June 17 2019)](http://ausevo.com/registration/)
 - [Accommodation options](http://ausevo.com/accommodation/)
-- [Early Career and Student Award Winners]http://ausevo.com/2019-08-08-AES_Award_Winners/)
+- [Early Career and Student Award Winners](http://ausevo.com/2019-08-08-AES_Award_Winners/)
 - [Sponsors](http://ausevo.com/sponsors/)
 - [Venue / Map](http://ausevo.com/map/)
