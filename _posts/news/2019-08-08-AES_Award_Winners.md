@@ -6,10 +6,13 @@ categories: news
 ---
 
 We are proud to announce the winners of our Early Career and Student awards!
+****
 
+***[AES Early Career Researcher Award](http://ausevo.com/programme/)***   
+   
+**Dr Oliver Griffith**, ARC DECRA Fellow (Melbourne University)
 
-**[AES Early Career Researcher Award](http://ausevo.com/programme/)**    
-**Dr Oliver Griffith**, ARC DECRA Fellow (Melbourne University),   
+*****
 
 ***2019 AES Student Research Awards***
 
