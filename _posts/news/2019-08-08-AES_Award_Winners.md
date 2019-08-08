@@ -5,12 +5,13 @@ subtitle: Student & Early Career Awards
 categories: news
 ---
 
-We are proud to announce that   
-   
-**Dr Oliver Griffith**, ARC DECRA Fellow (Melbourne University),   
-is the winner of the **[AES Early Career Researcher Award](http://ausevo.com/programme/)** 
+We are proud to announce the winners of our Early Career and Student awards!
 
-The winners of the **2019 AES Student Research Awards** are
+
+**[AES Early Career Researcher Award](http://ausevo.com/programme/)**    
+**Dr Oliver Griffith**, ARC DECRA Fellow (Melbourne University),   
+
+***2019 AES Student Research Awards***
 
 **Emily Roycroft**, University of Melbourne, for the publication:
 *Roycroft, E.J., A. Moussalli, K.C. Rowe. 2019. Phylogenomics Uncovers Confidence and Conflict in the Rapid Radiation of Australo-Papuan Rodents. Systematic Biology [in press](https://doi.org/10.1093/sysbio/syz044)*
