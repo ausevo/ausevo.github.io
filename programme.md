@@ -25,9 +25,12 @@ bigimg:
 
 ****
 
-**TBD**
+![Oliver Griffith](/img/profiles/Oliver_Griffith.jpg)
 
-3rd plenary goes to the AES Early Career Researcher Award winner
+**Dr. Oliver Griffith, University of Melbourne**
+AES Early Career Researcher Award winner
+
+*"My research uses wildlife models to address critical questions in ecology and evolution. Most notably, I aim to address how mutation and selection support the evolution of complex traits in animals such as the evolution of new organs. To achieve this, my research integrates genomics, developmental biology, ecology, and ecophysiology using terrestrial vertebrates. My current projects use genetic, genomic, and cell biology techniques to identify how complex components of pregnancy have evolved. This includes the evolution of placental nutrient transfer, maternal – fetal signalling, and the beneficial aspects of inflammation during pregnancy."* ... read more about [Oliver](https://www.oligriffith.com/)
 
 ****
 
