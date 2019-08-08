@@ -5,8 +5,8 @@ subtitle: Research Awards 2019
 css: "/css/index.css"
 ---
   
-## All awards are closed
-# Winners have been chosen & announced - read about them [here](http://ausevo.com/2019-08-08-AES_Award_Winners/)
+# All awards are closed
+## Winners have been chosen & announced - read about them [here](http://ausevo.com/2019-08-08-AES_Award_Winners/)
 
 ***AES Student Research Award***   
 
