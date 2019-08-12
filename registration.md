@@ -7,7 +7,7 @@ subtitle: Conference Registration
 **Registration & Abstract Submission**   
    - Registration and Abstract submisson has openend **June 17th 2019**   
    - Submission of Abstracts will close **August 12th 2019**     
-   - ***DEADLINE EXTENDED! submit your abstracts until Monday, August 26th 2019***
+      **DEADLINE EXTENDED:** submit your Abstract until **Monday, August 26th 2019**
    
 
 **Registration costs**  
