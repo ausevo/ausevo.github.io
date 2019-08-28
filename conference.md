@@ -20,7 +20,9 @@ Thus, the Organisers warmly encourage early career researchers (especially stude
 Applications for Student and Early Career Awards are closed. Read about our winners [here!](http://ausevo.com/2019-08-08-AES_Award_Winners/)   
 
 Registration and Abstract submisson has opened **June 17th 2019**     
-**DEADLINE EXTENDED:** submit your Abstract until **Monday, August 26th 2019**
+**Abstract submission has now officially ended**    
+Registration will stay open UNTIL NOV 24th   
+*We may consider late requests for presenations, for details please read the Welcome text on the [REGISTRATION](https://aes.corsizio.com/c/5cee085f0c0f597e06f7e964) website*  
    
    
 ***Preliminary program***  
