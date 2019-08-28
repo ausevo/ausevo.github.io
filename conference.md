@@ -21,7 +21,7 @@ Applications for Student and Early Career Awards are closed. Read about our winn
 
 Registration and Abstract submisson has opened **June 17th 2019**   
 
-### Abstract submission has now officially ended      
+#### Abstract submission has now officially ended      
 Registration will stay open **until NOV 24th**   
 
 *We may consider late requests for presentations: for details please read the Welcome text on the [REGISTRATION](https://aes.corsizio.com/c/5cee085f0c0f597e06f7e964) website*  
