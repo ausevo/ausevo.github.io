@@ -5,9 +5,13 @@ subtitle: Conference Registration
 ---
 
 **Registration & Abstract Submission**   
-   - Registration and Abstract submisson has openend **June 17th 2019**   
-   - Submission of Abstracts will close **August 12th 2019**     
-      **DEADLINE EXTENDED:** submit your Abstract until **Monday, August 26th 2019**
+Registration and Abstract submisson has opened **June 17th 2019**   
+   
+- **Abstract submission has now officially ended**    
+- Registration will stay open **until NOV 24th**   
+- *We may consider late requests for presentations,    
+for details please read the Welcome text on the [REGISTRATION](https://aes.corsizio.com/c/5cee085f0c0f597e06f7e964) website*  
+   
    
 
 **Registration costs**  
