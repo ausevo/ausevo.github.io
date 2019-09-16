@@ -28,7 +28,7 @@ navbar-links:
     - Venue: "map"
     - Awards: "prizes"
     - Accommodation: "accommodation"
-    - Sponsors: "sponsors"
+   # - Sponsors: "sponsors"
    
   Resources:
     - Contact us: "contact"
