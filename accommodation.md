@@ -36,7 +36,7 @@ Tel: +61 2 9399 7779
 6.	[High Cross Park Lodge](https://www.sydneylodges.com/accommodation/randwick/lodge/11/high-cross-park-lodge.html)   
 7-9 Cuthill St, Randwick NSW 2031   
 Tel: +61 2 9314 5553   
-*130/night, 1.2Km from UNSW, Gate 8*   
+*$130/night, 1.2Km from UNSW, Gate 8*   
 
 7. [Parade Lodge](http://www.paradelodge.com.au/)    
 173-175 Anzac Parade, Kensington NSW 2033    
