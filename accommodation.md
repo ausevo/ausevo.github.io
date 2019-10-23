@@ -38,11 +38,21 @@ Tel: +61 2 9399 7779
 Tel: +61 2 9314 5553   
 *130/night, 1.2Km from UNSW, Gate 8*   
 
+7. [Parade Lodge](http://www.paradelodge.com.au/)    
+173-175 Anzac Parade, Kensington NSW 2033    
+Tel: +61 2 9662 2554    
+*$135/night, 550 m from The Roundhouse, UNSW*
+
+8. [Randwick Lodge](https://www.sydneylodges.com/accommodation/randwick/lodge/6/randwick-lodge.html)    
+211 Avoca Street, Randwick, Randwick NSW 2031 Sydney    
+Tel: +61 2 9310 0700   
+*$145/night, 750m from UNSW Gate 8*
+
 **Coogee**   
 
 1.	[Coogee Beach House](http://www.coogeebeachhouse.com/)   
 171 Arden St, Coogee NSW 2034   
-Tel: +61 2 96 651 162   
+Tel: +61 2 96 651 162
 *$90/night, 3Km from UNSW, Gate 8*   
 
 2.	[Coogee Prime Lodge](http://coogeeprimelodge.com.au/rooms/)   
