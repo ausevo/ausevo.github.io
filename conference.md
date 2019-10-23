@@ -23,21 +23,20 @@ Registration and Abstract submisson has opened **June 17th 2019**
 
 #### Abstract submission has now officially ended      
 [Registration](https://aes.corsizio.com/c/5cee085f0c0f597e06f7e964) to attend only will stay open **until NOV 27th**   
-
-   
-   
-***Preliminary program***  
-
-  24th Nov Welcome Reception  
-  25th Nov Australasian Evolution Society - Scientific Program  
-  26th Nov Australasian Evolution Society - Scientific Program  
-  27th Nov Australasian Evolution Society - Scientific Program  
-  27th Nov CONFERENCE DINNER  
   
+   
+## Schedule
 
-***Final Program***
+24th Nov Welcome Reception   
+25th Nov Australasian Evolution Society - Scientific Program   
+26th Nov Australasian Evolution Society - Scientific Program   
+27th Nov Australasian Evolution Society - Scientific Program   
+27th Nov CONFERENCE DINNER  
 
-The final scientific schedule will be provided ***here***.
+## Preliminary TALK programme
+
+A full schedule (excel file) of all talks across the three days can  be found here:   
+[Full schedule](http://ausevo.github.io/docs/FullProgrammeAES2019.xlsx)
 
 
 **Please watch this space for more details and information about**   
