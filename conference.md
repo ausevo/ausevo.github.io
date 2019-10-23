@@ -22,10 +22,8 @@ Applications for Student and Early Career Awards are closed. Read about our winn
 Registration and Abstract submisson has opened **June 17th 2019**   
 
 #### Abstract submission has now officially ended      
-Registration will stay open **until NOV 24th**   
+[Registration](https://aes.corsizio.com/c/5cee085f0c0f597e06f7e964) to attend only will stay open **until NOV 27th**   
 
-*We may consider late requests for poster presentations.     
-For details please read the Welcome text on the [REGISTRATION](https://aes.corsizio.com/c/5cee085f0c0f597e06f7e964) website*  
    
    
 ***Preliminary program***  
@@ -39,7 +37,7 @@ For details please read the Welcome text on the [REGISTRATION](https://aes.corsi
 
 ***Final Program***
 
-The final scientific schedule will be provided ***here*** by 25th Sept 2019.
+The final scientific schedule will be provided ***here***.
 
 
 **Please watch this space for more details and information about**   
@@ -47,5 +45,4 @@ The final scientific schedule will be provided ***here*** by 25th Sept 2019.
 - [Abstract submission and registration (opened June 17 2019)](http://ausevo.com/registration/)
 - [Accommodation options](http://ausevo.com/accommodation/)
 - [Early Career and Student Award Winners](http://ausevo.com/2019-08-08-AES_Award_Winners/)
-- [Sponsors](http://ausevo.com/sponsors/)
 - [Venue / Map](http://ausevo.com/map/)
