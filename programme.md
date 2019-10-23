@@ -34,10 +34,15 @@ AES Early Career Researcher Award winner
 
 ****
 
-## Preliminary Schedule
+## Schedule
 
 24th Nov Welcome Reception   
 25th Nov Australasian Evolution Society - Scientific Program   
 26th Nov Australasian Evolution Society - Scientific Program   
 27th Nov Australasian Evolution Society - Scientific Program   
-27th Nov CONFERENCE DINNER   
+27th Nov CONFERENCE DINNER  
+
+## Preliminary TALK programme
+
+A full schedule (excel file) of all talks across the three days can  be found here:   
+[Full schedule](http://ausevo.github.io/docs/FullProgrammeAES2019.xlsx).  
