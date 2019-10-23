@@ -18,10 +18,10 @@ bigimg:
 ## Preliminary TALK programme
 
 A full schedule (excel file) of all talks across the three days can  be found here:   
-[Full schedule](http://ausevo.github.io/docs/FullProgrammeAES2019.xlsx)
+[Full schedule](http://ausevo.github.io/docs/AES Schedule 2019 Updated.xlsx)
 
 #### Printable versions (separately for each day)
-[Day1](http://ausevo.github.io/docs/Day1.pdf)   [Day2](http://ausevo.github.io/docs/Day2.pdf)   [Day3](http://ausevo.github.io/docs/Day3.pdf)   
+[Day1](http://ausevo.github.io/docs/Day1Updated.pdf)   [Day2](http://ausevo.github.io/docs/Day2Updated.pdf)   [Day3](http://ausevo.github.io/docs/Day3Updated.pdf)   
 ****
 
 ## Plenary Speakers   
