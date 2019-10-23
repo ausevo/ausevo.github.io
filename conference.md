@@ -7,12 +7,12 @@ bigimg:
 ---
 
 
-**AES 2019 is coming to [Sydney](https://www.sydney.com/)!**
+## AES 2019 is coming to [Sydney](https://www.sydney.com/)!
 
 The [Evolution & Ecology Research Centre](http://www.eerc.unsw.edu.au/) at the [School of Biological, Earth and Environmental Sciences](https://www.bees.unsw.edu.au/)  at [UNSW](https://www.unsw.edu.au/) will be hosting the **Australasian Evolution Society conference** this year. 
 
 The meeting will be held on campus at the University of New South Wales from the  
-**25th to the 27th of November, 2019**.
+### 25th to the 27th of November, 2019.
 
 This conference aims to provide a friendly environment for everybody, including students, female researchers and minority groups, to present their evolutionary research work.   
 Thus, the Organisers warmly encourage early career researchers (especially students), women and any under-represented minorities, to apply for Long Talks and also to communicate any special needs or accommodations you may require during this event.   
@@ -21,7 +21,7 @@ Applications for Student and Early Career Awards are closed. Read about our winn
 
 Registration and Abstract submisson has opened **June 17th 2019**   
 
-#### Abstract submission has now officially ended      
+### Abstract submission has now officially ended      
 [Registration](https://aes.corsizio.com/c/5cee085f0c0f597e06f7e964) to attend only will stay open **until NOV 27th**   
   
    
@@ -39,7 +39,8 @@ A full schedule (excel file) of all talks across the three days can  be found he
 [Full schedule](http://ausevo.github.io/docs/FullProgrammeAES2019.xlsx)
 
 
-**Please watch this space for more details and information about**   
+
+### Please watch this space for more details and information about 
 
 - [Abstract submission and registration (opened June 17 2019)](http://ausevo.com/registration/)
 - [Accommodation options](http://ausevo.com/accommodation/)
