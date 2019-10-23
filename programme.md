@@ -6,8 +6,25 @@ css: "/css/index.css"
 bigimg:
   - "/img/big-imgs/fish1.jpg" 
 ---
-   
-## Confirmed Plenary Speakers   
+
+## Schedule
+
+24th Nov Welcome Reception   
+25th Nov Australasian Evolution Society - Scientific Program   
+26th Nov Australasian Evolution Society - Scientific Program   
+27th Nov Australasian Evolution Society - Scientific Program   
+27th Nov CONFERENCE DINNER  
+
+## Preliminary TALK programme
+
+A full schedule (excel file) of all talks across the three days can  be found here:   
+[Full schedule](http://ausevo.github.io/docs/FullProgrammeAES2019.xlsx)
+
+#### Printable versions (separately for each day)
+[Day1](http://ausevo.github.io/docs/Day1.pdf)   [Day2](http://ausevo.github.io/docs/Day2.pdf)   [Day3](http://ausevo.github.io/docs/Day3.pdf)   
+****
+
+## Plenary Speakers   
 
 ![Emma Sherratt](/img/profiles/Emma_Sherratt.jpeg)
 
@@ -32,17 +49,4 @@ AES Early Career Researcher Award winner
 
 *"My research uses wildlife models to address critical questions in ecology and evolution. Most notably, I aim to address how mutation and selection support the evolution of complex traits in animals such as the evolution of new organs. To achieve this, my research integrates genomics, developmental biology, ecology, and ecophysiology using terrestrial vertebrates. My current projects use genetic, genomic, and cell biology techniques to identify how complex components of pregnancy have evolved. This includes the evolution of placental nutrient transfer, maternal – fetal signalling, and the beneficial aspects of inflammation during pregnancy."* ... read more about [Oliver](https://www.oligriffith.com/)
 
-****
 
-## Schedule
-
-24th Nov Welcome Reception   
-25th Nov Australasian Evolution Society - Scientific Program   
-26th Nov Australasian Evolution Society - Scientific Program   
-27th Nov Australasian Evolution Society - Scientific Program   
-27th Nov CONFERENCE DINNER  
-
-## Preliminary TALK programme
-
-A full schedule (excel file) of all talks across the three days can  be found here:   
-[Full schedule](http://ausevo.github.io/docs/FullProgrammeAES2019.xlsx).  
