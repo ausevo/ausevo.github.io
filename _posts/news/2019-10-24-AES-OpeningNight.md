@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AES Opening Night!
-subtitle: Join us at Opening Night Social 
+subtitle: Join us at the Opening Night Social 
 categories: news
 ---
 ![whitehouse](/img/big-imgs/whitehouse.jpg) 
