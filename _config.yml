@@ -26,9 +26,10 @@ navbar-links:
     - Registration: "registration"
     - Programme: "programme"
     - Venue: "map"
-    - Awards: "prizes"
+    - Getting there: "travel"
     - Accommodation: "accommodation"
-    - Places to eat: "food"
+    - Places to eat: "food" 
+    - Awards: "prizes"
    # - Sponsors: "sponsors"
    
   Resources:
