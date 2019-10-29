@@ -14,6 +14,8 @@ The [Evolution & Ecology Research Centre](http://www.eerc.unsw.edu.au/) at the [
 The meeting will be held on campus at the University of New South Wales from the  
 ### 25th to the 27th of November, 2019.
 
+#### 24th Nov [Welcome Reception](http://ausevo.com/2019-10-24-AesOpeningNight/)   
+
 This conference aims to provide a friendly environment for everybody, including students, female researchers and minority groups, to present their evolutionary research work.   
 Thus, the Organisers warmly encourage early career researchers (especially students), women and any under-represented minorities, to apply for Long Talks and also to communicate any special needs or accommodations you may require during this event.   
 
