@@ -8,7 +8,7 @@ bigimg:
 ---
 
 ## Public transport (Bus Lines)
-
+****
 ### Central Station / CBD to UNSW
 - 39x  
 - X9x  
@@ -26,7 +26,7 @@ bigimg:
 - 348
 - 372   
 
-
+****
 ## Public Transport Map 
   
 Eastern Suburbs Network **[Map](http://ausevo.github.io/docs/state_transit_eastern_suburbs_network_map.pdf)**
