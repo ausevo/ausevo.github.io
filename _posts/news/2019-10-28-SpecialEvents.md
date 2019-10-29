@@ -7,8 +7,7 @@ categories: news
 
 **Come and join us for our special public events at this years' Australasian Evolution Meeting!**   
 
-Learn about what a career in Science Public Relations and Communication involves, with
-Olivia Marjorin, the head of communications for the Target Malaria Program, to find out what being in PR is all about. 
+Learn about what a career in Science Public Relations and Communication involves, to find out what being in PR is all about. With Olivia Marjorin, the head of communications for the Target Malaria Program.
 
 ## [Sign up: PR Career](https://www.eventbrite.com.au/e/career-in-science-public-relations-tickets-78312736503)
 
