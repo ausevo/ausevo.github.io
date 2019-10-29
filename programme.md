@@ -50,4 +50,31 @@ AES Early Career Researcher Award winner
 
 *"My research uses wildlife models to address critical questions in ecology and evolution. Most notably, I aim to address how mutation and selection support the evolution of complex traits in animals such as the evolution of new organs. To achieve this, my research integrates genomics, developmental biology, ecology, and ecophysiology using terrestrial vertebrates. My current projects use genetic, genomic, and cell biology techniques to identify how complex components of pregnancy have evolved. This includes the evolution of placental nutrient transfer, maternal – fetal signalling, and the beneficial aspects of inflammation during pregnancy."* ... read more about [Oliver](https://www.oligriffith.com/)
 
+****
+## 2019 AES Student Plenaries
+
+**Emily Roycroft, University of Melbourne**    
+   
+2019 AES Student Research Award for the publication:  
+    
+*Roycroft, E.J., A. Moussalli, K.C. Rowe. 2019.     
+Phylogenomics Uncovers Confidence and Conflict in the Rapid Radiation of Australo-Papuan Rodents.      
+Systematic Biology [in press](https://doi.org/10.1093/sysbio/syz044)*
+*****   
+**Damien Esquerré, Australian National University**   
+
+2019 AES Student Research Award for the publication:  
+    
+*Esquerré, D.,  I.G. Brennan,  R.A. Catullo, F. Torres‐Pérez, J. S. Keogh. 2019.     
+How mountains shape biodiversity: The role of the Andes in biogeography, diversification, and reproductive biology in South America's most species‐rich lizard radiation (Squamata: Liolaemidae).      
+[Evolution 73: 214-230](https://doi.org/10.1111/evo.13657)*  
+*****  
+**Erin Macartney, University of New South Wales**   
+
+2019 AES Student Research Award for the publication:    
+    
+*Macartney, E.L., A. J. Crean, S.Nakagawa, R. Bonduriansky. 2019.     
+Effects of nutrient limitation on sperm and seminal fluid: a systematic review and meta‐analysis.     
+Biological Reviews [in press](https://doi.org/10.1111/brv.12524)*
+
 
