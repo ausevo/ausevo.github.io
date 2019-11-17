@@ -15,10 +15,13 @@ bigimg:
 27th Nov Australasian Evolution Society - Scientific Program   
 27th Nov CONFERENCE DINNER  
 
-## TALK programme
+## AES 2019 program
 
-The full schedule  can  be found here:   
-[Full schedule](http://ausevo.github.io/docs/AES Schedule.pdf)
+The full schedule (talks only) can  be found here:   
+[Full talk schedule](http://ausevo.github.io/docs/AES Schedule.pdf)
+
+The full program, including information on plenary speakers, events and poster presentation is here:
+[AES program](http://ausevo.github.io/docs/AES Program Final.pdf)
      
 ****
 
