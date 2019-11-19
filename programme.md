@@ -17,11 +17,7 @@ bigimg:
 
 ## AES 2019 program
 
-The full schedule (talks only) can  be found here:   
-[Full talk schedule](http://ausevo.github.io/docs/AES Schedule.pdf)
-
-The full program, including information on plenary speakers, events and poster presentation is here:
-[AES program](http://ausevo.github.io/docs/AES Program Final.pdf)
+[Here!](http://ausevo.github.io/docs/AES Program Final.pdf)
      
 ****
 
