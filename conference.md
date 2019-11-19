@@ -35,10 +35,7 @@ Registration and Abstract submisson has opened **June 17th 2019**
 27th Nov Australasian Evolution Society - Scientific Program   
 27th Nov CONFERENCE DINNER  
 
-The full schedule (talks only) can  be found here:   
-[Full talk schedule](http://ausevo.github.io/docs/AES Schedule.pdf)
-
-The full program, including information on plenary speakers, events and poster presentation is here:
+Here is the full progam:
 [AES program](http://ausevo.github.io/docs/AES Program Final.pdf)
 
 ### Please watch this space for more details and information about 
