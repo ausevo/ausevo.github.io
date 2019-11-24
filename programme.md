@@ -21,7 +21,7 @@ bigimg:
 
 ### AES 2019 abstracts
 [Link to google sheets](https://drive.google.com/file/d/13HK-PY2WSwGvcvHFFXh-jhaKzF1C3uac/view?usp=sharing)     
-*(Disclaimer: please note - this is mainly for orientation - if you're not sure which talks to see - MAY CONTAIN MISTAKES!*
+*(Disclaimer: please note - this is mainly for orientation - if you're not sure which talks to see - MAY CONTAIN MISTAKES!)*
      
 ****
 
