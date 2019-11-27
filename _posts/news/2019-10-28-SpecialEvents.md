@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AES Special Events
-subtitle: Registration is open!
+subtitle: Special Events!
 categories: news
 ---
 
