@@ -5,7 +5,7 @@ subtitle: Conference Registration
 ---
 
 **Registration & Abstract Submission**   
-Registration and Abstract submisson has opened **June 17th 2019**   
+Registration and Abstract submisson has opened **Deadline 1st Nov 2020**   
    
 - **Abstract submission has now officially ended, all talk slots have been filled**    
 - [Registration](https://aes.corsizio.com/c/5cee085f0c0f597e06f7e964) will stay open **until NOV 27th** for interested late-comers

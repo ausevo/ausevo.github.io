@@ -1,9 +1,9 @@
 ---
+title: "AES 2020"
+css: /css/index.css
 layout: page
-title: AES 2020
-css: "/css/index.css"
 bigimg:
-  - "/img/big-imgs/operabridge.jpg" : "Sydney Opera House & Harbour Bridge"
+- /img/big-imgs/operabridge.jpg: Sydney Opera House & Harbour Bridge
 ---
 
 
