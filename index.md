@@ -1,6 +1,6 @@
 ---
 title: "Australasian Evolution Society"
-css: css/index.css
+css: /css/index.css
 layout: page
 output:
   html_document:
