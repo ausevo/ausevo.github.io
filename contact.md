@@ -27,7 +27,7 @@ Dr Matthew Baker
 School of Biotechnology and Biomolecular Sciences, University of New South Wales  
 **E:** matthew.baker[at]unsw.edu.au 
 
-**Vice president elect**
+**Vice President elect**
 
 Dr Iliana Medina  
 School of BioSciences, University of Melbourne  

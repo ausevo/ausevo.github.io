@@ -1,6 +1,6 @@
 ---
 title: "AES"
-css: css/index.css
+css: /css/index.css
 layout: page
 subtitle: Join!
 bigimg:

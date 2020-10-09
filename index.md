@@ -13,7 +13,7 @@ bigimg:
 
 Welcome to the **Australasian Evolution Society** webpage. 
 
-The **Australasian Evolution Society** is a learned society founded in 1999. We are devoted to bringing evolutionary biologists together to promote intellectual exchange and to foster and advance evolutionary biology. 
+The **Australasian Evolution Society** is a learned society founded in 1999. We are devoted to bringing evolutionary biologists together to promote intellectual exchange and to foster and advance evolutionary biology.
 
 Our Mission is to promote the scientific stufy of evolution, the discussion of the scientific findings of its members, and their dissemination to the wider public.
 
