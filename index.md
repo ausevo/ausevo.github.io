@@ -1,11 +1,8 @@
 ---
-title: "Australasian Evolution Society"
-css: /css/index.css
 layout: page
-output:
-  html_document:
-    df_print: paged
+title: "Australasian Evolution Society"
 subtitle: Promoting the scientific study of evolution
+css: /css/index.css
 bigimg:
 - /img/big-imgs/kook.jpg: Kookaburra
 - /img/big-imgs/duck2.jpg: The Boss
