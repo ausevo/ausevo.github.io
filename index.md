@@ -14,7 +14,7 @@ bigimg:
 - /img/big-imgs/kook2.jpg: Good one
 ---
 
-Welcome to the **Australasian Evolution Society** web page. 
+Welcome to the **Australasian Evolution Society** webpage. 
 
 The **Australasian Evolution Society** is a learned society founded in 1999. We are devoted to bringing evolutionary biologists together to promote intellectual exchange and to foster and advance evolutionary biology. 
 

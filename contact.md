@@ -18,13 +18,13 @@ School of Biological Sciences, Monash University
 **Treasurer**
 
 Dr Alexandra McQueen  
-School of Life & Environmental Sciences, Deakin University 
+School of Life & Environmental Sciences, Deakin University  
 **E:** a.mcqueen[at]deakin.edu.au
 
 **Secretary**
 
-Dr Matthew Baker
-School of Biotechnology and Biomolecular Sciences, University of New South Wales
+Dr Matthew Baker  
+School of Biotechnology and Biomolecular Sciences, University of New South Wales  
 **E:** matthew.baker[at]unsw.edu.au 
 
 **Vice president elect**
