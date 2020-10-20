@@ -28,5 +28,5 @@ Details on Eligibility, Selection Criteria and Application process can be found
 
 Submit the application using [this online google form](https://docs.google.com/forms/d/1QI4ySFWZYIb-Il4fdvz6gSMF-9FpOtOFJQZboP6IQ2s/edit), by November 15th, 2020.
 
-### Winners from 2019 have been chosen & announced - read about them [here](http://ausevo.com/2019-08-08-AES_Award_Winners/)
+**Winners from 2019 have been chosen & announced - read about them** [here](http://ausevo.com/2019-08-08-AES_Award_Winners/)
 
