@@ -27,9 +27,9 @@ Registration and Abstract submisson has opened **June 2020** and will close in *
    
 ## Schedule
 
-3th Dec - Day 1, starting at noon
+3th Dec - Day 1, starting at noon (Sydney time), 9:00 am (Perth time) and 2pm (Auckland time)
 
-4th Dec - Day 2, ending at 16:00
+4th Dec - Day 2, ending at 16:00 (Sydney time), 1pm (Perth time) and 6pm (Auckland time)
 
 ### Please watch this space for more details and information about VirtualAES 2020
 
