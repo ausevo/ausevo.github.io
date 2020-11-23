@@ -25,10 +25,7 @@ navbar-links:
     - Overview: "conference"
     - Registration: "registration"
     - Programme: "programme"
-    - Venue: "map"
-    - Getting there: "travel"
-    - Accommodation: "accommodation"
-    - Places to eat: "food" 
+    - Local Dinners: "food" 
     - Awards: "prizes"
    # - Sponsors: "sponsors"
    
