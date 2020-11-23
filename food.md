@@ -1,26 +1,17 @@
 ---
 layout: page
-title: AES 2019
+title: AES 2020
 subtitle: Places to eat
 css: "/css/index.css"
 ---
 
- **On campus**
+**Sydney**
 
-![Eateries on Campus](/ausevo.github.io/img/big-imgs/campus.png)
+**Melbourne**  
 
-Matthews Arcade, Upper campus    
-Campus Village, Lower campus   
-Quad Food Court, Lower campus   
-The White House (happy hours daily: 4-5 PM) 
+**Canberra**
 
+**Perth**
 
-**Around UNSW**  
-The Spot, Randwick  
-*2km from Roundhouse (25 min walk)*    
+**Auckland**
 
-Avoca Street    
-*(15-20 mins walk)*   
-
-Anzac Parade    
-*(10 mins walk)*
