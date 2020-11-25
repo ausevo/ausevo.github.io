@@ -13,7 +13,7 @@ bigimg:
 ## AES 2020 program
 
 Download the program in PDF from [here!](http://ausevo.github.io/docs/TimeTable_AES.pdf)  
-**Zoom links will be posted here soon.**  
+**Zoom links and poster session details will be posted here soon.**  
 
 **Please also note that there are multiple time zones and starting times differ between days!**
 
