@@ -8,12 +8,12 @@ bigimg:
 ---
 
 
-## 3rd Dec & 4th Dec 2020
+## 3rd & 4th Dec 2020
 
 ## AES 2020 program
 
-Download the program in PDF from [here!](http://ausevo.github.io/docs/TimeTable_AES.pdf)
-**Zoom links will be posted here soon**  
+Download the program in PDF from [here!](http://ausevo.github.io/docs/TimeTable_AES.pdf)  
+**Zoom links will be posted here soon.**  
 
 **Please also note that there are multiple time zones and starting times differ between days!**
 
