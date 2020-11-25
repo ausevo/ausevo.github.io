@@ -23,7 +23,7 @@ Download the program in PDF from [here!](http://ausevo.github.io/docs/TimeTable_
 
 ## 2020 ECR Award Speaker
 
-Dr Filip Ruzicka
+Dr Filip Ruzicka (Monash University)
 
 ****
 
