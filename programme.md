@@ -14,20 +14,25 @@ bigimg:
 
 ## AES 2020 program
 
-[Here!](http://ausevo.github.io/docs/AES Program Final.pdf)
+Download the program in PDF [Here!](http://ausevo.github.io/docs/TimeTable_AES.pdf)
+**Zoom links will be posted here soon**
+**Please note that there are multiple time zones and starting times differ between days!**
 
-### AES 2020 abstracts
-[Link to google sheets](https://drive.google.com/file/d/13HK-PY2WSwGvcvHFFXh-jhaKzF1C3uac/view?usp=sharing)     
-*(Disclaimer: please note - this is mainly for orientation - if you're not sure which talks to see - MAY CONTAIN MISTAKES!)*
-     
-****
-
-## Plenary Speakers   
+![Caption for the picture.](http://ausevo.github.io/img/TimeTable_AES.jpg)
 
 ****
 
-## 2020 AES Student Plenaries
+## 2020 ECR Award Speaker
 
+Dr Filip Ruzicka
+
+****
+
+## 2020 AES Student Award Talks
+
+Thomas Keaney (University of Melbourne)
+Laura Woods (Monash University)
+Duhita Sant (Monash University)
 
 
 
