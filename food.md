@@ -7,18 +7,15 @@ css: "/css/index.css"
 ### Local dinners/drinks will be announced here soon, they will happen on Friday 4th after the conference. Save the date!
 
 **ACT**
-
+Friday 4th, Badger & Co (Kambri precinct).  
+Local contact: upama.aich@anu.edu.au
 **NSW**
-
+Friday 4th, Forest Lodge (Glebe).  
+Local contact: caitlyn.forster@sydney.edu.au
 **Queensland**
-
-**South Australia**
-
-**Tasmania**
+To be announced
+Thursday 3rd
 
 **Victoria**  
-
-**Western Australia**
-
-**New Zealand**
-
+To be announced
+Local contact: aysha.sezmis@monash.edu

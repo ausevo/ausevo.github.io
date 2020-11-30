@@ -12,12 +12,13 @@ bigimg:
 
 ## AES 2020 program
 
-Download the program in PDF from [here!](http://ausevo.github.io/docs/TimeTable_AES.pdf)  
+Download the program in PDF from [here!](http://ausevo.github.io/docs/AES_timetable_Dec.pdf)  
 **Zoom links and poster session details will be posted here soon.**  
 
-**Please also note that there are multiple time zones and starting times differ between days!**
+**Please also note that there are multiple time zones and starting times differ between days!**  
+** A couple of talks have been cancelled last minute, so we had to make some adjustments.**
 
-![Caption for the picture.](http://ausevo.github.io/img/TimeTable_AES.jpg)
+![Caption for the picture.](http://ausevo.github.io/img/AES_timetable_Dec.jpg)
 
 ****
 
