@@ -4,18 +4,19 @@ title: AES 2020
 subtitle: Places to eat
 css: "/css/index.css"
 ---
-### Local dinners/drinks will be announced here soon, they will happen on Friday 4th after the conference. Save the date!
+### Local dinners/drinks will be announced here soon. Save the date!  
 
-**ACT**
-Friday 4th, Badger & Co (Kambri precinct).  
-Local contact: upama.aich@anu.edu.au
-**NSW**
-Friday 4th, Forest Lodge (Glebe).  
-Local contact: caitlyn.forster@sydney.edu.au
-**Queensland**
-To be announced
-Thursday 3rd
-
+**ACT**  
+Friday 4th, Badger & Co (Kambri precinct).   
+Local contact: upama.aich@anu.edu.au  
+**NSW**  
+Friday 4th, Forest Lodge (Glebe).    
+Local contact: caitlyn.forster@sydney.edu.au  
+**Queensland**  
+Thursday 3rd, Brisbane Brewing Co. 124 Boundary St, 7pm  
+Local contact: vhon.garcia@uq.net.au  
 **Victoria**  
-To be announced
-Local contact: aysha.sezmis@monash.edu
+To be announced  
+Local contact: aysha.sezmis@monash.edu  
+
+Big thanks to all our local organisers! 

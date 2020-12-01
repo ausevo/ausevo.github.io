@@ -15,10 +15,15 @@ bigimg:
 Download the program in PDF from [here!](http://ausevo.github.io/docs/AES_timetable_Dec.pdf)  
 **Zoom links and poster session details will be posted here soon.**  
 
-**Please also note that there are multiple time zones and starting times differ between days!**  
-** A couple of talks have been cancelled last minute, so we had to make some adjustments.**
+**Please also note that there are multiple time zones and starting times differ between days!**    
+** A couple of talks have been cancelled last minute, so we had to make some adjustments.**  
 
-![Caption for the picture.](http://ausevo.github.io/img/AES_timetable_Dec.jpg)
+ZOOM ROOM 1: https://tinyurl.com/AES2020-Z1 
+ZOOM ROOM 2: https://tinyurl.com/AES2020-Z2  
+
+Check password details on the e-mail sent by AES Exec.
+
+![Caption for the picture.](http://ausevo.github.io/docs/AES_timetable_Dec.pdf)
 
 ****
 
