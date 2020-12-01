@@ -7,6 +7,26 @@ css: /css/index.css
   
 # 2020 Awards
 
+****
+
+## 2020 ECR Award Speaker
+
+Dr Filip Ruzicka (Monash University)
+
+****
+
+## 2020 AES Student Award Talks
+
+Thomas Keaney (University of Melbourne)  
+Laura Woods (Monash University)  
+Duhita Sant (Monash University)  
+
+CONGRATULATIONS TO ALL OUR WINNERS!
+CHECK OUT THEIR TALKS ON THURSDAY AND FRIDAY AM!
+
+
+
+
 ***AES Student Research Award***   
 
 The AES Student Research Award will be given in recognition of a single, significant research publication in evolutionary biology that forms part of the applicant’s Masters or PhD thesis and has been published in the last 2 years.
