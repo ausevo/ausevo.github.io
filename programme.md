@@ -12,7 +12,8 @@ bigimg:
 
 ## AES 2020 program
 
-Download the program in PDF from [here!](http://ausevo.github.io/docs/AES_timetable_Dec.pdf)  
+Download the talks program in PDF from [here!](http://ausevo.github.io/docs/AES_timetable_Dec.pdf)  
+Download the poster program in PDF from [here!](http://ausevo.github.io/docs/PosterInfo.pdf)
 
 **Please also note that there are multiple time zones and starting times differ between days!**    
 **A couple of talks have been cancelled last minute, so we had to make some adjustments.**  
@@ -22,9 +23,12 @@ Download the program in PDF from [here!](http://ausevo.github.io/docs/AES_timeta
 
 **Password details on the e-mail sent by AES Exec.**
 
-ALSO! Check out [gather.town](https://tinyurl.com/AES-Poster-session) where the poster session will occur.
+ALSO! Check out [gather.town](https://tinyurl.com/AES-Poster-session) where the poster session will occur right after the last talk.
 
-![Caption for the picture.](http://ausevo.github.io/docs/AES_timetable_Dec.pdf)
+![Caption for the picture.](http://ausevo.github.io/docs/AES_timetable_Dec.pdf)  
+
+#Poster information  
+![Caption for the picture.](http://ausevo.github.io/docs/PosterInfo.pdf)  
 
 ****
 
