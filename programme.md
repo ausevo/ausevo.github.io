@@ -22,6 +22,7 @@ Download the poster program in PDF from [here!](http://ausevo.github.io/docs/Pos
 [LINK TO ZOOM ROOM 2](https://tinyurl.com/AES2020-Z2)    
 
 **ZOOM ROOM 1 PW: 1859, ZOOM ROOM 2 PW: Darwin**
+Links are also provided in e-mail sent by AES Exec.
 
 ALSO! Check out [gather.town](https://tinyurl.com/AES-Poster-session) where the poster session will occur right after the last talk.
 
