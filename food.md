@@ -10,7 +10,7 @@ css: "/css/index.css"
 Friday 4th, Badger & Co (Kambri precinct), 6pm.   
 Local contact: upama.aich@anu.edu.au  
 **NSW**  
-Friday 4th, Forest Lodge (Glebe), 6pm.    
+Friday 4th, [Forest Lodge Hotel](https://www.forestlodgehotel.com.au/) (Glebe), 6pm.    
 Local contact: caitlyn.forster@sydney.edu.au  
 **Queensland**  
 Thursday 3rd, Brisbane Brewing Co. 124 Boundary St, 7pm.  
