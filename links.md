@@ -1,41 +1,35 @@
----
-layout: page
-title: AES
-subtitle: Useful links
----
-
 ## Evolutionary research in Australasia
 
 Universities and Museums throughout Australasia have a long history of world class research in evolutionary biology. Follow the links to find out more about each institution and their research strengths.
 
 ***Victoria***
 
-- Deakin University: [School of Life and Environmental Sciences](https://australasianevolutionsociety.com/links/www.deakin.edu.au/les)
-- University of Melbourne: [School of Botany](http://www.botany.unimelb.edu.au/botany/), [Department of Genetics](http://www.genetics.unimelb.edu.au/), and [Department of Zoology](http://www.zoology.unimelb.edu.au/)
-- Museum Victoria: [Sciences Department](http://museumvictoria.com.au/collections-research/sciences/)
-- LaTrobe University: [Department of Zoology](http://www.latrobe.edu.au/zoology), [Department of Genetics](http://www.latrobe.edu.au/genetics/) and [Department of Botany](http://www.latrobe.edu.au/botany)
+- Deakin University: [School of Life and Environmental Sciences](https://www.deakin.edu.au/life-environmental-sciences)
+- University of Melbourne: [School of BioSciences](https://biosciences.unimelb.edu.au)
+- Museum Victoria: [Sciences Department](https://museumsvictoria.com.au/about-us/staff/natural-sciences/)
+- LaTrobe University: [School of Life Sciences](https://www.latrobe.edu.au/school-life-sciences)
 - Monash University: [School of Biological Sciences](http://monash.edu/science/about/schools/biological-sciences/)
 
 ***New South Wales***
 
 - Macquarie University: [Department of Biological Sciences](http://www.bio.mq.edu.au/)
-- University of New South Wales: [School of Biological, Earth & Environmental Sciences](http://www.science.unsw.edu.au/our-faculty/biological-earth-environmental-sciences), and [School of Biotechnology and Biomolecular Sciences](http://www.science.unsw.edu.au/our-faculty/biotechnology-biomolecular-sciences)
+- University of New South Wales: [School of Biological, Earth & Environmental Sciences](https://www.bees.unsw.edu.au), and [School of Biotechnology and Biomolecular Sciences](https://www.babs.unsw.edu.au)
 - University of New England: [School of Environmental and Rural Science](http://www.une.edu.au/ers/)
 - University of Sydney: [School of Biological Sciences](http://sydney.edu.au/science/biology/)
-- University of Wollongong: [School of Biological Sciences](http://www.uow.edu.au/science/biol/index.html)
+- University of Wollongong: [School of Earth Atmospheric and Life Sciences](https://www.uow.edu.au/science-medicine-health/schools-entities/school-of-earth-atmospheric-and-life-sciences/)
 
 ***Australian Capital Territory***
 
-- Australian National University: [Research School of Biology](http://biology.anu.edu.au/)
+- Australian National University: [Division of Ecology and Evolution](https://biology.anu.edu.au/research/divisions/division-ecology-and-evolution)
 
 ***Queensland***
 
 - University of Queensland: [School of Biological Sciences](http://www.biology.uq.edu.au/)
-- James Cook University: [School of Marine and Tropical Biology](http://www.jcu.edu.au/mtb/)
+- James Cook University: [Zoology and Ecology Research](https://www.jcu.edu.au/college-of-science-and-engineering/CSE-Research/zoology-and-ecology-research)
 
 ***Western Australia***
 
-- University of Western Australia – [School of Animal Biology](http://www.animals.uwa.edu.au/), [School of Plant Biology](http://www.plants.uwa.edu.au/), [School of Psychology](http://www.psychology.uwa.edu.au/), and [School of Anatomy and Human Biology](http://www.aphb.uwa.edu.au/)
+- University of Western Australia – [School of Biological Sciences](https://www.uwa.edu.au/science/schools/school-of-biological-sciences)
 - Flinders University: [School of Biological Sciences](http://www.flinders.edu.au/science_engineering/biology/)
 
 ***South Australia***
@@ -44,17 +38,17 @@ Universities and Museums throughout Australasia have a long history of world cla
 
 ***Tasmania***
 
-- University of Tasmania: [School of Plant Science](http://www.utas.edu.au/plant-science/), and [School of Zoology](http://www.utas.edu.au/zoology/home)
+- University of Tasmania: [School of Natural Sciences](https://www.utas.edu.au/natural-sciences/biological-sciences)
 
 ***New Zealand***
 
 - University of Otago: [Department of Zoology](http://www.otago.ac.nz/zoology/) and [Genetics@Otago](http://www.otago.ac.nz/genetics/)
 - University of Auckland: [School of Biological Sciences](http://www.sbs.auckland.ac.nz/uoa/)
-- Massey University: [Allan Wilson Centre for Molecular Ecology and Evolution](http://www.allanwilsoncentre.ac.nz/), and [Institute of Natural Sciences](http://www.massey.ac.nz/massey/learning/departments/institute-natural-sciences/institute-of-natural-sciences_home.cfm)
+- Massey University: [School of Natural and Computational Sciences](https://www.massey.ac.nz/massey/explore/departments/institute-natural-mathematical-sciences/institute-natural-mathematical-sciences_home.cfm)
 - Victoria University of Wellington: [School of Biological Sciences](http://www.victoria.ac.nz/sbs)
-- University of Canterbury: [School of Biological Sciences](http://www.biol.canterbury.ac.nz/)
+- University of Canterbury: [School of Biological Sciences](https://www.canterbury.ac.nz/science/schools-and-departments/biological-sciences/)
 
-If you would like your organisation listed here, please email our [webmaster](thomas.white@mq.edu.au)
+If you would like your organisation listed here, please email our [webmaster](ausevolutionsociety@gmail.com)
 
 ## Evolution education sites
 
