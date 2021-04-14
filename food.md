@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AES 2020
+title: AES 2021
 subtitle: Places to eat
 css: "/css/index.css"
 ---

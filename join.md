@@ -13,6 +13,4 @@ bigimg:
 
 **Want to join the Australasian Evolution Society?**
 
-Come to [the 2020 AES Virtual conference](https://aes.corsizio.com)!
-
 Membership of the Australasian Evolution Society was automatically included in the registration for the 2020 conference. The membership covers you for two years and you will need to renew it for the 2022 conference.

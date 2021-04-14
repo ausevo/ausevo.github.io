@@ -15,9 +15,9 @@ Welcome to the **Australasian Evolution Society** webpage.
 
 The **Australasian Evolution Society** is a learned society founded in 1999. We are devoted to bringing evolutionary biologists together to promote intellectual exchange and to foster and advance evolutionary biology.
 
-Our Mission is to promote the scientific stufy of evolution, the discussion of the scientific findings of its members, and their dissemination to the wider public.
+Our Mission is to promote the scientific study of evolution, the discussion of the scientific findings of its members, and their dissemination to the wider public.
 
-Our main event is our Annual Conference, where evolutionary biologists come together from across Australasia to present and discuss the latest findings in evolutionary research. This year we will have a [VirtualAES 2020](https://aes.corsizio.com/c/5f4c21ebbe49c0a9515df868).
+Our main event is our Annual Conference, where evolutionary biologists come together from across Australasia to present and discuss the latest findings in evolutionary research. 
 
 Membership in the society allows you to participate in our Annual Conference and to engage with other members. Feel free to join the discussion via [twitter](http://twitter.com/austevolsoc) and the [AES Facebook Group](https://www.facebook.com/groups/95240533874/) to be notified about the latest research, news, jobs, and events.
 
