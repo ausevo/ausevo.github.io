@@ -15,4 +15,4 @@ bigimg:
 
 Come to [the 2020 AES Virtual conference](https://aes.corsizio.com)!
 
-Membership of the Australasian Evolution Society is automatically included in the registration for the  conference. This year the conference registration will be free, so you can join the society at no cost. The membership covers you for two years and you will need to renew it for the 2022 conference.
+Membership of the Australasian Evolution Society was automatically included in the registration for the 2020 conference. The membership covers you for two years and you will need to renew it for the 2022 conference.

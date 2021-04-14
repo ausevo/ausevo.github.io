@@ -10,4 +10,4 @@ bigimg:
 
  **Venue location**
 
-The conference will be held at online in 2020. Please see the schedule.
+Expect details on the 2021 conference in a few months.
