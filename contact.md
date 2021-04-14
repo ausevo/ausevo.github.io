@@ -25,8 +25,8 @@ Dr Matthew Baker
 School of Biotechnology and Biomolecular Sciences, University of New South Wales  
 **E:** matthew.baker[at]unsw.edu.au 
 
-**Vice President elect** 
+**Vice President elect**
 
-Dr Megan Head
-School of Biology, Australian National University
+Dr Megan Head  
+School of Biology, Australian National University  
 **E:** megan.head[at]anu.edu.au
