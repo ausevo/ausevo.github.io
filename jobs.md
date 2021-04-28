@@ -11,10 +11,10 @@ bigimg:
 - /img/big-imgs/kook2.jpg: Good one
 ---
 
-**Interested in doing a PhD or postdoc in Australasia?**
+##Interested in doing a PhD or postdoc in Australasia?
 
-Click here to find Australasian PhD opportunities in [jobrxiv](https://jobrxiv.org/?search_keywords=evolution+phd&job_region=27571,27721) 
+- Click here to find Australasian **PhD** opportunities in [jobrxiv](https://jobrxiv.org/?search_keywords=evolution+phd&job_region=27571,27721) 
 
-Click here to find Australasian PhD opportunities in [jobrxiv](https://jobrxiv.org/?search_keywords=evolution+postdoc&job_region=27571,27721)  
+- Click here to find Australasian **postdoc** opportunities in [jobrxiv](https://jobrxiv.org/?search_keywords=evolution+postdoc&job_region=27571,27721)  
 
 Interested in advertising a PhD or job in Evolution? Click [here](https://jobrxiv.org/post-a-job/) and use the keywords "Evolution" and "PhD" or "Evolution" and "postdoc", so that our search returns your advertisement.
