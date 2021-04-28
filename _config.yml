@@ -21,7 +21,7 @@ navbar-links:
   News: "news"
   Blog: "blog"
   Join!: "join"
-  #Jobs: "jobs"
+  Opportunities: "jobs"
   Conference: 
     - Overview: "conference"
     - Registration: "registration"

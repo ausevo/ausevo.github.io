@@ -11,8 +11,10 @@ bigimg:
 - /img/big-imgs/kook2.jpg: Good one
 ---
 
-**Want to join the Australasian Evolution Society?**
+**Interested in doing a PhD or postdoc in Australasia?**
 
-Come to [the 2020 AES Virtual conference](https://aes.corsizio.com)!
+Click here to find Australasian PhD opportunities in [jobrxiv](https://jobrxiv.org/?search_keywords=evolution+phd&job_region=27571,27721) 
 
-Membership of the Australasian Evolution Society is automatically included in the registration for the  conference. This year the conference registration will be free, so you can join the society at no cost. The membership covers you for two years and you will need to renew it for the 2022 conference.
+Click here to find Australasian PhD opportunities in [jobrxiv](https://jobrxiv.org/?search_keywords=evolution+postdoc&job_region=27571,27721)  
+
+Interested in advertising a PhD or job in Evolution? Click [here](https://jobrxiv.org/post-a-job/) and use the keywords "Evolution" and "PhD" or "Evolution" and "postdoc", so that our search returns your advertisement.
