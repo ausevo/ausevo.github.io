@@ -31,7 +31,8 @@ Dr Megan Head
 School of Biology, Australian National University  
 **E:** megan.head[at]anu.edu.au
 
-**Social media team (@AustEvolSoc)**
+**Social media team (@AustEvolSoc)**  
+
 Dr Tiffany Sih  
 Henry Arenas (University of Queensland)  
 John Whale (Western Sydney University)  
