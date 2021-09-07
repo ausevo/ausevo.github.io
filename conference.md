@@ -7,13 +7,13 @@ bigimg:
 ---
 
 
-## AES 2021 is coming!
+# AES 2021 is coming!
 
-# The conference will take place on the **2nd and 3rd of December 2021**. 
+## The conference will take place on the 2nd and 3rd of December 2021. 
 
 AES 2021 will be a hybrid face-to-face/virtual meeting held at **Monash University’s Clayton Campus in Victoria**. We aim to provide an inclusive environment for Evolutionary Biologists at all career stages, including parents and those of us that identify with traditionally under-represented groups, so we can present our evolutionary research work and engage in friendly discussion and debate.
 
-Abstracts are due **November 1st**, registration link [here]() very soon.
+Abstracts are due **November 1st**, registration link [here]() (will be open on Sept 15).
 
 ## FAQs  
 
