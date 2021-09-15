@@ -19,7 +19,7 @@ Abstracts are due **November 1st**, registration link [HERE](https://aes.corsizi
 
 **Can I give a talk even if I can’t make it to the face-to-face conference?**
 
-Yes, we expect Victorians will be able to give their talk and attend in person, but if you have been accepted for a talk and can’t make it from another state, you will be able to give your talk remotely. We will make our best to have a dual-delivery system, so that even if you present remotely you will be able to interact with both live and online audiences.
+Yes, we expect Victorians will be able to give their talk and attend in person, but if you have been accepted for a talk and can’t make it from another state, you will be able to give your talk remotely. We will do our best to have a dual-delivery system, so that even if you present remotely you will be able to interact with both live and online audiences.
 
 **I am getting a bit sick of online conferences, how will this be different?**
 
