@@ -8,7 +8,7 @@ subtitle: Conference Registration
 
 Registration for the 2021 conference will open on September 15th. Stay tuned!
 
-[Register here!]()
+[Register here!](https://aes.corsizio.com/c/6141a39502de2a7ff2f3f120)
 
    
 
