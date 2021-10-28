@@ -15,6 +15,21 @@ AES 2021 will be a hybrid face-to-face/virtual meeting held at **Monash Universi
 
 Abstracts are due **November 1st**, registration link [HERE](https://aes.corsizio.com/c/6141a39502de2a7ff2f3f120)
 
+##NEWS
+
+# Costs have been finalised!
+
+Online only/registration $20 (payment and registration [HERE](https://aes.corsizio.com/c/6141a39502de2a7ff2f3f120)) 
+
+For those attending in person, these are the prices. They will be paid closer to the date using a new payment link that will be sent out soon. 
+
+PhD student $60 / ECR $130 / Group Leader $230
+
+# Tag team talks 
+
+If you want to do a tag team talk please register your team using [this link](https://docs.google.com/forms/d/e/1FAIpQLSehI1KOwEAMlsS9Ms015hZiqhXEeKgB_KiFzHGlKGHp_Fi0mA/viewform).
+IMPORTANT: This does not replace conference registration. It's only to collect tag team info.
+
 ## FAQs  
 
 **Can I give a talk even if I can’t make it to the face-to-face conference?**
