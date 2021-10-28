@@ -30,6 +30,10 @@ PhD student $60 / ECR $130 / Group Leader $230
 If you want to do a tag team talk please register your team using [this link](https://docs.google.com/forms/d/e/1FAIpQLSehI1KOwEAMlsS9Ms015hZiqhXEeKgB_KiFzHGlKGHp_Fi0mA/viewform).
 IMPORTANT: This does not replace conference registration. It's only to collect tag team info.
 
+#### Free accomodation available for students and ECRs!  
+
+If you are interested, please [sign up here](https://docs.google.com/forms/d/e/1FAIpQLScdV6FwYi0gt_eCQLwox448FTg_I4AEVQ9QD47VIKZxaQZGcA/viewform). Also, click there if you are not an ECR, or have funding, but want to stay in a dorm across the road from the conference (pay a total of $231 for 3 days)
+
 ## FAQs  
 
 **Can I give a talk even if I can’t make it to the face-to-face conference?**
