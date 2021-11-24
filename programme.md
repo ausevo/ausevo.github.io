@@ -10,14 +10,16 @@ bigimg:
   
 Download program from [here](./docs/ScheduleAES2021.pdf)
 
-Zoom rooms:
-Password for all rooms: 001859
+**Zoom rooms:**  
+
+Password for all rooms: 001859  
+
 If you are presenting online please log in before your time, so we know you are there ready to present. 
 
 ### Thursday links:
 
 Morning  
-[Rosalind Franklin Room Thursday](https://monash.zoom.us/j/82985974167?pwd=U1pzUGFtRTlpQXhzZWNuckdrVzNKdz09)
+[Rosalind Franklin Room](https://monash.zoom.us/j/82985974167?pwd=U1pzUGFtRTlpQXhzZWNuckdrVzNKdz09)
 
 Afternoon  
 [Mary Anning Room](https://unimelb.zoom.us/j/83189848732?pwd=QS9SQ2lPaWtRZnAvTlRyUXhrNi8wZz09)
@@ -38,4 +40,4 @@ Afternoon
 
 [Barbara McClintock Room](https://unsw.zoom.us/j/89342633042?pwd=a3N5RG5hOXk4bUFSQXIzZnFRSURiUT09)
 
-[Closing and awards](https://monash.zoom.us/j/82469686019?pwd=TW9GY0ROMmRSbkR2WThpVTVQSTZxZz09))
+[Closing and awards](https://monash.zoom.us/j/82469686019?pwd=TW9GY0ROMmRSbkR2WThpVTVQSTZxZz09)
