@@ -7,6 +7,6 @@ bigimg:
   - "/img/big-imgs/fish1.jpg" 
 ---
 
-**INFORMATION ON AES 2021 WILL BE ANNOUNCED HERE**    
+  
 
-![Programme](./doc/ScheduleAES2021.pdf){width=65%}
+[Programme](./doc/ScheduleAES2021.pdf)
