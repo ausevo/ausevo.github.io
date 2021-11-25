@@ -8,7 +8,8 @@ bigimg:
 ---
 
   
-Download program from [here](./docs/ScheduleAES2021.pdf)
+Download the latest program from [here](./docs/ScheduleAES2021.pdf)
+*Latest version, Nov 26*  
 
 **Zoom rooms:**  
 
