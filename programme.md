@@ -11,6 +11,8 @@ bigimg:
 Download the latest program from [here](./docs/ScheduleAES2021.pdf)
 *Latest version, Nov 26*  
 
+Map of Monash locations [here](./docs/AES_Map2.pdf)
+
 **Zoom rooms:**  
 
 Password for all rooms: 001859  

@@ -11,7 +11,9 @@ bigimg:
 
 #### The conference will take place between the 1st and 3rd of December 2021.
 
-#### Please download the conference schedule from [here](./docs/ScheduleAES2021.pdf)
+#### Please download the conference schedule from [here](./docs/ScheduleAES2021.pdf)  
+
+Map of Monash locations [here](./docs/AES_Map2.pdf)
 
 ### General overview:
 
