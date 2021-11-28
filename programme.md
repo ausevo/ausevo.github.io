@@ -13,7 +13,8 @@ Download the latest program from [here](./docs/ScheduleAES2021.pdf)
 
 Map of Monash locations [here](./docs/AES_Map2.pdf)
 
-Vote [here](https://docs.google.com/forms/d/e/1FAIpQLScwivTcrZwlE8sWHbVckz1oGk2rh2V9Nyj4u5-oGvHZazKZ-w/viewform) for favourite 3-min talk.
+Vote [here](https://docs.google.com/forms/d/e/1FAIpQLScwivTcrZwlE8sWHbVckz1oGk2rh2V9Nyj4u5-oGvHZazKZ-w/viewform) for favourite 3-min talk.  
+
 **Zoom rooms:**  
 
 Password for all rooms: 001859  
