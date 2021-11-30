@@ -6,14 +6,15 @@ css: "/css/index.css"
 bigimg:
   - "/img/big-imgs/fish1.jpg" 
 ---
+We have a Slack channel [here!](https://join.slack.com/t/ausevo2021/shared_invite/zt-zj8nvumr-9OVus~QA5~Q7gCYOJBiWRw) that will be used for socializing,  discussion and general (non-urgent) communication **note: questions during talks will only be taken through zoom (or live)**  
 
-  
 Download the latest program from [here](./docs/ScheduleAES2021.pdf)
-*Latest version, Nov 26*  
+*Latest version, Dec 1st*  
 
 Map of Monash locations [here](./docs/AES_Map2.pdf)
 
-Vote [here](https://docs.google.com/forms/d/e/1FAIpQLScwivTcrZwlE8sWHbVckz1oGk2rh2V9Nyj4u5-oGvHZazKZ-w/viewform) for favourite 3-min talk.  
+**Vote [here](https://docs.google.com/forms/d/e/1FAIpQLScwivTcrZwlE8sWHbVckz1oGk2rh2V9Nyj4u5-oGvHZazKZ-w/viewform) for favourite 3-min talk.** 
+
 
 **Zoom rooms:**  
 
@@ -45,4 +46,4 @@ Afternoon
 
 [Barbara McClintock Room](https://unsw.zoom.us/j/89342633042?pwd=a3N5RG5hOXk4bUFSQXIzZnFRSURiUT09)
 
-[Closing and awards](https://monash.zoom.us/j/82469686019?pwd=TW9GY0ROMmRSbkR2WThpVTVQSTZxZz09)
+[Closing and awards](https://unimelb.zoom.us/j/83733918448?pwd=R3hYTzRpTE1uSGg0OGVOSk9sdC9tdz09)
