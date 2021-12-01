@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AES 2019
+title: AES 2021
 subtitle: Code of conduct
 ---
 

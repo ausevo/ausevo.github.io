@@ -6,4 +6,4 @@ css: "/css/index.css"
 bigimg:
   - "/img/big-imgs/operabridge.jpg" : "Sydney Opera House & Harbour Bridge"
 ---
-AES2020 is a virtual conference
+AES2021 is a virtual conference
