@@ -1,73 +1,35 @@
 ---
 layout: page
 title: AES 2019
-subtitle: Accommodation
+subtitle: Code of conduct
 ---
 
-## Places to stay
+**AES** is dedicated to providing a safe, hospitable, and productive environment for all members. Accordingly, AES prohibits all forms of discrimination and harassment (including among member, volunteers, and staff) in all Society activities, including events (online or in person), journal correspondence, social media, etc). Behaviour that undermines the integrity of intellectual discourse is an impediment to scientific progress and will not be tolerated. Unacceptable treatment of others includes (but is not limited to) harassment, stalking, belittling, discrimination, bullying/intimidation, assault, trolling, and retaliation (see below for descriptions). Any misconduct on the basis of gender, gender identity, sexual orientation, age, disability, physical appearance, race, religion, national origin, ethnicity, or other descriptive category will not be tolerated.
+Violations of the code of conduct can be reported and following an investigation consequences can range from notification/ warning to the offender to expulsion from current and/or future events or blocking social media accounts (see Implementation, Compliance, and Reporting [below]).    
 
-**Randwick**   
+**Types of inappropriate behaviors:** 
 
-1.	[Alison Lodge](https://www.sydneylodges.com/accommodation/randwick/lodge/9/alison-lodge.html)    
-136-138 Alison Rd, Randwick NSW 2031   
- Tel: +61 2 9399 3883   
- *$119/night, 750 m from UNSW, Gate 8*   
- 
-2.	[Veriu Randwick](https://www.veriu.com.au/randwick/en/)   
-65/71 Belmore Rd, Randwick NSW 2031    
-Tel: +61 2 9326 4919   
-*$200/night, 850 m from UNSW, Gate 8*   
- 
-3.	[Avonmore on the Park Boutique Hotel](http://www.avonmoreonthepark.com.au/)   
-34 The Avenue, Randwick NSW 2031   
-Tel +61 2 93999388   
-*$170/night,  1.5Km from UNSW, Gate 8*   
+Exclude - to block someone's access to resources or opportunities, make someone feel unwelcome, based on their identity or affiliation with a particular group 
 
-4.	[Royal Hotel Randwick](http://royalhotelrandwick.com.au/)   
-2 Perouse Rd, Randwick NSW 2031   
-Tel: +61 2 9399 3006   
-*$200/night, 1.2Km from UNSW, Gate 8*   
+Belittle - to treat someone in a condescending manner or with the assumption of incompetence 
+Discriminate - to make an unjust or prejudicial distinction in the treatment of someone based on their identity or affiliation with a particular group 
 
-5.	[Avoca Lodge](https://www.sydneylodges.com/accommodation/randwick/lodge/8/avoca-lodge.html)   
-235 Avoca St, Randwick NSW 2031   
-Tel: +61 2 9399 7779   
-*$134/night, 1.2Km from UNSW, Gate 8*   
+Bully / Intimidate - to threaten, frighten, humiliate, or intimidate someone with abusive words or actions 
 
-6.	[High Cross Park Lodge](https://www.sydneylodges.com/accommodation/randwick/lodge/11/high-cross-park-lodge.html)   
-7-9 Cuthill St, Randwick NSW 2031   
-Tel: +61 2 9314 5553   
-*$130/night, 1.2Km from UNSW, Gate 8*   
+Harass - to use words or actions that are unwanted, unwelcome, demeaning, degrading abusive or offensive, and to persist in such actions despite resistance, protest, or rebuke by the recipient(s) of those actions 
 
-7. [Parade Lodge](http://www.paradelodge.com.au/)    
-173-175 Anzac Parade, Kensington NSW 2033    
-Tel: +61 2 9662 2554    
-*$135/night, 550 m from The Roundhouse, UNSW*
+Assault - to make unwelcome physical contact with anyone in any manner, including actual bodily harm and any form of unwanted sexual contact; to threaten bodily harm with an apparent present ability to cause harm
 
-8. [Randwick Lodge](https://www.sydneylodges.com/accommodation/randwick/lodge/6/randwick-lodge.html)    
-211 Avoca Street, Randwick, Randwick NSW 2031 Sydney    
-Tel: +61 2 9310 0700   
-*$145/night, 750m from UNSW Gate 8*
+Retaliation -  Taking retaliatory action against others who have, in good faith, raised concerns about their behaviour.
 
-**Coogee**   
+**Reporting Inappropriate Behaviour**
 
-1.	[Coogee Beach House](http://www.coogeebeachhouse.com/)   
-171 Arden St, Coogee NSW 2034   
-Tel: +61 2 96 651 162
-*$90/night, 3Km from UNSW, Gate 8*   
+If you experience or witness a violation of the Code of Conduct:  
 
-2.	[Coogee Prime Lodge](http://coogeeprimelodge.com.au/rooms/)   
-272 Clovelly Rd, Clovelly NSW 2031   
-Tel: +61 2 8065 9796   
-*120/night, 3 Km from UNSW, Gate 8*   
-   
-   
-**Additional options**   
+●     If you feel comfortable, talk to the person.  
+●     If you don’t feel comfortable approaching the person, talk with an ally or report the incident.  
+If you need to report an incident, please contact our Safety Officers:  
 
-[Airbnb](https://www.airbnb.com.au/)   
+Michael J. McDonald  
 
-[Backpackers and hostels](https://www.hostelworld.com/hostels/Sydney/Coogee)
-
-## Public Transport to UNSW   
-Buses from Randwick to UNSW: 400, 348, 372   
-
-Buses from Coogee to UNSW: 400, 370, 314, 339, 372
+Iliana Medina Guzman

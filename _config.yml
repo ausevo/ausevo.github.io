@@ -28,7 +28,7 @@ navbar-links:
     - Programme: "programme"
     - Local Dinners: "food" 
     - Awards: "prizes"
-   # - Sponsors: "sponsors"
+    - Code of conduct: "accommodation"
    
   Resources:
     - Contact us: "contact"
