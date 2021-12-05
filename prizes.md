@@ -1,52 +1,43 @@
 ---
 title: "AES 2020"
 layout: page
-subtitle: Research Awards 2020
+subtitle: Presentation Awards 2021
 css: /css/index.css
 ---
   
-# 2020 Awards
+# 2021 Awards
+
+The quality of the presentations this year was incredible, and it was very hard to choose. Congratulations to everyone!  
+
+Here is our 2021 list of winners:
 
 ****
 
-## 2020 ECR Award Speaker
+## 2021 AES ECR Award 
 
-Dr Filip Ruzicka (Monash University)
+1. Dr Carmen da Silva (Monash University)
+2. Dr Fonti Kar (UNSW)
 
 ****
 
-## 2020 AES Student Award Talks
+## 2021 AES Student Award (10 MIN)
 
-Thomas Keaney (University of Melbourne)  
-Laura Woods (Monash University)  
-Duhita Sant (Monash University)  
+1. Sarin "Putter" Tiatragui (ANU)
+2. Tahlia Pollock (Monash University) & Lauren Harrison (ANU)
 
-CONGRATULATIONS TO ALL OUR WINNERS!
-CHECK OUT THEIR TALKS ON THURSDAY AND FRIDAY AM!
+## 2021 AES ECR Award (3 MIN)
+
+1. Julian Beaman (Flinders University)
+2. Jake Martin (Monash University)
+3. Samuel Lymbery (University of Western Australia)
+
+## 2021 AES Student Award (3 MIN)
+
+1. Jung-Chun "Zaza" Kuo (University of Melbourne)
+2. Shannon Kaiser (Macquarie University)
+3. Jennifer Evans (ANU) & Madeleine de Jong (Monash U)
+
+# **CONGRATULATIONS TO ALL OUR WINNERS!**
 
 
-
-
-***AES Student Research Award***   
-
-The AES Student Research Award will be given in recognition of a single, significant research publication in evolutionary biology that forms part of the applicant’s Masters or PhD thesis and has been published in the last 2 years.
-
-The Award includes an invitation to present an award talk at the virual AES conference, with registration fees covered by AES and $500.
-
-Details on Eligibility, Selection Criteria and Application process can be found    
-[HERE](http://ausevo.github.io/docs/AES_Student_Research_Award_2020.docx).
-
-Submit the application via this [online google form](https://docs.google.com/forms/d/1wfNtiPZlJwzrbf3MWd6py1G4xyjOeSNt4elQpRDsFPc/edit) and the supervisor form can be found [HERE](https://docs.google.com/forms/d/1Jz-hFO0DhN_IGgO09wgdsUs1fvx9dSxviS5aX4Cml8I/edit).
-    
-***AES Early Career Researcher Award***   
-
-The AES Early Career Researcher Award will be given to a researcher less than 5 years post-PhD who has shown substantive and significant contributions to evolutionary biology. The awardee is expected to have multiple research outputs and show a strong trajectory in research quality, independence, and leadership.
-The Award includes an invitation to present an online talk at AES 2020, with registration fees covered by AES, and a prize of $1,000.    
-
-Details on Eligibility, Selection Criteria and Application process can be found    
-[HERE](http://ausevo.github.io/docs/AES_ECR_Award_2020.docx). 
-
-Submit the application using [this online google form](https://docs.google.com/forms/d/1QI4ySFWZYIb-Il4fdvz6gSMF-9FpOtOFJQZboP6IQ2s/edit), by November 15th, 2020.
-
-**Winners from 2019 have been chosen & announced - read about them** [here](http://ausevo.com/2019-08-08-AES_Award_Winners/)
 
