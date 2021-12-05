@@ -13,23 +13,23 @@ Here is our 2021 list of winners:
 
 ****
 
-### 2021 AES ECR Award 
+#### 2021 AES ECR Award 
 
 1. Dr Carmen da Silva (Monash University)
 2. Dr Fonti Kar (UNSW)
 
 ****
 
-### 2021 AES Student Award (10 MIN)
+#### 2021 AES Student Award (10 MIN)
 
 1. Sarin "Putter" Tiatragui (ANU)
 2. Tahlia Pollock (Monash University) & Lauren Harrison (ANU)
 
-### 2021 AES ECR Award (3 MIN)
+#### 2021 AES ECR Award (3 MIN)
 
-1. Julian Beaman (Flinders University)
-2. Jake Martin (Monash University)
-3. Samuel Lymbery (University of Western Australia)
+1. Dr Julian Beaman (Flinders University)
+2. Dr Jake Martin (Monash University)
+3. Dr Samuel Lymbery (University of Western Australia)
 
 ### 2021 AES Student Award (3 MIN)
 
