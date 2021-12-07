@@ -22,7 +22,7 @@ Here is our 2021 list of winners:
 
 #### 2021 AES Student Award (10 MIN)
 
-1. Sarin "Putter" Tiatragui (ANU)
+1. Sarin "Putter" Tiatragul (ANU)
 2. Tahlia Pollock (Monash University) & Lauren Harrison (ANU)
 
 #### 2021 AES ECR Award (3 MIN)
