@@ -3,7 +3,7 @@ title: "AES"
 subtitle: Contact
 layout: page
 ---
-**President**
+**President 2021**
 Dr Michael McDonald  
 School of Biological Sciences, Monash University  
 **E:** mike.mcdonald[at]monash.edu.au 
@@ -30,6 +30,16 @@ School of Biotechnology and Biomolecular Sciences, University of New South Wales
 Dr Megan Head  
 School of Biology, Australian National University  
 **E:** megan.head[at]anu.edu.au
+
+**ECR representatives**
+
+Dr Erin Macartney
+School of Biology, University of New South Wales  
+**E:** e.macartney[at]unsw.edu.au
+
+Dr Venkatesh Nagarajan
+School of Life and Environmental Sciences, University of Sydney  
+**E:** venkatesh.nagarajan[at]sydney.edu.au
 
 **Social media team (@AustEvolSoc)**  
 
