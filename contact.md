@@ -33,11 +33,11 @@ School of Biology, Australian National University
 
 **ECR representatives**
 
-Dr Erin Macartney
+Dr Erin Macartney  
 School of Biology, University of New South Wales  
 **E:** e.macartney[at]unsw.edu.au
 
-Dr Venkatesh Nagarajan
+Dr Venkatesh Nagarajan  
 School of Life and Environmental Sciences, University of Sydney  
 **E:** venkatesh.nagarajan[at]sydney.edu.au
 
