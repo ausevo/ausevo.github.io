@@ -4,12 +4,12 @@ subtitle: Contact
 layout: page
 ---
 
-**President**
+**President**  
 Dr Iliana Medina  
 School of BioSciences, University of Melbourne  
 **E:** iliana.medina[at]unimelb.edu.au   
 
-**Vice-President**
+**Vice-President**  
 Dr Megan Head  
 School of Biology, Australian National University  
 **E:** megan.head[at]anu.edu.au  
@@ -28,9 +28,9 @@ School of Biology, University of New South Wales
 
 **Vice President elect**
 
-Prof Sasha Mykheyev  
+Prof Sasha Mikheyev  
 School of Biology, Australian National University  
-**E:** alexander.mykheyev[at]anu.edu.au
+**E:** alexander.mikheyev[at]anu.edu.au
 
 **ECR representatives**
 
