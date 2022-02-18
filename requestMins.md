@@ -6,7 +6,7 @@ subtitle: Information for Members
 
 ## AES minutes
 
-Minutes AGM 2022 [here](./docs/AES AGM 2022_upload.pdf)
+Minutes AGM 2022 [here](./docs/AES AGM 2022 _upload.pdf)
 
 Minutes AGM 2021 [here](./docs/AES AGM 2021_upload.pdf)
 
