@@ -21,9 +21,9 @@ The Australasian Evolution Society is committed to expanding and providing oppor
  
 **Distribution of grants**
  
-- Up to three grant winners (video format), each receiving up to $2500 + free registration at AES 2022
+- Up to three grant winners (video format), each receiving up to $2500 (2500/2000/1000) + free registration at AES 2022
 
-- Up to two additional ECR grants (poster format, $1000 in total) + free registration at AES 2022
+- Up to two additional ECR grants (poster format, $500 each) + free registration at AES 2022
 
 - Two highly commended (free registration at AES 2022)
  
