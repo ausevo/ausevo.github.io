@@ -1,8 +1,8 @@
 
 ---
-layout: page
-css: /css/index.css
 title: "AES"
+css: /css/index.css
+layout: page
 subtitle: ECR networking grants (students + postdoctoral researchers)
 ---
 
