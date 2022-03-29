@@ -1,6 +1,17 @@
+---
+title: "AES"
+css: /css/index.css
+layout: page
+subtitle: ECR grants
+bigimg:
+- /img/big-imgs/kook.jpg: Kookaburra
+- /img/big-imgs/duck2.jpg: The Boss
+- /img/big-imgs/flower.JPG: Flower
+- /img/big-imgs/katydid.jpg: Who did? Katydid
+- /img/big-imgs/kook2.jpg: Good one
+---
 
-
-# ECR networking grants (students + postdoctoral researchers)
+**Open to students and postdoctoral researchers**
 
 **Deadline: June 15 / 2022**
 
