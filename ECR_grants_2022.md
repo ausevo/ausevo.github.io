@@ -1,10 +1,6 @@
 
----
-title: "AES"
-css: /css/index.css
-layout: page
-subtitle: ECR networking grants (students + postdoctoral researchers)
----
+
+# ECR networking grants (students + postdoctoral researchers)
 
 **Deadline: June 15 / 2022**
 
