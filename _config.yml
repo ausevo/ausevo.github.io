@@ -25,11 +25,11 @@ navbar-links:
   Opportunities: "jobs"
   Conference: 
     - Overview: "conference"
-    - Registration: "registration"
-    - Programme: "programme"
-    - Local Dinners: "food" 
-    - Awards: "prizes"
-    - Code of conduct: "accommodation"
+    #- Registration: "registration"
+    #- Programme: "programme"
+    #- Local Dinners: "food" 
+    #- Awards: "prizes"
+    #- Code of conduct: "accommodation"
    
   Resources:
     - Contact us: "contact"

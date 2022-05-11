@@ -1,5 +1,5 @@
 ---
-title: "AES 2021"
+title: "AES 2022"
 css: /css/index.css
 layout: page
 bigimg:
@@ -7,24 +7,10 @@ bigimg:
 ---
 
 
-# AES 2021 is coming!
+# AES 2022 is coming!
 
-#### The conference will take place between the 1st and 3rd of December 2021.
+#### We are super excited to announce that out annual AES conference will be happening in Canberra, from the 14th to the 16th of December.
 
-#### Please download the conference schedule from [here](./docs/ScheduleAES2021.pdf)  
-
-Map of Monash locations [here](./docs/AES_Map2.pdf)
-
-### General overview:
-
-**Wednesday Dec 1:** Drinks and introductions at Monash Club (17:00 to 20:00)
-
-**Thursday Dec 2:** Sign in & Coffee (9:00) followed by tag-team talks, 3-minute talks and two afternoon sessions.
-
-**Friday Dec 3:** Coffee & Morning tea (9:00) followed by tag-team talks, 3-minute talks and two afternoon sessions. *Buses will take people from Monash to dinner and afterparty at LaDiDa.*  
-
-We have a Slack channel [here!](https://join.slack.com/t/ausevo2021/shared_invite/zt-zj8nvumr-9OVus~QA5~Q7gCYOJBiWRw) that will be used for socializing,  discussion and general (non-urgent) communication **note: questions during talks will only be taken through zoom (or live)** 
-
-#### **VOTE [HERE](https://docs.google.com/forms/d/e/1FAIpQLScwivTcrZwlE8sWHbVckz1oGk2rh2V9Nyj4u5-oGvHZazKZ-w/viewform) for your favourite 3-min talk!**
-
-AES 2021 will be a hybrid face-to-face/virtual meeting held at **Monash University’s Clayton Campus in Victoria**. We aim to provide an inclusive environment for Evolutionary Biologists at all career stages, including parents and those of us that identify with traditionally under-represented groups, so we can present our evolutionary research work and engage in friendly discussion and debate.
+We have secured a great venue at ANU, and really hope that you all can come and end the year with both great science and great company. If it’s unfeasible for you to come, we will also do our best to have an online option so you can still join us. 
+ 
+We will be opening registration in a couple of months so please keep an eye open for that, as well as announcements about travel support for ECRs.
