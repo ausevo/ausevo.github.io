@@ -3,7 +3,7 @@ title: "AES 2022"
 css: /css/index.css
 layout: page
 bigimg:
-- /img/big-imgs/melbs.jpg: Flinders station at night
+- /img/big-imgs/Canberra_twilight.jpg: Canberra at twilight
 ---
 
 
