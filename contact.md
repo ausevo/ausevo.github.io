@@ -4,6 +4,18 @@ subtitle: Contact
 layout: page
 ---
 
+## Contact us
+
+**Email**: ausevolutionsociety@gmail.com
+
+We are also active on twitter **@AustEvolSoc**
+
+$~$
+
+## The AES 2022 Team
+
+$~$
+
 **President**  
 Dr Iliana Medina  
 School of BioSciences, University of Melbourne  
