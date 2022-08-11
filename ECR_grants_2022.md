@@ -42,7 +42,7 @@ Dr Renee Firman, ARC Future Fellow, University of Western Australia
 ![Dr Renee Firman][[http://ausevo.github.io/img/Renee photo.jpg|width=100px]]  
 
 Prof Sasha Mikheyev, Australian National University  
-![Dr Sasha Mikheyev][[http://ausevo.github.io/img/Sasha.jpg|width=100px]] 
+!![img|320x271](hhttp://ausevo.github.io/img/Sasha.jpg)
  
 # *Grant description*
 
