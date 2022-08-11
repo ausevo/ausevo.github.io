@@ -11,7 +11,7 @@ bigimg:
 - /img/big-imgs/kook2.jpg: Good one
 ---
 
-#*OUTCOMES OF AES NETWORKING GRANTS!*
+# *OUTCOMES OF AES NETWORKING GRANTS!*
 
 We are very excited to announce the winners of our inaugural AES ECR Networking grants!
 
@@ -31,20 +31,20 @@ BIG CONGRATULATIONS TO:
 
 All our winners will also receive free registration at the conference this year.
 
-##*JUDGING PANEL*
+## *JUDGING PANEL*
 
 HUGE THANK YOU TO OUR JUDGING PANEL, ALL EXCELLENT RESEARCHERS AND SCIENCE COMMUNICATORS:
 
-Dr Emma Sherratt, ARC Future Fellow, University of Adelaide
-![Dr Emma Sherratt](http://ausevo.github.io/img/Emma.jpg){width=30%} 
+Dr Emma Sherratt, ARC Future Fellow, University of Adelaide  
+![Dr Emma Sherratt](http://ausevo.github.io/img/Emma.jpg){width=250px} 
 
-Dr Renee Firman, ARC Future Fellow, University of Western Australia
-![Dr Renee Firman](http://ausevo.github.io/img/Renee photo.jpg){width=30%}
+Dr Renee Firman, ARC Future Fellow, University of Western Australia  
+![Dr Renee Firman](http://ausevo.github.io/img/Renee photo.jpg){width=250px}
 
-Prof Sasha Mikheyev, Australian National University
-![Dr Sasha Mikheyev](http://ausevo.github.io/img/Sasha.jpg){width=30%}
+Prof Sasha Mikheyev, Australian National University  
+![Dr Sasha Mikheyev](http://ausevo.github.io/img/Sasha.jpg){width=250px}
  
-*Grant description*
+# *Grant description*
 
 The Australasian Evolution Society is committed to expanding and providing opportunities for young researchers in the field. This year we will offer support by providing ECR grants towards projects undertaken in the Australasian region. 
  
