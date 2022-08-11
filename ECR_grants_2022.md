@@ -36,8 +36,7 @@ All our winners will also receive free registration at the conference this year.
 HUGE THANK YOU TO OUR JUDGING PANEL, ALL EXCELLENT RESEARCHERS AND SCIENCE COMMUNICATORS:
 
 Dr Emma Sherratt, ARC Future Fellow, University of Adelaide  
-<img src="http://ausevo.github.io/img/Emma.jpg" width="100" height="100">
- 
+![img|320x271](hhttp://ausevo.github.io/img/Emma.jpg)
 
 Dr Renee Firman, ARC Future Fellow, University of Western Australia  
 ![Dr Renee Firman][[http://ausevo.github.io/img/Renee photo.jpg|width=100px]]  
