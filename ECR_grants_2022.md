@@ -35,13 +35,13 @@ All our winners will also receive free registration at the conference this year.
 
 A huge THANK YOU to our panel, excellent researchers and science communicators:
 
-Dr Emma Sherratt, ARC Future Fellow, University of Adelaide   ![img|320x271](http://ausevo.github.io/img/Emma.jpg)
+Dr Emma Sherratt, ARC Future Fellow, University of Adelaide    ![](http://ausevo.github.io/img/Emma.jpg)
 
 Dr Renee Firman, ARC Future Fellow, University of Western Australia  
-![img|320x271](http://ausevo.github.io/img/Renee photo.jpg)  
+![](http://ausevo.github.io/img/Renee photo.jpg)  
 
 Prof Sasha Mikheyev, Australian National University  
-![img|320x271](http://ausevo.github.io/img/Sasha.jpg)
+![](http://ausevo.github.io/img/Sasha.jpg)
  
 # *Grant description*
 
