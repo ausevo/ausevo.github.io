@@ -11,38 +11,38 @@ bigimg:
 - /img/big-imgs/kook2.jpg: Good one
 ---
 
-*OUTCOMES AES NETWORKING GRANTS!*
+#*OUTCOMES OF AES NETWORKING GRANTS!*
 
 We are very excited to announce the winners of our inaugural AES ECR Networking grants!
 
 BIG CONGRATULATIONS TO:
 
-*First prize ($2500):* Dr Nathan Butterworth (Monash University)
+**First prize ($2500):** Dr Nathan Butterworth (Monash University)
 
 [![Watch the video](https://img.youtube.com/vi/Vb40BxNfiRg/maxresdefault.jpg)](https://youtu.be/Vb40BxNfiRg)
 
-*Runner up ($2000):* Dr Katarina Stuart (University of Auckland)
+**Runner up ($2000):** Dr Katarina Stuart (University of Auckland)
 
 [![Watch the video](https://vumbnail.com/720169058.jpg)](https://vimeo.com/720169058)
 
-*PhD award ($1500):* Simon Lobos (Deakin University)
+**PhD award ($1500):** Simon Lobos (Deakin University)
 
 [![Watch the video](https://vumbnail.com/720677044.jpg)](https://vimeo.com/720677044)
 
 All our winners will also receive free registration at the conference this year.
 
-*JUDGING PANEL*
+##*JUDGING PANEL*
 
 HUGE THANK YOU TO OUR JUDGING PANEL, ALL EXCELLENT RESEARCHERS AND SCIENCE COMMUNICATORS:
 
 Dr Emma Sherratt, ARC Future Fellow, University of Adelaide
-![Dr Emma Sherratt](http://ausevo.github.io/img/Emma.jpg) 
+![Dr Emma Sherratt](http://ausevo.github.io/img/Emma.jpg){width=30%} 
 
 Dr Renee Firman, ARC Future Fellow, University of Western Australia
-![Dr Renee Firman](http://ausevo.github.io/img/Renee photo.jpg) 
+![Dr Renee Firman](http://ausevo.github.io/img/Renee photo.jpg){width=30%}
 
 Prof Sasha Mikheyev, Australian National University
-![Dr Sasha Mikheyev](http://ausevo.github.io/img/Sasha.jpg)
+![Dr Sasha Mikheyev](http://ausevo.github.io/img/Sasha.jpg){width=30%}
  
 *Grant description*
 
