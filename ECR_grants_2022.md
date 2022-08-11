@@ -38,7 +38,7 @@ A huge THANK YOU to our panel, excellent researchers and science communicators:
 Dr Emma Sherratt, ARC Future Fellow, University of Adelaide    ![](http://ausevo.github.io/img/Emma.jpg)
 
 Dr Renee Firman, ARC Future Fellow, University of Western Australia  
-![](http://ausevo.github.io/img/Renee photo.jpg)  
+![](http://ausevo.github.io/img/Renee.jpg)  
 
 Prof Sasha Mikheyev, Australian National University  
 ![](http://ausevo.github.io/img/Sasha.jpg)
