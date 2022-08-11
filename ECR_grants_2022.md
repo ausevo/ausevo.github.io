@@ -33,7 +33,7 @@ All our winners will also receive free registration at the conference this year.
 
 ## JUDGING PANEL
 
-HUGE THANK YOU TO OUR JUDGING PANEL, ALL EXCELLENT RESEARCHERS AND SCIENCE COMMUNICATORS:
+A huge THANK YOU to our panel, excellent researchers and science communicators:
 
 Dr Emma Sherratt, ARC Future Fellow, University of Adelaide   ![img|320x271](http://ausevo.github.io/img/Emma.jpg)
 
