@@ -11,12 +11,41 @@ bigimg:
 - /img/big-imgs/kook2.jpg: Good one
 ---
 
-**Open to students and postdoctoral researchers**
+*OUTCOMES AES NETWORKING GRANTS!*
 
-**Deadline: June 15 / 2022**
+We are very excited to announce the winners of our inaugural AES ECR Networking grants!
 
-**Outcomes announced: August 2022**
+BIG CONGRATULATIONS TO:
+
+*First prize ($2500):* Dr Nathan Butterworth (Monash University)
+
+[![Watch the video](https://img.youtube.com/vi/Vb40BxNfiRg/maxresdefault.jpg)](https://youtu.be/Vb40BxNfiRg)
+
+*Runner up ($2000):* Dr Katarina Stuart (University of Auckland)
+
+[![Watch the video](https://vumbnail.com/720169058.jpg)](https://vimeo.com/720169058)
+
+*PhD award ($1500):* Simon Lobos (Deakin University)
+
+[![Watch the video](https://vumbnail.com/720677044.jpg)](https://vimeo.com/720677044)
+
+All our winners will also receive free registration at the conference this year.
+
+*JUDGING PANEL*
+
+HUGE THANK YOU TO OUR JUDGING PANEL, ALL EXCELLENT RESEARCHERS AND SCIENCE COMMUNICATORS:
+
+Dr Emma Sherratt, ARC Future Fellow, University of Adelaide
+![Dr Emma Sherratt](http://ausevo.github.io/img/Emma.jpg) 
+
+Dr Renee Firman, ARC Future Fellow, University of Western Australia
+![Dr Renee Firman](http://ausevo.github.io/img/Renee photo.jpg) 
+
+Prof Sasha Mikheyev, Australian National University
+![Dr Sasha Mikheyev](http://ausevo.github.io/img/Sasha.jpg)
  
+*Grant description*
+
 The Australasian Evolution Society is committed to expanding and providing opportunities for young researchers in the field. This year we will offer support by providing ECR grants towards projects undertaken in the Australasian region. 
  
 **Distribution of grants**
