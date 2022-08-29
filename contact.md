@@ -16,7 +16,7 @@ We are also active on twitter **@AustEvolSoc**
 
 **President**  
 Dr Iliana Medina  
-School of BioSciences, University of Melbourne  
+School of BioSciences, The University of Melbourne  
 **E:** iliana.medina[at]unimelb.edu.au   
 
 **Vice-President**  
