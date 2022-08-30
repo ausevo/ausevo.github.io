@@ -24,12 +24,12 @@ navbar-links:
   ECR Grants: "ECR_grants_2022"
   Opportunities: "jobs"
   Conference: 
-    - Overview: "conference"
+    - Overview: "conference_2022"
     #- Registration: "registration"
     #- Programme: "programme"
     #- Local Dinners: "food" 
     #- Awards: "prizes"
-    #- Code of conduct: "accommodation"
+    - Accomodation: "accommodation"
    
   Resources:
     - Contact us: "contact"
