@@ -18,7 +18,9 @@ We aim to provide a covid-safe, inclusive environment where Evolutionary Biologi
 
 **Registration opens**: 1st of September
 
-**Early bird registration closes**: 1st of November (if you would like to present a talk please register by this date)
+Register **[here](https://aes.corsizio.com/c/6305473446e7234776af02db)**
+
+**Early bird registration closes**: 1st of November (if you would like to present a talk or be considered for a travel grant please register by this date)
 
 **Final registration closes**: 1st of December
 
@@ -44,25 +46,25 @@ We are organizing an outdoor, end of conference gathering where we can relax a l
 
 **Cost**: $85 per person (paid when you register)
 
-**Inclusions**: Canapés, Bar (**does this mean a tab?**), music and dancing
+**Inclusions**: Canapés, drinks, music and dancing
 
 #### Presentations
 
-When you register, please indicate whether you would like to present. These will be your options: **how long is each option?**
+When you register, please indicate whether you would like to present. These will be your options:
 
 - No, I am happy just listening to some really amazing talks
 
-- Long talk, my research is so cool, you won’t be able to shut me up
+- Long talk (10 mins + 2 mins questions), my research is so cool, you won’t be able to shut me up
 
-- Flash talk, I’ve got some super neat stuff to tell you but it won’t take me that long
+- Flash talk (3 mins), I’ve got some super neat stuff to tell you but it won’t take me that long
 
-- Tag-team talk\*, not only am I awesome, my whole team is awesome and we all really want to tell you about what we’re doing
+- Tag-team talk\* (~40 mins), not only am I awesome, my whole team is awesome and we all really want to tell you about what we’re doing
 
 \*Tag-team talks are talks given by several members of the same research group (4/5), talking about related research topics that can be told as a whole story.
 
 #### Accomodation 
 
-See this [page](...) for details.
+See this [page](accommodation.md) for details.
 
 #### Equity and Inclusion
 
