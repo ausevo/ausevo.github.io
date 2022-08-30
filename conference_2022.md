@@ -29,7 +29,7 @@ Register **[here](https://aes.corsizio.com/c/6305473446e7234776af02db)**
 All registration fees are in Australian dollars and are inclusive of GST. Early bird registration closes on the 1st of November, and standard registration closes on the 1st of December.
 
 
-![](Rplot.png)
+![](test_plot.png)
 
 
 **_In person registration includes_**: Welcome drinks, conference activities, morning tea, lunch, afternoon tea
