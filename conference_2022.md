@@ -12,11 +12,12 @@ bigimg:
 #### Australian National University, Canberra
 
 
+**AES Research Excellence Awards are now open**, apply [here](excellence_awards.md).
+
+
 AES 2022 will be a face-to-face conference (with online options) held at the Australian National University, Canberra.
 
 We aim to provide a covid-safe, inclusive environment where Evolutionary Biologists can present their research and engage with each other in open discussions and friendly debates (please see Equity and Inclusion section below). We welcome people from all career stages, including parents and those that identify with traditionally under-represented groups.
-
-Stay tuned for more information on **ECR awards**.
 
 **Registration opens**: 1st of September
 

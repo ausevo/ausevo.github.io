@@ -25,7 +25,7 @@ navbar-links:
   Opportunities: "jobs"
   Conference: 
     - Overview: "conference_2022"
-    #- Registration: "registration"
+    - Research Excellence Awards: "excellence_awards"
     #- Programme: "programme"
     #- Local Dinners: "food" 
     #- Awards: "prizes"
