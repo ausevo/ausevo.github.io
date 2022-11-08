@@ -11,25 +11,30 @@ bigimg:
 
 #### Australian National University, Canberra
 
+The exact location is shown [here](AES_map.pdf)
 
-**AES Research Excellence Awards are now open**, apply [here](excellence_awards.md).
+
+**[AES Research Excellence Awards](excellence_awards.md) are now closed**.
 
 
 AES 2022 will be a face-to-face conference (with online options) held at the Australian National University, Canberra.
 
 We aim to provide a covid-safe, inclusive environment where Evolutionary Biologists can present their research and engage with each other in open discussions and friendly debates (please see Equity and Inclusion section below). We welcome people from all career stages, including parents and those that identify with traditionally under-represented groups.
 
+Because we know that travelling plans need to start soon, we have made a [general program](Program_2022.md) available, so that you get an idea of what we are planning. Some small details of times might change, but the general schedule and starting/finishing times will be these. The conference will **start on the Wednesday Dec 14th at mid-day**. 
+
+
 **Registration opens**: 1st of September
 
 Register **[here](https://aes.corsizio.com/c/6305473446e7234776af02db)**
 
-**Early bird registration closes**: 1st of November (if you would like to present a talk or be considered for a travel grant please register by this date)
+**Early bird registration is closed**: note that we are now in the thick of organising the conference, so registrations beyond this point will not be considered for talks or travel grants
 
 **Final registration closes**: 1st of December
 
 #### Registration fees
 
-All registration fees are in Australian dollars and are inclusive of GST. Early bird registration closes on the 1st of November, and standard registration closes on the 1st of December.
+All registration fees are in Australian dollars and are inclusive of GST.
 
 
 ![](conference_fees.png)
@@ -53,17 +58,15 @@ We are organizing an outdoor, end of conference gathering where we can relax a l
 
 #### Presentations
 
-When you register, please indicate whether you would like to present. These will be your options:
+Many awesome talks were submitted, and we are now working hard on organising the program. There will be four types of presentation at AES 2022.
 
-- No, I am happy just listening to some really amazing talks
+- ECR plenaries: 30 minute presentations showcasing the most exciting science being done by ECR members of the AES community
 
-- Long talk (10 mins + 2 mins questions), my research is so cool, you won’t be able to shut me up
+- Tag-team talks: ~40 min talks given by several members of the same research group (4/5), talking about related research topics that can be told as a whole story
 
-- Flash talk (3 mins), I’ve got some super neat stuff to tell you but it won’t take me that long
+- Long talks: 10 mins + 3 mins questions
 
-- Tag-team talk\* (~40 mins), not only am I awesome, my whole team is awesome and we all really want to tell you about what we’re doing
-
-\*Tag-team talks are talks given by several members of the same research group (4/5), talking about related research topics that can be told as a whole story.
+- Flash talks: 3 mins + a shared question time
 
 #### Accomodation 
 

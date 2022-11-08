@@ -1,5 +1,5 @@
 ---
-title: "2022 AES conference accomodation"
+title: "2022 AES conference accommodation"
 css: /css/index.css
 layout: page
 bigimg:
