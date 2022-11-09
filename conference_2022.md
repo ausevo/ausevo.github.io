@@ -39,7 +39,6 @@ All registration fees are in Australian dollars and are inclusive of GST.
 
 ![](conference_fees.png)
 
-
 **_In person registration includes_**: Welcome drinks, conference activities, morning tea, lunch, afternoon tea
 
 **_Online registration includes_**: online access to conference activities, the opportunity to present your work
