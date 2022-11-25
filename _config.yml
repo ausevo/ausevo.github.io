@@ -30,7 +30,7 @@ navbar-links:
     #- Programme: "programme"
     #- Local Dinners: "food" 
     #- Awards: "prizes"
-    - Accomodation: "accommodation"
+    - Accommodation: "accommodation"
    
   Resources:
     - Contact us: "contact"
