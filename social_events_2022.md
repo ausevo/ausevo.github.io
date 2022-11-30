@@ -31,5 +31,5 @@ We have organised an outdoor, end of conference gathering where we can relax a l
 
 **Inclusions**: Canapés, drinks, music and dancing
 
-![](Social_event.pdf)
+![](pngs/Social_event.png)
 

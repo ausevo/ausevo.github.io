@@ -8,22 +8,14 @@ bigimg:
 
 #### General program
 
-![](Program_summary.pdf)
-
-\includegraphics[page=2]{Program_summary.pdf}
+![](pngs/Program_summary.png)
 
 #### Long talk program
 
-![](Long_talks_1.pdf)
+![](pngs/Long_talks_1.png)
 
-\includegraphics[page=2]{Long_talks_1.pdf}
-
-![](Schedule/Long_talks_2.pdf)
-
-\includegraphics[page=2]{Long_talks_2.pdf}
+![](pngs//Long_talks_2.png)
 
 #### Short talk program
 
-![Alt](3min_2022.pdf)
-
-\includegraphics[page=2]{3min_2022.pdf}
+![](pngs/3min_2022.png)

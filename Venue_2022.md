@@ -8,6 +8,6 @@ bigimg:
 
 The conference will be held in the Crawford building on the ANU campus. 
 
-![](Crawford.pdf)
+![](pngs/Crawford.png)
 
-![](Crawford_inside.pdf)
+![](pngs/Crawford_inside.png)
