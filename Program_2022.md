@@ -10,12 +10,20 @@ bigimg:
 
 ![](Program_summary.pdf)
 
+\includegraphics[page=2]{Program_summary.pdf}
+
 #### Long talk program
 
 ![](Long_talks_1.pdf)
 
+\includegraphics[page=2]{Long_talks_1.pdf}
+
 ![](Schedule/Long_talks_2.pdf)
+
+\includegraphics[page=2]{Long_talks_2.pdf}
 
 #### Short talk program
 
 ![Alt](3min_2022.pdf)
+
+\includegraphics[page=2]{3min_2022.pdf}
