@@ -6,4 +6,16 @@ bigimg:
 - /img/big-imgs/Canberra_twilight.jpeg: Canberra at twilight
 ---
 
-We are currently working on our program, with specific details to be released later. To aid planning in the meantime, a general outline can be viewed in pdf form [here](AES_2022_general_timetable.pdf).
+#### General program
+
+![](Program_summary.pdf)
+
+#### Long talk program
+
+![](Long_talks_1.pdf)
+
+![](Schedule/Long_talks_2.pdf)
+
+#### Short talk program
+
+![](3min_2022.pdf)
