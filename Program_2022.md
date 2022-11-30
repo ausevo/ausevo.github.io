@@ -18,4 +18,4 @@ bigimg:
 
 #### Short talk program
 
-![](3min_2022.pdf)
+![Alt](3min_2022.pdf)
