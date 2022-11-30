@@ -11,53 +11,22 @@ bigimg:
 
 #### Australian National University, Canberra
 
-The exact location is shown [here](AES_map.pdf)
+AES 2022 will be a face-to-face conference (with online options) held at the Australian National University, Canberra. 
 
-
-**[AES Research Excellence Awards](excellence_awards.md) are now closed**.
-
-
-AES 2022 will be a face-to-face conference (with online options) held at the Australian National University, Canberra.
+The [AES 2022 booklet](Booklet_AES2022.pdf) is now available for download. The full program can also be viewed under the [program](Program_2022.md) tab. 
 
 We aim to provide a covid-safe, inclusive environment where Evolutionary Biologists can present their research and engage with each other in open discussions and friendly debates (please see Equity and Inclusion section below). We welcome people from all career stages, including parents and those that identify with traditionally under-represented groups.
 
-Because we know that travelling plans need to start soon, we have made a [general program](Program_2022.md) available, so that you get an idea of what we are planning. Some small details of times might change, but the general schedule and starting/finishing times will be these. The conference will **start on the Wednesday Dec 14th at mid-day**. 
-
-
-**Registration opens**: 1st of September
-
-Register **[here](https://aes.corsizio.com/c/6305473446e7234776af02db)**
-
-**Early bird registration is closed**: note that we are now in the thick of organising the conference, so registrations beyond this point will not be considered for talks or travel grants
-
-**Final registration closes**: 1st of December
-
-#### Registration fees
-
-All registration fees are in Australian dollars and are inclusive of GST.
-
-
-![](conference_fees.png)
+Our program is now finalised, but you still have till the 1st of December to [register](https://aes.corsizio.com/c/6305473446e7234776af02db) for attendance only.
 
 **_In person registration includes_**: Welcome drinks, conference activities, morning tea, lunch, afternoon tea
 
 **_Online registration includes_**: online access to conference activities, the opportunity to present your work
 
-#### Conference Dinner
-
-We are organizing an outdoor, end of conference gathering where we can relax a little and celebrate a week of listening to awesome science with awesome people.
-
-**Location**: Pollen Café, Botanic Gardens (15 minute walk from conference venue)
-
-**Time**: 7 – 11pm, Friday 16th December
-
-**Cost**: $85 per person (paid when you register)
-
-**Inclusions**: Canapés, drinks, music and dancing
 
 #### Presentations
 
-Many awesome talks were submitted, and we are now working hard on organising the program. There will be four types of presentation at AES 2022.
+Many awesome talks were submitted, which can now be viewed in our program. There will be four types of presentation at AES 2022.
 
 - ECR plenaries: 30 minute presentations showcasing the most exciting science being done by ECR members of the AES community
 
@@ -67,7 +36,7 @@ Many awesome talks were submitted, and we are now working hard on organising the
 
 - Flash talks: 3 mins + a shared question time
 
-#### Accomodation 
+#### Accommodation 
 
 See this [page](accommodation.md) for details.
 

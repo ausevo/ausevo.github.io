@@ -26,8 +26,9 @@ navbar-links:
   Conference: 
     - Overview: "conference_2022"
     - Program: "Program_2022"
-    - Research Excellence Awards: "excellence_awards"
-    #- Programme: "programme"
+    - Venue: "Venue_2022"
+    - Social: "social_events_2022"
+   # - Research Excellence Awards: "excellence_awards"
     #- Local Dinners: "food" 
     #- Awards: "prizes"
     - Accommodation: "accommodation"
