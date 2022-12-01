@@ -18,4 +18,4 @@ bigimg:
 
 #### Short talk program
 
-![](pngs/3min_2022.png){width = 100%}
+![](pngs/3min_2022.png)
