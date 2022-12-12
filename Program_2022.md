@@ -8,7 +8,7 @@ bigimg:
 
 #### General program
 
-The overall schedule of the program is displayed here, while the specific talks that will take place in each session/room are shown below.
+An outline of the program is displayed here, while the specific talks that will take place in each session/room are shown below.
 
 ![](pngs/Program_summary.png)
 
