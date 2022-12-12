@@ -13,16 +13,15 @@ bigimg:
 
 AES 2022 will be a face-to-face conference (with online options) held at the Australian National University, Canberra. 
 
-The [AES 2022 booklet](Booklet_AES2022.pdf) is now available for download. The full program can also be viewed under the [program](Program_2022.md) tab. 
+The [AES 2022 booklet](Booklet_AES2022.pdf) is now available for download. The full program can also be viewed under the [program](Program_2022.md) tab. We also have a [Slack channel](https://join.slack.com/t/ausevo2022/shared_invite/zt-1lpv8sv00-ltuBOofLsdShHMJ5bGjO6w), where you can engage with each presenter and/or other audience members as the conference is going on (this is the same one as last year, so you may have already joined!). On this channel you can also find the schedule and any updates we will need to provide throughout the conference.
 
 We aim to provide a covid-safe, inclusive environment where Evolutionary Biologists can present their research and engage with each other in open discussions and friendly debates (please see Equity and Inclusion section below). We welcome people from all career stages, including parents and those that identify with traditionally under-represented groups.
 
-Our program is now finalised, but you still have till the 1st of December to [register](https://aes.corsizio.com/c/6305473446e7234776af02db) for attendance only.
+Our program is now finalised and the conference is upon us!
 
 **_In person registration includes_**: Welcome drinks, conference activities, morning tea, lunch, afternoon tea
 
-**_Online registration includes_**: online access to conference activities, the opportunity to present your work
-
+**_Online registration includes_**: online access to conference activities, the opportunity to present your work - see the [Online](online_2022.md) tab for info on how to access the conference. 
 
 #### Presentations
 
