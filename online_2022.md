@@ -14,11 +14,11 @@ We also have a [Slack channel](https://join.slack.com/t/ausevo2022/shared_invite
 
 This is the room we will use for all house-keeping, plenaries, tag-team and flash talks.
 
-(Join Molonglo)[https://unimelb.zoom.us/j/85971041634?pwd=RkNhdjF2YWZ6V1BpZHZRajlwM2dOQT09]
+[Join Molonglo](https://unimelb.zoom.us/j/85971041634?pwd=RkNhdjF2YWZ6V1BpZHZRajlwM2dOQT09)
  
 #### Brindabella
  
-(Join Brindabella)[https://anu.zoom.us/j/86954551139?pwd=WXhFRUlRdnhsUjIxWTZNOWhucnM1UT09]
+[Join Brindabella](https://anu.zoom.us/j/86954551139?pwd=WXhFRUlRdnhsUjIxWTZNOWhucnM1UT09)
  
 #### Barton
 
