@@ -11,12 +11,12 @@ layout: page
 We are also active on twitter **@AustEvolSoc**
 
 
-## The AES 2022 Team
+## The AES 2022 Exec Team
 
 
 **President**  
 Dr Iliana Medina  
-School of BioSciences, University of Melbourne  
+School of BioSciences, The University of Melbourne  
 **E:** iliana.medina[at]unimelb.edu.au   
 
 **Vice-President**  
