@@ -24,7 +24,7 @@ navbar-links:
   ECR Grants: "ECR_grants_2022"
   Opportunities: "jobs"
   Conference: 
-    - Overview: "conference_2023"
+    - Overview: "2023_conference"
     # - Program: "Program_2022"
     # - Venue: "Venue_2022"
     # - Social: "social_events_2022"
@@ -32,7 +32,7 @@ navbar-links:
    # - Research Excellence Awards: "excellence_awards"
     #- Local Dinners: "food" 
     #- Awards: "prizes"
-    - Accom: "accommodation"
+    # - Accom: "accommodation"
    
   Resources:
     - Contact us: "contact"
