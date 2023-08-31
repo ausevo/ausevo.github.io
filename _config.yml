@@ -38,7 +38,7 @@ navbar-links:
     - Contact us: "contact"
     - AES Constitution: "constitution"
     - AES Minutes: "requestMins"  
-    - Useful Links: "links"      
+    # - Useful Links: "links"      
     
 # docs/aes_agm_2014.pdf  removed from resources
 # Image to show in the navigation bar - image must be a square (width = height)
