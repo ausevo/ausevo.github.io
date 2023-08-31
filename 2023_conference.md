@@ -3,7 +3,7 @@ title: "2023 Australasian Evolution Society Conference"
 css: /css/index.css
 layout: page
 bigimg:
-- /img/big-imgs/Adelaide_SA_trentino_prior.jpeg: Panorama of Adelaide by Trentino Priori (Wikimedia Commons, 2014)
+- /img/big-imgs/Adelaide_SA_trentino_priori.jpg: Panorama of Adelaide by Trentino Priori (Wikimedia Commons, 2014)
 ---
 
 #### Wednesday 13th – Friday 15th December 2023
