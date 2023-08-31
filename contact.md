@@ -65,8 +65,9 @@ School of Biotechnology and Biomolecular Sciences, University of New South Wales
 **E:** v.nandel[at]unsw.edu.au
 
 
-#### PUBLIC OFFICER
-Sarin "Putter" Tiatragul  
+### PUBLIC OFFICER
+
+**Sarin "Putter" Tiatragul**
 Research School of Biology, Australian National University  
 **E:** sarin.tiatragul[at]anu.edu.au  
 
