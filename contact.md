@@ -4,57 +4,73 @@ subtitle: Contact
 layout: page
 ---
 
-## Contact us
+# Contact us
 
 **Email**: ausevolutionsociety@gmail.com
 
 We are also active on twitter **@AustEvolSoc**
 
 
-## The AES 2022 Exec Team
+# The AES 2023 Exec Team
+
+  
 
 
-**President**  
-Dr Iliana Medina  
-School of BioSciences, The University of Melbourne  
-**E:** iliana.medina[at]unimelb.edu.au   
-
-**Vice-President**  
-Dr Megan Head  
+### PRESIDENT
+**Dr Megan Head**  
 School of Biology, Australian National University  
 **E:** megan.head[at]anu.edu.au  
 
-**Treasurer**
+### VICE-PRESIDENT
+**Dr Emma Sherratt**  
+School of Biological Sciences, The University of Adelaide  
+**E:** emma.sherratt[at]adalaide.edu.au  
 
-Dr Venkatesh Nagarajan  
+### TREASURER
+**Dr John Whale**  
+School of Science, Edith Cowan University  
+**E:** john.whale[at]ecu.edu.au  
+
+### SECRETARY
+
+**Dr Venkatesh Nagarajan**  
 School of Life and Environmental Sciences, University of Sydney  
 **E:** venkatesh.nagarajan[at]sydney.edu.au
 
-**Secretary**
+### VICE-PRESIDENT ELECT
 
-Dr Erin Macartney  
-School of Biology, University of New South Wales  
-**E:** e.macartney[at]unsw.edu.au   
+**Dr Renée Claire Firman**
+School of Biological Sciences, University of Western Australia  
+**E:** renee.firman[at]uwa.edu.au  
 
-**Vice President elect**
+### ECR REPRESENTATIVES
 
-Prof Sasha Mikheyev  
-School of Biology, Australian National University  
-**E:** alexander.mikheyev[at]anu.edu.au
-
-**ECR representatives**
-
-Dr Rowan Lymbery   
-School of Biological Sciences, University of Western Australia
+**Dr Rowan Lymbery**  
+School of Biological Sciences, University of Western Australia  
 **E:** rowan.lymbery[at]uwa.edu.au  
 
-Sara Ryding  
-Center for Integrative Ecology, Deakin University  
-**E:** sryding[at]deakin.edu.au
+**Dr Upama Aich**  
+School of Biological Sciences, Monash University  
+**E:** upama.aich[at]monash.edu
 
-**Social media team (@AustEvolSoc)**  
+**Jessica Hadlow**  
+School of Biological Sciences, University of Western Australia  
+**E:** jessica.hadlow[at]research.uwa.edu.au
 
-John Whale (Western Sydney University)  
-Thomas Keaney (University of Melbourne)  
-**We are looking for someone to be part of the team! Get in touch!**
+
+### SOCIAL MEDIA TEAM (@AustEvolSoc) 
+
+**Vibhuti Nandel**  
+School of Biotechnology and Biomolecular Sciences, University of New South Wales  
+**E:** v.nandel[at]unsw.edu.au
+
+
+#### PUBLIC OFFICER
+Sarin "Putter" Tiatragul  
+Research School of Biology, Australian National University  
+**E:** sarin.tiatragul[at]anu.edu.au  
+
+
+
+*We are looking for someone to be part of the team! Get in touch!*
 
