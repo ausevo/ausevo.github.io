@@ -61,14 +61,3 @@ The following instruction is for Windows but more information can be found at [T
 We welcome contributions from the AES community for news and blog posts! Please contact ausevolutionsociety@gmail.com.  
 
 If you find any bugs, have suggestions for improvements please open an issue or submit a pull request.
-
-## Contributors
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
