@@ -21,8 +21,8 @@ navbar-links:
   News: "news"
   Blog: "blog"
   Join!: "join"
-  ECR Grants: "ECR_grants_2022"
-  Opportunities: "jobs"
+  Contact us: "contact"
+  # ECR Grants: "ECR_grants_2022"
   Conference: 
     # - Overview: "2023_conference"
     - Registration: "registration"
@@ -36,7 +36,7 @@ navbar-links:
     - Accom: "accommodation"
    
   Resources:
-    - Contact us: "contact"
+    # - Opportunities: "jobs"
     # - AES Exec Team: "2023_exec"
     - AES Constitution: "constitution"
     - AES Minutes: "requestMins"  
