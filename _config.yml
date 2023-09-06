@@ -24,18 +24,20 @@ navbar-links:
   ECR Grants: "ECR_grants_2022"
   Opportunities: "jobs"
   Conference: 
-    - Overview: "2023_conference"
+    # - Overview: "2023_conference"
+    - Registration: "registration"
     # - Program: "pages/conference_2020"
     # - Venue: "Venue_2022"
     # - Social: "social_events_2022"
     # - Online: "online_2022"
-   # - Research Excellence Awards: "excellence_awards"
+    # - Research Excellence Awards: "excellence_awards"
     #- Local Dinners: "food" 
     #- Awards: "prizes"
-    # - Accom: "accommodation"
+    - Accom: "accommodation"
    
   Resources:
     - Contact us: "contact"
+    # - AES Exec Team: "2023_exec"
     - AES Constitution: "constitution"
     - AES Minutes: "requestMins"  
     # - Useful Links: "links"      
