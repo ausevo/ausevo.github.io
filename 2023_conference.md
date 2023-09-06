@@ -10,7 +10,9 @@ bigimg:
 
 #### University of Adelaide, Adelaide, South Australia
 
-AES 2023 will be held at the University of Adelaide! More details will be announced soon.   
+AES 2023 will be held at the University of Adelaide! 
 
-Any questions please send us an email: ausevolutionsociety@gmail.com
+[**Registration is now open!**](https://aes.corsizio.com/c/64f6e3f54cd9942d94aae2c9)
+
+For more information visit the [registration page](/registration/)
 
