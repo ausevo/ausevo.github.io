@@ -11,7 +11,7 @@ bigimg:
 - /img/big-imgs/kook2.jpg: Good one
 ---
 
-# OUTCOMES OF AES NETWORKING GRANTS!
+# OUTCOMES OF 2022 AES NETWORKING GRANTS!
 
 We are very excited to announce the winners of our inaugural AES ECR Networking grants!
 
