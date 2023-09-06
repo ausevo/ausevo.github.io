@@ -4,15 +4,6 @@
 
 Welcome to the GitHub repository for the **Australasian Evolution Society Website**. This repository houses the source code and assets for the official website of the Australasian Evolution Society (AES). 
 
-## Table of Contents
-
-- [About the Australasian Evolution Society](#about-the-australasian-evolution-society)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## About the Australasian Evolution Society
 
 The **Australasian Evolution Society** is a learned society founded in 1999. We are devoted to bringing evolutionary biologists together to promote intellectual exchange and to foster and advance evolutionary biology.  
