@@ -4,9 +4,9 @@ css: /css/index.css
 layout: page
 bigimg:
 - /img/big-imgs/Adelaide_SA_trentino_priori.jpg: Panorama of Adelaide by Trentino Priori (Wikimedia Commons, 2014)
-- /img/big-imgs/taewcharoen2.jpg: Hills outside of Adelaide (N Taewcharoen, 2023)
-- /img/big-imgs/taewcharoen3.jpg: South Australian Museum (N Taewcharoen, 2023)
-- /img/big-imgs/taewcharoen5.jpg: Adelaide (N Taewcharoen, 2023)
+- /img/big-imgs/Taewcharoen2.jpg: Hills outside of Adelaide (N Taewcharoen, 2023)
+- /img/big-imgs/Taewcharoen3.jpg: South Australian Museum (N Taewcharoen, 2023)
+- /img/big-imgs/Taewcharoen5.jpg: Adelaide (N Taewcharoen, 2023)
 ---
 
 We have sourced some cheaper accommodation options close the the conference venue.   
