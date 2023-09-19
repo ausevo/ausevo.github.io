@@ -20,9 +20,9 @@ navbar-links:
   About: " "
   News: "news"
   Blog: "blog"
-  Join!: "join"
-  Contact us: "contact"
   ECR Grants: "excellence_awards"
+  # Join!: "join"
+  Contact us: "contact"
   Conference: 
     # - Overview: "2023_conference"
     - Registration: "registration"
