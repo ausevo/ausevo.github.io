@@ -1,5 +1,5 @@
 ---
-title: "AES Research Excellence Awards"
+title: "AES Best Paper Award"
 css: /css/index.css
 layout: page
 bigimg:
@@ -10,7 +10,7 @@ bigimg:
 
 With joint sponsorship from the Evolutionary Journal of the Linnean Society, the AES is excited to announce that we are now taking applications for the 2023 ECR Best Paper Award! 
  
-If you are an ECR (PhD student or postdoc 5 years since PhD) and would like to be considered for the Award, please complete the attached application form and email this, along with your best/favourite paper, to the AES ([ausevolutionsociety@gmail.com](mailto:ausevolutionsociety@gmail.com)).  
+If you are an ECR (PhD student or postdoc 5 years since PhD) and would like to be considered for the Award, please complete the attached application form and email this, **along with your best/favourite paper**, to the AES ([ausevolutionsociety@gmail.com](mailto:ausevolutionsociety@gmail.com)).  
  
 
 [Download the application form](https://github.com/ausevo/ausevo.github.io/raw/master/docs/2023/2023_AES_ECR_award_application_form.docx)
@@ -20,7 +20,9 @@ The AES is offering two ECR Awards, one for a PhD student and one for a postdoc.
 **Prize**:  
 Winners will receive $750 to put toward registration and travel to the 2023 AES Conference in Adelaide.  
  
-Applications close 15th of October 2023. Winners announced early November 2023.
+**Applications close**: 15th of October 2023. 
+
+Winners announced early November 2023.
 
 
 
