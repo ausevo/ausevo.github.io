@@ -10,7 +10,7 @@ bigimg:
 
 With joint sponsorship from the Evolutionary Journal of the Linnean Society, the AES is excited to announce that we are now taking applications for the 2023 ECR Best Paper Award! 
  
-If you are an ECR (postgraduate student or postdoc 5 years since PhD) and would like to be considered for the Award, please complete the attached application form and email this, **along with your best/favourite publication or pre-print in 2022 or 2023**, to the AES ([ausevolutionsociety@gmail.com](mailto:ausevolutionsociety@gmail.com)).  
+If you are an ECR (postgraduate: Master's/PhD student or postdoc 5 years since PhD) and would like to be considered for the Award, please complete the attached application form and email this, **along with your best/favourite publication or pre-print in 2022 or 2023**, to the AES ([ausevolutionsociety@gmail.com](mailto:ausevolutionsociety@gmail.com)).  
  
 
 [Download the application form](https://github.com/ausevo/ausevo.github.io/raw/master/docs/2023/2023_AES_ECR_award_application_form.docx)
