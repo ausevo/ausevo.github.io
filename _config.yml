@@ -26,7 +26,7 @@ navbar-links:
   Conference: 
     # - Overview: "2023_conference"
     - Registration: "registration"
-    # - Program: "pages/conference_2020"
+    - Program: "programme"
     # - Venue: "Venue_2022"
     # - Social: "social_events_2022"
     # - Online: "online_2022"
