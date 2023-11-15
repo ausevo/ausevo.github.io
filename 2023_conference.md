@@ -12,7 +12,7 @@ bigimg:
 
 AES 2023 will be held at the University of Adelaide! 
 
-[**Registration is now open!**](https://aes.corsizio.com/c/64f6e3f54cd9942d94aae2c9)
+[**Regular registration still open!**](https://aes.corsizio.com/c/64f6e3f54cd9942d94aae2c9)
 
 For more information visit the [registration page](/registration/)
 

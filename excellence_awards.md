@@ -6,7 +6,23 @@ bigimg:
 - /img/big-imgs/Adelaide_skyline_2_Ardash_Muradian.jpg: The skyline of Adelaide and the River Torrens (Ardash Muradian, 2022)
 ---
 
-# 2023 ECR Best Paper Award nomination open
+# Congratulations to our 2023 AES Best Paper Award!
+
+### Postgraduate category
+
+**Dr. Claudia Crowther**
+
+**Crowther, C.**, Bonser, S. P., & Schwanz, L. E. (2023). Plasticity and the adaptive evolution of switchlike reaction norms under environmental change. Evolution Letters, qrad035. [doi.org/10.1093/evlett/qrad035](https://doi.org/10.1093/evlett/qrad035)
+
+
+### Postdoc category
+
+**Dr. Samuel Lymbery**
+
+**Lymbery, S. J.**, Webber, B. L., & Didham, R. K. (2023). Complex battlefields favor strong soldiers over large armies in social animal warfare. Proceedings of the National Academy of Sciences, 120(37), e2217973120. [doi.org/10.1073/pnas.2217973120](https://doi.org/10.1073/pnas.2217973120)
+
+
+<!-- # 2023 ECR Best Paper Award nomination open
 
 With joint sponsorship from the Evolutionary Journal of the Linnean Society, the AES is excited to announce that we are now taking applications for the 2023 ECR Best Paper Award! 
  
@@ -22,7 +38,7 @@ Winners will receive $750 to put toward registration and travel to the 2023 AES 
  
 **Applications close**: 15th of October 2023. 
 
-Winners announced early November 2023.
+Winners announced early November 2023. -->
 
 
 
