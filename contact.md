@@ -10,7 +10,6 @@ layout: page
 
 We are also active on twitter **@AustEvolSoc**
 
-
 # The AES 2023 Exec Team
 
   

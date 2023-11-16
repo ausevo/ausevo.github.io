@@ -6,7 +6,7 @@ bigimg:
 - /img/big-imgs/Adelaide_skyline_2_Ardash_Muradian.jpg: The skyline of Adelaide and the River Torrens (Ardash Muradian, 2022)
 ---
 
-# Congratulations to our 2023 AES Best Paper Award!
+# Congratulations to our 2023 AES Best Paper Award recipients!
 
 ### Postgraduate category
 
