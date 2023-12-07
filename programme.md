@@ -11,7 +11,7 @@ bigimg:
 
 Download the latest program from [here](./docs/2023/2023_AES_conference_Program.pdf)*   
 
-*Latest version, 2023-11-15*
+*Latest version, 2023-12-07*
 
 *Subject to change
 
