@@ -11,16 +11,15 @@ Each of our sessions will be running online in real-time, via zoom. To access th
 <!-- Please email Iliana - iliana.medina@unimelb.edu.au - if you run into any issues joining the zoom/slack.  -->
 
 
-#### Scott Theatre (Room 1)
+#### Darling West G14 Lecture Theatre (Room 1)
+ 
+[Join G14 Lecture Theatre](https://adelaide.zoom.us/j/83528431660?pwd=UkgvTm84SDI0STdtTXNyaDF2N3ZOUT09)
+ 
+#### Scott Theatre (Room 2)
 
 This is the room we will use for all house-keeping, plenaries, tag-team and flash talks.
 
 [Join Scott Theatre](https://anu.zoom.us/j/81575814447?pwd=YzNPTEg5Z2JOV0JRVmZscDJCL2V3QT09)
- 
-#### Darling West G14 Lecture Theatre (Room 2)
- 
-[Join G14 Lecture Theatre](https://adelaide.zoom.us/j/83528431660?pwd=UkgvTm84SDI0STdtTXNyaDF2N3ZOUT09)
- 
 
 #### Ker Goat Lecture Theatre (Room 3)
 

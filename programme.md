@@ -13,6 +13,8 @@ Download the latest program from [here](./docs/2023/2023_AES_conference_Program.
 *Latest version, 2023-12-07*
 *Subject to change
 
+Download the schedule of events [here](./docs/2023/AusEvo23_ScheduleOfEvents.pdf).
+
 ### Conference Slack
 We will be using [Slack](https://join.slack.com/t/ausevo2023/shared_invite/zt-28ryturuo-HZBXfJQlCvloJuQ5FMHHfg) for socialising, discussion and general (non-urgent) communication    
 **note: questions during talks will only be taken through zoom (or live)**  
