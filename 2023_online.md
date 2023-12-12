@@ -21,9 +21,9 @@ This is the room we will use for all house-keeping, plenaries, tag-team and flas
 
 [Join Scott Theatre](https://anu.zoom.us/j/81575814447?pwd=YzNPTEg5Z2JOV0JRVmZscDJCL2V3QT09)
 
-#### Ker Goat Lecture Theatre (Room 3)
+#### Kerr Grant Lecture Theatre (Room 3)
 
-[Join Kerr Goat Lecture Theatre](https://anu.zoom.us/j/82972852677?pwd=Tm1kVWJMTThRQXArK0RLNkQrQXBvUT09)
+[Join Kerr Grant Lecture Theatre](https://anu.zoom.us/j/82972852677?pwd=Tm1kVWJMTThRQXArK0RLNkQrQXBvUT09)
 
 
 ##### Conference Slack
