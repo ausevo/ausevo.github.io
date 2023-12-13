@@ -9,11 +9,11 @@ bigimg:
 
 ## Conference program
 
-Download the latest full program [here](./docs/2023/2023_AES_conference_Program.pdf)*
+Download the latest full program [here](./docs/2023/2023_AES_conference_Program_V2.pdf)*
 
 Click [here](./docs/2023/AusEvo23_ScheduleOfEvents.pdf) for the program broken down into multiple pages.
 
-*Latest version, 2023-12-12*
+*Latest version, 2023-12-14*
 *Subject to change
 
 ### Conference Slack
