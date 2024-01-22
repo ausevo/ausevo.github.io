@@ -10,13 +10,13 @@ bigimg:
 
 #### University of Adelaide, Adelaide, South Australia
 
-[**Regular registration is still open**](https://aes.corsizio.com/c/64f6e3f54cd9942d94aae2c9)
+<!-- [**Regular registration is still open**](https://aes.corsizio.com/c/64f6e3f54cd9942d94aae2c9) -->
 
 AES 2023 will be a face-to-face conference (with online options) held at the University of Adelaide.
 
 We aim to provide an inclusive environment where evolutionary biologists can present their research and engage with each other in open discussions and friendly debates (please see Equity and Inclusion section below). We welcome people from all career stages, including parents and those that identify with traditionally under-represented groups.
 
-**Registration opens**: 6th of September [(link)](https://aes.corsizio.com/c/64f6e3f54cd9942d94aae2c9)
+**Registration opens**: 6th of September 
 
 **Early bird registration closed**: 31st of October (if you would like to present a talk please register by this date)
 
@@ -26,7 +26,7 @@ We aim to provide an inclusive environment where evolutionary biologists can pre
 
 All registration fees are in Australian dollars and are inclusive of GST. Early bird registration closes on the 31st of October, and standard registration closes on the 6th of December.
 
-[Register for the conference](https://aes.corsizio.com/c/64f6e3f54cd9942d94aae2c9)
+<!-- [Register for the conference](https://aes.corsizio.com/c/64f6e3f54cd9942d94aae2c9) -->
 
 ![](/img/2023_conference_fees.png)
 
