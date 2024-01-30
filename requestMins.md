@@ -6,7 +6,7 @@ subtitle: Information for Members
 
 ## AES minutes
 
-AGM Agenda 2024 [here](./docs/AESAGM_2024_upload.pdf)
+AGM Agenda 2024 [here](./docs/2024/2024_AGM_upload.pdf)
 
 Minutes AGM 2023 [here](./docs/AESAGM_2023_upload.pdf)
 
