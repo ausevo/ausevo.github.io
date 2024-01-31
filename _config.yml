@@ -24,7 +24,7 @@ navbar-links:
   Join!: "join"
   Contact us: "contact"
   Conference: 
-    # - Overview: "2023_conference"
+    # - Past conferences: "conferences_general"
     - Registration: "registration"
     - Program: "programme"
     # - Venue: "Venue_2022"
