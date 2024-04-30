@@ -3,7 +3,7 @@ title: "Past and future conferences of the AES"
 css: /css/index.css
 layout: page
 bigimg:
-- /img/big-imgs/flower.jpg: 
+- /img/big-imgs/flower.JPG: 
 ---
 
 2024 - University of Western Australia - Perth, WA
