@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Save the date for AUSEVO 2024!
-subtitle: 
+subtitle: We're going West
 categories: news
 ---
 
