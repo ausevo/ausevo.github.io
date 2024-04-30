@@ -20,7 +20,7 @@ navbar-links:
   About: " "
   News: "news"
   Blog: "blog"
-  ECR Grants: "excellence_awards"
+  # ECR Grants: "excellence_awards"
   Join!: "join"
   Contact us: "contact"
   Conference: 
