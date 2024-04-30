@@ -26,14 +26,15 @@ navbar-links:
   Conference: 
     # - Past conferences: "conferences_general"
     - Registration: "registration"
-    - Program: "programme"
+    # - Program: "programme"
     # - Venue: "Venue_2022"
     # - Social: "social_events_2022"
-    - Online: "2023_online"
+    # - Online: "2023_online"
     # - Research Excellence Awards: "excellence_awards"
     #- Local Dinners: "food" 
     # - Awards: "prizes"
-    - Accom: "2023_accommodation"
+    # - Accom: "2023_accommodation"
+    - Past Conferences: "past-conf"
    
   Resources:
     # - Opportunities: "jobs"
