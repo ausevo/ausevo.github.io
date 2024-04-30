@@ -1,30 +1,36 @@
 ---
 layout: page
-title: AES 2023
+title: AES 2024
 subtitle: Conference Registration
 bigimg:
-- /img/big-imgs/Adelaide_skyline_2_Ardash_Muradian.jpg: The skyline of Adelaide and the River Torrens (Ardash Muradian, 2022)
+- /img/big-imgs/Perth-night-panorama-080306.jpg: The skyline of Perth at night (Nachoman-au, 2006)
 ---
 
-#### Wednesday 13th – Friday 15th December 2023
+#### Wednesday 4th – Friday 6th December 2024
 
-#### University of Adelaide, Adelaide, South Australia
+#### University of Western Australia, Adelaide, South Australia
 
-<!-- [**Regular registration is still open**](https://aes.corsizio.com/c/64f6e3f54cd9942d94aae2c9) -->
+Hosted by Renée Firman (Vice President) and co, it’s going to be a great occasion to enjoy the delights of our West coast while celebrating our excellent evolutionary research. We hope you can take the opportunity to spend a few days extra in the region.
 
-AES 2023 will be a face-to-face conference (with online options) held at the University of Adelaide.
+**Registration opens**: Opens July 2024
 
-We aim to provide an inclusive environment where evolutionary biologists can present their research and engage with each other in open discussions and friendly debates (please see Equity and Inclusion section below). We welcome people from all career stages, including parents and those that identify with traditionally under-represented groups.
+**Early bird registration closed**: TBD
 
-**Registration opens**: 6th of September 
+**Final registration closes**: TBD
 
-**Early bird registration closed**: 31st of October (if you would like to present a talk please register by this date)
+### Early-career travel grants:
 
-**Final registration closes**: 6th of December
+We will offer travel grants again this year to support early-career researchers. You spoke and we listened – these will be opened in two weeks’ time (details to come shortly) and will close mid June, for announcement early July so you can start planning the trip. 
 
-#### Registration fees
+### Conference registration:
 
-All registration fees are in Australian dollars and are inclusive of GST. Early bird registration closes on the 31st of October, and standard registration closes on the 6th of December.
+This will open in early July. We aim to offer similar costings as previous years, so please see the website for those details. As in previous years, for talk presentations we do not request an abstract on application, only a title. All talks will be scheduled, and we encourage especially ECRs to apply. We hope to run tag-team presentations again, as well as the usual standard and flash talk options.  
+
+
+
+#### Registration fees for previous AES 2023 (for reference only)
+
+All registration fees are in Australian dollars and are inclusive of GST. Early bird registration closes on the 31st of October, and standard registration closes on the 6th of December 2023.
 
 <!-- [Register for the conference](https://aes.corsizio.com/c/64f6e3f54cd9942d94aae2c9) -->
 
@@ -35,7 +41,7 @@ All registration fees are in Australian dollars and are inclusive of GST. Early 
 
 **_Online registration includes_**: online access to conference activities, and the opportunity to present your work.  
 
-#### Conference Dinner 
+<!-- #### Conference Dinner AES 2023
 
 **Places limited to 120 people, so register early!**
 
@@ -47,8 +53,8 @@ We are organising an outdoor, end of conference gathering where we can relax a l
 
 **Cost**: $60 (student/postdoc) or $95 (faculty/fellow) paid when you register  
 
-**Inclusions**: Canapés, Bar and drinks, music and dancing  
-
+**Inclusions**: Canapés, Bar and drinks, music and dancing   -->
+<!-- 
 #### Presentations
 
 When you register, please indicate whether you would like to present. These will be your options:  
@@ -81,4 +87,4 @@ With this in mind,
 
 If you feel that there is anything else we can do that would make you feel more comfortable attending AES2023, please get in touch, we are very open to suggestions.
 
-Any questions please send us an email: ausevolutionsociety@gmail.com  
+Any questions please send us an email: ausevolutionsociety@gmail.com   -->
