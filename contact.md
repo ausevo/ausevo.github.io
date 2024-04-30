@@ -38,8 +38,8 @@ School of Biological Sciences, University of Western Australia
 
 ### VICE-PRESIDENT ELECT
 
-**Dr Damien Esquerré**
-School of Earth, Atmospheric and Life Sciences , University of Wollongong  
+**Dr Damien Esquerré**  
+School of Earth, Atmospheric and Life Sciences, University of Wollongong  
 **E:** desquerre[at]uow.edu.au  
 
 ### ECR REPRESENTATIVES
