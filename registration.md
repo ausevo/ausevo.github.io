@@ -8,7 +8,7 @@ bigimg:
 
 #### Wednesday 4th – Friday 6th December 2024
 
-#### University of Western Australia, Adelaide, South Australia
+#### University of Western Australia, Perth, Western Australia
 
 Hosted by Renée Firman (Vice President) and co, it’s going to be a great occasion to enjoy the delights of our West coast while celebrating our excellent evolutionary research. We hope you can take the opportunity to spend a few days extra in the region.
 
