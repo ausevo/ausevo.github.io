@@ -20,7 +20,12 @@ Hosted by Renée Firman (Vice President) and co, it’s going to be a great occa
 
 ### Early-career travel grants:
 
-We will offer travel grants again this year to support early-career researchers. You spoke and we listened – these will be opened in two weeks’ time (details to come shortly) and will close mid June, for announcement early July so you can start planning the trip. 
+**ECR Travel Grant Application: now open [here](https://docs.google.com/forms/d/e/1FAIpQLSc1LSWLEWcr07CQNUcUjWHq5glFQgpYwQcFzWSSM0hpNd4Guw/viewform)**
+
+Eligibility:
+* Must be a student or postdoc/early career researcher
+
+Funds will be allocated on a needs basis by the committee, to assist as many applicants as possible. Please indicate where you will be travelling from, and the approximate out-of-pocket expense anticipated. Applications close on June 24th 2024.Outcomesto be announced early July.
 
 ### Conference registration:
 
