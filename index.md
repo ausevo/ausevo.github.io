@@ -23,4 +23,4 @@ Membership in the society allows you to participate in our Annual Conference and
 
 If you have any jobs, events, scholarships etc, that you would like advertised on the site [contact us](mailto:ausevolutionsociety@gmail.com) and we can add it to our [news]({{ site.baseurl }}/news) section.
 
-Our ABN is 46 823 972 343.
+<!-- Our ABN is 46 823 972 343. -->
