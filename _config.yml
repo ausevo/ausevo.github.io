@@ -54,16 +54,18 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Australasian Evolution Society
+  name: Australasian Evolution Society (ABN 46 823 972 343)
   email: "austevolutionsociety@gmail.com"
   facebook: groups/95240533874/  # eg. daattali
   twitter: austevolsoc   # eg. daattali
+  github: https://github.com/ausevo/ausevo.github.io
 
 # Select which links to show in the footer
 footer-links-active:
   facebook: true
   email: true
   twitter: true
+  github: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
