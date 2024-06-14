@@ -54,7 +54,7 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Australasian Evolution Society (ABN 46 823 972 343)
+  name: Australasian Evolution Society
   email: "austevolutionsociety@gmail.com"
   facebook: groups/95240533874/  # eg. daattali
   twitter: austevolsoc   # eg. daattali
