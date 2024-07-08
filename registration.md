@@ -27,8 +27,8 @@ Hosted by Renée Firman (Vice President) and co, it’s going to be a great occa
 **ECR Travel Grant Application: is now closed**
 <!-- **ECR Travel Grant Application: is now closed (https://docs.google.com/forms/d/e/1FAIpQLSc1LSWLEWcr07CQNUcUjWHq5glFQgpYwQcFzWSSM0hpNd4Guw/viewform)** -->
 
-Eligibility:
-* Must be a student or postdoc/early career researcher  
+<!-- Eligibility:
+* Must be a student or postdoc/early career researcher   -->
 
 Funds will be allocated on a needs basis by the committee, to assist as many applicants as possible. Please indicate where you will be travelling from, and the approximate out-of-pocket expense anticipated. Applications close on June 24th 2024. Outcomes to be announced early July.  
 
