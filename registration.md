@@ -10,22 +10,27 @@ bigimg:
 
 #### University of Western Australia, Perth, Western Australia
 
-Hosted by Renée Firman (Vice President) and co, it’s going to be a great occasion to enjoy the delights of our West coast while celebrating our excellent evolutionary research. We hope you can take the opportunity to spend a few days extra in the region.
+Hosted by Renée Firman (Vice President) and co, it’s going to be a great occasion to enjoy the delights of our West coast while celebrating our excellent evolutionary research. We hope you can take the opportunity to spend a few days extra in the region.  
 
-**Registration opens**: Opens July 2024
+<!-- **Registration opens**: 19 July 2024 -->
+**Registration opens**: Opens early July 2024
 
-**Early bird registration closed**: TBD
+<!-- **Early bird registration date closes**: 31st October 2024 -->
 
-**Final registration closes**: TBD
+<!-- **Dinner tickets will not be available after**: 31st October 2024 -->
+<!-- (Dinner tickets are on a first come first served basis) -->
+
+<!-- **Final registration date closes**: 2nd December 2024 -->
 
 ### Early-career travel grants:
 
-**ECR Travel Grant Application: now open [here](https://docs.google.com/forms/d/e/1FAIpQLSc1LSWLEWcr07CQNUcUjWHq5glFQgpYwQcFzWSSM0hpNd4Guw/viewform)**
+**ECR Travel Grant Application: is now closed**
+<!-- **ECR Travel Grant Application: is now closed (https://docs.google.com/forms/d/e/1FAIpQLSc1LSWLEWcr07CQNUcUjWHq5glFQgpYwQcFzWSSM0hpNd4Guw/viewform)** -->
 
 Eligibility:
-* Must be a student or postdoc/early career researcher
+* Must be a student or postdoc/early career researcher  
 
-Funds will be allocated on a needs basis by the committee, to assist as many applicants as possible. Please indicate where you will be travelling from, and the approximate out-of-pocket expense anticipated. Applications close on June 24th 2024.Outcomesto be announced early July.
+Funds will be allocated on a needs basis by the committee, to assist as many applicants as possible. Please indicate where you will be travelling from, and the approximate out-of-pocket expense anticipated. Applications close on June 24th 2024. Outcomes to be announced early July.  
 
 ### Conference registration:
 
