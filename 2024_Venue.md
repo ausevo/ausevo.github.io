@@ -47,12 +47,17 @@ For detailed campus maps and additional transportation information, please visit
 ![](/img/aes2024/map_venue2024.jpg)
 
 
+![](/img/aes2024/conference_venue.jpg)
+
 ## Accessibility (Arts Complex, UWA)
 
 All three lecture halls used for the conference are located on the ground floor. Accessible entrances are located at the North and West sides of the building, plus a ramp at the South, should anyone be entering from the carpark.  
 There is an accessible bathroom on the ground floor.   If anyone needs to access the upper floors, there is lift access.
 
 ## Conference dinner
+
+![](/img/aes2024/marketGround_wa.jpg)
+
 
 Our end-of-conference social event will be at the [Market Grounds](https://marketgrounds.com.au/), 10 Telethon Ave, Perth, WA 6000. This venue is located in the heart of the Perth CBD and ~6.5 km from the conference centre. The journey from UWA will take around 20 minutes by car and 30 minutes by public transport. Bus 950, 995, and 24 should take you to the venue. You can use the Transperth Journey Planner to check real-time schedules and routes to ensure a smooth trip.
 
