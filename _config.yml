@@ -32,7 +32,7 @@ navbar-links:
     # - Social: "social_events_2022"
     # - Online: "2023_online"
     # - Local Dinners: "food" 
-    # - Research Excellence Awards: "excellence_awards"
+    - Research Excellence Awards: "2024_research_awards"
     # - Awards: "prizes"
     # - Getting-there: "2023_accommodation"
     - Past Conferences: "past-conf"
