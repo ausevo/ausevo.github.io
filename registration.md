@@ -13,7 +13,6 @@ bigimg:
 Hosted by Renée Firman (Vice President) and co, it’s going to be a great occasion to enjoy the delights of our West coast while celebrating our excellent evolutionary research. We hope you can take the opportunity to spend a few days extra in the region.  
 
 <!-- **Registration opens**: 19 July 2024 -->
-**Registration opens**: Opens early July 2024
 
 <!-- **Early bird registration date closes**: 31st October 2024 -->
 
@@ -22,27 +21,19 @@ Hosted by Renée Firman (Vice President) and co, it’s going to be a great occa
 
 <!-- **Final registration date closes**: 2nd December 2024 -->
 
-### Early-career travel grants:
-
-**ECR Travel Grant Application: is now closed and outcomes have been announced on 15th July 2024**
-<!-- **ECR Travel Grant Application: is now closed (https://docs.google.com/forms/d/e/1FAIpQLSc1LSWLEWcr07CQNUcUjWHq5glFQgpYwQcFzWSSM0hpNd4Guw/viewform)** -->
-
-<!-- Eligibility:
-* Must be a student or postdoc/early career researcher   -->
-<!-- Funds will be allocated on a needs basis by the committee, to assist as many applicants as possible. Please indicate where you will be travelling from, and the approximate out-of-pocket expense anticipated. Applications close on June 24th 2024. Outcomes to have been announced  -->
-
 ### Conference registration:
 
-This will open in early July. We aim to offer similar costings as previous years, so please see the website for those details. As in previous years, for talk presentations we do not request an abstract on application, only a title. All talks will be scheduled, and we encourage especially ECRs to apply. We hope to run tag-team presentations again, as well as the usual standard and flash talk options.  
+**Registration now open: [Register here](https://aes.corsizio.com/event/6696f536e5982b343eafeb08)
 
-#### Registration fees for previous AES 2023 (for reference only)
+Talk submission will follow. As in previous years, for talk presentations we do not request an abstract on application, only a title. All talks will be scheduled, and we encourage especially ECRs to apply. We hope to run tag-team presentations again, as well as the usual standard and flash talk options.  
 
-All registration fees are in Australian dollars and are inclusive of GST. Early bird registration closes on the 31st of October, and standard registration closes on the 6th of December 2023.
+#### Registration fees 
 
-<!-- [Register for the conference](https://aes.corsizio.com/c/64f6e3f54cd9942d94aae2c9) -->
+All registration fees are in Australian dollars and are inclusive of GST. Early bird registration closes on the 31st of October.
 
-![](/img/2023_conference_fees.png)
+[Register for the conference](https://aes.corsizio.com/event/6696f536e5982b343eafeb08)
 
+![](/img/aes2024/2024_prices.png)
 
 **_In person registration includes_**: Welcome drinks, conference activities, morning tea, lunch, and afternoon tea.  
 
@@ -95,3 +86,12 @@ With this in mind,
 If you feel that there is anything else we can do that would make you feel more comfortable attending AES2023, please get in touch, we are very open to suggestions.
 
 Any questions please send us an email: ausevolutionsociety@gmail.com   -->
+
+### Early-career travel grants:
+
+**ECR Travel Grant Application: is now closed and outcomes have been announced on 15th July 2024**
+<!-- **ECR Travel Grant Application: is now closed (https://docs.google.com/forms/d/e/1FAIpQLSc1LSWLEWcr07CQNUcUjWHq5glFQgpYwQcFzWSSM0hpNd4Guw/viewform)** -->
+
+<!-- Eligibility:
+* Must be a student or postdoc/early career researcher   -->
+<!-- Funds will be allocated on a needs basis by the committee, to assist as many applicants as possible. Please indicate where you will be travelling from, and the approximate out-of-pocket expense anticipated. Applications close on June 24th 2024. Outcomes to have been announced  -->
