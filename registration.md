@@ -29,7 +29,7 @@ Talk submission will follow. As in previous years, for talk presentations we do 
 
 #### Registration fees 
 
-All registration fees are in Australian dollars and are inclusive of GST. Early bird registration closes on the 31st of October.
+All registration fees are in Australian dollars and are inclusive of GST. Early bird **extended** to 7th November 2024.
 
 [Register for the conference](https://aes.corsizio.com/event/6696f536e5982b343eafeb08)
 

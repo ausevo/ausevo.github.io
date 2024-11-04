@@ -6,21 +6,24 @@ bigimg:
 - /img/big-imgs/quokka_Joseph11.jpg: Quokka by Joseph11 (Goodfon.com, 2023)
 ---
 
-<!-- # Congratulations to our 2023 AES Best Paper Award recipients!
+# Congratulations to our 2024 AES Best Paper Award recipients! 
+
+There are two awards, one for post-doctoral research and one for PhD research, and each award winner will present a plenary at the Perth AES Conference 2024 on the research conducted in their respective papers.  
 
 ### Postgraduate category
 
-**Dr. Claudia Crowther**
+**Dr. Sara Ryding Crowther**
 
-**Crowther, C.**, Bonser, S. P., & Schwanz, L. E. (2023). Plasticity and the adaptive evolution of switchlike reaction norms under environmental change. Evolution Letters, qrad035. [doi.org/10.1093/evlett/qrad035](https://doi.org/10.1093/evlett/qrad035)
-
+**Ryding, S.**, A. McQueen, M. Klaassen, G. J. Tattersall, and M. R. E. Symonds. 2024. Long- and short-term responses to climate change in body and appendage size of diverse Australian birds. Global Change Biology 30:e17517. [https://doi.org/10.1111/gcb.17517](https://doi.org/10.1111/gcb.17517)  
 
 ### Postdoc category
 
-**Dr. Samuel Lymbery**
+**Dr. Maddie James**
 
-**Lymbery, S. J.**, Webber, B. L., & Didham, R. K. (2023). Complex battlefields favor strong soldiers over large armies in social animal warfare. Proceedings of the National Academy of Sciences, 120(37), e2217973120. [doi.org/10.1073/pnas.2217973120](https://doi.org/10.1073/pnas.2217973120) -->
+**James, M.** E., R. N. Allsopp, J. S. Groh, A. Kaur, M. J. Wilkinson, and D. Ortiz-Barrientos. 2023. Uncovering the genetic architecture of parallel evolution. Molecular Ecology 32:5575–5589. [https://doi.org/10.1111/mec.17134](https://doi.org/10.1111/mec.17134)
 
+
+<!-- 
 
 # 2024 ECR Research Awards nomination open
 
@@ -34,4 +37,4 @@ We will select our favourite publications and invite the main author (ECR who su
 There will be two categories, one for Post-doctoral research and one for PhD research.
 
 Outcomes will be announced the last week of October, so there is enough time for winners to prepare their awesome talks.
- 
+  -->
