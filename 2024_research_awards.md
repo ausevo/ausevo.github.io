@@ -12,7 +12,7 @@ There are two awards, one for post-doctoral research and one for PhD research, a
 
 ### Postgraduate category
 
-**Dr. Sara Ryding Crowther**
+**Dr. Sara Ryding**
 
 **Ryding, S.**, A. McQueen, M. Klaassen, G. J. Tattersall, and M. R. E. Symonds. 2024. Long- and short-term responses to climate change in body and appendage size of diverse Australian birds. Global Change Biology 30:e17517. [https://doi.org/10.1111/gcb.17517](https://doi.org/10.1111/gcb.17517)  
 
