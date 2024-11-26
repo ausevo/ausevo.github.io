@@ -44,15 +44,23 @@ If you wish to check up-to-date times of public transport services and plan your
 For detailed campus maps and additional transportation information, please visit the [UWA website](https://use.mazemap.com/#v=1&campusid=309&zlevel=1&center=115.816425,-31.980438&zoom=15.6).   
 
 
-![](/img/aes2024/map_venue2024.jpg)
+![](/img/aes2024/UWA_AES_map.jpg)
 
+
+![](/img/aes2024/map_venue2024.jpg)
 
 ![](/img/aes2024/conference_venue.jpg)
 
 ## Accessibility (Arts Complex, UWA)
 
 All three lecture halls used for the conference are located on the ground floor. Accessible entrances are located at the North and West sides of the building, plus a ramp at the South, should anyone be entering from the carpark.  
-There is an accessible bathroom on the ground floor.   If anyone needs to access the upper floors, there is lift access.
+There is an accessible bathroom on the ground floor. If anyone needs to access the upper floors, there is lift access.
+
+
+
+
+
+
 
 ## Conference dinner
 

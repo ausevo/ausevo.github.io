@@ -22,7 +22,13 @@ We will be using [Slack](https://join.slack.com/t/ausevo2023/shared_invite/zt-28
 
 ## Maps and venue
 
-More information to come.
+Presentations are plenaries will take place at the UWA Arts Complex (35 Stirling Hwy, Crawley WA 6009)
+
+### Campus map
+
+![](/img/aes2024/UWA_AES_map.jpg)
+
+
 
 <!-- 
 ### Campus map
