@@ -46,7 +46,6 @@ For detailed campus maps and additional transportation information, please visit
 
 ![](/img/aes2024/UWA_AES_map.jpg)
 
-
 ![](/img/aes2024/map_venue2024.jpg)
 
 ![](/img/aes2024/conference_venue.jpg)
@@ -55,11 +54,6 @@ For detailed campus maps and additional transportation information, please visit
 
 All three lecture halls used for the conference are located on the ground floor. Accessible entrances are located at the North and West sides of the building, plus a ramp at the South, should anyone be entering from the carpark.  
 There is an accessible bathroom on the ground floor. If anyone needs to access the upper floors, there is lift access.
-
-
-
-
-
 
 
 ## Conference dinner

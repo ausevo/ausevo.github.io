@@ -29,6 +29,9 @@ All three lecture halls used for the conference are located on the ground floor.
 
 ![](/img/aes2024/UWA_AES_map.jpg)
 
+### Social venue
+
+Welcome drinks will be at Steve's Bar, Cafe and Winestore
 
 
 <!-- 
@@ -40,9 +43,7 @@ All three lecture halls used for the conference are located on the ground floor.
 
 ![Presentation venues](/img/2023_AES_3.png)
 
-### Social venue
 
-![Social venues](/img/2023_AES_2.png)
 
 ### Family Faciilty and ECR Event
 
