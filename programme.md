@@ -22,7 +22,8 @@ We will be using [Slack](https://join.slack.com/t/ausevo2023/shared_invite/zt-28
 
 ## Maps and venue
 
-Presentations are plenaries will take place at the UWA Arts Complex (35 Stirling Hwy, Crawley WA 6009)
+Presentations are plenaries will take place at the UWA Arts Complex (35 Stirling Hwy, Crawley WA 6009). 
+All three lecture halls used for the conference are located on the ground floor. Accessible entrances are located at the North and West sides of the building, plus a ramp at the South, should anyone be entering from the carpark.  There is an accessible bathroom on the ground floor. If anyone needs to access the upper floors, there is lift access.
 
 ### Campus map
 
