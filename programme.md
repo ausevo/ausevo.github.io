@@ -11,7 +11,10 @@ bigimg:
 
 Download the latest full program [here](./docs/2024/2024_AES_Program.pdf)*
 
+Download Day 2 program [here](./docs/2024/2024_AES_Program_Day2.pdf)
+
 Download Day 1 program [here](./docs/2024/2024_AES_Program_Day1.pdf)
+
 
 <!-- Click [here](./docs/2023/AusEvo23_ScheduleOfEvents.pdf) for the program broken down into multiple pages. -->
 
