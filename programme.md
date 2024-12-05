@@ -7,6 +7,8 @@ bigimg:
 - /img/big-imgs/quokka_Joseph11.jpg: Quokka by Joseph11 (Goodfon.com, 2023)
 ---
 
+[Speed talk VOTE](https://docs.google.com/forms/d/e/1FAIpQLSehc5DdajHdxEejF9ZsEj6ZVbJe4m1yh7IFvTGZCGy3sqs5Zg/viewform)
+
 ## Conference program
 
 Download the latest full program [here](./docs/2024/2024_AES_Program.pdf)*
