@@ -31,7 +31,7 @@ bigimg:
 2009 - Australian National University, Canberra, ACT
 
 2007 - No AES conference. Joint with the Evolution Meeting in Christchurch, Aotearoa (New Zealand)  
-The Evolution annual meeting is hosted by three USA societies including the Society for the Study of Evolution, the American Society of Naturalists and the Society of Systematic Biologist.
+The Evolution annual meeting is hosted by three USA societies including the Society for the Study of Evolution, the American Society of Naturalists and the Society of Systematic Biologist.  
 
 2005 - Fremantle (hosted by University of Western Australia), WA
 
