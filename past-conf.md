@@ -39,3 +39,5 @@ bigimg:
 2001 - 
 
 1999 - University of Queensland, Brisbane, QLD (inaugural conference)
+ 
+It all started with a question by Diana Fisher, Kate Arnold, Ian Owens, and Simone Blomberg at the University of Queensland: "Wouldn't it be good to go to a conference in a society I'm interested in seeing every talk?!" 
