@@ -54,4 +54,8 @@ bigimg:
 1999 - University of Queensland, Brisbane, QLD. Inaugural conference  
  
 It all started with a question by Diana Fisher, Kate Arnold, Ian Owens, and Simone Blomberg at the University of Queensland:  
-"Wouldn't it be good to go to a conference in a society I'm interested in seeing every talk?!" 
+
+"Wouldn't it be good to go to a conference in a society I'm interested in seeing every talk?!"  
+
+
+Special thanks to previous AES Presidents A/Prof Matt Symonds and Prof Leigh Simmons for helping reconstruct this timeline in 2024.
