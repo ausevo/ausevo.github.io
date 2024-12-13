@@ -16,4 +16,6 @@ Minutes AGM 2022 [here](./docs/AES AGM 2022 _upload.pdf)
 
 Minutes AGM 2021 [here](./docs/AES AGM 2021_upload.pdf)
 
+Minutes AGM 2014 [here](./docs/2014/aes_agm_2014.pdf) 
+
 The minutes from previous AES meetings can be supplied to members upon request.
