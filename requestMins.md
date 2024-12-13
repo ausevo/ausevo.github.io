@@ -6,6 +6,8 @@ subtitle: Information for Members
 
 ## AES minutes
 
+Minutes AGM 2025 [here](./docs/2025/2025_AGM_upload.pdf)
+
 Minutes AGM 2024 [here](./docs/2024/2024_AGM_upload.pdf)
 
 Minutes AGM 2023 [here](./docs/AESAGM_2023_upload.pdf)
