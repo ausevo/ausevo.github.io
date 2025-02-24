@@ -10,53 +10,50 @@ layout: page
 
 We are also active on Blueskyt **@austevolsoc.bsky**.social or X (twitter) **@AustEvolSoc**
 
-# The AES 2024 Exec Team
+# The AES 2025 Exec Team
 
   
 
 ### PRESIDENT
-[**Dr Emma Sherratt**](mailto:emma.sherratt[at]adalaide.edu.au)  
-School of Biological Sciences, The University of Adelaide  
-
-### VICE-PRESIDENT
-[**Dr Renée Claire Firman**](mailto:renee.firman[at]uwa.edu.au)  
+[**Dr Renée Claire Firman**](https://research-repository.uwa.edu.au/en/persons/renee-firman)  
 School of Biological Sciences, University of Western Australia  
 
+### VICE-PRESIDENT
+[**Dr Damien Esquerré**](https://www.desquerre.com/)  
+School of Earth, Atmospheric and Life Sciences, University of Wollongong  
+
 ### TREASURER
-[**Dr John Whale**](mailto:john.whale[at]mq.edu.au)  
+[**Dr John Whale**](https://www.westernsydney.edu.au/hie/people/postgraduate_students/graduates/john_whale)  
 School of BioSciences, Macquarie University  
 
 ### SECRETARY
-
-[**Dr Rowan Lymbery**](mailto:rowan.lymbery[at]uwa.edu.au)  
-School of Biological Sciences, University of Western Australia  
+[**Dr Erin Macartney**](https://www.sydney.edu.au/science/about/our-people/academic-staff/erin-macartney.html)  
+Charles Perkins Centre, University of Sydney
 
 ### VICE-PRESIDENT ELECT
-
-[**Dr Damien Esquerré**](mailto:desquerre[at]uow.edu.au)  
-School of Earth, Atmospheric and Life Sciences, University of Wollongong  
+[**Dr Ondi Crino**](https://www.flinders.edu.au/people/ondi.crino)  
+College of Science and Engineering, Flinders University  
 
 ### ECR REPRESENTATIVES
 
-[**Dr Upama Aich**](mailto:upama.aich[at]monash.edu)  
-School of Biological Sciences, Monash University  
-
-[**Dr Venkatesh Nagarajan**](mailto:venkatesh.nagarajan[at]sydney.edu.au)  
-School of Life and Environmental Sciences, University of Sydney  
-
-[**Dr Jessica Hadlow**](mailto:jessica.hadlow[at]research.uwa.edu.au)  
-Department of Zoology, Stockholm University  
-
-[**Dr Yong Zhi Foo**](mailto:yong.foo[at]uwa.edu.au)
+[**Dr Yong Zhi Foo**](https://research-repository.uwa.edu.au/en/persons/yong-zhi-foo)
 School of Biological Sciences, University of Western Australia  
+
+[**Dr Kristoffer Wild**](https://findanexpert.unimelb.edu.au/profile/1030758-kristoffer-wild)
+School of BioSciences, University of Melbourne
+
 
 ### SOCIAL MEDIA TEAM (@AustEvolSoc) 
 
-[**Rhiannon Eastman**](mailto:rhiannon.eastment[at]monash.edu)  
-School of Biological Sciences, Monash University  
-
+[**Dr Avneet Kaur**](https://x.com/avnit_kr)  
+Applied BioSciences, Macquarie University  
 
 ### PUBLIC OFFICER
 
 [**Dr Sarin "Putter" Tiatragul**](mailto:sarin.tiatragul[at]anu.edu.au)  
 Research School of Biology, Australian National University  
+
+### ORDINARY MEMBER
+
+[**Dr Simone Blomberg**](https://about.uq.edu.au/experts/428)  
+School of the Environment, University of Queensland
