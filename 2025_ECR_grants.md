@@ -38,7 +38,15 @@ The main aim of these grants is to promote collaborations among members in our S
 
 **How to apply?**
  
-Your application should be sent as a single PDF file to the AES Executive Committee (ausevolutionsociety@gmail.com) with the subject "2025 ECR Grant LastName" (e.g. 2025 ECR Grant Wallace)
+Your application should be sent as a single PDF file to the AES Executive Committee. 
+
+Submissions open now until the **18th April 2025**
+
+```
+To: ausevolutionsociety@gmail.com
+Subject: 2025 ECR Grant YourLastName 
+```
+
 
 It should include:
 - your name
@@ -48,10 +56,8 @@ It should include:
 - a description of how the work will benefit your career (maximum 200 words)
 - an outline budget with brief justification (maximum 100 words)
 
-Or you can use this template:
+Or you can use this [Word document template](https://github.com/ausevo/ausevo.github.io/blob/master/docs/2025/2025_ECR_Grant_Example.docx?raw=true).  
 
-
- 
 **Selection criteria**
  
 Grants will be assessed by an external panel of experts, chaired by the AES Vice President, Damien Esquerre. The committee will consider the following key criteria in relation to the value of the proposed networking opportunity in terms of its expected output and impact on the applicant’s career. It will be important to demonstrate that the projects that are:
@@ -61,5 +67,3 @@ Grants will be assessed by an external panel of experts, chaired by the AES Vice
 
 Please endeavour to address these points in your application.  
 
-
-Submissions open now until the *18th April 2025*
