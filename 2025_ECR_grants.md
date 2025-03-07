@@ -4,11 +4,11 @@ css: /css/index.css
 layout: page
 subtitle: Networking grants for collaborations within Australasia
 bigimg:
-- /img/big-imgs/kook.jpg: Kookaburra
-- /img/big-imgs/duck2.jpg: The Boss
+# - /img/big-imgs/kook.jpg: Kookaburra
+# - /img/big-imgs/duck2.jpg: The Boss
 - /img/big-imgs/dall-E_networking.webp: Networking
-- /img/big-imgs/katydid.jpg: Who did? Katydid
-- /img/big-imgs/kook2.jpg: Good one
+# - /img/big-imgs/katydid.jpg: Who did? Katydid
+# - /img/big-imgs/kook2.jpg: Good one
 ---
 
 ## JUDGING PANEL
