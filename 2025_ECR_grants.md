@@ -1,0 +1,65 @@
+---
+title: "2025 ECR Networking Grants"
+css: /css/index.css
+layout: page
+subtitle: Networking grants for collaborations within Australasia
+bigimg:
+- /img/big-imgs/kook.jpg: Kookaburra
+- /img/big-imgs/duck2.jpg: The Boss
+- /img/big-imgs/flower.JPG: Flower
+- /img/big-imgs/katydid.jpg: Who did? Katydid
+- /img/big-imgs/kook2.jpg: Good one
+---
+
+## JUDGING PANEL
+
+ 
+**Grant description**
+ 
+The Australasian Evolution Society is committed to expanding and providing opportunities for young researchers in the field. This year we will offer support by providing ECR grants towards projects undertaken in the Australasian region.  
+
+**Distribution of grants**
+
+- First prize: $2500  
+- Second prize: $2000  
+- PhD only prize: $1500  
+
+
+**What will we fund?**
+
+The main aim of these grants is to promote collaborations among members in our Society or Australasia. There are no specific restrictions on how the funds can be used. Funds can be used to cover flights and accommodation to forge new collaborations or visit existing collaborators, or they can be used for laboratory or field work in a project that involves members of different research groups. The only requisite is that the project should involve more than one research group in Australasia.  
+
+
+**Eligibility**
+
+- Applicants must be a member of AES (we consider members those that have attended one of the two last conferences). If not, membership can be paid [here](https://aes.corsizio.com/c/623ce1d83b5782883219ce9a). 
+
+- Applicants must belong to an institution in the Australasian region.
+
+**How to apply?**
+ 
+Your application should be sent as a single PDF file to the AES Executive Committee (ausevolutionsociety@gmail.com) with the subject "2025 ECR Grant LastName" (e.g. 2025 ECR Grant Wallace)
+
+It should include:
+- your name
+- current status (PhD student or postdoc) and institution
+- your PhD start date (students) or completion date (postdocs)
+- a description of the work to be carried out (maximum 500 words)
+- a description of how the work will benefit your career (maximum 200 words)
+- an outline budget with brief justification (maximum 100 words)
+
+Or you can use this template:
+
+
+ 
+**Selection criteria**
+ 
+Grants will be assessed by an external panel of experts, chaired by the AES Vice President, Damien Esquerre. The committee will consider the following key criteria in relation to the value of the proposed networking opportunity in terms of its expected output and impact on the applicant’s career. It will be important to demonstrate that the projects that are:
+
+- Clearly based on the applicant’s own initiative  
+- Likely to be completed and have a definable output  
+
+Please endeavour to address these points in your application.  
+
+
+Submissions open now until the *18th April 2025*
