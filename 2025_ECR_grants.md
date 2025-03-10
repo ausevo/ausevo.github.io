@@ -11,9 +11,6 @@ bigimg:
 # - /img/big-imgs/kook2.jpg: Good one
 ---
 
-## JUDGING PANEL
-
- 
 **Grant description**
  
 The Australasian Evolution Society is committed to expanding and providing opportunities for young researchers in the field. This year we will offer support by providing ECR grants towards projects undertaken in the Australasian region.  

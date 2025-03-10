@@ -1,5 +1,5 @@
 ---
-title: "AES"
+title: "AES Exec Committee"
 subtitle: Contact
 layout: page
 ---
@@ -10,7 +10,7 @@ layout: page
 
 We are also active on Blueskyt **@austevolsoc.bsky**.social or X (twitter) **@AustEvolSoc**
 
-# The AES 2025 Exec Team
+# The AES 2025 Exec Committee
 
   
 
@@ -41,7 +41,6 @@ School of Biological Sciences, University of Western Australia
 
 [**Dr Kristoffer Wild**](https://findanexpert.unimelb.edu.au/profile/1030758-kristoffer-wild)
 School of BioSciences, University of Melbourne
-
 
 ### SOCIAL MEDIA TEAM (@AustEvolSoc) 
 
