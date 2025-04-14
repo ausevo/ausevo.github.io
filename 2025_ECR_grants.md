@@ -13,7 +13,7 @@ bigimg:
 
 **Grant description**
  
-The Australasian Evolution Society is committed to expanding and providing opportunities for young researchers in the field. This year we will offer support by providing ECR grants towards projects undertaken in the Australasian region.  
+The Australasian Evolution Society is committed to expanding and providing opportunities for young researchers in the field. This year we will offer support by providing ECR grants towards projects undertaken in the Australasian region. Two awards will be open (ECRs and PhD students) can apply and one award reserved only for PhD students.  
 
 **Distribution of grants**
 
@@ -26,8 +26,11 @@ The Australasian Evolution Society is committed to expanding and providing oppor
 
 The main aim of these grants is to promote collaborations among members in our Society or Australasia. There are no specific restrictions on how the funds can be used. Funds can be used to cover flights and accommodation to forge new collaborations or visit existing collaborators, or they can be used for laboratory or field work in a project that involves members of different research groups. The only requisite is that the project should involve more than one research group in Australasia.  
 
-
 **Eligibility**
+
+- For the purpose of this grant, we define Early Career Researcher (ECRs) as someone is currently a PhD student or having completed their PhD within the last 5 years (received their PhD *after* 18 April 2020). The first and second prizes are open to all ECRs.
+
+- Only current PhD students are eligible to win the PhD only prize.
 
 - Applicants must be a member of AES (we consider members those that have attended one of the two last conferences). If not, membership can be paid [here](https://aes.corsizio.com/c/623ce1d83b5782883219ce9a). 
 
