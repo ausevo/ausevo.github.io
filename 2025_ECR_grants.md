@@ -28,7 +28,7 @@ The main aim of these grants is to promote collaborations among members in our S
 
 **Eligibility**
 
-- For the purpose of this grant, we define Early Career Researcher (ECRs) as someone is currently a PhD student or having completed their PhD within the last 5 years (received their PhD *after* 18 April 2020). The first and second prizes are open to all ECRs.
+- For the purpose of this grant, we define Early Career Researcher (ECRs) as someone who is currently a PhD student or have completed their PhD within the last 5 years (received their PhD *after* 18 April 2020). The first and second prizes are open to all ECRs.
 
 - Only current PhD students are eligible to win the PhD only prize.
 
