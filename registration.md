@@ -3,7 +3,7 @@ layout: page
 title: AES 2025
 subtitle: Conference Registration
 bigimg:
-- /img/big-imgs/Perth-night-panorama-080306.jpg: The skyline of Perth at night (Nachoman-au, 2006)
+- /img/big-imgs/brisbane_j_Lo_flickr_2016.jpg: The Brisbane sign on South Bank (J Lo Photography, 2016)
 ---
 
 #### Wednesday 1st – Friday 3rd October 2025
