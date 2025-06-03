@@ -11,6 +11,20 @@ bigimg:
 # - /img/big-imgs/kook2.jpg: Good one
 ---
 
+## Grant Outcomes
+
+It is our great pleasure to announce the winners of the ECR Networking Awards. Well done to these people:
+
+Winner: **Jacob Scadden**  
+
+Runner-up: **Pietro Pollo**  
+
+PhD category winner: **Dineth Malintha Pathirana**  
+
+The AES Executive Committee would like to extend a HUGE THANK YOU to the external judges **Emily Roycroft** and **Ollie Griffith**. Well done to all applicants – it was a tough field!
+
+---
+
 **Grant description**
  
 The Australasian Evolution Society is committed to expanding and providing opportunities for young researchers in the field. This year we will offer support by providing ECR grants towards projects undertaken in the Australasian region. Two awards will be open (ECRs and PhD students) can apply and one award reserved only for PhD students.  
@@ -20,7 +34,6 @@ The Australasian Evolution Society is committed to expanding and providing oppor
 - First prize: $2500  
 - Second prize: $2000  
 - PhD only prize: $1500  
-
 
 **What will we fund?**
 
