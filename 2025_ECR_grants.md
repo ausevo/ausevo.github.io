@@ -15,11 +15,11 @@ bigimg:
 
 It is our great pleasure to announce the winners of the ECR Networking Awards. Well done to these people:
 
-Winner: **Jacob Scadden**  
+Winner: **Jacob Scadden** (UNSW)  
 
-Runner-up: **Pietro Pollo**  
+Runner-up: **Pietro Pollo** (UNSW)  
 
-PhD category winner: **Dineth Malintha Pathirana**  
+PhD category winner: **Dineth Malintha Pathirana** (USyd)  
 
 The AES Executive Committee would like to extend a HUGE THANK YOU to the external judges **Emily Roycroft** and **Ollie Griffith**. Well done to all applicants – it was a tough field!
 
