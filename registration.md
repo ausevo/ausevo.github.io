@@ -3,7 +3,7 @@ layout: page
 title: AES 2025
 subtitle: Conference Registration
 bigimg:
-- /img/big-imgs/brisbane_j_Lo_flickr_2016.jpg: The Brisbane sign on South Bank (J Lo Photography, 2016)
+- /img/big-imgs/brisbane_j_Lo_flickr_2016.jpg: The Brisbane sign on South Bank (J Lo Photography, 2016 under CC BY-ND 2.0)
 ---
 
 #### Wednesday 1st – Friday 3rd October 2025
