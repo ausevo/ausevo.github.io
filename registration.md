@@ -18,6 +18,8 @@ We are pleased to announce that we are now taking applications for our ECR Trave
 **ECR Travel Awards Application**:  
 Applications for the ECR Travel Awards can be made using this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSchn1Ap3fPo3GqGlaAOplvLX5fo0bX9PqT2JJPLPCXYa0y23A/viewform)
 
+Honours/Master students, PhD students, and other early career researchers are eligible to apply.
+
 Grant application deadline is **4th of July 2025**. Outcomes to be announced in the first half of July 2025.
 
 <!-- **ECR Travel Grant Application: is now closed and outcomes have been announced on 15th July 2024** -->
