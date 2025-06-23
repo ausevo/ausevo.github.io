@@ -8,7 +8,7 @@ layout: page
 
 **Email**: ausevolutionsociety@gmail.com
 
-We are also active on Blueskyt **@austevolsoc.bsky**.social or X (twitter) **@AustEvolSoc**
+We are also active on Bluesky **@austevolsoc.bsky**.social or X (twitter) **@AustEvolSoc**
 
 # The AES 2025 Exec Committee
 
