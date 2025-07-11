@@ -42,6 +42,9 @@ School of Biological Sciences, University of Western Australia
 [**Dr Kristoffer Wild**](https://findanexpert.unimelb.edu.au/profile/1030758-kristoffer-wild)
 School of BioSciences, University of Melbourne
 
+[**Tim Temizyürek**](https://cbcs.centre.uq.edu.au/profile/2731/tim-temizyurek)
+School of the Environment, University of Queensland
+
 ### SOCIAL MEDIA TEAM (@AustEvolSoc) 
 
 [**Dr Avneet Kaur**](https://x.com/avnit_kr)  
