@@ -33,6 +33,9 @@ Grant application deadline is **4th of July 2025**. Outcomes to be announced in 
 
 **Registration now open**: [Register here](https://aes.corsizio.com/event/685405902ad44cb12ec195d4)
 
+Early bird registration closes: 1st of September (last day to register a talk)
+Final registration closes: 29th of September
+
 We have worked hard to make the conference as affordable as possible in the hope that we will have as many of our students and ECR members attend.
 
 Talk submission will follow. As in previous years, for talk presentations we do not request an abstract on application, only a title (that you can also update later).
