@@ -13,6 +13,4 @@ bigimg:
 
 **Want to join the Australasian Evolution Society?**
 
-Membership of the Australasian Evolution Society was automatically included in the registration for the 2020 and 2021 conferences. The membership from conference registration covers you for two years, so if you attended one of these recent conferences, you're a member!
-
-If you did not attend one of these recent conferences, you can pay for an annual membership [here](https://aes.corsizio.com/c/65ae0d2ae5c95197e126a041).
+Membership from conference registration covers you for two years, if you have not attended a conference recently and wish to renew your membership, you can do so [here](https://aes.corsizio.com/event/6763b55b99d74784f7db1350).
