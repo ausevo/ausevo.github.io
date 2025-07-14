@@ -10,19 +10,6 @@ bigimg:
 
 #### University of Queensland, Brisbane, Queensland
 
-### Early-Career Researcher Conference Travel Awards:
-
-We are pleased to announce that we are now taking applications for our ECR Travel Awards. These Awards can be used by ECR members to help with attending the 2025 conference.
-
-
-**ECR Travel Awards Application**:  
-Applications for the ECR Travel Awards can be made using this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSchn1Ap3fPo3GqGlaAOplvLX5fo0bX9PqT2JJPLPCXYa0y23A/viewform)
-
-Honours/Master students, PhD students, and other early career researchers are eligible to apply.
-
-Grant application deadline is **4th of July 2025**. Outcomes to be announced in the first half of July 2025.
-
-<!-- **ECR Travel Grant Application: is now closed and outcomes have been announced on 15th July 2024** -->
 <!-- **ECR Travel Grant Application: is now closed (https://docs.google.com/forms/d/e/1FAIpQLSc1LSWLEWcr07CQNUcUjWHq5glFQgpYwQcFzWSSM0hpNd4Guw/viewform)** -->
 
 <!-- Eligibility:
@@ -88,3 +75,18 @@ If you feel that there is anything else we can do that would make you feel more 
 
 Any questions please send us an email: ausevolutionsociety@gmail.com   --> 
 
+
+
+### Early-Career Researcher Conference Travel Awards:
+
+We are pleased to announce that we are now taking applications for our ECR Travel Awards. These Awards can be used by ECR members to help with attending the 2025 conference.
+
+
+**ECR Travel Awards Application**:  
+<!-- Applications for the ECR Travel Awards can be made using this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSchn1Ap3fPo3GqGlaAOplvLX5fo0bX9PqT2JJPLPCXYa0y23A/viewform)
+
+Honours/Master students, PhD students, and other early career researchers are eligible to apply.
+
+Grant application deadline is **4th of July 2025**. Outcomes to be announced in the first half of July 2025. -->
+
+**ECR Travel Grant Application: is now closed and outcomes have been announced on 14th July 2025**
