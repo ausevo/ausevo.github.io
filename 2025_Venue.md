@@ -6,10 +6,23 @@ bigimg:
 - /img/big-imgs/brisbane_j_Lo_flickr_2016.jpg: The Brisbane sign on South Bank (J Lo Photography, 2016 under CC BY-ND 2.0)
 ---
 
-
 ## 2025 Conference Venue
 
-All events will take place at the University of Queensland's St Lucia campus near the Great Court, which is centrally located at the centre of St. Lucia. 
+All events will take place at the University of Queensland's St Lucia campus near the Great Court, which is centrally located.  
+
+Talk locations:  
+- Room 139, Goddard Building (Building 8)  
+- Rooms 222 and 234 in the Parnel Building (Building 7)  
+
+Morning/afternoon teas and lunches will be outside the buildings, on the Great Court  
+
+### Getting to the venue:
+
+The best bus stop closest to the venues will be at Chancellor's place (2 minute walk to the venues). Attendees may also consider going to taking the bus to UQ Lakes bus stop and take a scenic 10 minute stroll through the campus grounds towards the Great Court. 
+
+[Map of University of Queensland](https://maps.uq.edu.au/)
+
+### Accommodation 
 
 When booking accommodation the suburbs of: Toowong, Indooroopilly, Milton, South Bank & Woolloongabba are close by.
 

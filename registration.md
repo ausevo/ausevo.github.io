@@ -32,7 +32,7 @@ Talk submission will follow. As in previous years, for talk presentations we do 
 
 Talks and events will be around the Great Court on UQ's St. Lucia campus. The conference dinner will be at [The Burrow](https://www.theburrowwestend.com.au/), 52 Russell St, West End QLD 4101.
 
-See this [page](/2025_venue/) for details.
+See the [venue](/2025_venue/) page for details.
 
 #### Registration fees 
 
