@@ -27,7 +27,7 @@ navbar-links:
     # - Past conferences: "conferences_general"
     - Registration: "registration"
     # - Program: "programme"
-    # - Venue: "2024_Venue"
+    - Venue: "2025_Venue"
     # - Accom: "2024_accom"
     # - Social: "social_events_2022"
     # - Online: "2023_online"

@@ -28,6 +28,12 @@ We have worked hard to make the conference as affordable as possible in the hope
 Talk submission will follow. As in previous years, for talk presentations we do not request an abstract on application, only a title (that you can also update later).
 <!-- We hope to run tag-team presentations again, as well as the usual standard and flash talk options.   -->
 
+#### Venue
+
+Talks and events will be around the Great Court on UQ's St. Lucia campus. The conference dinner will be at [The Burrow](https://www.theburrowwestend.com.au/), 52 Russell St, West End QLD 4101.
+
+See this [page](/2025_venue/) for details.
+
 #### Registration fees 
 
 All registration fees are in Australian dollars and are inclusive of GST. Early bird registration ends on the 1st of September. Final registration closes 29th of September 2025.
@@ -40,24 +46,9 @@ All registration fees are in Australian dollars and are inclusive of GST. Early 
 
 **_Online registration includes_**: online access to conference activities, and the opportunity to present your work.  
 
-<!-- 
-#### Presentations
-
-When you register, please indicate whether you would like to present. These will be your options:  
-
-- No talk, I am happy just listening to some really amazing talks  
-
-- Flash talk (3 mins), I’ve got some super neat stuff to tell you and it won’t take me that long  
-
-- Standard talk (10 mins + 3 mins for question), my research is so cool, you won’t be able to shut me up  
-
-- Tag-team talk\* (45 mins including questions), not only am I awesome, my whole team is awesome and we all really want to tell you about what we’re doing  
-
-\*Tag-team talks are talks given by several members of the same research group (4 - 5), talking about related research topics that can be told as a whole story. -->
-
 <!-- #### Accomodation 
 
-See this [page](/accommodation/) for details.
+See this [page](/accommodation/) for details. -->
 
 #### Equity and Inclusion
 
@@ -65,29 +56,17 @@ We are really keen to create an open and friendly atmosphere where everyone feel
 
 With this in mind,
 
--	We are looking into options of making a **parent/child friendly** conference, if you would like to bring your children, please indicate this when you register.
+- We are looking into options of making a **parent/child friendly** conference, if you would like to bring your children, please indicate this when you register.  
 
--	We will be providing **travel grants** to those in need. If you would like to be considered for one of these travel grants please indicate this when you register. 
+- We will have **online options available** for those who cannot attend in person.  
 
--	We will have **online options available** for those who cannot attend in person. 
+If you feel that there is anything else we can do that would make you feel more comfortable attending AES2025, please get in touch, we are very open to suggestions.
 
-If you feel that there is anything else we can do that would make you feel more comfortable attending AES2023, please get in touch, we are very open to suggestions.
-
-Any questions please send us an email: ausevolutionsociety@gmail.com   --> 
-
+Any questions please send us an email: ausevolutionsociety@gmail.com  
 
 
 ### Early-Career Researcher Conference Travel Awards:
 
 We are pleased to announce that we are now taking applications for our ECR Travel Awards. These Awards can be used by ECR members to help with attending the 2025 conference.
-
-
-**ECR Travel Awards Application**:  
-
-<!-- Applications for the ECR Travel Awards can be made using this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSchn1Ap3fPo3GqGlaAOplvLX5fo0bX9PqT2JJPLPCXYa0y23A/viewform)
-
-Honours/Master students, PhD students, and other early career researchers are eligible to apply.
-
-Grant application deadline is **4th of July 2025**. Outcomes to be announced in the first half of July 2025. -->
 
 **ECR Travel Grant Application: is now closed and outcomes have been announced on 14th July 2025**
