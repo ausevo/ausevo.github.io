@@ -27,10 +27,15 @@ Download Day 3 program [here](./docs/2024/2024_AES_Program_Day3.pdf) -->
 We are pleased to announce the winners of our 2025 ECR Best Paper Awards, and therefore our ECR plenary speakers in Brisbane!
 
 **PhD Plenary: Jamiema Philip**  
+**Philip, J. S.**, S. Grewal, J. Scadden, C. Puente-Lelievre, N. J. Matzke, L. McNally, and M. A. B. Baker. 2025. Mapping the loss of flagellar motility across the tree of life. ISME J 19:wraf111.  
 
 **EMCR Plenary 1: Paul Battlay**  
 
+**Battlay, P.**, B. T. Hendrickson, J. I. Mendez-Reneau, .... and N. J. Kooyers. 2025. Haploblocks contribute to parallel climate adaptation following global invasion of a cosmopolitan plant. Nat Ecol Evol 9:1441–1455.  
+
 **EMCR Plenary 2: Kris Wild**  
+
+**Wild, K. H.**, R. B. Huey, E. R. Pianka, S. Clusella-Trullas, A. L. Gilbert, D. B. Miles, and M. R. Kearney. 2025. Climate change and the cost-of-living squeeze in desert lizards. Science 387:303–309.  
 
 ## Workshop: How to become a great science communicator - Zoe Kean
 16:45 - 17:45 (2 October 2025)
