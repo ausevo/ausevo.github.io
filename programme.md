@@ -1,70 +1,73 @@
 ---
 layout: page
-title: AES 2024
+title: AES 2025
 subtitle: Programme
 css: "/css/index.css"
 bigimg:
-- /img/big-imgs/quokka_Joseph11.jpg: Quokka by Joseph11 (Goodfon.com, 2023)
+- /img/big-imgs/brisbane_j_Lo_flickr_2016.jpg: The Brisbane sign on South Bank (J Lo Photography, 2016 under CC BY-ND 2.0)
 ---
-
-
 
 ## Conference program
 
-Download the latest full program [here](./docs/2024/2024_AES_Program.pdf)*
+Full program coming soon...
+
+<!-- Download the latest full program [here](./docs/2024/2024_AES_Program.pdf)*
 
 Download Day 1 program [here](./docs/2024/2024_AES_Program_Day1.pdf)
 
 Download Day 2 program [here](./docs/2024/2024_AES_Program_Day2.pdf)
 
-Download Day 3 program [here](./docs/2024/2024_AES_Program_Day3.pdf)
-
-<!-- Click [here](./docs/2023/AusEvo23_ScheduleOfEvents.pdf) for the program broken down into multiple pages. -->
-
-*Latest version, 2024-12-04
-*Subject to change
-
-## Online access
-
-Password to access the meeting has been emailed to delegates.
-
-#### Alexander Lecture Theatre (Room 1)
-<!-- Meeting link Alexander Lecture Theatre -->
-
-#### Murdoch Lecture Theatre (Room 2)
-<!-- [Meeting link Murdoch Lecture Theatre]
-Meeting ID: 463 449 167 098 -->
+Download Day 3 program [here](./docs/2024/2024_AES_Program_Day3.pdf) -->
 
 
-<!-- ### Conference Slack
-We will be using [Slack](https://join.slack.com/t/ausevo2023/shared_invite/zt-28ryturuo-HZBXfJQlCvloJuQ5FMHHfg) for socialising, discussion and general (non-urgent) communication    
-**note: questions during talks will only be taken through zoom (or live)**   -->
+# Programme Highlights
 
-## Maps and venue
+## Student and ECR Plenaries
 
-Presentations are plenaries will take place at the UWA Arts Complex (35 Stirling Hwy, Crawley WA 6009). 
-All three lecture halls used for the conference are located on the ground floor. Accessible entrances are located at the North and West sides of the building, plus a ramp at the South, should anyone be entering from the carpark.  There is an accessible bathroom on the ground floor. If anyone needs to access the upper floors, there is lift access.
+We are pleased to announce the winners of our 2025 ECR Best Paper Awards, and therefore our ECR plenary speakers in Brisbane!
 
-### Campus map
+**PhD Plenary: Jamiema Philip**  
 
-![](/img/aes2024/UWA_AES_map.jpg)
+**EMCR Plenary 1: Paul Battlay**  
 
-### Social venue
+**EMCR Plenary 2: Kris Wild**  
 
-Welcome drinks will be at Steve's Bar, Cafe and Winestore
+## Workshop: How to become a great science communicator - Zoe Kean
+16:45 - 17:45 (2 October 2025)
 
+<!-- ![Author Zoe Kean](/img/aes2025/SciComm.jpg) -->
+<img src="/img/aes2025/SciComm.jpg" alt="Zoe Kean" width="400" class="center-image" caption="ZoeKean"/>  
 
-<!-- 
-### Campus map
+We are delighted to announce that Zoe Keanhas offered to attend the conference and lead a workshop on "How to become a great science communicator". Although targeted at our ECRs, we encourage all to attend. Here is some information about Zoe:
 
-![Campus Map](/img/2023_AES_4.png)
-
-### Presentation venue
-
-![Presentation venues](/img/2023_AES_3.png)
+Zoe Kean lives in Lutruwita/Tasmania, an island at the bottom of the world. An award-winning science writer with a focus on evolution, ecology, and the environment. Her debut book, 'Why are we like this?' was published in 2024, and tackles nine evolution paradoxes that touch all our lives. Zoe honed her writing and radio skills with the best at the ABC Science Unit as the Darren Osborne Regional Science Cadet (2019). She has published in The Guardian, the ABC online, The Best Australian Science Writing 2022, 2023, and 2024, Cosmos magazine and with the BBC. Her love for science cannot be contained to the page. Zoe also gives talks, makes science TikTok videos and regularly appears on live radio. She is passionate about supporting scientists, especially to communicate their work effectively and ethically.
 
 
+## Senior Plenary - Prof. David Lambert  
+13:30 - 14:30 (3 October 2025)
 
-### Family Faciilty and ECR Event
+<!-- ![Prof David Lambert](/img/aes2025/Plenary4.png) -->
+<img src="/img/aes2025/Plenary4.png" alt="Professor David Lambert " width="300" class="center-image"/>
 
-![Social venues](/img/2023_AES_1.png) -->
+Professor David Lambert is Professor of Evolutionary Biology at Griffith University. His career began in evolutionary genetics, with early research on Drosophila and Anopheline cytogenetics. Over the last two decades, his work has included studies using ancient DNA, with a particular emphasis on the genetics of extinct and living birds. Professor Lambert has also concentrated on Aboriginal Australian genomics. His research group has worked together with Indigenous Elders, sequencing more than 255 whole genomes from 65 different language groups, and publishing findings that have contributed to understanding of Aboriginal Australian history and diversity. 
+
+
+## Venue
+
+All events will take place at the University of Queensland's St Lucia campus near the Great Court, which is centrally located.  
+
+Talk locations:  
+- Room 139, Goddard Building (Building 8)  
+- Rooms 222 and 234 in the Parnel Building (Building 7)  
+
+Morning/afternoon teas and lunches will be outside the buildings, on the Great Court  
+
+### Social venue (1 October 2025)  
+
+Saint Lucy (Caffe e Cucina), Blair Drive, University of Queensland  
+
+### Conference dinner venue (2 October 2025)  
+
+The Burrow, 52 Russell Street, West End  
+
+
