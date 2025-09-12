@@ -36,6 +36,8 @@ We are pleased to announce the winners of our 2025 ECR Best Paper Awards, and th
 
 **EMCR Plenary 2: Kris Wild**  
 
+<img src="/img/aes2025/Kris_1.jpg" alt="Kris Wild" width="400" class="center-image" caption="KrisWild"/>  
+
 **Wild, K. H.**, R. B. Huey, E. R. Pianka, S. Clusella-Trullas, A. L. Gilbert, D. B. Miles, and M. R. Kearney. 2025. Climate change and the cost-of-living squeeze in desert lizards. Science 387:303–309.  
 
 ## Workshop: How to become a great science communicator - Zoe Kean
