@@ -1,13 +1,13 @@
 ---
 layout: page
 title: AES 2025
-subtitle: Programme
+subtitle: Program
 css: "/css/index.css"
 bigimg:
 - /img/big-imgs/brisbane_j_Lo_flickr_2016.jpg: The Brisbane sign on South Bank (J Lo Photography, 2016 under CC BY-ND 2.0)
 ---
 
-## Conference program
+## Conference Program
 
 Full program coming soon...
 
@@ -20,7 +20,7 @@ Download Day 2 program [here](./docs/2024/2024_AES_Program_Day2.pdf)
 Download Day 3 program [here](./docs/2024/2024_AES_Program_Day3.pdf) -->
 
 
-# Programme Highlights
+# Program Highlights
 
 ## Student and ECR Plenaries
 
