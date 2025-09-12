@@ -43,7 +43,7 @@ We are pleased to announce the winners of our 2025 ECR Best Paper Awards, and th
 <!-- ![Author Zoe Kean](/img/aes2025/SciComm.jpg) -->
 <img src="/img/aes2025/SciComm.jpg" alt="Zoe Kean" width="400" class="center-image" caption="ZoeKean"/>  
 
-We are delighted to announce that Zoe Keanhas offered to attend the conference and lead a workshop on "How to become a great science communicator". Although targeted at our ECRs, we encourage all to attend. Here is some information about Zoe:
+We are delighted to announce that Zoe Kean has offered to attend the conference and lead a workshop on "How to become a great science communicator". Although targeted at our ECRs, we encourage all to attend. Here is some information about Zoe:
 
 Zoe Kean lives in Lutruwita/Tasmania, an island at the bottom of the world. An award-winning science writer with a focus on evolution, ecology, and the environment. Her debut book, 'Why are we like this?' was published in 2024, and tackles nine evolution paradoxes that touch all our lives. Zoe honed her writing and radio skills with the best at the ABC Science Unit as the Darren Osborne Regional Science Cadet (2019). She has published in The Guardian, the ABC online, The Best Australian Science Writing 2022, 2023, and 2024, Cosmos magazine and with the BBC. Her love for science cannot be contained to the page. Zoe also gives talks, makes science TikTok videos and regularly appears on live radio. She is passionate about supporting scientists, especially to communicate their work effectively and ethically.
 
