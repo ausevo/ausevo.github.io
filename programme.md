@@ -27,6 +27,7 @@ Download Day 3 program [here](./docs/2024/2024_AES_Program_Day3.pdf) -->
 We are pleased to announce the winners of our 2025 ECR Best Paper Awards, and therefore our ECR plenary speakers in Brisbane!
 
 **PhD Plenary: Jamiema Philip**  
+
 **Philip, J. S.**, S. Grewal, J. Scadden, C. Puente-Lelievre, N. J. Matzke, L. McNally, and M. A. B. Baker. 2025. Mapping the loss of flagellar motility across the tree of life. ISME J 19:wraf111.  
 
 **EMCR Plenary 1: Paul Battlay**  
