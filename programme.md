@@ -28,6 +28,8 @@ We are pleased to announce the winners of our 2025 ECR Best Paper Awards, and th
 
 **PhD Plenary: Jamiema Philip**  
 
+<img src="/img/aes2025/JPhilip.jpg" alt="Jamiemma Phillip" width="400" class="center-image" caption="JamiemaPhilip"/>  
+
 **Philip, J. S.**, S. Grewal, J. Scadden, C. Puente-Lelievre, N. J. Matzke, L. McNally, and M. A. B. Baker. 2025. Mapping the loss of flagellar motility across the tree of life. ISME J 19:wraf111.  
 
 **EMCR Plenary 1: Paul Battlay**  
