@@ -9,15 +9,16 @@ bigimg:
 
 ## Conference Program
 
-Full program coming soon...
+<!-- Full program coming soon... -->
 
-<!-- Download the latest full program [here](./docs/2024/2024_AES_Program.pdf)*
+Download the latest full program [here](./docs/2025/2025-09-16_AESDraftProgramme.pdf)  
 
+<!-- 
 Download Day 1 program [here](./docs/2024/2024_AES_Program_Day1.pdf)
 
 Download Day 2 program [here](./docs/2024/2024_AES_Program_Day2.pdf)
 
-Download Day 3 program [here](./docs/2024/2024_AES_Program_Day3.pdf) -->
+Download Day 3 program [here](./docs/2024/2024_AES_Program_Day3.pdf) --> -->
 
 
 # Program Highlights
