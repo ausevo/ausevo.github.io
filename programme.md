@@ -14,6 +14,8 @@ bigimg:
 Colour code:
 Orange = PhD and blue = MSc/Hons
 
+Rooms 1 and 2 are both in PARNELL
+
 **Download Day 1 program** [here](./docs/2025/2025_Day1.pdf)  
 
 **Download Day 2 program** [here](./docs/2025/2025_Day2.pdf)  
