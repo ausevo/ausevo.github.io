@@ -11,7 +11,10 @@ bigimg:
 
 <!-- Full program coming soon... -->
 
-Download the latest full program [here](./docs/2025/2025_AES_Program_20250929.pdf)  
+Download the latest full program [here](./docs/2025/2025_AES_Program_20250930.pdf)  
+
+Colour code:
+Orange = PhD and blue = MSc/Hons
 
 <!-- 
 Download Day 1 program [here](./docs/2024/2024_AES_Program_Day1.pdf)
