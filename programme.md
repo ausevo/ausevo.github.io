@@ -20,6 +20,8 @@ Rooms 1 and 2 are both in PARNELL
 
 **Download Day 2 program** [here](./docs/2025/2025_Day2.pdf)  
 
+**Download Day 3 program** [here](./docs/2025/2025_Day3.pdf)  
+
 **Download the latest full program** [here](./docs/2025/2025_AES_Program_20250930.pdf)  
 
 
