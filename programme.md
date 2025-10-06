@@ -9,16 +9,11 @@ bigimg:
 
 ## Conference Program
 
-<!-- Full program coming soon... -->
 
-<<<<<<< HEAD
-Download the latest full program [here](./docs/2025/2025_AES_Program_20250930.pdf)  
-=======
-Colour code:
-Orange = PhD and blue = MSc/Hons
->>>>>>> 5132fafcfc4a8e255dda8c20e41a0182593c3d40
+Colour code:  
+Orange = PhD and blue = MSc/Hons  
 
-Rooms 1 and 2 are both in PARNELL
+Rooms 1 and 2 are both in PARNELL  
 
 **Download Day 1 program** [here](./docs/2025/2025_Day1.pdf)  
 
