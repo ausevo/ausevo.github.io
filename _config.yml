@@ -36,7 +36,8 @@ navbar-links:
     # - Awards: "prizes"
     # - Getting-there: "2023_accommodation"
     - Past Conferences: "past-conf"
-    - Past ECR Awards Winners: "previous_winners"
+    - Past ECR Awards: "previous_winners"
+    - Past Talk Awards: "talk_awards"
    
   Resources:
     # - Opportunities: "jobs"
