@@ -56,7 +56,6 @@ Saint Lucy (Caffe e Cucina), Blair Drive, University of Queensland
 Our conference dinner event will be at [The Burrow](https://www.theburrowwestend.com.au/), 52 Russell St, West End QLD 4101.  
 
 Space is limited at 110 people for the conference dinner so sign up quick!. Food and two drinks are included in the conference dinner ticket ($65).
-This venue is about 5km from the centre of UQ's campus. The journey from UWA will take around 20 minutes by car and 30 minutes by public transportation or ~1 hour walk. 
 
 
 
