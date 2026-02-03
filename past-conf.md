@@ -12,7 +12,7 @@ bigimg:
 
 ## Past Conferences
 
-2025 - University of Queensland - Brisbane, QLD
+2025 - University of Queensland - Brisbane, QLD (131 attendees, 7 online)  
 [Conference program](./docs/2025/2025_AES_Program_20250930.pdf)  
 
 2024 - University of Western Australia - Perth, WA (116 attendees, 6 online)  
