@@ -59,10 +59,10 @@ navbar-links:
 author:
   name: Australasian Evolution Society
   email: "austevolutionsociety@gmail.com"
-  facebook: austevolsoc.bsky.social #groups/95240533874/  # eg. daattali
+  facebook: ausevosoc #groups/95240533874/  # eg. daattali
+  # facebook: austevolsoc.bsky.social
   twitter: austevolsoc   # eg. daattali
-
-  github: https://github.com/ausevo/ausevo.github.io
+  github: austevolsoc.bsky.social
 
 # Select which links to show in the footer
 footer-links-active:
