@@ -56,10 +56,10 @@ School of Biological Sciences, University of Western Australia
 [**Dr Sarin "Putter" Tiatragul**](mailto:sarin.tiatragul[at]anu.edu.au)  
 Research School of Biology, Australian National University  
 
-<!-- ### ORDINARY MEMBER
+### ORDINARY MEMBER
 
 [**Prof Simone Blomberg**](https://about.uq.edu.au/experts/428)  
-School of the Environment, University of Queensland
+School of the Environment, University of Queensland  
 
-[**Dr Renée Claire Firman**](https://research-repository.uwa.edu.au/en/persons/renee-firman)  
-School of Biological Sciences, University of Western Australia   -->
+<!-- [**Dr Renée Claire Firman**](https://research-repository.uwa.edu.au/en/persons/renee-firman)   -->
+<!-- School of Biological Sciences, University of Western Australia   --> -->
