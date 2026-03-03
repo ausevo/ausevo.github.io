@@ -1,102 +1,42 @@
 <head>
   <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-
+  <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{% if page.subtitle %}{{ page.subtitle }}{% elsif page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
   <meta name="author" content="{{ site.author.name }}" />
-  
-  {% if page.subtitle %}
-  <meta name="description" content="{{ page.subtitle }}">
-  {% endif %}
 
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-  
- <!-- everything has to be repeated twice because on 2016-02-01 GitHub pages migrated to jekyll 3; see bug https://github.com/jekyll/jekyll/issues/4439 -->
+  <link rel="canonical" href="{{ site.url }}{{ page.url | remove: 'index.html' }}" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.baseurl }}/feed.xml" />
 
-  {% if page.common-ext-css %}
-    {% for css in page.common-ext-css %}
-      <link rel="stylesheet" href="{{ css }}" />
-    {% endfor %}
-  {% endif %}  
-  {% if layout.common-ext-css %}
-    {% for css in layout.common-ext-css %}
-      <link rel="stylesheet" href="{{ css }}" />
-    {% endfor %}
-  {% endif %}    
-  
-  {% if page.common-css %}
-    {% for css in page.common-css %}
-      <link rel="stylesheet" href="{{ css | prepend: site.baseurl | replace: '//', '/' }}" />
-    {% endfor %}
-  {% endif %}
-  {% if layout.common-css %}
-    {% for css in layout.common-css %}
-      <link rel="stylesheet" href="{{ css | prepend: site.baseurl | replace: '//', '/' }}" />
-    {% endfor %}
-  {% endif %}  
-  
-  {% if page.common-googlefonts %}
-    {% for font in page.common-googlefonts %}
-      <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" />
-    {% endfor %}
-  {% endif %}
-  {% if layout.common-googlefonts %}
-    {% for font in layout.common-googlefonts %}
-      <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" />
-    {% endfor %}
-  {% endif %}
+  <!-- Fonts: Inter -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
 
-  {% if page.ext-css %}
-    {% for css in page.ext-css %}
-      <link rel="stylesheet" href="{{ css }}" />
-    {% endfor %}
-  {% endif %}  
-  {% if layout.ext-css %}
-    {% for css in layout.ext-css %}
-      <link rel="stylesheet" href="{{ css }}" />
-    {% endfor %}
-  {% endif %}  
-  
-  {% if page.css %}
-    {% for css in page.css %}
-      <link rel="stylesheet" href="{{ css | prepend: site.baseurl | replace: '//', '/' }}" />
-    {% endfor %}
-  {% endif %}
-  {% if layout.css %}
-    {% for css in layout.css %}
-      <link rel="stylesheet" href="{{ css | prepend: site.baseurl | replace: '//', '/' }}" />
-    {% endfor %}
-  {% endif %}
-  
-  {% if page.googlefonts %}
-    {% for font in page.googlefonts %}
-      <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" />
-    {% endfor %}
-  {% endif %}
-  {% if layout.googlefonts %}
-    {% for font in layout.googlefonts %}
-      <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" />
-    {% endfor %}
-  {% endif %}   
-  
-  <!-- Facebook OpenGraph tags -->
-  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-  <meta property="og:type" content="website" />
-  
-  {% if page.id %}
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}/" />
-  {% else %}
-  <meta property="og:url" content="{{ site.url }}{{ page.url | remove: '/index.html' | remove: '.html' }}" />
-  {% endif %}
-  
-  {% if page.fb-img %}
-  <meta property="og:image" content="{{ page.fb-img }}" />
-  {% elsif site.avatar %}
-  <meta property="og:image" content="{{ site.url }}{{ site.avatar }}" />
-  {% else %}
-  <meta property="og:image" content="" />
-  {% endif %}
-  
+  <!-- Icons: Font Awesome 6 Free -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+        integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+  <!-- AES Theme -->
+  <link rel="stylesheet" href="{{ '/css/aes-theme.css' | relative_url }}" />
+
+  <!-- OpenGraph -->
+  <meta property="og:title"       content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+  <meta property="og:description" content="{% if page.subtitle %}{{ page.subtitle }}{% else %}{{ site.description }}{% endif %}" />
+  <meta property="og:type"        content="website" />
+  <meta property="og:url"         content="{{ site.url }}{{ page.url }}" />
+  <meta property="og:image"       content="{{ site.url }}/img/AES_logo1.png" />
+  <meta property="og:site_name"   content="{{ site.title }}" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card"        content="summary_large_image" />
+  <meta name="twitter:site"        content="@{{ site.author.twitter }}" />
+  <meta name="twitter:title"       content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+  <meta name="twitter:description" content="{% if page.subtitle %}{{ page.subtitle }}{% else %}{{ site.description }}{% endif %}" />
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="{{ '/img/AES_logo1.png' | relative_url }}" />
 </head>

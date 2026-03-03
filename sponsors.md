@@ -1,12 +1,13 @@
 ---
 layout: page
-title: AES 2019
-subtitle: Conference Sponsors
-css: "/css/index.css"
-bigimg:
-  - "/img/big-imgs/construction2.jpg" 
+title: Conference Sponsors
+subtitle: Supporting AES 2026
 ---
 
+Details about sponsoring AES 2026 will be announced in due course.
 
- **coming soon**
+If your organisation is interested in supporting AES 2026 at the University of Wollongong, please [contact us](mailto:austevolutionsociety@gmail.com).
 
+### Past sponsors
+
+We are grateful to the institutions and organisations that have supported past AES conferences. Sponsorship directly subsidises registration costs for students and early career researchers.

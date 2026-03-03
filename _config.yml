@@ -1,114 +1,90 @@
 # --- General options --- #
 
-# url is the full website URL
-# baseurl is the website's URL without the hostname
-
-# If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "http://ausevo.github.io"
 baseurl: ""
 
-# Name of website
 title: Australasian Evolution Society
-
-# Short description of your site
 description: Promoting the scientific study of evolution
 
-# --- Navigation bar options --- #
+# --- Navigation bar --- #
+# Structure: top-level keys map to either a URL string (simple link) or
+# an array of {Label: url} hashes (dropdown). Update each year as needed.
 
-# List of links in the navigation bar
 navbar-links:
-  About: " "
-  News: "news"
-  Blog: "blog"
-  ECR Grants: "2025_ECR_grants"
-  Join!: "join"
-  Contact us: "contact"
-  Conference: 
-    # - Past conferences: "conferences_general"
+  Conference:
+    - Overview: "conference"
+    - Programme: "programme"
     - Registration: "registration"
-    - Program: "programme"
     - Venue: "2025_Venue"
-    # - Accom: "2024_accom"
-    # - Social: "social_events_2022"
-    # - Online: "2023_online"
-    # - Local Dinners: "food" 
-    - Research Excellence Awards: "2025_research_awards"
-    # - Awards: "prizes"
-    # - Getting-there: "2023_accommodation"
+    - Sponsors: "sponsors"
     - Past Conferences: "past-conf"
+  Grants & Awards:
+    - ECR Grants: "2025_ECR_grants"
+    - Research Excellence: "2025_research_awards"
     - Past ECR Awards: "previous_winners"
     - Past Talk Awards: "talk_awards"
-   
-  Resources:
-    # - Opportunities: "jobs"
-    # - AES Exec Team: "2023_exec"
-    - AES Constitution: "constitution"
-    - AES Minutes: "requestMins"  
-    # - Useful Links: "links"      
-    
-# docs/aes_agm_2014.pdf  removed from resources
-# Image to show in the navigation bar - image must be a square (width = height)
-# Remove this parameter if you don't want an image in the navbar
-# avatar: "/img/avatar-icon.png"
-# avatar: "/img/AES_logo1.png"
+  Society:
+    - About AES: "about"
+    - Executive: "contact"
+    - Constitution: "constitution"
+    - AGM Minutes: "requestMins"
+  Join!: "join"
 
-# --- Footer options --- #
+# --- Author / social --- #
 
-# Change all these values or delete the ones you don't want.
-# Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Australasian Evolution Society
   email: "austevolutionsociety@gmail.com"
-  facebook: ausevosoc #groups/95240533874/  # eg. daattali
-  # facebook: austevolsoc.bsky.social
-  twitter: austevolsoc   # eg. daattali
-  github: austevolsoc.bsky.social
+  facebook: ausevosoc
+  twitter: austevolsoc
+  github: austevolsoc.bsky.social   # repurposed for Bluesky — see _includes/footer.html
 
-# Select which links to show in the footer
-footer-links-active:
-  facebook: true
-  email: true
-  twitter: true
-  github: true
+# --- Conference season (drives homepage) --- #
+# The homepage hero switches to conference mode when today falls within
+# [conference_season_start, conference_season_end].
+# Set conference_season_override: true to force-on regardless of dates.
+# Set conference_season_override: false to force-off regardless of dates.
+# Leave conference_season_override absent (or comment it out) to use dates only.
 
-# How to display the link to the website in the footer
-# Remove this if you don't want a link in the footer
-url-pretty: "ausevo.com"  # eg. "deanattali.com/beautiful-jekyll"
+conference_season_start: "2026-08-01"   # Update each year when registration opens
+conference_season_end:   "2026-10-31"   # Update each year to ~1 month after conf ends
+# conference_season_override: false     # Uncomment and set true/false to override
+
+# --- Analytics --- #
+
+# Google Analytics 4 — add your G-XXXXXXXXXX Measurement ID here
+# google_analytics_4: "G-XXXXXXXXXX"
+
+# Legacy UA (no longer functional — kept for reference only)
+# google_analytics: "UA-75904828-1"
+
+# Disqus comments shortname (used by post layout when page.comments: true)
+disqus: "ausevo"
 
 # --- Misc --- #
 
-# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "ausevo"
+url-pretty: "ausevo.com"
 
-# Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-75904828-1"
+# --- Jekyll build options --- #
 
-# --- Don't need to touch anything below here (but you can if you want) --- #
-
-# Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Australia/Sydney"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 7
 
-# Default YAML values (more information on Jekyll's site)
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
-  -
-    scope:
-      path: "" # all files
+      comments: true
+  - scope:
+      path: ""
     values:
       layout: "page"
-      show-avatar: true
 
-# Exclude these files from production site
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -116,6 +92,7 @@ exclude:
   - README.md
   - CNAME
   - Vagrantfile
+  - MAINTENANCE.md
 
 # prose.io config
 prose:
@@ -161,6 +138,3 @@ prose:
           element: "checkbox"
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189

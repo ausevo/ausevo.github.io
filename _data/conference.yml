@@ -1,0 +1,50 @@
+# Current and upcoming conference data
+# Update this file each year for the new conference
+
+year: 2026
+university: University of Wollongong
+city: Wollongong
+state: NSW
+country: Australia
+
+# Display-friendly date (update when dates confirmed)
+date_display: "October 2026"
+# ISO dates for countdown timer (update when confirmed)
+date_start: "2026-10-01"
+date_end:   "2026-10-04"
+
+# Registration
+registration_open: false
+registration_url: ""
+
+# Programme
+programme_available: false
+programme_url: ""
+
+# Venue page URL (relative path or absolute)
+venue_url: "/2025_Venue"
+
+# Stats displayed in the stats bar on the homepage
+stats:
+  - value: "131"
+    label: "2025 Attendees"
+  - value: "27"
+    label: "Years Running"
+  - value: "20+"
+    label: "Conferences Held"
+  - value: "1999"
+    label: "Founded"
+
+# Hero background images (rotated on homepage)
+# Use existing images from /img/big-imgs/
+hero_images:
+  - src: /img/big-imgs/katydid.jpg
+    alt: "A katydid on a leaf"
+  - src: /img/big-imgs/kook.jpg
+    alt: "A kookaburra perched on a branch"
+  - src: /img/big-imgs/flower.JPG
+    alt: "A wildflower"
+  - src: /img/big-imgs/duck2.jpg
+    alt: "A duck"
+  - src: /img/big-imgs/fish1.jpg
+    alt: "A fish underwater"

@@ -2,38 +2,48 @@
 layout: base
 ---
 
-{% include header.html type="post" %}
-
-<div class="container">
-  <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-      <article role="main" class="blog-post">
-	      {{ content }}
-	    </article>
-	  	  
-      <ul class="pager blog-pager">
-        {% if page.previous.url %}
-        <li class="previous">
-          <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
-        </li>
-        {% endif %}
-        {% if page.next.url %}
-        <li class="next">
-          <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
-        </li>
-        {% endif %}
-      </ul>
-      
-	    {% if page.comments %}
-        <div class="disqus-comments">
-	        {% include disqus.html %}
-        </div>
-	    {% endif %}
-    </div>
+<div class="page-hero">
+  <div class="container page-hero__content">
+    <h1 class="page-hero__title">{{ page.title }}</h1>
+    {%- if page.subtitle -%}
+    <p class="page-hero__subtitle">{{ page.subtitle }}</p>
+    {%- endif -%}
+    <p class="page-hero__caption">
+      <i class="fa-regular fa-calendar" aria-hidden="true"></i>
+      {{ page.date | date: "%B %-d, %Y" }}
+    </p>
   </div>
 </div>
 
-<script src="/js/jquery.min.js"></script>
-{% include buttons.html %}
-</body>
-</html>
+<main id="main-content" class="main-content">
+  <div class="container--sm">
+
+    <article class="prose" role="main">
+      {{ content }}
+    </article>
+
+    <nav class="blog-pager" aria-label="Post navigation">
+      {%- if page.previous.url -%}
+      <a href="{{ page.previous.url | relative_url }}" class="pager-link pager-link--prev"
+         title="{{ page.previous.title }}">
+        &larr; Previous post
+      </a>
+      {%- else -%}
+      <span></span>
+      {%- endif -%}
+      {%- if page.next.url -%}
+      <a href="{{ page.next.url | relative_url }}" class="pager-link pager-link--next"
+         title="{{ page.next.title }}">
+        Next post &rarr;
+      </a>
+      {%- endif -%}
+    </nav>
+
+    {%- if page.comments and site.disqus -%}
+    <div class="comments" id="disqus_thread" aria-label="Comments">
+      {% include disqus.html %}
+    </div>
+    {%- endif -%}
+
+  </div>
+</main>

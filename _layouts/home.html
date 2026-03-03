@@ -1,0 +1,299 @@
+---
+layout: base
+---
+
+{%- comment -%}
+Conference season detection
+- Automatic: today falls within conference_season_start / conference_season_end (YYYY-MM-DD in _config.yml)
+- Override:  conference_season_override: true  → force on
+             conference_season_override: false → force off
+             key absent / null               → use date range
+{%- endcomment -%}
+
+{%- capture today_str -%}{{ 'now' | date: '%Y%m%d' }}{%- endcapture -%}
+{%- capture cs_start -%}{{ site.conference_season_start | replace: '-', '' }}{%- endcapture -%}
+{%- capture cs_end   -%}{{ site.conference_season_end   | replace: '-', '' }}{%- endcapture -%}
+
+{%- assign date_active = false -%}
+{%- if today_str >= cs_start and today_str <= cs_end -%}
+  {%- assign date_active = true -%}
+{%- endif -%}
+
+{%- assign season = date_active -%}
+{%- if site.conference_season_override == true  -%}{%- assign season = true  -%}{%- endif -%}
+{%- if site.conference_season_override == false -%}{%- assign season = false -%}{%- endif -%}
+
+<!-- ═══ HERO ═══════════════════════════════════════════════════════════════════ -->
+<section class="hero" id="main-content" aria-label="Homepage hero">
+  <div class="hero__slides" aria-hidden="true">
+    {%- for img in site.data.conference.hero_images -%}
+    <div class="hero__slide{% if forloop.first %} is-active{% endif %}"
+         style="background-image: url('{{ img.src }}')"></div>
+    {%- endfor -%}
+  </div>
+  <div class="hero__overlay" aria-hidden="true"></div>
+
+  <div class="hero__content container">
+
+    {%- if season -%}
+    <!-- Conference season -->
+    <p class="hero__tag">AES {{ site.data.conference.year }} &middot; {{ site.data.conference.city }}, {{ site.data.conference.state }}</p>
+    <h1 class="hero__title">
+      {{ site.data.conference.university }}<br>
+      <span class="hero__location">{{ site.data.conference.date_display }}</span>
+    </h1>
+
+    {%- if site.data.conference.date_start -%}
+    <div class="countdown" id="countdown"
+         data-target="{{ site.data.conference.date_start }}"
+         aria-label="Countdown to AES {{ site.data.conference.year }}">
+      <div class="countdown__unit">
+        <span class="countdown__num" data-unit="days">–</span>
+        <span class="countdown__label">days</span>
+      </div>
+      <span class="countdown__sep" aria-hidden="true">:</span>
+      <div class="countdown__unit">
+        <span class="countdown__num" data-unit="hrs">–</span>
+        <span class="countdown__label">hrs</span>
+      </div>
+      <span class="countdown__sep" aria-hidden="true">:</span>
+      <div class="countdown__unit">
+        <span class="countdown__num" data-unit="mins">–</span>
+        <span class="countdown__label">mins</span>
+      </div>
+    </div>
+    {%- endif -%}
+
+    <div class="hero__ctas">
+      {%- if site.data.conference.registration_open -%}
+      <a href="{{ site.data.conference.registration_url }}" class="btn btn--coral btn--lg"
+         data-track="registration" data-track-category="conference">
+        <i class="fa-solid fa-ticket" aria-hidden="true"></i> Register Now
+      </a>
+      {%- else -%}
+      <a href="/registration" class="btn btn--coral btn--lg"
+         data-track="registration" data-track-category="conference">
+        <i class="fa-solid fa-ticket" aria-hidden="true"></i> Registration
+      </a>
+      {%- endif -%}
+
+      {%- if site.data.conference.programme_available -%}
+      <a href="{{ site.data.conference.programme_url }}" class="btn btn--outline-white btn--lg"
+         data-track="programme-view" data-track-category="conference">
+        <i class="fa-solid fa-calendar-days" aria-hidden="true"></i> Programme
+      </a>
+      {%- else -%}
+      <a href="/programme" class="btn btn--outline-white btn--lg"
+         data-track="programme-view" data-track-category="conference">
+        <i class="fa-solid fa-calendar-days" aria-hidden="true"></i> Programme
+      </a>
+      {%- endif -%}
+
+      <a href="{{ site.data.conference.venue_url }}" class="btn btn--ghost-white btn--lg">
+        <i class="fa-solid fa-location-dot" aria-hidden="true"></i> Venue
+      </a>
+    </div>
+
+    {%- else -%}
+    <!-- Off-season -->
+    <p class="hero__tag">Australasian Evolution Society &middot; Est. 1999</p>
+    <h1 class="hero__title">Promoting the scientific<br>study of evolution</h1>
+    <p class="hero__subtitle">Connecting evolutionary biologists across Australasia since 1999</p>
+    <div class="hero__ctas">
+      <a href="/about" class="btn btn--coral btn--lg">About AES</a>
+      <a href="/join" class="btn btn--outline-white btn--lg">Join AES</a>
+      <a href="/past-conf" class="btn btn--ghost-white btn--lg">Our Conferences</a>
+    </div>
+    {%- endif -%}
+
+  </div>
+</section>
+
+<!-- ═══ STATS BAR ════════════════════════════════════════════════════════════════ -->
+<div class="stats-bar" aria-label="Society statistics">
+  <div class="container">
+    <div class="stats-bar__grid">
+      {%- for stat in site.data.conference.stats -%}
+      <div class="stat">
+        <span class="stat__value">{{ stat.value }}</span>
+        <span class="stat__label">{{ stat.label }}</span>
+      </div>
+      {%- endfor -%}
+    </div>
+  </div>
+</div>
+
+{%- if season -%}
+
+<!-- ═══ QUICK LINKS (conference season) ═════════════════════════════════════════ -->
+<section class="cards-section" aria-labelledby="ql-heading">
+  <div class="container">
+    <div class="section__header cards-section__header">
+      <p class="section__label">AES {{ site.data.conference.year }}</p>
+      <h2 class="section__title" id="ql-heading">Everything you need</h2>
+    </div>
+    <div class="cards-grid">
+
+      <a href="/registration" class="card card--conference"
+         data-track="registration" data-track-category="conference">
+        <div class="card__icon-wrap"><i class="fa-solid fa-ticket" aria-hidden="true"></i></div>
+        <h3 class="card__title">Registration</h3>
+        <p class="card__desc">Secure your place at AES {{ site.data.conference.year }} in {{ site.data.conference.city }}</p>
+        <span class="card__cta">Register now →</span>
+      </a>
+
+      <a href="/programme" class="card card--join"
+         data-track="programme-view" data-track-category="conference">
+        <div class="card__icon-wrap"><i class="fa-solid fa-calendar-days" aria-hidden="true"></i></div>
+        <h3 class="card__title">Programme</h3>
+        <p class="card__desc">Conference schedule, plenary speakers, and workshops</p>
+        <span class="card__cta">View programme →</span>
+      </a>
+
+      <a href="{{ site.data.conference.venue_url }}" class="card card--team">
+        <div class="card__icon-wrap"><i class="fa-solid fa-location-dot" aria-hidden="true"></i></div>
+        <h3 class="card__title">Venue</h3>
+        <p class="card__desc">{{ site.data.conference.university }}, {{ site.data.conference.city }}</p>
+        <span class="card__cta">Find the venue →</span>
+      </a>
+
+      <a href="/2025_ECR_grants" class="card card--grants"
+         data-track="grants-visit" data-track-category="grants">
+        <div class="card__icon-wrap"><i class="fa-solid fa-award" aria-hidden="true"></i></div>
+        <h3 class="card__title">ECR Grants</h3>
+        <p class="card__desc">Travel grants for early career researchers attending AES</p>
+        <span class="card__cta">Apply now →</span>
+      </a>
+
+    </div>
+  </div>
+</section>
+
+{%- else -%}
+
+<!-- ═══ UPCOMING CONFERENCE BANNER (off-season) ══════════════════════════════════ -->
+<div class="upcoming-banner">
+  <div class="container">
+    <div class="upcoming-banner__inner">
+      <div>
+        <p class="upcoming-banner__label">Next Conference</p>
+        <p class="upcoming-banner__title">
+          AES {{ site.data.conference.year }} &middot; {{ site.data.conference.city }}, {{ site.data.conference.state }}
+        </p>
+        <p class="upcoming-banner__date">
+          {{ site.data.conference.date_display }} &middot; {{ site.data.conference.university }}
+        </p>
+      </div>
+      <a href="/conference" class="btn btn--outline-white">Learn more</a>
+    </div>
+  </div>
+</div>
+
+<!-- ═══ QUICK LINKS (off-season) ════════════════════════════════════════════════ -->
+<section class="cards-section" aria-labelledby="ql-heading-2">
+  <div class="container">
+    <div class="section__header cards-section__header">
+      <p class="section__label">Get involved</p>
+      <h2 class="section__title" id="ql-heading-2">What we do</h2>
+    </div>
+    <div class="cards-grid">
+
+      <a href="/conference" class="card card--conference">
+        <div class="card__icon-wrap"><i class="fa-solid fa-users" aria-hidden="true"></i></div>
+        <h3 class="card__title">Annual Conference</h3>
+        <p class="card__desc">Our flagship event bringing evolutionary biologists together from across Australasia</p>
+        <span class="card__cta">View conference →</span>
+      </a>
+
+      <a href="/2025_ECR_grants" class="card card--grants"
+         data-track="grants-visit" data-track-category="grants">
+        <div class="card__icon-wrap"><i class="fa-solid fa-award" aria-hidden="true"></i></div>
+        <h3 class="card__title">Grants &amp; Awards</h3>
+        <p class="card__desc">ECR travel grants and research excellence awards for our members</p>
+        <span class="card__cta">Explore grants →</span>
+      </a>
+
+      <a href="/join" class="card card--join">
+        <div class="card__icon-wrap"><i class="fa-solid fa-user-plus" aria-hidden="true"></i></div>
+        <h3 class="card__title">Join AES</h3>
+        <p class="card__desc">Become part of the Australasian evolutionary biology community</p>
+        <span class="card__cta">Join today →</span>
+      </a>
+
+      <a href="/contact" class="card card--team">
+        <div class="card__icon-wrap"><i class="fa-solid fa-people-group" aria-hidden="true"></i></div>
+        <h3 class="card__title">Executive Team</h3>
+        <p class="card__desc">Meet the AES {{ site.data.conference.year }} executive committee</p>
+        <span class="card__cta">Meet the team →</span>
+      </a>
+
+    </div>
+  </div>
+</section>
+
+{%- endif -%}
+
+<!-- ═══ ABOUT ════════════════════════════════════════════════════════════════════ -->
+<section class="about-section section--alt" aria-labelledby="about-heading">
+  <div class="container">
+    <div class="about-section__inner">
+      <p class="section__label">About AES</p>
+      <h2 class="about-section__title" id="about-heading">
+        Advancing evolutionary biology in Australasia
+      </h2>
+      <p class="about-section__text">
+        The Australasian Evolution Society is a learned society founded in 1999, devoted to
+        bringing evolutionary biologists together to promote intellectual exchange and to foster
+        and advance evolutionary biology across the region.
+      </p>
+      <p class="about-section__text">
+        Our main event is our Annual Conference, where researchers come together from across
+        Australasia to present and discuss the latest findings in evolutionary research.
+        Membership allows you to participate and connect with fellow evolutionary biologists.
+      </p>
+      <div style="display:flex; gap:12px; flex-wrap:wrap; margin-top:8px;">
+        <a href="/about" class="btn btn--navy">About AES</a>
+        <a href="/join" class="btn btn--outline-navy">Join the Society</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ SOCIAL BAR ═══════════════════════════════════════════════════════════════ -->
+<section class="social-bar" aria-labelledby="social-heading">
+  <div class="container">
+    <h2 class="social-bar__heading" id="social-heading">Follow AES Online</h2>
+    <p class="social-bar__sub">Stay up to date with the latest in evolutionary biology</p>
+    <div class="social-bar__links">
+
+      <a href="https://bsky.app/profile/austevolsoc.bsky.social"
+         class="social-link social-link--bluesky"
+         aria-label="Follow AES on Bluesky" target="_blank" rel="noopener noreferrer">
+        <i class="fa-brands fa-bluesky" aria-hidden="true"></i>
+        <span>Bluesky</span>
+      </a>
+
+      <a href="https://twitter.com/{{ site.author.twitter }}"
+         class="social-link social-link--twitter"
+         aria-label="Follow AES on X (Twitter)" target="_blank" rel="noopener noreferrer">
+        <i class="fa-brands fa-x-twitter" aria-hidden="true"></i>
+        <span>X / Twitter</span>
+      </a>
+
+      <a href="https://facebook.com/{{ site.author.facebook }}"
+         class="social-link social-link--facebook"
+         aria-label="Follow AES on Facebook" target="_blank" rel="noopener noreferrer">
+        <i class="fa-brands fa-facebook-f" aria-hidden="true"></i>
+        <span>Facebook</span>
+      </a>
+
+      <a href="mailto:{{ site.author.email }}"
+         class="social-link social-link--email"
+         aria-label="Email the AES">
+        <i class="fa-solid fa-envelope" aria-hidden="true"></i>
+        <span>Email us</span>
+      </a>
+
+    </div>
+  </div>
+</section>
