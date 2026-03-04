@@ -1,47 +1,76 @@
-<nav class="navbar navbar-default navbar-fixed-top navbar-custom">
-  <div class="container-fluid">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="{{ site.url }}">{{ site.title }}</a>
-    </div>
+<nav class="site-nav" role="navigation" aria-label="Main navigation">
+  <div class="nav__inner">
 
-    <div class="collapse navbar-collapse" id="main-navbar">
-      <ul class="nav navbar-nav navbar-right">
+    <a href="{{ '/' | relative_url }}" class="nav__brand" aria-label="{{ site.title }} – Home">
+      <img src="{{ '/img/AES_long_t.png' | relative_url }}" alt="{{ site.title }}" class="nav__brand-logo">
+    </a>
+
+    <button class="nav__toggle" id="nav-toggle"
+            aria-expanded="false" aria-controls="nav-menu"
+            aria-label="Open navigation menu">
+      <span class="nav__toggle-bar"></span>
+      <span class="nav__toggle-bar"></span>
+      <span class="nav__toggle-bar"></span>
+    </button>
+
+    <ul class="nav__menu" id="nav-menu" role="list">
       {% for link in site.navbar-links %}
-        {% if link[1].first %}
-          <li class="navlinks-container">
-            <a class="navlinks-parent" href="javascript:void(0)">{{ link[0] }}</a>
-            <div class="navlinks-children">
-              {% for childlink in link[1] %}
-                {% for linkparts in childlink %}
-                  {% include navbarlink.html link=linkparts %}
-                {% endfor %}
-              {% endfor %}
-            </div>
-          </li>
-        {% else %}
-          <li>
-            {% include navbarlink.html link=link %}
-          </li>
-        {% endif %}
-        {% endfor %}
-      </ul>
-    </div>
 
-	{% if site.avatar and (layout.show-avatar or page.show-avatar) %}
-	<div class="avatar-container">
-	  <div class="avatar-img-border">
-	    <a href="{{ site.url }} ">
-	      <img class="avatar-img" src="{{ site.avatar | prepend: site.baseurl | replace: '//', '/' }}" />
-		</a>
-	  </div>
-	</div>
-	{% endif %}
+        {% if link[1].first %}
+        <!-- Dropdown item -->
+        <li class="nav__item nav__item--has-children">
+          <button class="nav__link nav__link--parent"
+                  aria-haspopup="true" aria-expanded="false">
+            {{ link[0] }}
+            <svg class="nav__arrow" aria-hidden="true" width="12" height="12" viewBox="0 0 12 12" fill="none">
+              <path d="M2 4.5l4 3.5 4-3.5" stroke="currentColor" stroke-width="1.75"
+                    stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </button>
+          <ul class="nav__dropdown" role="list">
+            {% for childlink in link[1] %}
+              {% for pair in childlink %}
+                {%- assign c_text = pair[0] -%}
+                {%- assign c_val  = pair[1] -%}
+                {%- if c_val contains '://' -%}
+                  {%- assign c_href = c_val -%}
+                  {%- assign c_ext  = true -%}
+                {%- else -%}
+                  {%- capture c_href %}{{ site.baseurl }}/{{ c_val }}{% endcapture -%}
+                  {%- assign c_ext  = false -%}
+                {%- endif -%}
+                <li>
+                  <a href="{{ c_href }}" class="nav__dropdown-link"
+                     {% if c_ext %}target="_blank" rel="noopener noreferrer"{% endif %}>
+                    {{ c_text }}
+                  </a>
+                </li>
+              {% endfor %}
+            {% endfor %}
+          </ul>
+        </li>
+
+        {% elsif link[0] == "Join!" %}
+        <!-- Join button (special CTA style) -->
+        <li class="nav__item">
+          <a href="{{ site.baseurl }}/{{ link[1] }}" class="nav__link nav__link--join">
+            {{ link[0] }}
+          </a>
+        </li>
+
+        {% else %}
+        <!-- Simple link -->
+        <li class="nav__item">
+          {%- if link[1] contains '://' -%}
+          <a href="{{ link[1] }}" class="nav__link" target="_blank" rel="noopener noreferrer">{{ link[0] }}</a>
+          {%- else -%}
+          <a href="{{ site.baseurl }}/{{ link[1] }}" class="nav__link">{{ link[0] }}</a>
+          {%- endif -%}
+        </li>
+
+        {% endif %}
+      {% endfor %}
+    </ul>
 
   </div>
 </nav>

@@ -2,8 +2,8 @@
 title: "Past and future conferences of the AES"
 css: /css/index.css
 layout: page
-bigimg:
-- /img/big-imgs/flower.JPG: 
+# bigimg:
+# - /img/big-imgs/flower.JPG: 
 ---
 
 ## Upcoming Conference

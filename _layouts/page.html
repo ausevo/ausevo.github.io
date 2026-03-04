@@ -2,17 +2,45 @@
 layout: base
 ---
 
-{% include header.html type="page" %}
+{%- comment -%}Extract first bigimg for the page hero background{%- endcomment -%}
+{%- assign hero_src = nil -%}
+{%- assign hero_cap = nil -%}
+{%- if page.bigimg -%}
+  {%- assign first_img = page.bigimg | first -%}
+  {%- for pair in first_img -%}
+    {%- if pair[0] -%}
+      {%- assign hero_src = pair[0] -%}
+      {%- assign hero_cap = pair[1] -%}
+    {%- else -%}
+      {%- assign hero_src = pair -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
 
-<div class="container" role="main">
-  <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-      {{ content }}
-	    {% if page.comments %}
-        <div class="disqus-comments">
-	        {% include disqus.html %}
-        </div>
-	    {% endif %}
-    </div>
+{%- if page.title or hero_src -%}
+<div class="page-hero{% if hero_src %} page-hero--has-img{% endif %}">
+  {%- if hero_src -%}
+  <div class="page-hero__bg" style="background-image: url('{{ hero_src }}')"></div>
+  <div class="page-hero__overlay"></div>
+  {%- endif -%}
+  <div class="container page-hero__content">
+    {%- if page.title -%}
+    <h1 class="page-hero__title">{{ page.title }}</h1>
+    {%- endif -%}
+    {%- if page.subtitle -%}
+    <p class="page-hero__subtitle">{{ page.subtitle }}</p>
+    {%- endif -%}
+    {%- if hero_cap -%}
+    <p class="page-hero__caption">{{ hero_cap }}</p>
+    {%- endif -%}
   </div>
 </div>
+{%- endif -%}
+
+<main id="main-content" class="main-content">
+  <div class="container--sm">
+    <div class="prose">
+      {{ content }}
+    </div>
+  </div>
+</main>
