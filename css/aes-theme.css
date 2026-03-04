@@ -1158,8 +1158,8 @@ img.center-image { border-radius: var(--radius); }
 }
 
 .exec-card__avatar {
-  width: 80px;
-  height: 80px;
+  width: 150px;
+  height: 150px;
   border-radius: 50%;
   object-fit: cover;
   margin: 0 auto 1rem;
@@ -1167,8 +1167,8 @@ img.center-image { border-radius: var(--radius); }
   background: var(--c-border);
 }
 .exec-card__avatar-placeholder {
-  width: 80px;
-  height: 80px;
+  width: 110px;
+  height: 110px;
   border-radius: 50%;
   margin: 0 auto 1rem;
   display: flex;
