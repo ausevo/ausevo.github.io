@@ -15,12 +15,12 @@ navbar-links:
     - Overview: "conference"
     - Programme: "programme"
     - Registration: "registration"
-    - Venue: "2025_Venue"
+    - Venue: "2026_Venue"
     - Sponsors: "sponsors"
     - Past Conferences: "past-conf"
   Grants & Awards:
-    - ECR Grants: "2025_ECR_grants"
-    - Research Excellence: "2025_research_awards"
+    # - ECR Grants: "2025_ECR_grants"
+    # - Research Excellence: "2025_research_awards"
     - Past ECR Awards: "previous_winners"
     - Past Talk Awards: "talk_awards"
   Society:
@@ -28,6 +28,7 @@ navbar-links:
     - Executive: "contact"
     - Constitution: "constitution"
     - AGM Minutes: "requestMins"
+    # - Code of Conduct: "code_of_conduct"
   Join!: "join"
 
 # --- Author / social --- #
@@ -47,8 +48,8 @@ author:
 # Leave conference_season_override absent (or comment it out) to use dates only.
 
 conference_season_start: "2026-08-01"   # Update each year when registration opens
-conference_season_end:   "2026-10-31"   # Update each year to ~1 month after conf ends
-# conference_season_override: false     # Uncomment and set true/false to override
+conference_season_end:   "2026-12-04"   # Update each year to ~1 month after conf ends
+conference_season_override: false    # Uncomment and set true/false to override
 
 # --- Analytics --- #
 

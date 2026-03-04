@@ -2,8 +2,8 @@
 title: "Previous AES Presentation Awards Recipients"
 css: /css/index.css
 layout: page
-bigimg:
-- /img/big-imgs/quokka_Joseph11.jpg: Quokka by Joseph11 (Goodfon.com, 2023)
+# bigimg:
+# - /img/big-imgs/quokka_Joseph11.jpg: Quokka by Joseph11 (Goodfon.com, 2023)
 ---
 
 # 2025 
@@ -61,7 +61,7 @@ Patrice Pottier (UNSW)
 # 2022
 **2022 Best Student Presentation Award – sponsored by Arludo**  
 
-Ivan Vnogradov (Australian National University)  
+Ivan Vinogradov (Australian National University)  
 
 # 2021
 

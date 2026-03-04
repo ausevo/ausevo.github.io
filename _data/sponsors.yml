@@ -1,0 +1,40 @@
+# AES Conference Sponsors
+# Update this file when sponsors are confirmed.
+#
+# Sponsor entry format:
+#   - name: Organisation Name
+#     url: https://www.example.com
+#     logo: /img/sponsors/filename.png   # add logo files to img/sponsors/
+#
+# Leave sponsors list empty ([]) to show "Be our [Tier] Sponsor" placeholder.
+# Set prospectus_url when the PDF prospectus is ready to download.
+
+year: 2026
+show_tier_descriptions: false   # set true to show tier description text on the sponsors page
+prospectus_url: /docs/2026/2026_AES_SASB_Sponsorship_Prospectus.pdf   # e.g. /docs/2026/AES2026_Sponsorship_Prospectus.pdf
+contact_email: austevolutionsociety@gmail.com
+
+tiers:
+  - name: Platinum
+    slug: platinum
+    description: "Maximum visibility across all conference materials and digital channels. Includes prominent logo placement, acknowledgement at all sessions, and social media promotion."
+    sponsors: []
+
+
+  - name: Gold
+    slug: gold
+    description: "Prominent placement on all conference materials, the conference website, and program booklet."
+    sponsors: 
+    - name: CBA
+      url: https://cba.anu.edu
+      logo: /img/sponsors/CBA-logo-0.png
+
+  - name: Silver
+    slug: silver
+    description: "Logo and acknowledgement in the conference program and on the conference website."
+    sponsors: []
+
+  - name: Bronze
+    slug: bronze
+    description: "Listed acknowledgement in the conference program and on the conference website."
+    sponsors: []

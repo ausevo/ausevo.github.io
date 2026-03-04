@@ -3,12 +3,12 @@ title: "AES"
 css: /css/index.css
 layout: page
 subtitle: Join!
-bigimg:
-- /img/big-imgs/kook.jpg: Kookaburra
-- /img/big-imgs/duck2.jpg: The Boss
-- /img/big-imgs/flower.JPG: Flower
-- /img/big-imgs/katydid.jpg: Who did? Katydid
-- /img/big-imgs/kook2.jpg: Good one
+# bigimg:
+# - /img/big-imgs/kook.jpg: Kookaburra
+# - /img/big-imgs/duck2.jpg: The Boss
+# - /img/big-imgs/flower.JPG: Flower
+# - /img/big-imgs/katydid.jpg: Who did? Katydid
+# - /img/big-imgs/kook2.jpg: Good one
 ---
 
 ## Interested in doing a PhD or postdoc in Australasia?

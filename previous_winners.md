@@ -2,11 +2,24 @@
 title: "Previous AES ECR Research Awards Recipients"
 css: /css/index.css
 layout: page
-bigimg:
-- /img/big-imgs/quokka_Joseph11.jpg: Quokka by Joseph11 (Goodfon.com, 2023)
+# bigimg:
+# - /img/big-imgs/quokka_Joseph11.jpg: Quokka by Joseph11 (Goodfon.com, 2023)
 ---
 
-## 2024 Perth - University of Western Australia  
+## 2025 Brisbane - University of Queensland
+
+#### Postgraduate
+**Jamiema Philip**
+**Philip, J. S.**, S. Grewal, J. Scadden, C. Puente-Lelievre, N. J. Matzke, L. McNally, and M. A. B. Baker. 2025. Mapping the loss of flagellar motility across the tree of life. ISME J 19:wraf111.
+
+#### Postdoc
+**Paul Battlay**
+**Battlay, P.**, B. T. Hendrickson, J. I. Mendez-Reneau, et al. and N. J. Kooyers. 2025. Haploblocks contribute to parallel climate adaptation following global invasion of a cosmopolitan plant. Nat Ecol Evol 9:1441–1455.
+
+**Kris Wild**, University of Melbourne
+**Wild, K. H.**, R. B. Huey, E. R. Pianka, S. Clusella-Trullas, A. L. Gilbert, D. B. Miles, and M. R. Kearney. 2025. Climate change and the cost-of-living squeeze in desert lizards. Science 387:303–309.
+
+## 2024 Perth - University of Western Australia
 
 #### Postgraduate
 **Dr. Sara Ryding**, Deakin University  

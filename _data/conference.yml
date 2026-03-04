@@ -8,10 +8,10 @@ state: NSW
 country: Australia
 
 # Display-friendly date (update when dates confirmed)
-date_display: "October 2026"
+date_display: "December 2026"
 # ISO dates for countdown timer (update when confirmed)
-date_start: "2026-10-01"
-date_end:   "2026-10-04"
+date_start: "2026-12-02"
+date_end:   "2026-12-04"
 
 # Registration
 registration_open: false
@@ -22,7 +22,7 @@ programme_available: false
 programme_url: ""
 
 # Venue page URL (relative path or absolute)
-venue_url: "/2025_Venue"
+venue_url: "/2026_Venue"
 
 # Stats displayed in the stats bar on the homepage
 stats:

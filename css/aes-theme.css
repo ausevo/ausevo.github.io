@@ -187,32 +187,18 @@ body.layout-home .site-nav.is-scrolled {
 /* Brand */
 .nav__brand {
   display: flex;
-  flex-direction: column;
+  align-items: center;
   text-decoration: none;
   flex-shrink: 0;
-  line-height: 1.1;
   margin-right: auto;
 }
-.nav__brand-abbr {
-  font-size: 1.5rem;
-  font-weight: 800;
-  color: var(--c-navy);
-  letter-spacing: -0.02em;
-  transition: color var(--t-fast);
-}
-.nav__brand-name {
-  font-size: 0.5625rem;
-  font-weight: 600;
-  color: var(--c-text-muted);
-  text-transform: uppercase;
-  letter-spacing: 0.12em;
-  white-space: nowrap;
-  transition: color var(--t-fast);
+.nav__brand-logo {
+  height: 36px;
+  width: auto;
+  display: block;
+  transition: filter var(--t-fast), opacity var(--t-fast);
 }
 
-/* Transparent nav on homepage: white text */
-body.layout-home .site-nav:not(.is-scrolled) .nav__brand-abbr { color: white; }
-body.layout-home .site-nav:not(.is-scrolled) .nav__brand-name { color: rgba(255,255,255,0.7); }
 
 /* Hamburger toggle */
 .nav__toggle {
@@ -282,6 +268,15 @@ body.layout-home .site-nav:not(.is-scrolled) .nav__link:focus-visible {
   color: white;
   background: rgba(255,255,255,0.15);
 }
+
+/* Scrolled state on homepage (navy dark background) — keep text white */
+body.layout-home .site-nav.is-scrolled .nav__link { color: rgba(255,255,255,0.9); }
+body.layout-home .site-nav.is-scrolled .nav__link:hover,
+body.layout-home .site-nav.is-scrolled .nav__link:focus-visible {
+  color: white;
+  background: rgba(255,255,255,0.12);
+}
+body.layout-home .site-nav.is-scrolled .nav__toggle-bar { background: white; }
 
 /* Nav dropdown arrow */
 .nav__arrow {
@@ -1092,6 +1087,16 @@ img.center-image { border-radius: var(--radius); }
   .nav__dropdown-link { font-size: 0.9375rem; padding: 10px 16px; }
 
   .nav__link--join { margin-top: 8px; justify-content: center; }
+
+  /* Mobile menu has a white panel — always use dark text regardless of nav state */
+  .nav__menu.is-open .nav__link { color: var(--c-text) !important; }
+  .nav__menu.is-open .nav__link:hover,
+  .nav__menu.is-open .nav__link:focus-visible {
+    color: var(--c-navy) !important;
+    background: var(--c-surface) !important;
+  }
+  .nav__menu.is-open .nav__link--join { color: white !important; }
+  .nav__menu.is-open .nav__dropdown-link { color: var(--c-text) !important; }
 }
 
 @media (min-width: 1024px) { .nav__toggle { display: none; } }
@@ -1127,4 +1132,298 @@ img.center-image { border-radius: var(--radius); }
   .page-hero__bg, .page-hero__overlay { display: none; }
   body { padding: 0; }
   .prose a { color: black; text-decoration: underline; border-bottom: none; }
+}
+
+
+/* ─── 19. EXEC COMMITTEE PROFILES ───────────────────────────────────────────── */
+
+.exec-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1.25rem;
+  margin: 0.75rem 0 2rem;
+}
+
+.exec-card {
+  background: var(--c-surface);
+  border: 1px solid var(--c-border);
+  border-radius: var(--radius);
+  padding: 1.5rem 1rem;
+  text-align: center;
+  transition: box-shadow var(--t-base), transform var(--t-base);
+}
+.exec-card:hover {
+  box-shadow: var(--shadow-md);
+  transform: translateY(-2px);
+}
+
+.exec-card__avatar {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 0 auto 1rem;
+  display: block;
+  background: var(--c-border);
+}
+.exec-card__avatar-placeholder {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin: 0 auto 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--c-border);
+  color: var(--c-text-muted);
+  font-size: 2.5rem;
+}
+
+.exec-card__name {
+  font-weight: 700;
+  color: var(--c-navy);
+  font-size: 0.9375rem;
+  margin-bottom: 0.25rem;
+}
+.exec-card__name a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: none;
+  transition: color var(--t-fast);
+}
+.exec-card__name a:hover { color: var(--c-teal); }
+
+.exec-card__inst {
+  font-size: 0.8125rem;
+  color: var(--c-text-muted);
+  line-height: 1.4;
+  margin: 0;
+}
+
+
+/* ─── 20. SPONSORS ───────────────────────────────────────────────────────────── */
+
+/* CTA box at top of sponsors page */
+.sponsor-cta-box {
+  background: linear-gradient(135deg, var(--c-navy) 0%, var(--c-navy-light) 100%);
+  color: white;
+  border-radius: var(--radius-lg);
+  padding: 2.5rem 2rem;
+  text-align: center;
+  margin-bottom: 3rem;
+}
+.sponsor-cta-box h2 {
+  font-size: clamp(1.5rem, 3vw, 2rem);
+  font-weight: 800;
+  color: white;
+  margin-bottom: 0.75rem;
+  margin-top: 0;
+}
+.sponsor-cta-box p {
+  color: rgba(255,255,255,0.82);
+  font-size: 1.0625rem;
+  max-width: 600px;
+  margin: 0 auto 1.5rem;
+  line-height: 1.65;
+}
+.sponsor-cta-box__actions {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+/* Outline button variant for dark backgrounds */
+.btn--outline {
+  background: transparent;
+  border: 2px solid rgba(255,255,255,0.55);
+  color: white;
+}
+.btn--outline:hover {
+  background: rgba(255,255,255,0.12);
+  border-color: white;
+  color: white;
+}
+
+/* Per-tier section */
+.sponsor-tier {
+  margin-bottom: 2.5rem;
+}
+.sponsor-tier__desc {
+  color: var(--c-text-muted);
+  font-size: 0.8125rem;
+  margin: 0.5rem 0 1.25rem;
+  font-style: italic;
+}
+
+/* Full-width coloured tier header */
+.sponsor-tier__header {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  padding: 0.875rem 1.25rem;
+  border-radius: var(--radius);
+  margin-bottom: 1.25rem;
+  font-size: 1.0625rem;
+  font-weight: 800;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: white;
+}
+.sponsor-tier__header i { font-size: 1.1rem; opacity: 0.9; }
+
+.sponsor-tier__header--platinum {
+  background: linear-gradient(135deg, #5b21b6 0%, #7c3aed 100%);
+  box-shadow: 0 4px 12px rgba(91,33,182,0.25);
+}
+.sponsor-tier__header--gold {
+  background: linear-gradient(135deg, #92400e 0%, #d97706 100%);
+  box-shadow: 0 4px 12px rgba(146,64,14,0.25);
+}
+.sponsor-tier__header--silver {
+  background: linear-gradient(135deg, #374151 0%, #6b7280 100%);
+  box-shadow: 0 4px 12px rgba(55,65,81,0.2);
+}
+.sponsor-tier__header--bronze {
+  background: linear-gradient(135deg, #78350f 0%, #b45309 100%);
+  box-shadow: 0 4px 12px rgba(120,53,15,0.2);
+}
+
+/* Sponsor logo grid — wider cells for higher tiers */
+.sponsor-grid {
+  display: grid;
+  gap: 1.25rem;
+}
+.sponsor-grid--platinum { grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); }
+.sponsor-grid--gold     { grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); }
+.sponsor-grid--silver   { grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); }
+.sponsor-grid--bronze   { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); }
+
+/* Individual sponsor card */
+.sponsor-card {
+  background: var(--c-bg);
+  border: 1px solid var(--c-border);
+  border-radius: var(--radius);
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 110px;
+  text-decoration: none;
+  color: var(--c-text);
+  transition: box-shadow var(--t-base), transform var(--t-base);
+}
+.sponsor-card:hover {
+  box-shadow: var(--shadow-md);
+  transform: translateY(-2px);
+}
+.sponsor-card img { max-height: 70px; width: auto; object-fit: contain; }
+.sponsor-card__name { font-weight: 700; color: var(--c-navy); font-size: 0.9375rem; }
+
+/* Empty-state placeholder card */
+.sponsor-placeholder {
+  border-style: dashed;
+  border-color: var(--c-border-dark);
+  color: var(--c-text-muted);
+  font-size: 0.875rem;
+  text-align: center;
+  cursor: default;
+  gap: 0.4rem;
+}
+.sponsor-placeholder:hover { box-shadow: none; transform: none; }
+.sponsor-placeholder i { font-size: 1.6rem; display: block; color: var(--c-border-dark); }
+
+/* Mobile */
+@media (max-width: 600px) {
+  .sponsor-grid--platinum,
+  .sponsor-grid--gold,
+  .sponsor-grid--silver,
+  .sponsor-grid--bronze {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .exec-grid { grid-template-columns: repeat(2, 1fr); }
+}
+
+
+/* ─── 21. SPONSOR MARQUEE (Homepage) ────────────────────────────────────────── */
+
+.sponsor-marquee-section {
+  padding: 20px 0 24px;
+  background: var(--c-surface);
+  border-top: 1px solid var(--c-border);
+  border-bottom: 1px solid var(--c-border);
+  overflow: hidden;
+}
+.sponsor-marquee__label {
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--c-text-muted);
+  text-align: center;
+  margin-bottom: 14px;
+}
+
+/* Scrolling strip */
+.sponsor-marquee {
+  overflow: hidden;
+  position: relative;
+}
+/* Fade edges */
+.sponsor-marquee::before,
+.sponsor-marquee::after {
+  content: '';
+  position: absolute;
+  top: 0; bottom: 0;
+  width: 60px;
+  z-index: 2;
+  pointer-events: none;
+}
+.sponsor-marquee::before { left:  0; background: linear-gradient(to right, var(--c-surface), transparent); }
+.sponsor-marquee::after  { right: 0; background: linear-gradient(to left,  var(--c-surface), transparent); }
+
+.sponsor-marquee__track {
+  display: flex;
+  align-items: center;
+  gap: 56px;
+  width: max-content;
+  padding: 4px 0;
+  animation: sponsor-scroll 18s linear infinite;
+}
+.sponsor-marquee__track:hover { animation-play-state: paused; }
+
+.sponsor-marquee__item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 120px;
+  height: 72px;
+  flex-shrink: 0;
+  opacity: 0.65;
+  transition: opacity var(--t-fast);
+  text-decoration: none;
+}
+.sponsor-marquee__item:hover { opacity: 1; }
+.sponsor-marquee__item img {
+  max-height: 60px;
+  max-width: 160px;
+  width: auto;
+  object-fit: contain;
+  filter: grayscale(40%);
+  transition: filter var(--t-base);
+}
+.sponsor-marquee__item:hover img { filter: grayscale(0%); }
+.sponsor-marquee__item span {
+  font-weight: 700;
+  color: var(--c-navy);
+  font-size: 0.875rem;
+  white-space: nowrap;
+}
+
+@keyframes sponsor-scroll {
+  from { transform: translateX(0); }
+  to   { transform: translateX(-50%); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .sponsor-marquee__track { animation: none; }
 }

@@ -157,11 +157,11 @@ Conference season detection
         <span class="card__cta">Find the venue →</span>
       </a>
 
-      <a href="/2025_ECR_grants" class="card card--grants"
+      <a href="/previous_winners" class="card card--grants"
          data-track="grants-visit" data-track-category="grants">
         <div class="card__icon-wrap"><i class="fa-solid fa-award" aria-hidden="true"></i></div>
         <h3 class="card__title">ECR Grants</h3>
-        <p class="card__desc">Travel grants for early career researchers attending AES</p>
+        <p class="card__desc">Grants for early career researchers</p>
         <span class="card__cta">Apply now →</span>
       </a>
 
@@ -205,7 +205,7 @@ Conference season detection
         <span class="card__cta">View conference →</span>
       </a>
 
-      <a href="/2025_ECR_grants" class="card card--grants"
+      <a href="/previous_winners" class="card card--grants"
          data-track="grants-visit" data-track-category="grants">
         <div class="card__icon-wrap"><i class="fa-solid fa-award" aria-hidden="true"></i></div>
         <h3 class="card__title">Grants &amp; Awards</h3>
@@ -258,6 +258,39 @@ Conference season detection
     </div>
   </div>
 </section>
+
+<!-- ═══ SPONSOR MARQUEE ══════════════════════════════════════════════════════════ -->
+{%- assign has_sponsors = false -%}
+{%- for tier in site.data.sponsors.tiers -%}
+  {%- if tier.sponsors and tier.sponsors.size > 0 -%}{%- assign has_sponsors = true -%}{%- endif -%}
+{%- endfor -%}
+{%- if has_sponsors -%}
+<div class="sponsor-marquee-section" aria-label="Conference sponsors">
+  <p class="sponsor-marquee__label">Proudly supported by</p>
+  <div class="sponsor-marquee">
+    <div class="sponsor-marquee__track">
+      {%- comment -%}Two full passes — second is aria-hidden for seamless CSS loop{%- endcomment -%}
+      {%- for pass in (1..2) -%}
+        {%- for tier in site.data.sponsors.tiers -%}
+          {%- for sponsor in tier.sponsors -%}
+          <a href="{{ sponsor.url }}"
+             class="sponsor-marquee__item"
+             target="_blank" rel="noopener"
+             title="{{ sponsor.name }}"
+             {% if pass == 2 %}aria-hidden="true" tabindex="-1"{% endif %}>
+            {%- if sponsor.logo -%}
+            <img src="{{ sponsor.logo }}" alt="{% if pass == 1 %}{{ sponsor.name }}{% endif %}" loading="lazy">
+            {%- else -%}
+            <span>{{ sponsor.name }}</span>
+            {%- endif -%}
+          </a>
+          {%- endfor -%}
+        {%- endfor -%}
+      {%- endfor -%}
+    </div>
+  </div>
+</div>
+{%- endif -%}
 
 <!-- ═══ SOCIAL BAR ═══════════════════════════════════════════════════════════════ -->
 <section class="social-bar" aria-labelledby="social-heading">
