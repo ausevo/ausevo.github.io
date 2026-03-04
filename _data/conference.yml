@@ -48,11 +48,11 @@ hero_images:
     alt: "Bridled terns take flight"
   # - src: /img/big-imgs/flower.JPG
   #   alt: "A wildflower"
-  - src: /img/big-imgs/ST_sturtdesert.JPG
+  - src: /img/big-imgs/ST_sturtdesert.jpg
     alt: "Australian desert landscape"
   - src: /img/big-imgs/fish1.jpg
     alt: "Fish underwater"
-  - src: /img/big-imgs/DE_ants.JPG
+  - src: /img/big-imgs/DE_ants.jpg
     alt: "Ant attack!"
-  # - src: /img/big-imgs/DE_butterfly.JPG
+  # - src: /img/big-imgs/DE_butterfly.jpg
   #   alt: "butterfly"
