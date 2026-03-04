@@ -10,72 +10,72 @@ roles:
       - name: Dr Damien Esquerré
         institution: School of Earth, Atmospheric and Life Sciences, University of Wollongong
         url: https://www.desquerre.com/
-        photo: /img/profiles/DamienEsquerre.jpg
+        photo: /img/profiles/Damien.png
 
   - title: Vice-President
     members:
       - name: Dr Ondi Crino
         institution: College of Science and Engineering, Flinders University
         url: https://www.flinders.edu.au/people/ondi.crino
-        photo: /img/profiles/OndiC.jpg
+        photo: /img/profiles/Ondi.png
 
   - title: Treasurer
     members:
       - name: Dr Alexander Skeels
         institution: Research School of Biology, Australian National University
         url: https://alexskeels.github.io/
-        photo: /img/profiles/AlexS.jpg
+        photo: /img/profiles/Alex.png
 
   - title: Secretary
     members:
       - name: Dr Erin Macartney
         institution: Charles Perkins Centre, University of Sydney
         url: http://www.erinmacartney.com/
-        photo: /img/profiles/ErinMc.jpg
+        photo: /img/profiles/Erin.png
 
   - title: Vice-President Elect
     members:
       - name: A/Prof Alistair Senior
         institution: School of Life and Environmental Sciences, University of Sydney
         url: https://profiles.sydney.edu.au/alistair.senior
-        photo: /img/profiles/AlistairS.jpg
+        photo: /img/profiles/Alistair.png
 
   - title: ECR Representatives
     members:
       - name: Dr Yong Zhi Foo
         institution: School of Biological Sciences, University of Western Australia
         url: https://research-repository.uwa.edu.au/en/persons/yong-zhi-foo
-        photo: /img/profiles/YongZ.jpg
+        photo: /img/profiles/Yong.png
       - name: Dr Kristoffer Wild
         institution: School of BioSciences, University of Melbourne
         url: https://findanexpert.unimelb.edu.au/profile/1030758-kristoffer-wild
-        photo: /img/profiles/KrisW.jpg
+        photo: /img/profiles/Kris.png
       - name: Tim Temizyürek
         institution: School of the Environment, University of Queensland
         url: https://cbcs.centre.uq.edu.au/profile/2731/tim-temizyurek
-        photo: /img/profiles/TimT.jpg
+        photo: /img/profiles/Tim.png
 
   - title: Social Media Team
     members:
       - name: Kim Wong
         institution: School of Biological Sciences, University of Western Australia
         url: https://research-repository.uwa.edu.au/en/persons/kim-wong/
-        photo:
+        photo: /img/profiles/Kim.png
       - name: Aadhi Ramkumar
         institution: School of Biological Sciences, University of Western Australia
         url: https://research-repository.uwa.edu.au/en/persons/aadhi-ramkumar/
-        photo:
+        photo: /img/profiles/Aadhi.png
 
-  - title: Public Officer
+  - title: Public/Website Officer
     members:
-      - name: Dr Sarin "Putter" Tiatragul
+      - name: Dr Sarin 'Putter' Tiatragul
         institution: Research School of Biology, Australian National University
         url: https://sarintiatragul.com
-        photo:
+        photo: /img/profiles/Putter.png
 
   - title: Ordinary Member
     members:
       - name: Prof Simone Blomberg
         institution: School of the Environment, University of Queensland
         url: https://about.uq.edu.au/experts/428
-        photo:
+        photo: /img/profiles/Simone.png
