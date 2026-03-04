@@ -27,7 +27,7 @@ tiers:
     sponsors: 
     - name: CBA
       url: https://cba.anu.edu
-      logo: /img/sponsors/CBA-logo-0.png
+      logo: /img/sponsors/CBA-logo_0.jpg
 
   - name: Silver
     slug: silver
