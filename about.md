@@ -12,7 +12,7 @@ Our main event is our Annual Conference, where evolutionary biologists come toge
 
 Membership in the society allows you to participate in our Annual Conference and to engage with other members.
 
-Follow us on [Bluesky](https://bsky.app/profile/austevolsoc.bsky.social), [X / Twitter](http://twitter.com/austevolsoc), and the [AES Facebook Page](https://www.facebook.com/ausevosoc) to be notified about the latest research, news, jobs, and events.
+Follow us on [Bluesky](https://bsky.app/profile/ausevosoc.bsky.social), [X / Twitter](http://twitter.com/austevolsoc), and the [AES Facebook Page](https://www.facebook.com/ausevosoc) to be notified about the latest research, news, jobs, and events.
 
 If you have any jobs, events, or scholarships you would like advertised, [contact us](mailto:austevolutionsociety@gmail.com) and we can add it to our [news]({{ site.baseurl }}/news) section.
 

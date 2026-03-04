@@ -11,7 +11,7 @@ subtitle: University of Wollongong, Wollongong NSW
 **Date:** 2-4 December 2026 (dates to be confirmed)  
 **Location:** University of Wollongong, Wollongong, NSW
 
-Details for the Joint AES x SASB Conference 2026 will be announced soon. Check back here, or follow us on [Bluesky](https://bsky.app/profile/austevolsoc.bsky.social) and [X](https://twitter.com/austevolsoc) for updates.
+Details for the Joint AES x SASB Conference 2026 will be announced soon. Check back here, or follow us on [Bluesky](https://bsky.app/profile/ausevosoc.bsky.social) and [X](https://twitter.com/austevolsoc) for updates.
 
 ---
 

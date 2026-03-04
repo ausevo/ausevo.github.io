@@ -34,4 +34,4 @@ Specific room and building details will be announced closer to the conference da
 
 Wollongong city centre offers a range of accommodation options within easy reach of campus. More detailed recommendations will be posted here as the conference approaches.
 
-Check back here for updates, or follow us on [Bluesky](https://bsky.app/profile/austevolsoc.bsky.social) and [X / Twitter](https://twitter.com/austevolsoc) for announcements.
+Check back here for updates, or follow us on [Bluesky](https://bsky.app/profile/ausevosoc.bsky.social) and [X / Twitter](https://twitter.com/austevolsoc) for announcements.

@@ -8,7 +8,7 @@ layout: page
 
 **Email:** [ausevolutionsociety@gmail.com](mailto:ausevolutionsociety@gmail.com)
 
-We are also active on [Bluesky @austevolsoc](https://bsky.app/profile/austevolsoc.bsky.social), [Facebook](https://www.facebook.com/ausevosoc), and [X / Twitter @AustEvolSoc](https://twitter.com/austevolsoc).
+We are also active on [Bluesky @austevolsoc](https://bsky.app/profile/ausevosoc.bsky.social), [Facebook](https://www.facebook.com/ausevosoc), and [X / Twitter @AustEvolSoc](https://twitter.com/austevolsoc).
 
 ---
 

@@ -12,6 +12,6 @@ subtitle: Conference Registration
 
 Registration details will be announced soon.
 
-If you are interested in attending or presenting, follow us on [Bluesky](https://bsky.app/profile/austevolsoc.bsky.social) and [X / Twitter](https://twitter.com/austevolsoc) for updates.
+If you are interested in attending or presenting, follow us on [Bluesky](https://bsky.app/profile/ausevosoc.bsky.social) and [X / Twitter](https://twitter.com/austevolsoc) for updates.
 
 Any questions, please contact us at [austevolutionsociety@gmail.com](mailto:austevolutionsociety@gmail.com).

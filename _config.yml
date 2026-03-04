@@ -38,7 +38,7 @@ author:
   email: "austevolutionsociety@gmail.com"
   facebook: ausevosoc
   twitter: austevolsoc
-  github: austevolsoc.bsky.social   # repurposed for Bluesky — see _includes/footer.html
+  github: ausevosoc.bsky.social # repurposed for Bluesky — see _includes/footer.html
 
 # --- Conference season (drives homepage) --- #
 # The homepage hero switches to conference mode when today falls within
