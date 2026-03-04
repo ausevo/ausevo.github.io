@@ -47,9 +47,9 @@ author:
 # Set conference_season_override: false to force-off regardless of dates.
 # Leave conference_season_override absent (or comment it out) to use dates only.
 
-conference_season_start: "2026-08-01"   # Update each year when registration opens
+conference_season_start: "2026-05-15"   # Update each year when registration opens
 conference_season_end:   "2026-12-04"   # Update each year to ~1 month after conf ends
-conference_season_override: false    # Uncomment and set true/false to override
+# conference_season_override: false    # Uncomment and set true/false to override
 
 # --- Analytics --- #
 

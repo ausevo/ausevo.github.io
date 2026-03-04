@@ -45,7 +45,7 @@ roles:
       - name: Dr Yong Zhi Foo
         institution: School of Biological Sciences, University of Western Australia
         url: https://research-repository.uwa.edu.au/en/persons/yong-zhi-foo
-        photo:
+        photo: /img/profiles/YongZ.jpg
       - name: Dr Kristoffer Wild
         institution: School of BioSciences, University of Melbourne
         url: https://findanexpert.unimelb.edu.au/profile/1030758-kristoffer-wild

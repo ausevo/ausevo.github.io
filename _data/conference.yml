@@ -38,13 +38,21 @@ stats:
 # Hero background images (rotated on homepage)
 # Use existing images from /img/big-imgs/
 hero_images:
-  - src: /img/big-imgs/katydid.jpg
-    alt: "A katydid on a leaf"
-  - src: /img/big-imgs/kook.jpg
-    alt: "A kookaburra perched on a branch"
-  - src: /img/big-imgs/flower.JPG
-    alt: "A wildflower"
-  - src: /img/big-imgs/duck2.jpg
-    alt: "A duck"
+  - src: /img/big-imgs/DE_bats.jpg
+    alt: "Bats"
+  - src: /img/big-imgs/DE_kangaroo.jpg
+    alt: "Eastern grey kangaroo on the beach"
+  - src: /img/big-imgs/DE_gecko.jpg
+    alt: "spiny-tailed gecko on a rock"
+  - src: /img/big-imgs/DE_bird.jpg
+    alt: "Bridled terns take flight"
+  # - src: /img/big-imgs/flower.JPG
+  #   alt: "A wildflower"
+  - src: /img/big-imgs/ST_sturtdesert.JPG
+    alt: "Australian desert landscape"
   - src: /img/big-imgs/fish1.jpg
-    alt: "A fish underwater"
+    alt: "Fish underwater"
+  - src: /img/big-imgs/DE_ants.JPG
+    alt: "Ant attack!"
+  # - src: /img/big-imgs/DE_butterfly.JPG
+  #   alt: "butterfly"
