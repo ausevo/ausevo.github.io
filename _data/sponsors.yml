@@ -37,4 +37,7 @@ tiers:
   - name: Bronze
     slug: bronze
     description: "Listed acknowledgement in the conference program and on the conference website."
-    sponsors: []
+    sponsors: 
+      - name: Physalia courses
+        url: https://www.physalia-courses.org/
+        logo: /img/sponsors/physalia_courses.jpg
