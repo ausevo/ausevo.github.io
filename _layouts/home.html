@@ -37,7 +37,7 @@ Conference season detection
 
     {%- if season -%}
     <!-- Conference season -->
-    <p class="hero__tag">AES {{ site.data.conference.year }} &middot; {{ site.data.conference.city }}, {{ site.data.conference.state }}</p>
+    <p class="hero__tag">{% if site.data.conference.display_name %}{{ site.data.conference.display_name }}{% else %}AES {{ site.data.conference.year }}{% endif %} &middot; {{ site.data.conference.city }}, {{ site.data.conference.state }}</p>
     <h1 class="hero__title">
       {{ site.data.conference.university }}<br>
       <span class="hero__location">{{ site.data.conference.date_display }}</span>
@@ -46,7 +46,7 @@ Conference season detection
     {%- if site.data.conference.date_start -%}
     <div class="countdown" id="countdown"
          data-target="{{ site.data.conference.date_start }}"
-         aria-label="Countdown to AES {{ site.data.conference.year }}">
+         aria-label="Countdown to {% if site.data.conference.display_name %}{{ site.data.conference.display_name }}{% else %}AES {{ site.data.conference.year }}{% endif %}">
       <div class="countdown__unit">
         <span class="countdown__num" data-unit="days">–</span>
         <span class="countdown__label">days</span>
@@ -129,7 +129,7 @@ Conference season detection
 <section class="cards-section" aria-labelledby="ql-heading">
   <div class="container">
     <div class="section__header cards-section__header">
-      <p class="section__label">AES {{ site.data.conference.year }}</p>
+      <p class="section__label">{% if site.data.conference.display_name %}{{ site.data.conference.display_name }}{% else %}AES {{ site.data.conference.year }}{% endif %}</p>
       <h2 class="section__title" id="ql-heading">Everything you need</h2>
     </div>
     <div class="cards-grid">
@@ -138,7 +138,7 @@ Conference season detection
          data-track="registration" data-track-category="conference">
         <div class="card__icon-wrap"><i class="fa-solid fa-ticket" aria-hidden="true"></i></div>
         <h3 class="card__title">Registration</h3>
-        <p class="card__desc">Secure your place at AES {{ site.data.conference.year }} in {{ site.data.conference.city }}</p>
+        <p class="card__desc">Secure your place at {% if site.data.conference.display_name %}{{ site.data.conference.display_name }}{% else %}AES {{ site.data.conference.year }}{% endif %} in {{ site.data.conference.city }}</p>
         <span class="card__cta">Register now →</span>
       </a>
 
@@ -178,7 +178,7 @@ Conference season detection
       <div>
         <p class="upcoming-banner__label">Next Conference</p>
         <p class="upcoming-banner__title">
-          AES {{ site.data.conference.year }} &middot; {{ site.data.conference.city }}, {{ site.data.conference.state }}
+          {% if site.data.conference.display_name %}{{ site.data.conference.display_name }}{% else %}AES {{ site.data.conference.year }}{% endif %} &middot; {{ site.data.conference.city }}, {{ site.data.conference.state }}
         </p>
         <p class="upcoming-banner__date">
           {{ site.data.conference.date_display }} &middot; {{ site.data.conference.university }}
@@ -223,7 +223,7 @@ Conference season detection
       <a href="/contact" class="card card--team">
         <div class="card__icon-wrap"><i class="fa-solid fa-people-group" aria-hidden="true"></i></div>
         <h3 class="card__title">Executive Team</h3>
-        <p class="card__desc">Meet the AES {{ site.data.conference.year }} executive committee</p>
+        <p class="card__desc">Meet the {% if site.data.conference.display_name %}{{ site.data.conference.display_name }}{% else %}AES {{ site.data.conference.year }}{% endif %} executive committee</p>
         <span class="card__cta">Meet the team →</span>
       </a>
 
