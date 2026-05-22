@@ -14,16 +14,19 @@ prospectus_url: /docs/2026/2026_AES_SASB_Sponsorship_Prospectus.pdf   # e.g. /do
 contact_email: austevolutionsociety@gmail.com
 
 tiers:
-  - name: Platinum
+  - name: Platinum 
     slug: platinum
     description: "Maximum visibility across all conference materials and digital channels. Includes prominent logo placement, acknowledgement at all sessions, and social media promotion."
     sponsors: 
-      - name: UoW
-        url: https://www.uow.edu.au/research/environmental-futures/
-        logo: /img/sponsors/UoW_colour.jpg
+    - name: UoW
+      url: https://www.uow.edu.au/research/environmental-futures/
+      logo: /img/sponsors/UoW_colour.jpg
+    - name: School of Life and Environmental Sciences (SoLES) - USYD 
+      url: https://www.sydney.edu.au/science/schools/school-of-life-and-environmental-sciences.html
+      logo: /img/sponsors/usyd.jpg
 
 
-  - name: Gold
+  - name: Gold 
     slug: gold
     description: "Prominent placement on all conference materials, the conference website, and program booklet."
     sponsors: 
@@ -31,12 +34,12 @@ tiers:
       url: https://cba.anu.edu.au
       logo: /img/sponsors/CBA-logo_0.jpg
 
-  - name: Silver
+  - name: Silver 
     slug: silver
     description: "Logo and acknowledgement in the conference program and on the conference website."
     sponsors: []
 
-  - name: Bronze
+  - name: Bronze 
     slug: bronze
     description: "Listed acknowledgement in the conference program and on the conference website."
     sponsors: 
