@@ -33,6 +33,9 @@ tiers:
     - name: CBA
       url: https://cba.anu.edu.au
       logo: /img/sponsors/CBA-logo_0.jpg
+    - name: Rowe Scientific Pty
+      url: https://www.rowe.com.au/rowe/Home.htm
+      logo: /img/sponsors/RoweScientific_logo.jpg
 
   - name: Silver 
     slug: silver
