@@ -36,6 +36,9 @@ tiers:
     - name: Rowe Scientific Pty
       url: https://www.rowe.com.au/rowe/Home.htm
       logo: /img/sponsors/RoweScientific_logo.jpg
+    - name: BushBlitz
+      url: https://bushblitz.org.au/
+      logo: /img/sponsors/BushBlitzLogo.png
 
   - name: Silver 
     slug: silver
