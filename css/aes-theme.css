@@ -497,14 +497,14 @@ body.layout-home .site-nav.is-scrolled .nav__toggle-bar { background: white; }
 .btn--lg { padding: 16px 32px; font-size: 1rem; }
 .btn--sm { padding: 8px 16px; font-size: 0.875rem; }
 
-.btn--coral  { background: var(--c-coral); color: white; border-color: var(--c-coral); }
-.btn--coral:hover { background: var(--c-coral-dark); border-color: var(--c-coral-dark); color: white; }
+.btn--coral, a.btn--coral  { background: var(--c-coral); color: white; border-color: var(--c-coral); }
+.btn--coral:hover, a.btn--coral:hover { background: var(--c-coral-dark); border-color: var(--c-coral-dark); color: white; }
 
-.btn--navy   { background: var(--c-navy); color: white; border-color: var(--c-navy); }
-.btn--navy:hover { background: var(--c-navy-light); border-color: var(--c-navy-light); color: white; }
+.btn--navy, a.btn--navy   { background: var(--c-navy); color: white; border-color: var(--c-navy); }
+.btn--navy:hover, a.btn--navy:hover { background: var(--c-navy-light); border-color: var(--c-navy-light); color: white; }
 
-.btn--teal   { background: var(--c-teal); color: white; border-color: var(--c-teal); }
-.btn--teal:hover { background: #238b7e; border-color: #238b7e; color: white; }
+.btn--teal, a.btn--teal   { background: var(--c-teal); color: white; border-color: var(--c-teal); }
+.btn--teal:hover, a.btn--teal:hover { background: #238b7e; border-color: #238b7e; color: white; }
 
 .btn--outline-navy {
   background: transparent; color: var(--c-navy); border-color: var(--c-navy);
@@ -832,6 +832,8 @@ body.layout-home .site-nav.is-scrolled .nav__toggle-bar { background: white; }
   transition: border-color var(--t-fast), color var(--t-fast);
 }
 .prose a:hover { color: var(--c-navy); border-bottom-color: var(--c-navy); }
+.prose a.btn { color: white; border-bottom: none; }
+.prose a.btn:hover { color: white; }
 
 .prose ul, .prose ol { padding-left: 1.5em; margin-bottom: 1.25em; list-style: revert; }
 .prose li { margin-bottom: 0.5em; }
@@ -1226,6 +1228,7 @@ img.center-image { border-radius: var(--radius); }
   margin: 0 auto 1.5rem;
   line-height: 1.65;
 }
+.sponsor-cta-box p strong { color: white; }
 .sponsor-cta-box__actions {
   display: flex;
   justify-content: center;
