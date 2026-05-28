@@ -15,8 +15,9 @@ date_start: "2026-12-02"
 date_end:   "2026-12-04"
 
 # Registration
-registration_open: false
-registration_url: ""
+registration_open: true
+# registration_url: "https://aes.corsizio.com/event/6a139217f9af4d8caadc98a9"
+registration_url: "/registration"
 
 # Programme
 programme_available: false
