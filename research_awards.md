@@ -19,9 +19,13 @@ Applying is extremely easy, because you’ve already done the hard work! All you
 
 **Key dates**:  
 
-Applications open: 22nd June 2026  
-Applications close: 10th August 2026  
-Outcomes announced: 7th of September 6  
+| Date | What |
+|------|-----------|
+| **22 June 2026** | Applications open |
+| **10 August 2026** | Applications close |
+| **7 September 2026** | Outcomes announced |
+| **2–4 December 2026** | Evolution in the Gong! |
+
 
 **Prize**:  
 
