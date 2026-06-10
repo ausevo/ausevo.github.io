@@ -9,34 +9,34 @@ layout: page
 ## 2025 Brisbane - University of Queensland
 
 #### Postgraduate
-**Jamiema Philip**
+**Jamiema Philip**  
 **Philip, J. S.**, S. Grewal, J. Scadden, C. Puente-Lelievre, N. J. Matzke, L. McNally, and M. A. B. Baker. 2025. Mapping the loss of flagellar motility across the tree of life. ISME J 19:wraf111.
 
 #### Postdoc
-**Paul Battlay**
+**Paul Battlay**  
 **Battlay, P.**, B. T. Hendrickson, J. I. Mendez-Reneau, et al. and N. J. Kooyers. 2025. Haploblocks contribute to parallel climate adaptation following global invasion of a cosmopolitan plant. Nat Ecol Evol 9:1441–1455.
 
-**Kris Wild**, University of Melbourne
+**Kris Wild**  
 **Wild, K. H.**, R. B. Huey, E. R. Pianka, S. Clusella-Trullas, A. L. Gilbert, D. B. Miles, and M. R. Kearney. 2025. Climate change and the cost-of-living squeeze in desert lizards. Science 387:303–309.
 
 ## 2024 Perth - University of Western Australia
 
 #### Postgraduate
-**Dr. Sara Ryding**, Deakin University  
+**Sara Ryding**, Deakin University  
 **Ryding, S.**, A. McQueen, M. Klaassen, G. J. Tattersall, and M. R. E. Symonds. 2024. Long- and short-term responses to climate change in body and appendage size of diverse Australian birds. Global Change Biology 30:e17517. [https://doi.org/10.1111/gcb.17517](https://doi.org/10.1111/gcb.17517)  
 
 #### Postdoc
-**Dr. Maddie James**, University of Queensland  
+**Maddie James**, University of Queensland  
 **James, M.** E., R. N. Allsopp, J. S. Groh, A. Kaur, M. J. Wilkinson, and D. Ortiz-Barrientos. 2023. Uncovering the genetic architecture of parallel evolution. Molecular Ecology 32:5575–5589. [https://doi.org/10.1111/mec.17134](https://doi.org/10.1111/mec.17134) 
 
 ## 2023 Adelaide - University of Adelaide  
 
 #### Postgraduate 
-**Dr. Claudia Crowther**, University of New South Wales  
+**Claudia Crowther**, University of New South Wales  
 **Crowther, C.**, Bonser, S. P., & Schwanz, L. E. (2023). Plasticity and the adaptive evolution of switchlike reaction norms under environmental change. Evolution Letters, qrad035. [doi.org/10.1093/evlett/qrad035](https://doi.org/10.1093/evlett/qrad035)
 
 #### Postdoc
-**Dr. Samuel Lymbery**, Murdoch University  
+**Samuel Lymbery**, Murdoch University  
 **Lymbery, S. J.**, Webber, B. L., & Didham, R. K. (2023). Complex battlefields favor strong soldiers over large armies in social animal warfare. Proceedings of the National Academy of Sciences, 120(37), e2217973120. [doi.org/10.1073/pnas.2217973120](https://doi.org/10.1073/pnas.2217973120)
 
 ## 2020 - 2022 no best paper award 
