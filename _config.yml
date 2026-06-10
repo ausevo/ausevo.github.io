@@ -20,7 +20,7 @@ navbar-links:
     - Past Conferences: "past-conf"
   Grants & Awards:
     # - ECR Grants: "2025_ECR_grants"
-    # - Research Excellence: "2025_research_awards"
+    - Best Paper Awards: "research_awards"
     - Past ECR Awards: "previous_winners"
     - Past Talk Awards: "talk_awards"
   Society:
