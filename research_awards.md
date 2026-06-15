@@ -21,7 +21,7 @@ Applying is extremely easy, because you’ve already done the hard work! All you
 
 | Date | What |
 |------|-----------|
-| **22 June 2026** | Applications open |
+| **14 June 2026** | Applications open |
 | **10 August 2026** | Applications close |
 | **7 September 2026** | Outcomes announced |
 | **2–4 December 2026** | Evolution in the Gong! |
