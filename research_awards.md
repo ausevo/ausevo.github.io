@@ -8,9 +8,9 @@ bigimg:
 
 # 2026 ECR Best Paper Awards nomination open  
 
-Apply now for the ECR Best Paper Awards ([here](https://forms.gle/NgRppspbX8L8NaSm7))!g          
+Apply now for the ECR Best Paper Awards ([here](https://forms.gle/NgRppspbX8L8NaSm7))            
 
-**What is this award?**:  
+**What is this award?**:   
 
 These awards give the AES community the opportunity to hear some of the most exciting science done by our early career researchers (see a list of [previous winners](/previous_winners)). 
 
