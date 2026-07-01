@@ -35,7 +35,7 @@ navbar-links:
 
 author:
   name: Australasian Evolution Society
-  email: "austevolutionsociety@gmail.com"
+  email: "ausevolutionsociety@gmail.com"
   facebook: ausevosoc
   twitter: austevolsoc
   github: ausevosoc.bsky.social # repurposed for Bluesky — see _includes/footer.html

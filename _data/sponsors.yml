@@ -11,7 +11,7 @@
 year: 2026
 show_tier_descriptions: false   # set true to show tier description text on the sponsors page
 prospectus_url: /docs/2026/2026_AES_SASB_Sponsorship_Prospectus.pdf   # e.g. /docs/2026/AES2026_Sponsorship_Prospectus.pdf
-contact_email: austevolutionsociety@gmail.com
+contact_email: ausevolutionsociety@gmail.com
 
 tiers:
   - name: Platinum 

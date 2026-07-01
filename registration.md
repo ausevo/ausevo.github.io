@@ -29,7 +29,7 @@ We'll be gathering at the stunning **University of Wollongong** campus, nestled 
 
 | Date | Milestone |
 |------|-----------|
-| **Early June 2026** | Travel Grant application opens |
+| **TBA** | Travel Grant application opens |
 | **30 June 2026** | Super early bird closes — use code **SUPEREARLY2026** for 10% off |
 | **Mid July 2026** | Travel Grant outcomes announce |
 | **31 August 2026** | Early bird closes |
@@ -48,7 +48,7 @@ Travel grants and ECR plenary awards from both societies will be announced very 
 
 We aim to provide a safe, inclusive, and welcoming environment for researchers at all career stages. We warmly encourage participation from students, ECRs, parents, and those from traditionally under-represented groups.
 
-If you have any accessibility requirements or concerns, please don't hesitate to [contact us](mailto:austevolutionsociety@gmail.com).
+If you have any accessibility requirements or concerns, please don't hesitate to [contact us](mailto:ausevolutionsociety@gmail.com).
 
 ---
 
