@@ -31,7 +31,6 @@ We'll be gathering at the stunning **University of Wollongong** campus, nestled 
 |------|-----------|
 | **TBA** | Travel Grant application opens |
 | **17 July 2026** | Super early bird closes — use code **SUPEREARLY2026** for 10% off |
-<!-- | **Mid July 2026** | Travel Grant outcomes announce | -->
 | **31 August 2026** | Early bird closes |
 | **8 November 2026** | Final registration closes |
 | **2–4 December 2026** | Evolution in the Gong! |
