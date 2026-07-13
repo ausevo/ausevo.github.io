@@ -9,7 +9,7 @@ bigimg:
 <div class="sponsor-cta-box" style="text-align:center;">
   <h2>Registration is Open!</h2>
   <p>
-    Register before <strong>30 June 2026</strong> and use code <strong>SUPEREARLY2026</strong> at checkout for an additional <strong>10% discount</strong>.
+    Register before <strong>17 July 2026</strong> and use code <strong>SUPEREARLY2026</strong> at checkout for an additional <strong>10% discount</strong>.
   </p>
   <div class="sponsor-cta-box__actions">
     <a href="https://aes.corsizio.com/event/6a139217f9af4d8caadc98a9"
