@@ -8,7 +8,6 @@ bigimg: ""
 
 The **Joint AES x SASB Conference** will be held at the **University of Wollongong**, Wollongong, NSW, between **2–4 December 2026**.
 
-Specific room and building details will be announced closer to the conference date.
 
 <!-- [University of Wollongong campus map](https://www.uow.edu.au/about/campuses-facilities/wollongong/) -->
 
