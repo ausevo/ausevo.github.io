@@ -16,6 +16,8 @@ navbar-links:
     - Programme: "programme"
     - Registration: "registration"
     - Venue: "2026_Venue"
+    - Merch: "merch"
+    - Conference Dinner: "conference-dinner"
     - Sponsors: "sponsors"
     - Past Conferences: "past-conf"
   Grants & Awards:
