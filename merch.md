@@ -13,7 +13,7 @@ Two designs by Ian G. Brennan for **Evolution in the Gong 2026**. Both are avail
   </figure>
   <figure>
     <img src="/img/aes2026/AES_SASB_Fly.png" alt="AES × SASB 2026 fly design">
-    <figcaption>Blowfly (<i>Armenia imperialis</i>) design</figcaption>
+    <figcaption>Blowfly (<i>Amenia imperialis</i>) design</figcaption>
   </figure>
 </div>
 
