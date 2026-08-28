@@ -9,7 +9,7 @@ Two designs by Ian G. Brennan for **Evolution in the Gong 2026**. Both are avail
 <div class="merch-grid">
   <figure>
     <img src="/img/aes2026/AES_SASB_Python.png" alt="AES × SASB 2026 python design">
-    <figcaption>Carpet python (<i>Morelia spilota</i>) design</figcaption>
+    <figcaption>Diamond python (<i>Morelia spilota</i>) design</figcaption>
   </figure>
   <figure>
     <img src="/img/aes2026/AES_SASB_Fly.png" alt="AES × SASB 2026 fly design">
