@@ -4,7 +4,7 @@ title: Conference Dinner
 subtitle: North Gong Hotel — Friday 4 December 2026
 ---
 
-The conference dinner and party will be held at the **[North Gong Hotel](https://www.northgong.com.au/)** (North Wollongong Hotel) on **Friday the 4th of December from 6:00 pm – 11:30 pm**, at the end of the conference.
+The conference dinner and party will be held at **Teddy's Bar on [North Gong Hotel](https://www.northgong.com.au/)** (North Wollongong Hotel) across from the North Wollongong station on **Friday the 4th of December from 6:00 pm – 11:30 pm**, at the end of the conference.
 
 Your ticket price includes **cocktail-style food and two drinks**. The bar will be open for additional drinks.
 

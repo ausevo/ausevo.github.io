@@ -4,33 +4,40 @@ layout: page
 bigimg: ""
 ---
 
-## 2026 Conference Venue
+## 2026 Conference Venues at a glance
 
-The **Joint AES x SASB Conference** will be held at the **University of Wollongong**, Wollongong, NSW, between **2–4 December 2026**.
+2 Dec 2026 - Welcome Mixer at UoW Unibar on campus
 
+2-4 Dec 2026 - Conference at McKinnon Building (Building 67) at UoW
+
+4 Dec 2026 - Conference Dinner at Teddy's Bar at North Gong Hotel
+
+## Venue Details
+
+Evolution in the Gong conference will be held at the **McKinnon Building (Building 67)** on the University of Wollongong main campus between 2–4 December 2026
 
 <!-- [University of Wollongong campus map](https://www.uow.edu.au/about/campuses-facilities/wollongong/) -->
 
 <iframe
-  src="https://www.openstreetmap.org/export/embed.html?bbox=150.868%2C-34.414%2C150.888%2C-34.399&layer=mapnik&marker=-34.4063%2C150.8781"
+  src="https://www.openstreetmap.org/export/embed?bbox=150.8751180768013%2C-34.40598464077253%2C150.87865859270096%2C-34.404010649520664"
   width="100%" height="400"
   style="border:0; border-radius:8px; margin:1.5rem 0;"
-  title="University of Wollongong campus map"
+  title="McKinnon Building on University of Wollongong campus map"
   loading="lazy">
 </iframe>
 
-[View larger map](https://www.openstreetmap.org/?mlat=-34.4063&mlon=150.8781#map=15/-34.4063/150.8781)
+[View larger map](https://www.openstreetmap.org/#map=19/-34.404998/150.876888)
 
 ### Getting Here
 
 **By train:** Wollongong Station is approximately 2 km from campus. Local buses connect the station to the university.
 
-**By bus:** The university is well serviced by local bus routes. Details will be updated closer to the conference.
+**By bus:** The university is well serviced by local bus routes. 
 
-**By car:** Paid parking is available on campus. Details will be updated closer to the conference.
+**By car:** Paid parking is available on campus. 
 
 ### Accommodation
 
-Wollongong city centre offers a range of accommodation options within easy reach of campus. More detailed recommendations will be posted here as the conference approaches.
+Wollongong city centre offers a range of accommodation options within easy reach of campus. 
 
 Check back here for updates, or follow us on [Bluesky](https://bsky.app/profile/ausevosoc.bsky.social) and [X / Twitter](https://twitter.com/austevolsoc) for announcements.
