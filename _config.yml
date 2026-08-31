@@ -23,7 +23,7 @@ navbar-links:
     - Past Conferences: "past-conf"
   Grants & Awards:
     # - ECR Grants: "2025_ECR_grants"
-    - Best Paper Awards: "research_awards"
+    # - Best Paper Awards: "research_awards"
     - Past ECR Awards: "previous_winners"
     - Past Talk Awards: "talk_awards"
   Society:
@@ -62,6 +62,11 @@ conference_season_end:   "2026-12-04"   # Update each year to ~1 month after con
 # Legacy UA (no longer functional — kept for reference only)
 # google_analytics: "UA-75904828-1"
 
+# GoatCounter — privacy-friendly, cookieless page-view analytics.
+# Set to your site code (the subdomain from https://<code>.goatcounter.com).
+# Leave commented out to disable tracking entirely.
+goatcounter: "ausevosoc"
+
 # Disqus comments shortname (used by post layout when page.comments: true)
 disqus: "ausevo"
 
@@ -97,6 +102,8 @@ exclude:
   - CNAME
   - Vagrantfile
   - MAINTENANCE.md
+  - vendor
+  - .bundle
 
 # prose.io config
 prose:
