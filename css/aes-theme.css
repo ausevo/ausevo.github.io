@@ -1225,6 +1225,61 @@ img.center-image { border-radius: var(--radius); }
 }
 
 
+/* ─── Plenary / speaker cards (reuses exec-card look) ───────────────────────── */
+
+.speaker-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1.25rem;
+  margin: 0.75rem 0 2rem;
+}
+
+.speaker-card {
+  background: var(--c-surface);
+  border: 1px solid var(--c-border);
+  border-radius: var(--radius);
+  padding: 1.5rem 1rem;
+  text-align: center;
+  transition: box-shadow var(--t-base), transform var(--t-base);
+}
+.speaker-card:hover {
+  box-shadow: var(--shadow-md);
+  transform: translateY(-2px);
+}
+
+.speaker-card__photo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: top center;
+  margin: 0 auto 1rem;
+  display: block;
+  background: var(--c-border);
+}
+
+.speaker-card__name {
+  font-weight: 700;
+  color: var(--c-navy);
+  font-size: 0.9375rem;
+  margin-bottom: 0.25rem;
+}
+.speaker-card__name a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: none;
+  transition: color var(--t-fast);
+}
+.speaker-card__name a:hover { color: var(--c-teal); }
+
+.speaker-card__inst {
+  font-size: 0.8125rem;
+  color: var(--c-text-muted);
+  line-height: 1.4;
+  margin: 0;
+}
+
+
 /* ─── 20. SPONSORS ───────────────────────────────────────────────────────────── */
 
 /* CTA box at top of sponsors page */
