@@ -42,7 +42,7 @@ We are delighted to announce our AES plenary speakers along with our two Best Pa
   </div>
 </div>
 
-Paper: Nesting behaviour predicts heat tolerance evolution and climate vulnerability in bees (da Silva et al. 2026 [Nature Communications](doi.org/10.1038/s41467-026-73689-7))
+Paper: Nesting behaviour predicts heat tolerance evolution and climate vulnerability in bees (da Silva et al. 2026 [Nature Communications](https://doi.org/10.1038/s41467-026-73689-7))
 
 
 ### Best Paper Award - PhD
@@ -55,13 +55,13 @@ Paper: Nesting behaviour predicts heat tolerance evolution and climate vulnerabi
   </div>
 </div>
 
-Paper: Evolution across the adaptive landscape in a hyperdiverse beetle radiation (Li et al. 2024. [Current Biology](doi.org/10.1016/j.cub.2024.06.080))
+Paper: Evolution across the adaptive landscape in a hyperdiverse beetle radiation (Li et al. 2024. [Current Biology](https://doi.org/10.1016/j.cub.2024.06.080))
 
 ## References: 
 
-**da Silva, C**. R. B., Beaman, J. E., Dorey, J. B., Bradford, T., Smith, T. J., Gloag, R., & Kellermann, V. (2026). Nesting behaviour predicts heat tolerance evolution and climate vulnerability in bees. Nature Communications, 17(1), 4961. [doi.org/10.1038/s41467-026-73689-7](doi.org/10.1038/s41467-026-73689-7)
+**da Silva, C**. R. B., Beaman, J. E., Dorey, J. B., Bradford, T., Smith, T. J., Gloag, R., & Kellermann, V. (2026). Nesting behaviour predicts heat tolerance evolution and climate vulnerability in bees. Nature Communications, 17(1), 4961. [doi.org/10.1038/s41467-026-73689-7](https://doi.org/10.1038/s41467-026-73689-7)
 
-**Li, Y**., Moritz, C., Brennan, I. G., Zwick, A., Nicholls, J., Grealy, A., & Slipinski, A. (2024). Evolution across the adaptive landscape in a hyperdiverse beetle radiation. Current Biology, 34(16), 3685-3697.e6. [doi.org/10.1016/j.cub.2024.06.080](doi.org/10.1016/j.cub.2024.06.080)
+**Li, Y**., Moritz, C., Brennan, I. G., Zwick, A., Nicholls, J., Grealy, A., & Slipinski, A. (2024). Evolution across the adaptive landscape in a hyperdiverse beetle radiation. Current Biology, 34(16), 3685-3697.e6. [doi.org/10.1016/j.cub.2024.06.080](https://doi.org/10.1016/j.cub.2024.06.080)
 
 
 
