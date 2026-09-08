@@ -1,13 +1,27 @@
 ---
-layout: default
-title: 404 - Page not found
+layout: page
+title: "Page not found"
+subtitle: "Error 404 — we couldn't find that page"
 permalink: /404.html
 ---
 
-<div class="text-center">
-  <h1>Whoops, this page doesn't exist.</h1>
-  <h1>Move along. (404 error)</h1>
-  <br/>
+<p>The page you're looking for may have moved, been renamed, or never existed.
+Links to conference pages from past years are updated each season, so an old
+bookmark or search result can sometimes point to the wrong place.</p>
 
-  <img src="{{ site.baseurl }}/img/404-southpark.jpg" />
-</div>
+<p>Here are some good places to pick things up again:</p>
+
+<ul>
+  <li><a href="{{ site.baseurl }}/">Home</a></li>
+  <li><a href="{{ site.baseurl }}/conference">Conference overview</a></li>
+  <li><a href="{{ site.baseurl }}/programme">Programme</a></li>
+  <li><a href="{{ site.baseurl }}/registration">Registration</a></li>
+  <li><a href="{{ site.baseurl }}/about">About the Society</a></li>
+  <li><a href="{{ site.baseurl }}/join">Join the AES</a></li>
+</ul>
+
+<p>Still stuck? Email us at
+<a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+and we'll point you in the right direction.</p>
+
+<p><a class="btn btn--coral btn--lg" href="{{ site.baseurl }}/">Back to home</a></p>
