@@ -6,20 +6,30 @@ layout: page
 # - /img/big-imgs/quokka_Joseph11.jpg: Quokka by Joseph11 (Goodfon.com, 2023)
 ---
 
-## 2025 Brisbane - University of Queensland
+## 2026 AES x SASB Wollongong - University of Wollongong
 
 #### Postgraduate
-**Jamiema Philip**  
+**Li Yun** (李韵), CSIRO  
+**Li, Y.**, C. Moritz, I. G. Brennan, A. Zwick, J. Nicholls, A. Grealy, and A. Slipinski. 2024. Evolution across the adaptive landscape in a hyperdiverse beetle radiation. Current Biology 34:3685–3697.e6. [doi.org/10.1016/j.cub.2024.06.080](https://doi.org/10.1016/j.cub.2024.06.080)
+
+#### Postdoc
+**Carmen da Silva**, Macquarie University  
+**da Silva, C. R. B.**, J. E. Beaman, J. B. Dorey, T. Bradford, T. J. Smith, R. Gloag, and V. Kellermann. 2026. Nesting behaviour predicts heat tolerance evolution and climate vulnerability in bees. Nature Communications 17:4961. [doi.org/10.1038/s41467-026-73689-7](https://doi.org/10.1038/s41467-026-73689-7)
+
+## 2025 AES Brisbane - University of Queensland
+
+#### Postgraduate
+**Jamiema Philip**, University of New South Wales  
 **Philip, J. S.**, S. Grewal, J. Scadden, C. Puente-Lelievre, N. J. Matzke, L. McNally, and M. A. B. Baker. 2025. Mapping the loss of flagellar motility across the tree of life. ISME J 19:wraf111.
 
 #### Postdoc
-**Paul Battlay**  
+**Paul Battlay**, Monash University  
 **Battlay, P.**, B. T. Hendrickson, J. I. Mendez-Reneau, et al. and N. J. Kooyers. 2025. Haploblocks contribute to parallel climate adaptation following global invasion of a cosmopolitan plant. Nat Ecol Evol 9:1441–1455.
 
-**Kris Wild**  
+**Kris Wild**, University of Melbourne  
 **Wild, K. H.**, R. B. Huey, E. R. Pianka, S. Clusella-Trullas, A. L. Gilbert, D. B. Miles, and M. R. Kearney. 2025. Climate change and the cost-of-living squeeze in desert lizards. Science 387:303–309.
 
-## 2024 Perth - University of Western Australia
+## 2024 AES Perth - University of Western Australia
 
 #### Postgraduate
 **Sara Ryding**, Deakin University  
@@ -29,7 +39,7 @@ layout: page
 **Maddie James**, University of Queensland  
 **James, M.** E., R. N. Allsopp, J. S. Groh, A. Kaur, M. J. Wilkinson, and D. Ortiz-Barrientos. 2023. Uncovering the genetic architecture of parallel evolution. Molecular Ecology 32:5575–5589. [https://doi.org/10.1111/mec.17134](https://doi.org/10.1111/mec.17134) 
 
-## 2023 Adelaide - University of Adelaide  
+## 2023 AES Adelaide - University of Adelaide  
 
 #### Postgraduate 
 **Claudia Crowther**, University of New South Wales  
@@ -41,7 +51,7 @@ layout: page
 
 ## 2020 - 2022 no best paper award 
 
-## 2019 Sydney - UNSW
+## 2019 AES Sydney - UNSW
 
 #### Postgraduate awards 
 
