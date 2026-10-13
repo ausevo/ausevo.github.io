@@ -15,6 +15,7 @@ navbar-links:
     - Overview: "conference"
     - Programme: "programme"
     - Registration: "registration"
+    - Pre-conference Workshop: "workshop"
     - Venue: "2026_Venue"
     - Accommodation: "2026_accommodation"
     - Merch: "merch"
