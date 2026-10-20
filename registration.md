@@ -29,7 +29,7 @@ bigimg:
 
 We'll be gathering at the stunning **University of Wollongong** campus, nestled between the rainforests of the Illawarra Escarpment and the Pacific Ocean, from **2–4 December 2026**.
 
-**Times:** Registration opens before the **8:30am start on Wednesday 2 December**. Sessions conclude by **5:00pm on Friday 4 December**, followed by the conference dinner (6:00pm – 11:30pm).
+**Times:** Three full days, starting **early on Wednesday morning, 2 December**. Sessions conclude by **5:00pm on Friday 4 December**, followed by the conference dinner (6:00pm – 11:30pm). The full program will be released after registrations close on 8 November.
 
 ## Key Dates
 

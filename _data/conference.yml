@@ -15,7 +15,7 @@ date_start: "2026-12-02"
 date_end:   "2026-12-04"
 
 # Short timing note shown in the homepage hero
-schedule_note: "Starts 8:30am Wed 2 Dec · Sessions close 5pm Fri 4 Dec · Conference dinner 6pm"
+schedule_note: "Three full days: starts early Wed 2 Dec · Sessions close by 5pm Fri 4 Dec · Conference dinner 6pm"
 
 # Registration
 registration_open: true
