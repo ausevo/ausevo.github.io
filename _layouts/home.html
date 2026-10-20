@@ -42,6 +42,9 @@ Conference season detection
       {{ site.data.conference.university }}<br>
       <span class="hero__location">{{ site.data.conference.date_display }}</span>
     </h1>
+    {%- if site.data.conference.schedule_note -%}
+    <p class="hero__subtitle">{{ site.data.conference.schedule_note }}</p>
+    {%- endif -%}
 
     {%- if site.data.conference.date_start -%}
     <div class="countdown" id="countdown"

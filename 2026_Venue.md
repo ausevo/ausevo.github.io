@@ -8,9 +8,9 @@ bigimg: ""
 
 2 Dec 2026 - Welcome Mixer at UoW Unibar on campus
 
-2-4 Dec 2026 - Conference at McKinnon Building (Building 67) at UoW
+2-4 Dec 2026 - Conference at McKinnon Building (Building 67) at UoW. Registration opens before the 8:30am start on 2 Dec; sessions conclude by 5:00pm on 4 Dec
 
-4 Dec 2026 - Conference Dinner at Teddy's Bar at North Gong Hotel
+4 Dec 2026 - Conference Dinner (6:00pm – 11:30pm) at Teddy's Bar at North Gong Hotel
 
 ## Venue Details
 
