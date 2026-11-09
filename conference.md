@@ -27,9 +27,9 @@ The conference features:
 - Workshops and networking events
 - Conference dinner
 
-**When:** 2–4 December 2026. Three full days, starting **early on Wednesday morning, 2 December**, with sessions concluding by **5:00pm on Friday 4 December**, followed by the conference dinner (6:00pm – 11:30pm). The full program will be released after registrations close on 8 November.
+**When:** 2–4 December 2026. Three full days, starting **early on Wednesday morning, 2 December**, with sessions concluding by **5:00pm on Friday 4 December**, followed by the conference dinner (6:00pm – 11:30pm). The full program will be released shortly.
 
-Conference registration is now [open](/registration).
+Talk submissions are now closed, but you can still [register to attend](/registration) until 27 November 2026.
 
 ### Past Conferences
 

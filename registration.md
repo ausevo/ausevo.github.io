@@ -9,11 +9,9 @@ bigimg:
 <div class="sponsor-cta-box" style="text-align:center;">
   <h2>Registration is Open!</h2>
   <p>
-    Early bird registration closes 31 August 2026. 
+    Talk submissions are now closed.
     <br>
-    AES Travel Grant open until 13 September 2026.
-     <br>
-    Final registration closes 8 November 2026. .
+    You can still register to attend until <strong>27 November 2026</strong>.
   </p>
   <div class="sponsor-cta-box__actions">
     <a href="https://aes.corsizio.com/event/6a139217f9af4d8caadc98a9"
@@ -29,7 +27,7 @@ bigimg:
 
 We'll be gathering at the stunning **University of Wollongong** campus, nestled between the rainforests of the Illawarra Escarpment and the Pacific Ocean, from **2–4 December 2026**.
 
-**Times:** Three full days, starting **early on Wednesday morning, 2 December**. Sessions conclude by **5:00pm on Friday 4 December**, followed by the conference dinner (6:00pm – 11:30pm). The full program will be released after registrations close on 8 November.
+**Times:** Three full days, starting **early on Wednesday morning, 2 December**. Sessions conclude by **5:00pm on Friday 4 December**, followed by the conference dinner (6:00pm – 11:30pm). The full program will be released shortly.
 
 ## Key Dates
 
@@ -39,7 +37,8 @@ We'll be gathering at the stunning **University of Wollongong** campus, nestled 
 | **31 August 2026** | Early bird registration closes |
 | **13 September 2026** | Travel Grant application closes |
 | **Early-mid October 2026** | Travel Grant outcomes announce |
-| **8 November 2026** | Final registration closes |
+| **8 November 2026** | Talk submissions closed |
+| **27 November 2026** | Final registration (attendance) closes |
 | **2–4 December 2026** | Evolution in the Gong! |
 
 <!-- | **17 July 2026** | Super early bird closes — use code **SUPEREARLY2026** for 10% off | -->

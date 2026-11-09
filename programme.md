@@ -10,7 +10,7 @@ subtitle: Program
 
 **Evolution in the Gong (Joint AES x SASB Conference) 2026** will be held at the **University of Wollongong**, Wollongong, NSW, **2–4 December 2026** hosted by Damien Esquerre (AES) and Nik Johnson (SASB).
 
-**Conference times:** The conference runs for three full days, starting **early on Wednesday morning, 2 December**. Sessions conclude by **5:00pm on Friday 4 December**, followed by the [conference dinner](/conference-dinner) from 6:00pm. The full program will be released after registrations close on 8 November.
+**Conference times:** The conference runs for three full days, starting **early on Wednesday morning, 2 December**. Sessions conclude by **5:00pm on Friday 4 December**, followed by the [conference dinner](/conference-dinner) from 6:00pm. The full program will be released shortly. Registration to attend remains open until 27 November.
 
 We are delighted to announce our AES plenary speakers along with our two Best Paper Awardees.
 
