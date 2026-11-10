@@ -1,0 +1,24 @@
+---
+layout: schedule
+title: Conference Schedule
+subtitle: "Evolution in the Gong · 2–4 December 2026 · University of Wollongong"
+permalink: /draft_schedule_20261111
+draft_banner: true     # shows the "unofficial" banner; remove when the schedule goes public
+noindex: true
+sitemap: false
+programme: programme_2026   # data file in _data/ — change each year
+---
+<p class="sched-pdf">
+  <!-- <span>Prefer paper or offline?.</span> -->
+  <a class="btn btn--sm btn--outline-navy" href="{{ site.data.conference.programme_pdf_url | relative_url }}" target="_blank" rel="noopener" data-track="programme-pdf" data-track-category="conference"><i class="fa-solid fa-file-pdf" aria-hidden="true"></i> Download the PDF programme</a>
+</p>
+<p class="sched-legend" data-js-only>
+  Tap/click <i class="fa-regular fa-star" aria-hidden="true"></i><span class="sr-only">the star</span> to save a talk to <strong>My talks</strong> (saved on this device).
+  <span class="badge badge--student"><i class="fa-solid fa-graduation-cap" aria-hidden="true"></i> </span> = student talks.
+  <span class="room-chip room-chip--r1" aria-hidden="true">1</span><span class="room-chip room-chip--r2" aria-hidden="true">2</span><span class="room-chip room-chip--r3" aria-hidden="true">3</span>= rooms<span class="sr-only">Room 1, Room 2, Room 3</span>.
+</p>
+<div class="sched-modebar" data-js-only>
+  <span>On phones, tapping a talk opens:</span>
+  <button type="button" class="sched-chip-btn" data-expand-mode="slot" aria-pressed="true">The whole time slot</button>
+  <button type="button" class="sched-chip-btn" data-expand-mode="card" aria-pressed="false">Just that talk</button>
+</div>

@@ -3,7 +3,7 @@
 
 {% include head.html %}
 
-<body class="layout-{{ page.layout | default: 'page' }}">
+<body class="layout-{{ page.layout | default: 'page' }}" data-conf-start="{{ site.data.conference.date_start }}" data-conf-end="{{ site.data.conference.date_end }}" data-schedule-public="{{ site.data.conference.schedule_public }}">
 
   <a class="skip-to-content" href="#main-content">Skip to main content</a>
 
