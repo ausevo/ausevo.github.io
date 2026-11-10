@@ -15,3 +15,4 @@ ehthumbs.db
 # conference programme spreadsheets contain attendee personal data — never commit
 docs/2026/*.xlsx
 *PROGRAM*.xlsx
+CLAUDE.md
