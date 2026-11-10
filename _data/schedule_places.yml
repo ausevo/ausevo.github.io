@@ -1,0 +1,15 @@
+# Venues that get a "Get me there" drop-down on /schedule.
+# An event is matched when its title contains `match` (case-insensitive).
+# `query` is what Google/Apple Maps search for: use the street address once it
+# is confirmed, as it is more reliable than the venue name.
+# Edit freely - the schedule script never overwrites this file.
+
+- match: unibar
+  name: UniBar, University of Wollongong
+  address: UniBar, University of Wollongong, Northfields Ave, Wollongong NSW 2522
+  query: UniBar University of Wollongong Northfields Ave Wollongong NSW 2522
+
+- match: north gong hotel
+  name: Teddy's Bar, North Gong Hotel
+  address: Teddy's Bar, North Gong Hotel, North Wollongong NSW
+  query: Teddy's Bar North Gong Hotel North Wollongong NSW
