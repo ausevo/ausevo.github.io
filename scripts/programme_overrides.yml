@@ -1,0 +1,65 @@
+# Settings and fixes applied every time scripts/programme_from_xlsx.py runs.
+# Fixes here survive re-exports of the spreadsheet. (You can also fix things
+# in the spreadsheet itself; both work.)
+
+conference: "Evolution in the Gong 2026"
+timezone: "Australia/Sydney"
+
+# Optional link to a PDF version of the programme (shown on the schedule page)
+pdf: "/docs/2026/Evolution_in_the_Gong_2026_Programme.pdf"
+
+# Optional: building / room name shown next to each room
+rooms:
+  # Room 1: "Building 67, Room 104"
+  # Room 2: ""
+  # Room 3: ""
+
+# Plain-text corrections applied to every cell before formatting
+replace:
+  "Buidling": "Building"
+  "lacerta agilis": "Lacerta agilis"
+  "Escherichia Coli": "Escherichia coli"
+  "in psydrax nests": "in Psydrax nests"
+
+# Genus / species names always shown in italics (case-sensitive, whole words).
+# List binomials ("Lacerta agilis") as well as genus names on their own.
+# Family and higher ranks (e.g. Lycosidae, Anura) are left in roman by convention.
+# Run the script: it lists likely names that aren't italicised yet.
+italicise:
+  - Anaspides
+  - Anigozanthos
+  - Artoria
+  - Austropeplea
+  - Berkeleyomyces
+  - Bulbophyllum
+  - Calliphora flexipenis
+  - Calothamnus quadrifidus
+  - Cervus timorensis
+  - Cirrhilabrus
+  - Crematogaster
+  - Crocidura
+  - Ctenophorus pictus
+  - Cyp6g1
+  - Doratifera vulnerans
+  - Drosophila melanogaster
+  - Drosophila
+  - Escherichia coli
+  - Eucalyptus delegatensis
+  - Ficopomatus
+  - Gehyra nana
+  - Lacerta agilis
+  - Lepidosperma
+  - Pharohylaeus lactiferus
+  - Pseudemoia entrecasteauxii
+  - Pseudonaja
+  - Pseudophryne bibronii
+  - Psydrax
+  - Rhytidoponera metallica
+  - Serratia symbiotica
+  - Serratia
+  - Sphenomorphus
+  - Steatoda
+  - Tursiops australis
+  - Uperoleia daviesae
+  - Vulpes vulpes
+  - Wolbachia
