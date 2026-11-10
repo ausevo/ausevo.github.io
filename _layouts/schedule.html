@@ -96,6 +96,7 @@ layout: base
               <div>
                 <p class="track-head__topic">{{ tr.topic | default: tr.room }}</p>
                 <p class="track-head__meta">{{ tr.room }}{% if tr.location %} · {{ tr.location }}{% endif %}{% if tr.chair %} · Chair: {{ tr.chair }}{% endif %}</p>
+                {%- if tr.chair %}<p class="track-head__chair">Chair: {{ tr.chair }}</p>{% endif %}
               </div>
             </div>
             {%- endfor %}

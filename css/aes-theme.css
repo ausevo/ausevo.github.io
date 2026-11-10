@@ -1773,6 +1773,8 @@ img.center-image { border-radius: var(--radius); }
 .track-head .room-chip { width: 28px; height: 28px; font-size: 0.875rem; }
 .track-head__topic { font-weight: 700; color: var(--c-navy); line-height: 1.3; }
 .track-head__meta { font-size: 0.8125rem; color: var(--c-text-muted); line-height: 1.4; margin-top: 2px; }
+/* Chair on its own line: only shown in the compact mobile column view (see media query below) */
+.track-head__chair { display: none; }
 
 /* Talk card ---------------------------------------------------------------- */
 .sched-cell { min-width: 0; }
@@ -2208,6 +2210,13 @@ img.center-image { border-radius: var(--radius); }
   .schedule[data-room="all"]:not(.is-filtering) .track-head[data-room="r3"] { border-top-color: var(--sched-r3); }
   .schedule[data-room="all"]:not(.is-filtering) .track-head .room-chip { width: 22px; height: 22px; font-size: 0.75rem; }
   .schedule[data-room="all"]:not(.is-filtering) .track-head__meta { display: none; }
+  .schedule[data-room="all"]:not(.is-filtering) .track-head__chair {
+    display: block;
+    font-size: 0.6875rem;
+    line-height: 1.25;
+    color: var(--c-text-muted);
+    margin-top: 2px;
+  }
   .schedule[data-room="all"]:not(.is-filtering) .track-head__topic {
     font-size: 0.75rem;
     line-height: 1.25;
