@@ -11,3 +11,7 @@ Thumbs.db
 ehthumbs.db
 *TEMPLATE*
 .Rproj.user
+
+# conference programme spreadsheets contain attendee personal data — never commit
+docs/2026/*.xlsx
+*PROGRAM*.xlsx
