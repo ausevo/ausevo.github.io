@@ -4,6 +4,26 @@
 (function () {
   'use strict';
 
+  // ─── During the conference, "Programme" links open the live schedule ──────
+
+  (function () {
+    var b = document.body;
+    var start = b.getAttribute('data-conf-start'), end = b.getAttribute('data-conf-end');
+    if (b.getAttribute('data-schedule-public') !== 'true') return;
+    if (!start || !end || !window.Intl) return;
+    var today;
+    try {
+      var p = new URLSearchParams(location.search).get('now');   // test override, e.g. ?now=2026-12-03T10:00
+      today = p ? p.slice(0, 10) : new Intl.DateTimeFormat('en-CA', {
+        timeZone: 'Australia/Sydney', year: 'numeric', month: '2-digit', day: '2-digit'
+      }).format(new Date());
+    } catch (e) { return; }
+    if (today < start || today > end) return;
+    document.querySelectorAll('a[href="/programme"], a[href$="/programme"]').forEach(function (a) {
+      a.setAttribute('href', a.getAttribute('href').replace(/\/programme$/, '/schedule'));
+    });
+  })();
+
   // ─── Navbar ────────────────────────────────────────────────────────────────
 
   var nav     = document.querySelector('.site-nav');
