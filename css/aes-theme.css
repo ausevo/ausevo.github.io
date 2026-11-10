@@ -1507,3 +1507,891 @@ img.center-image { border-radius: var(--radius); }
 @media (prefers-reduced-motion: reduce) {
   .sponsor-marquee__track { animation: none; }
 }
+
+
+/* ─── 22. CONFERENCE SCHEDULE (/schedule) ───────────────────────────────────── */
+/* Data: _data/programme_YYYY.yml · Markup: _layouts/schedule.html · JS: js/schedule.js
+   Colour is never the only cue: student talks carry a "Student" label + striped
+   edge, rooms carry a number (and chip shape), starred talks use a filled star,
+   and "now" is labelled with the time. */
+
+.schedule {
+  --sched-gutter: 60px;
+  --sched-now: #c4512f;          /* coral, darkened for AA contrast with white text */
+  --sched-r1: var(--c-navy);
+  --sched-r2: #1f7a6f;           /* teal, darkened */
+  --sched-r3: #9a5414;           /* amber, darkened */
+  --sched-student: #f4a261;
+  --sched-student-bg: #fdf0e4;
+  --sched-student-text: #84450f;
+  --sched-toolbar-h: 0px;        /* measured by JS */
+  padding-bottom: 80px;
+}
+.schedule:not(.is-js) [data-js-only] { display: none !important; }
+.schedule [hidden] { display: none !important; }
+
+.sr-only {
+  position: absolute !important;
+  width: 1px; height: 1px;
+  padding: 0; margin: -1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Toolbar ------------------------------------------------------------------ */
+.sched-toolbar {
+  position: sticky;
+  top: var(--nav-h);
+  z-index: 900;
+  background: rgba(255,255,255,0.97);
+  border-bottom: 1px solid var(--c-border);
+  box-shadow: var(--shadow-sm);
+}
+.sched-toolbar__inner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px 24px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.sched-days { display: flex; gap: 6px; }
+.sched-days__btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-width: 56px;
+  min-height: 48px;
+  padding: 4px 10px;
+  border: 1.5px solid var(--c-border-dark);
+  border-radius: var(--radius);
+  background: white;
+  color: var(--c-navy);
+  font: inherit;
+  line-height: 1.1;
+  cursor: pointer;
+  transition: background var(--t-fast), color var(--t-fast), border-color var(--t-fast);
+}
+.sched-days__btn:hover { border-color: var(--c-navy); }
+.sched-days__dow { font-size: 0.6875rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.06em; }
+.sched-days__num { font-size: 1.125rem; font-weight: 800; }
+.sched-days__btn[aria-pressed="true"] { background: var(--c-navy); border-color: var(--c-navy); color: white; }
+.sched-days__btn.is-today::after {
+  content: "Today";
+  font-size: 0.5625rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--sched-now);
+}
+.sched-days__btn.is-today[aria-pressed="true"]::after { color: #ffd6c9; }
+
+.sched-filters { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+.sched-rooms { display: flex; gap: 4px; }
+.sched-chip-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  min-height: 44px;
+  min-width: 44px;
+  padding: 0 12px;
+  border: 1.5px solid var(--c-border-dark);
+  border-radius: 999px;
+  background: white;
+  color: var(--c-text);
+  font: inherit;
+  font-size: 0.875rem;
+  font-weight: 600;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.sched-rooms .sched-chip-btn { padding: 0 8px; }
+.sched-rooms .sched-chip-btn[data-room-filter="all"] { padding: 0 12px; }
+.sched-chip-btn:hover { border-color: var(--c-navy); }
+.sched-chip-btn[aria-pressed="true"] { border-color: var(--c-navy); background: #e7eef5; color: var(--c-navy); box-shadow: inset 0 0 0 1px var(--c-navy); }
+.sched-mine .fa-star { color: var(--c-coral); }
+.sched-mine__count:empty { display: none; }
+.sched-mine__count {
+  min-width: 20px;
+  padding: 1px 6px;
+  border-radius: 999px;
+  background: var(--sched-now);
+  color: white;
+  font-size: 0.75rem;
+  text-align: center;
+}
+
+.sched-search { position: relative; display: flex; align-items: center; }
+.sched-search .fa-magnifying-glass {
+  position: absolute;
+  left: 12px;
+  color: var(--c-text-muted);
+  font-size: 0.875rem;
+  pointer-events: none;
+}
+.sched-search input {
+  width: 230px;
+  min-height: 44px;
+  padding: 0 12px 0 34px;
+  border: 1.5px solid var(--c-border-dark);
+  border-radius: 999px;
+  font: inherit;
+  font-size: 1rem;               /* 16px+ stops iOS zooming on focus */
+  color: var(--c-text);
+  background: white;
+}
+.sched-search input:focus { border-color: var(--c-navy); outline: none; box-shadow: 0 0 0 3px rgba(13,59,102,0.15); }
+
+/* Room chips: number + distinct shape per room ------------------------------ */
+.room-chip {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  border-radius: 6px;
+  background: var(--c-text-muted);
+  color: white;
+  font-size: 0.75rem;
+  font-weight: 800;
+  line-height: 1;
+}
+.room-chip + .room-chip { margin-left: 4px; }
+.room-chip--r1 { background: var(--sched-r1); }
+.room-chip--r2 { background: var(--sched-r2); border-radius: 50%; }
+.room-chip--r3 { background: var(--sched-r3); border-radius: 2px 12px; }
+
+/* Badges ------------------------------------------------------------------- */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 1px 8px;
+  border-radius: 999px;
+  font-size: 0.6875rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  line-height: 1.5;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+.badge--student { background: var(--sched-student-bg); color: var(--sched-student-text); border: 1px solid #f1c79f; }
+.badge--speed   { background: #e7eef5; color: var(--c-navy); white-space: normal; }
+.badge--agm     { background: #e6f5f3; color: #17635a; }
+
+/* Body / intro ------------------------------------------------------------- */
+.sched-body { padding-top: 24px; }
+.sched-intro { color: var(--c-text-muted); font-size: 0.9375rem; margin-bottom: 8px; }
+.sched-legend { line-height: 2; }
+.sched-legend .badge { margin: 0 2px; }
+.sched-empty {
+  margin: 32px 0;
+  padding: 24px;
+  border: 1.5px dashed var(--c-border-dark);
+  border-radius: var(--radius);
+  text-align: center;
+  color: var(--c-text-muted);
+}
+.sched-updated { margin-top: 40px; font-size: 0.875rem; color: var(--c-text-muted); }
+
+.sched-day { margin-top: 28px; }
+.sched-day__title {
+  font-size: clamp(1.25rem, 2.5vw, 1.625rem);
+  font-weight: 800;
+  color: var(--c-navy);
+  margin-bottom: 16px;
+}
+.sched-day__title, [id^="t-"] { scroll-margin-top: calc(var(--nav-h) + var(--sched-toolbar-h) + 48px); }
+
+/* Rows: time gutter + one column per room ----------------------------------- */
+.sched-row {
+  position: relative;
+  display: grid;
+  grid-template-columns: var(--sched-gutter) repeat(var(--tracks, 1), minmax(0, 1fr));
+  gap: 12px;
+  margin-bottom: 10px;
+  transition: opacity var(--t-base);
+}
+.sched-row--event,
+.schedule[data-room]:not([data-room="all"]) .sched-row { grid-template-columns: var(--sched-gutter) minmax(0, 1fr); }
+.schedule[data-room="r1"] .sched-cell:not([data-room="r1"]),
+.schedule[data-room="r2"] .sched-cell:not([data-room="r2"]),
+.schedule[data-room="r3"] .sched-cell:not([data-room="r3"]) { display: none; }
+
+.sched-row__time {
+  padding-top: 12px;
+  font-size: 0.875rem;
+  font-weight: 700;
+  color: var(--c-navy);
+  font-variant-numeric: tabular-nums;
+}
+.sched-row.is-past { opacity: 0.55; }
+.sched-row.is-past:hover, .sched-row.is-past:focus-within { opacity: 1; }
+.schedule.is-filtering .sched-row.is-past { opacity: 1; }
+
+/* Parallel block ----------------------------------------------------------- */
+.sched-block {
+  margin: 20px 0 24px;
+  padding: 14px 14px 4px;
+  border-radius: var(--radius-lg);
+  background: var(--c-surface);
+}
+.sched-block__head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 4px 12px;
+  margin-bottom: 10px;
+}
+.sched-block__label {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #1f7a6f;
+}
+.sched-block__time { font-size: 0.875rem; font-weight: 600; color: var(--c-text-muted); }
+
+.track-head {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 10px 12px;
+  border-radius: var(--radius);
+  background: white;
+  border-top: 4px solid var(--c-text-muted);
+}
+.track-head[data-room="r1"] { border-top-color: var(--sched-r1); }
+.track-head[data-room="r2"] { border-top-color: var(--sched-r2); }
+.track-head[data-room="r3"] { border-top-color: var(--sched-r3); }
+.track-head .room-chip { width: 28px; height: 28px; font-size: 0.875rem; }
+.track-head__topic { font-weight: 700; color: var(--c-navy); line-height: 1.3; }
+.track-head__meta { font-size: 0.8125rem; color: var(--c-text-muted); line-height: 1.4; margin-top: 2px; }
+
+/* Talk card ---------------------------------------------------------------- */
+.sched-cell { min-width: 0; }
+.talk {
+  position: relative;
+  height: 100%;
+  padding: 12px 48px 12px 14px;
+  border: 1px solid var(--c-border);
+  border-radius: var(--radius);
+  background: white;
+  box-shadow: var(--shadow-sm);
+  overflow: hidden;
+  transition: border-color var(--t-fast), box-shadow var(--t-fast);
+}
+.talk__meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px 8px;
+  margin-bottom: 4px;
+  font-size: 0.75rem;
+  color: var(--c-text-muted);
+}
+.talk__session { font-weight: 600; }
+.talk__time { font-weight: 600; font-variant-numeric: tabular-nums; color: var(--c-text-muted); font-size: 0.8125rem; }
+.talk__speaker { font-weight: 700; color: var(--c-navy); line-height: 1.35; overflow-wrap: anywhere; }
+.talk__title { margin-top: 2px; font-size: 0.9375rem; line-height: 1.45; color: var(--c-text); overflow-wrap: anywhere; }
+.talk__title--strong { font-weight: 600; }
+.talk mark, .sched-event mark { background: #fff1a8; color: inherit; border-radius: 2px; padding: 0 1px; }
+
+/* Student: text label + striped left edge (not colour alone) */
+.talk--student { padding-left: 18px; }
+.talk--student::before {
+  content: "";
+  position: absolute;
+  top: 0; bottom: 0; left: 0;
+  width: 5px;
+  background: repeating-linear-gradient(180deg, var(--sched-student) 0 6px, #fbe2cb 6px 9px);
+}
+
+/* Speed talks */
+.talk--speed { padding-right: 12px; }
+.speed-list { list-style: none; margin: 6px 0 0; padding: 0; }
+.talk--mini {
+  border: 0;
+  border-top: 1px solid var(--c-border);
+  border-radius: 0;
+  box-shadow: none;
+  padding: 8px 40px 8px 0;
+  height: auto;
+  overflow: visible;
+}
+.talk--mini .talk__time { font-size: 0.75rem; }
+.talk--mini .talk__speaker { font-size: 0.9375rem; }
+.talk--mini .talk__title { font-size: 0.875rem; }
+.talk--mini .star-btn { top: 2px; right: -6px; }
+
+/* Star button: outline vs filled star (shape, not just colour) */
+.star-btn {
+  position: absolute;
+  top: 4px;
+  right: 4px;
+  width: 44px;
+  height: 44px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 0;
+  border-radius: 50%;
+  background: transparent;
+  color: var(--c-text-muted);
+  font-size: 1.125rem;
+  cursor: pointer;
+  transition: color var(--t-fast), background var(--t-fast), transform var(--t-fast);
+}
+.star-btn:hover { color: var(--sched-now); background: #fdeee9; }
+.star-btn__on { display: none; }
+.star-btn[aria-pressed="true"] { color: var(--sched-now); }
+.star-btn[aria-pressed="true"] .star-btn__on { display: inline; }
+.star-btn[aria-pressed="true"] .star-btn__off { display: none; }
+.star-btn.is-popping { transform: scale(1.3); }
+
+.talk.is-starred:not(.talk--mini), .sched-event.is-starred { border-color: var(--c-coral); box-shadow: 0 0 0 1px var(--c-coral), var(--shadow-sm); }
+.talk--mini.is-starred { background: #fff7f4; }
+
+/* "Now" state */
+.talk.is-now:not(.talk--speed), .sched-event.is-now { border-color: var(--sched-now); box-shadow: 0 0 0 2px var(--sched-now), var(--shadow); }
+.talk--mini.is-now { box-shadow: none; background: #fff3ee; }
+.now-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 1px 8px;
+  border-radius: 999px;
+  background: var(--sched-now);
+  color: white;
+  font-size: 0.6875rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  white-space: nowrap;
+}
+.now-tag::before { content: ""; width: 6px; height: 6px; border-radius: 50%; background: white; }
+.talk__now { margin-bottom: 4px; }
+.talk--mini .talk__now { margin: 2px 0; }
+.now-progress {
+  position: absolute;
+  left: 0; bottom: 0;
+  height: 4px;
+  width: var(--progress, 0%);
+  background: var(--sched-now);
+}
+.talk--mini .now-progress { display: none; }
+
+/* Now-line (Outlook style) */
+.now-line {
+  position: absolute;
+  left: 0; right: 0;
+  height: 0;
+  border-top: 2px solid var(--sched-now);
+  z-index: 5;
+  pointer-events: none;
+}
+.now-line::before {
+  content: "";
+  position: absolute;
+  left: calc(var(--sched-gutter) - 6px);
+  top: -7px;
+  width: 12px; height: 12px;
+  border-radius: 50%;
+  background: var(--sched-now);
+}
+.now-line__label {
+  position: absolute;
+  left: 0;
+  top: -11px;
+  padding: 1px 6px;
+  border-radius: 4px;
+  background: var(--sched-now);
+  color: white;
+  font-size: 0.75rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  line-height: 18px;
+}
+
+/* Whole-conference events --------------------------------------------------- */
+.sched-event {
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+  padding: 14px 48px 14px 14px;
+  border: 1px solid var(--c-border);
+  border-radius: var(--radius);
+  background: white;
+  overflow: hidden;
+}
+.sched-event__icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 38px; height: 38px;
+  border-radius: 50%;
+  background: var(--c-surface);
+  color: var(--c-navy);
+}
+.sched-event__body { min-width: 0; }
+.sched-event__meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 2px 10px;
+  font-size: 0.8125rem;
+  color: var(--c-text-muted);
+  margin-bottom: 2px;
+}
+.sched-event__label {
+  font-size: 0.6875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+.sched-event__title { font-weight: 600; line-height: 1.4; color: var(--c-text); overflow-wrap: anywhere; }
+.sched-event__detail { font-size: 0.875rem; color: var(--c-text-muted); margin-top: 2px; }
+
+.sched-event--plenary, .sched-event--workshop {
+  background: linear-gradient(135deg, var(--c-navy-dark), var(--c-navy-light));
+  border-color: var(--c-navy);
+  color: white;
+}
+.sched-event--plenary .sched-event__icon, .sched-event--workshop .sched-event__icon { background: rgba(255,255,255,0.14); color: white; }
+.sched-event--plenary .sched-event__meta, .sched-event--workshop .sched-event__meta,
+.sched-event--plenary .talk__time, .sched-event--workshop .talk__time { color: rgba(255,255,255,0.85); }
+.sched-event--plenary .sched-event__label, .sched-event--workshop .sched-event__label { color: #ffd2b5; }
+.sched-event--plenary .talk__speaker, .sched-event--workshop .talk__speaker { color: white; font-size: 1.0625rem; }
+.sched-event--plenary .sched-event__title, .sched-event--workshop .sched-event__title { color: white; font-weight: 500; font-size: 1.0625rem; }
+.sched-event--plenary .star-btn, .sched-event--workshop .star-btn { color: rgba(255,255,255,0.75); }
+.sched-event--plenary .star-btn:hover, .sched-event--workshop .star-btn:hover { background: rgba(255,255,255,0.12); color: white; }
+.sched-event--plenary .star-btn[aria-pressed="true"], .sched-event--workshop .star-btn[aria-pressed="true"] { color: #ffb79c; }
+.sched-event--plenary.is-now .now-tag, .sched-event--workshop.is-now .now-tag { background: white; color: var(--sched-now); }
+.sched-event--plenary.is-now .now-tag::before, .sched-event--workshop.is-now .now-tag::before { background: var(--sched-now); }
+.sched-event--plenary .now-progress, .sched-event--workshop .now-progress { background: #ffb79c; }
+
+.sched-event--break { background: var(--c-surface); border-style: dashed; border-color: var(--c-border-dark); padding-top: 10px; padding-bottom: 10px; align-items: center; }
+.sched-event--break .sched-event__icon { background: white; color: var(--c-text-muted); width: 32px; height: 32px; }
+.sched-event--break .sched-event__title { color: var(--c-text-muted); }
+
+.sched-event--social { background: #e9f6f4; border-color: #b9e1db; }
+.sched-event--social .sched-event__icon { background: var(--sched-r2); color: white; }
+
+.sched-event--admin .sched-event__icon { background: #e7eef5; }
+
+/* Now & Next panel ----------------------------------------------------------- */
+.now-panel {
+  margin-bottom: 24px;
+  padding: 16px;
+  border: 1px solid var(--c-border);
+  border-left: 5px solid var(--sched-now);
+  border-radius: var(--radius);
+  background: white;
+  box-shadow: var(--shadow);
+}
+.now-panel__head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px 16px;
+  margin-bottom: 12px;
+}
+.now-panel__clock { display: flex; align-items: center; gap: 8px; font-size: 1.125rem; font-weight: 800; color: var(--c-navy); }
+.now-panel__dot {
+  width: 10px; height: 10px;
+  border-radius: 50%;
+  background: var(--sched-now);
+  animation: sched-pulse 2s ease-in-out infinite;
+}
+@keyframes sched-pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
+.now-panel__grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+.now-panel__col h3 {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--c-text-muted);
+  margin-bottom: 8px;
+}
+.now-panel__list { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
+.now-item {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  padding: 8px 10px;
+  border-radius: var(--radius-sm);
+  background: var(--c-surface);
+  color: var(--c-text);
+  text-decoration: none;
+  line-height: 1.35;
+}
+.now-item:hover { background: #e4ecf3; color: var(--c-text); }
+.now-item__text { min-width: 0; }
+.now-item__speaker { display: block; font-weight: 700; color: var(--c-navy); font-size: 0.9375rem; }
+.now-item__title {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  font-size: 0.875rem;
+}
+.now-item__time { display: block; font-size: 0.75rem; color: var(--c-text-muted); margin-top: 2px; }
+.now-item .fa-solid { width: 24px; text-align: center; color: var(--c-text-muted); padding-top: 3px; }
+.now-panel__none { font-size: 0.9375rem; color: var(--c-text-muted); }
+
+/* Filter results: keep column alignment on wide screens */
+.sched-cell.is-out { visibility: hidden; }
+.sched-mine-actions { margin: 16px 0 4px; }
+.is-flash { animation: sched-flash 1.6s ease-out; }
+@keyframes sched-flash { 0%, 40% { box-shadow: 0 0 0 4px #ffd166; } 100% { box-shadow: none; } }
+
+/* Mobile --------------------------------------------------------------------- */
+@media (max-width: 767px) {
+  .sched-toolbar .container { padding-left: 12px; padding-right: 12px; }
+  .sched-toolbar__inner { gap: 8px; padding-top: 8px; padding-bottom: 8px; }
+  .sched-days { width: 100%; }
+  .sched-days__btn { flex: 1; min-width: 0; min-height: 44px; }
+  .sched-filters { width: 100%; flex-wrap: wrap; gap: 6px; }
+  .sched-rooms { gap: 3px; }
+  .sched-chip-btn__long, .sched-mine__label { display: none; }
+  .sched-rooms .sched-chip-btn[data-room-filter="all"], .sched-chip-btn { padding: 0 9px; font-size: 0.8125rem; }
+
+  /* Search: a magnifier button at the end of the room row. Tapping it (or
+     having a query) opens a full-width row underneath. */
+  .sched-search { order: 1; margin-left: auto; flex: 0 0 44px; min-width: 0; }
+  .sched-search input {
+    width: 44px;
+    padding: 0;
+    color: transparent;
+    caret-color: transparent;
+    cursor: pointer;
+  }
+  .sched-search input::placeholder { color: transparent; }
+  .sched-search .fa-magnifying-glass { left: 15px; font-size: 1rem; color: var(--c-navy); }
+  .sched-search:focus-within,
+  .sched-search.has-q { order: 2; flex: 1 0 100%; margin-left: 0; }
+  .sched-search:focus-within input,
+  .sched-search.has-q input {
+    width: 100%;
+    padding: 0 12px 0 36px;
+    color: var(--c-text);
+    caret-color: auto;
+    cursor: text;
+  }
+  .sched-search:focus-within input::placeholder,
+  .sched-search.has-q input::placeholder { color: var(--c-text-muted); }
+  .sched-search:focus-within .fa-magnifying-glass,
+  .sched-search.has-q .fa-magnifying-glass { left: 13px; color: var(--c-text-muted); }
+  .sched-search.has-q input { border-color: var(--c-navy); }
+
+  .sched-body.container { padding-left: 16px; padding-right: 16px; }
+  .sched-block { margin-left: -8px; margin-right: -8px; padding: 12px 8px 4px; }
+
+  .sched-row,
+  .sched-row--event,
+  .schedule[data-room]:not([data-room="all"]) .sched-row { grid-template-columns: minmax(0, 1fr); gap: 8px; }
+  .sched-row--event .sched-row__time { display: none; }
+  .sched-row--slot .sched-row__time {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding-top: 4px;
+  }
+  .sched-row--slot .sched-row__time::after { content: ""; flex: 1; border-top: 1px solid var(--c-border-dark); }
+  .sched-row--tracks { gap: 6px; }
+  .sched-row--tracks .sched-row__time { display: none; }
+  .track-head { padding: 8px 10px; border-top: 0; border-left: 4px solid var(--c-text-muted); }
+  .track-head[data-room="r1"] { border-left-color: var(--sched-r1); }
+  .track-head[data-room="r2"] { border-left-color: var(--sched-r2); }
+  .track-head[data-room="r3"] { border-left-color: var(--sched-r3); }
+  .sched-cell--empty, .sched-cell.is-out { display: none; }
+  .talk { height: auto; }
+  .sched-row--slot .talk:not(.talk--mini):not(.talk--agm) > .talk__meta .talk__time { display: none; }
+
+  .now-line::before { left: -6px; }
+  .now-line__label { left: auto; right: 0; }
+  .now-panel { padding: 14px 12px; }
+  .now-panel__grid { grid-template-columns: 1fr; }
+  .sched-event { gap: 10px; padding-left: 12px; }
+}
+
+/* Tablet+: column headers name the session, so cards don't repeat it */
+@media (min-width: 768px) {
+  .sched-row--slot .talk:not(.talk--speed):not(.talk--agm):not(.talk--mini) > .talk__meta { display: none; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .now-panel__dot { animation: none; }
+  .star-btn, .sched-row, .talk { transition: none; }
+}
+
+@media print {
+  .sched-toolbar, .now-panel, .star-btn, .now-line, .sched-legend, .now-tag, .now-progress { display: none !important; }
+  .schedule .sched-day[hidden], .schedule .sched-block[hidden], .schedule .sched-cell[hidden], .schedule [data-talk][hidden] { display: block !important; }
+  .schedule .sched-row[hidden] { display: grid !important; }
+  .sched-row { break-inside: avoid; opacity: 1 !important; }
+  .sched-block { background: none; border: 1px solid #ccc; }
+  .talk, .sched-event { box-shadow: none !important; }
+  .sched-event--plenary, .sched-event--workshop { background: none; }
+  .sched-event--plenary *, .sched-event--workshop * { color: black !important; }
+}
+
+
+/* ─── 22b. COMPACT PHONE LAYOUT (All rooms, portrait) ───────────────────────── */
+/* Rooms stay side by side; each card shows just the speaker. Tapping a card
+   expands it (see js/schedule.js: data-expand="slot" opens the whole time slot,
+   data-expand="card" opens only that card). Single-room, search and My talks
+   views keep the full cards. */
+
+.talk__toggle { display: none; }
+.sched-modebar { display: none; }
+
+@media (max-width: 767px) {
+  .sched-modebar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 6px 8px;
+    margin: 12px 0 4px;
+    padding: 8px 10px;
+    border: 1.5px dashed var(--c-border-dark);
+    border-radius: var(--radius);
+    font-size: 0.8125rem;
+    color: var(--c-text-muted);
+  }
+  .sched-modebar .sched-chip-btn { min-height: 36px; font-size: 0.8125rem; }
+
+  /* Grid: time label on its own line, then one column per room */
+  .schedule[data-room="all"]:not(.is-filtering) .sched-row--slot,
+  .schedule[data-room="all"]:not(.is-filtering) .sched-row--tracks {
+    grid-template-columns: repeat(var(--tracks, 3), minmax(0, 1fr));
+    gap: 6px;
+  }
+  .schedule[data-room="all"]:not(.is-filtering) .sched-row--slot .sched-row__time { grid-column: 1 / -1; }
+  .schedule[data-room="all"]:not(.is-filtering) .sched-row--slot .sched-cell {
+    grid-row: 2;
+    grid-column: var(--col, auto);
+    display: flex;
+  }
+  .schedule[data-room="all"]:not(.is-filtering) .sched-row--slot .sched-cell--empty { display: block; }
+  .schedule[data-room="all"]:not(.is-filtering) .sched-cell .talk { flex: 1; min-width: 0; }
+
+  /* Sticky room headers so you can always tell which column is which */
+  .schedule[data-room="all"]:not(.is-filtering) .sched-row--tracks {
+    position: sticky;
+    top: calc(var(--nav-h) + var(--sched-toolbar-h));
+    z-index: 20;
+    margin: 0 -8px 8px;
+    padding: 6px 8px;
+    background: var(--c-surface);
+    border-bottom: 1px solid var(--c-border-dark);
+  }
+  .schedule[data-room="all"]:not(.is-filtering) .track-head {
+    grid-column: var(--col, auto);
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+    padding: 6px 8px;
+    border-left: 0;
+    border-top: 4px solid var(--c-text-muted);
+  }
+  .schedule[data-room="all"]:not(.is-filtering) .track-head[data-room="r1"] { border-top-color: var(--sched-r1); }
+  .schedule[data-room="all"]:not(.is-filtering) .track-head[data-room="r2"] { border-top-color: var(--sched-r2); }
+  .schedule[data-room="all"]:not(.is-filtering) .track-head[data-room="r3"] { border-top-color: var(--sched-r3); }
+  .schedule[data-room="all"]:not(.is-filtering) .track-head .room-chip { width: 22px; height: 22px; font-size: 0.75rem; }
+  .schedule[data-room="all"]:not(.is-filtering) .track-head__meta { display: none; }
+  .schedule[data-room="all"]:not(.is-filtering) .track-head__topic {
+    font-size: 0.75rem;
+    line-height: 1.25;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  /* Collapsed card: speaker name only */
+  .schedule[data-room="all"]:not(.is-filtering) .sched-cell:not(.is-expanded) .talk { padding: 8px 6px 14px 8px; }
+  .schedule[data-room="all"]:not(.is-filtering) .sched-cell:not(.is-expanded) .talk--student { padding-left: 12px; }
+  .schedule[data-room="all"]:not(.is-filtering) .sched-cell:not(.is-expanded) .talk__meta,
+  .schedule[data-room="all"]:not(.is-filtering) .sched-cell:not(.is-expanded) .talk__title,
+  .schedule[data-room="all"]:not(.is-filtering) .sched-cell:not(.is-expanded) .speed-list,
+  .schedule[data-room="all"]:not(.is-filtering) .sched-cell:not(.is-expanded) .star-btn,
+  .schedule[data-room="all"]:not(.is-filtering) .sched-cell:not(.is-expanded) .now-tag__detail { display: none; }
+  .schedule[data-room="all"]:not(.is-filtering) .sched-cell:not(.is-expanded) .talk__speaker {
+    font-size: 0.8125rem;
+    line-height: 1.3;
+    hyphens: auto;
+  }
+  .schedule[data-room="all"]:not(.is-filtering) .sched-cell:not(.is-expanded) .talk--agm .talk__title { display: block; font-size: 0.8125rem; line-height: 1.3; }
+  .schedule[data-room="all"]:not(.is-filtering) .sched-cell:not(.is-expanded) .talk--speed .talk__meta { display: flex; margin: 0; }
+  .schedule[data-room="all"]:not(.is-filtering) .sched-cell:not(.is-expanded) .talk--speed .talk__meta .room-chip,
+  .schedule[data-room="all"]:not(.is-filtering) .sched-cell:not(.is-expanded) .talk--speed .talk__meta .talk__time { display: none; }
+  .schedule[data-room="all"]:not(.is-filtering) .sched-cell:not(.is-expanded) .talk--speed .badge { font-size: 0.6875rem; padding: 2px 6px; }
+  /* Student: keep the cap icon, hide the word visually (still read by screen readers) */
+  .schedule[data-room="all"]:not(.is-filtering) .sched-cell:not(.is-expanded) .badge__text {
+    position: absolute; width: 1px; height: 1px; margin: -1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap;
+  }
+  .schedule[data-room="all"]:not(.is-filtering) .sched-cell:not(.is-expanded) .badge--student { padding: 1px 5px; }
+  .schedule[data-room="all"]:not(.is-filtering) .sched-cell:not(.is-expanded) .talk.is-now { padding-bottom: 14px; }
+
+  /* Saved marker on collapsed cards (filled star = shape, not just colour) */
+  .schedule[data-room="all"]:not(.is-filtering) .sched-cell:not(.is-expanded) .talk.is-starred:not(.talk--mini)::after,
+  .schedule[data-room="all"]:not(.is-filtering) .sched-cell:not(.is-expanded) .talk--speed.has-starred::after {
+    content: "\2605";
+    position: absolute;
+    top: 3px;
+    right: 6px;
+    font-size: 0.8125rem;
+    line-height: 1;
+    color: var(--sched-now);
+  }
+  .schedule[data-room="all"]:not(.is-filtering) .sched-cell:not(.is-expanded) .talk.is-starred:not(.talk--mini) .talk__speaker { padding-right: 14px; }
+  .schedule[data-room="all"]:not(.is-filtering) .sched-cell:not(.is-expanded) .talk--speed.is-now {
+    border-color: var(--sched-now);
+    box-shadow: 0 0 0 2px var(--sched-now), var(--shadow);
+  }
+  .schedule[data-room="all"]:not(.is-filtering) .sched-cell:not(.is-expanded) .talk--speed.is-now .talk__meta::after {
+    content: "Now";
+    margin-left: 6px;
+    padding: 1px 8px;
+    border-radius: 999px;
+    background: var(--sched-now);
+    color: white;
+    font-size: 0.6875rem;
+    font-weight: 700;
+  }
+
+  /* Tap target: button stretched over the card; chevron hints it opens */
+  .schedule[data-room="all"]:not(.is-filtering) .talk__toggle {
+    display: block;
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    z-index: 2;
+    border: 0;
+    background: transparent;
+    cursor: pointer;
+    -webkit-tap-highlight-color: rgba(13, 59, 102, 0.12);
+  }
+  .schedule[data-room="all"]:not(.is-filtering) .talk__toggle::after {
+    content: "\25BE";
+    position: absolute;
+    right: 6px;
+    bottom: 2px;
+    font-size: 0.875rem;
+    line-height: 1;
+    color: var(--c-text-muted);
+  }
+  .schedule[data-room="all"]:not(.is-filtering) .talk__toggle[aria-expanded="true"] {
+    inset: auto 0 0 auto;
+    width: 56px;
+    height: 36px;
+  }
+  .schedule[data-room="all"]:not(.is-filtering) .talk__toggle[aria-expanded="true"]::after { content: "\25B4"; right: 12px; bottom: 6px; font-size: 1rem; }
+  .schedule[data-room="all"]:not(.is-filtering) .sched-cell.is-expanded .star-btn { z-index: 3; }
+  .schedule[data-room="all"]:not(.is-filtering) .sched-cell.is-expanded .talk { padding-bottom: 28px; }
+
+  /* Expanded, whole time slot: all rooms stack, full cards */
+  .schedule[data-room="all"][data-expand="slot"]:not(.is-filtering) .sched-row--slot.is-open { grid-template-columns: minmax(0, 1fr); }
+  .schedule[data-room="all"][data-expand="slot"]:not(.is-filtering) .sched-row--slot.is-open .sched-cell {
+    grid-row: auto;
+    grid-column: 1 / -1;
+  }
+  .schedule[data-room="all"][data-expand="slot"]:not(.is-filtering) .sched-row--slot.is-open .sched-cell--empty { display: none; }
+
+  /* Expanded, one card: it drops below the row at full width, the others stay put */
+  .schedule[data-room="all"][data-expand="card"]:not(.is-filtering) .sched-cell.is-expanded {
+    grid-row: 3;
+    grid-column: 1 / -1;
+  }
+}
+
+@media (max-width: 767px) {
+  /* leave room for the sticky room headers when jumping to a talk */
+  .schedule[data-room="all"]:not(.is-filtering) [id^="t-"] { scroll-margin-top: calc(var(--nav-h) + var(--sched-toolbar-h) + 110px); }
+}
+
+/* "Get me there" drop-down on social events ---------------------------------- */
+.sched-where { margin-top: 10px; }
+.sched-where summary {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 44px;
+  padding: 0 16px;
+  border: 1.5px solid currentColor;
+  border-radius: 999px;
+  font-weight: 700;
+  font-size: 0.9375rem;
+  cursor: pointer;
+  list-style: none;
+}
+.sched-where summary::-webkit-details-marker { display: none; }
+.sched-where summary::after { content: "\25BE"; }
+.sched-where[open] summary::after { content: "\25B4"; }
+.sched-where__body { margin-top: 10px; padding: 12px; border-radius: var(--radius); background: var(--c-surface); color: var(--c-text); }
+.sched-where__addr { margin: 0 0 10px; font-size: 0.9375rem; }
+.sched-where__btns { display: flex; flex-wrap: wrap; gap: 8px; }
+@media print { .sched-where { display: none; } }
+
+/* Featured events: tea / lunch, socials and the closing stand out ------------ */
+.sched-event--feat { border-width: 2px; border-style: solid; align-items: center; padding-top: 14px; padding-bottom: 14px; }
+.sched-event--feat .sched-event__title { font-weight: 800; font-size: 1.125rem; }
+.sched-event--feat .talk__time { font-weight: 700; }
+.sched-event--feat-social .talk__time, .sched-event--feat-closing .talk__time { color: #000; }
+.sched-event--feat .sched-event__icon { width: 44px; height: 44px; font-size: 1.125rem; }
+
+.sched-event--feat-meal { background: #fde3c4; border-color: #d9822b; }
+.sched-event--feat-meal .sched-event__icon { background: #b35a0b; color: #fff; }
+.sched-event--feat-meal .sched-event__title { color: #5a2c04; }
+.sched-event--feat-meal .sched-event__meta { color: #7a3f08; }
+
+.sched-event--feat-social { background: #1f7a6f; border-color: #14584f; color: #fff; }
+.sched-event--feat-social .sched-event__icon { background: rgba(255,255,255,0.2); color: #fff; }
+.sched-event--feat-social .sched-event__title, .sched-event--feat-social .sched-event__meta,
+.sched-event--feat-social .sched-event__detail { color: #fff; }
+.sched-event--feat-social .sched-where summary { color: #fff; }
+
+.sched-event--feat-closing { background: #b83f24; border-color: #8f2f19; color: #fff; }
+.sched-event--feat-closing .sched-event__icon { background: rgba(255,255,255,0.2); color: #fff; }
+.sched-event--feat-closing .sched-event__title, .sched-event--feat-closing .sched-event__meta { color: #fff; }
+
+.sched-event--feat-social.is-now .now-tag, .sched-event--feat-closing.is-now .now-tag { background: #fff; color: var(--sched-now); }
+@media print {
+  .sched-event--feat-social, .sched-event--feat-closing { background: none; }
+  .sched-event--feat-social *, .sched-event--feat-closing * { color: black !important; }
+}
+
+/* Programme: choose interactive or PDF --------------------------------------- */
+.programme-choice { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; margin: 20px 0 28px; }
+.programme-choice__card {
+  display: flex; flex-direction: column; gap: 6px; padding: 20px;
+  border: 2px solid var(--c-border-dark); border-radius: var(--radius); background: white;
+  color: var(--c-text); text-decoration: none; box-shadow: var(--shadow-sm);
+  transition: border-color var(--t-fast), box-shadow var(--t-fast), transform var(--t-fast);
+}
+.programme-choice__card:hover { border-color: var(--c-navy); box-shadow: var(--shadow); transform: translateY(-2px); color: var(--c-text); }
+.programme-choice__icon { font-size: 1.75rem; color: var(--c-navy); }
+.programme-choice__card:nth-child(2) .programme-choice__icon { color: var(--c-coral); }
+.programme-choice__title { font-size: 1.25rem; font-weight: 800; color: var(--c-navy); }
+.programme-choice__text { color: var(--c-text-muted); line-height: 1.5; }
+.programme-choice__cta { margin-top: auto; padding-top: 8px; font-weight: 700; color: var(--c-navy); }
+.sched-pdf { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; margin: 0 0 12px; font-size: 0.9375rem; color: var(--c-text-muted); }
+@media print { .sched-pdf { display: none; } }
+
+/* Draft banner (hidden pages such as /draft_schedule) ------------------------ */
+.draft-banner {
+  display: flex; flex-wrap: wrap; gap: 4px 16px; align-items: center; justify-content: center;
+  padding: 10px 16px; text-align: center; font-weight: 600; font-size: 0.9375rem; line-height: 1.35;
+  background: repeating-linear-gradient(-45deg, #ffd23f 0 14px, #f2c200 14px 28px);
+  color: #1a1300; border-bottom: 3px solid #1a1300;
+}
+.draft-banner strong { font-size: 1rem; text-transform: uppercase; letter-spacing: 0.08em; background: #1a1300; color: #ffd23f; padding: 3px 10px; border-radius: 3px; }
