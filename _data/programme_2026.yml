@@ -1,0 +1,1418 @@
+# GENERATED FILE - do not edit by hand.
+# Edit the programme spreadsheet (and scripts/programme_overrides.yml), then run:
+#   python scripts/programme_from_xlsx.py "<spreadsheet>.xlsx"
+
+conference: Evolution in the Gong 2026
+year: 2026
+timezone: Australia/Sydney
+pdf: /docs/2026/test.pdf
+updated: '2026-11-10'
+source: EVOLUTION_IN_THE_GONG_PROGRAM_V4.xlsx
+days:
+- date: '2026-12-01'
+  label: Tuesday 1 December
+  short: Tue 1
+  items:
+  - type: workshop
+    label: Pre-conference workshop
+    title: Introduction to Phylogenomics
+    start: "13:00"
+    end: "17:00"
+    location: 'Building 43: Room XX'
+    id: 20261201-x-1300
+- date: '2026-12-02'
+  label: Wednesday 2 December
+  short: Wed 2
+  items:
+  - type: admin
+    title: Registration open (continued during breaks until lunch time)
+    start: "08:30"
+    location: Room 1
+    end: "08:50"
+    id: 20261202-x-0830
+  - type: admin
+    title: Welcome to Evolution in the Gong (Damien Esquerré &amp; Nikolas Johnston). Acknowledgement of Country
+    start: "08:50"
+    location: Room 1
+    end: "09:10"
+    id: 20261202-x-0850
+  - type: plenary
+    label: Plenary
+    speaker: Prof Phil Byrne
+    title: 'The evolution of polyandry: causes and consequences'
+    start: "09:10"
+    location: Room 1
+    end: "10:00"
+    id: 20261202-x-0910
+  - type: break
+    title: Morning tea
+    start: "10:00"
+    location: Room 1
+    end: "10:30"
+    id: 20261202-x-1000
+  - type: parallel
+    start: "10:30"
+    end: "12:15"
+    tracks:
+    - room: Room 1
+      rid: r1
+      topic: Genomic evolution
+      chair: Ethan Briggs
+      items:
+      - kind: talk
+        start: "10:30"
+        speaker: Maxim Adams
+        title: Uncovering thousands of endosymbiont DNA transfer events within single cockroach genomes
+        student: true
+        end: "10:45"
+        id: 20261202-r1-1030
+      - kind: talk
+        start: "10:45"
+        speaker: Ethan Briggs
+        title: Investigating spider genome evolution with a new chromosome-level tarantula genome
+        student: true
+        end: "11:00"
+        id: 20261202-r1-1045
+      - kind: talk
+        start: "11:00"
+        speaker: Rhiannon Schembri
+        title: Using linked reads to understand the evolution of chromosome inversions in Australian finches
+        student: true
+        end: "11:15"
+        id: 20261202-r1-1100
+      - kind: talk
+        start: "11:15"
+        speaker: Alex Sotiropoulos
+        title: The genome evolution of the black root rot (<em>Berkeleyomyces</em>) fungi is shaped by repeat-induced point mutations
+        end: "11:30"
+        id: 20261202-r1-1115
+      - kind: talk
+        start: "11:30"
+        speaker: Joshua Thia
+        title: 'Let''s talk about sex (determination loci): Genomic insights from three Aphidiinae parasitoid wasps'
+        end: "11:45"
+        id: 20261202-r1-1130
+      - kind: talk
+        start: "11:45"
+        speaker: James Bickerstaff
+        title: Convergent genome evolution underpins the repeated evolution of the ambrosia symbiosis in beetles
+        end: "12:00"
+        id: 20261202-r1-1145
+      - kind: talk
+        start: "12:00"
+        speaker: Thomas Schmidt
+        title: Evolutionary genomics of a natural <em>Wolbachia</em> superinfection in the dengue mosquito Aedes albopictus
+        end: "12:15"
+        id: 20261202-r1-1200
+    - room: Room 2
+      rid: r2
+      topic: Phylogenetics and comparative methods
+      chair: Rob Lanfear (TBC)
+      items:
+      - kind: talk
+        start: "10:30"
+        speaker: Changsen Jiang
+        title: A bias in a popular phylogenetic model
+        student: true
+        end: "10:45"
+        id: 20261202-r2-1030
+      - kind: talk
+        start: "10:45"
+        speaker: Joshua Rowe
+        title: Nested Phylogenetic Collector Curves Reflect Occupancy Structure Analogous to Spatial Relationships
+        student: true
+        end: "11:00"
+        id: 20261202-r2-1045
+      - kind: talk
+        start: "11:00"
+        speaker: Kira Lowe
+        title: 'oliveTree: An R Package for Human-Readable Ancestral Change Data and Annotated Phylogenetic Trees'
+        student: true
+        end: "11:15"
+        id: 20261202-r2-1100
+      - kind: talk
+        start: "11:15"
+        speaker: Simone Blomberg
+        title: 'The filling of trait space: what can we learn from evolutionary stochastic processes on trees?'
+        end: "11:30"
+        id: 20261202-r2-1115
+      - kind: talk
+        start: "11:30"
+        speaker: Manuela Cascini
+        title: Evolutionary rates in living fossils across the Tree of Life
+        end: "11:45"
+        id: 20261202-r2-1130
+      - kind: talk
+        start: "11:45"
+        speaker: Jordan Douglas
+        title: Influence of the climate on molecular evolutionary rates in flowering plants (Proteaceae)
+        end: "12:00"
+        id: 20261202-r2-1145
+      - kind: talk
+        start: "12:00"
+        speaker: Simon Ho
+        title: The tempo and mode of molecular and morphological evolution
+        end: "12:15"
+        id: 20261202-r2-1200
+    - room: Room 3
+      rid: r3
+      topic: Systematics and evolution
+      chair: Nik Johnston
+      items:
+      - kind: talk
+        start: "10:30"
+        speaker: Julian Brown
+        title: Exploring the under-studied diversity of Australian tephritid fruit fly parasitoids with genomics
+        student: true
+        end: "10:45"
+        id: 20261202-r3-1030
+      - kind: talk
+        start: "10:45"
+        speaker: Liam Foley
+        title: Uncovering Australia's hidden radiation of endemic cluster flies through integrative museomics
+        student: true
+        end: "11:00"
+        id: 20261202-r3-1045
+      - kind: talk
+        start: "11:00"
+        speaker: Encui Wang
+        title: Integrative systematics reveals hidden diversity in the parasitic <em>Calliphora flexipenis</em> species-group of Australian Calliphorinae
+        student: true
+        end: "11:15"
+        id: 20261202-r3-1100
+      - kind: talk
+        start: "11:15"
+        speaker: Perry Beasley-Hall
+        title: 'Aola Richards: a trailblazing entomologist with a "creepy" cave cricket legacy'
+        end: "11:30"
+        id: 20261202-r3-1115
+      - kind: talk
+        start: "11:30"
+        speaker: Rosalyn Gloag
+        title: Mito-nuclear divergence and barrier loci in the hybrid zones of Australian stingless bees
+        end: "11:45"
+        id: 20261202-r3-1130
+      - kind: talk
+        start: "11:45"
+        speaker: Mengjie Jin
+        title: 'Phylogeny of Australian Heliozelidae (Lepidoptera: Adeloidea)'
+        end: "12:00"
+        id: 20261202-r3-1145
+      - kind: talk
+        start: "12:00"
+        speaker: Taia Artemov
+        title: Developing AI assisted methods for monitoring insect biodiversity
+        end: "12:15"
+        id: 20261202-r3-1200
+  - type: break
+    title: Lunch
+    start: "12:15"
+    end: "13:15"
+    id: 20261202-x-1215
+  - type: parallel
+    start: "13:15"
+    end: "15:00"
+    tracks:
+    - room: Room 1
+      rid: r1
+      topic: Genomic evolution and landscape genetics
+      chair: Putter Tiatragul
+      items:
+      - kind: talk
+        start: "13:15"
+        speaker: Maddison Teys
+        title: Uncovering the genomics and spatial patterns of <em>Pharohylaeus lactiferus</em>
+        student: true
+        end: "13:30"
+        id: 20261202-r1-1315
+      - kind: talk
+        start: "13:30"
+        speaker: Felix James
+        title: 'Rare but promising: Resistance to myrtle rust and genetic diversity in a declining paperbark support assisted evolution'
+        student: true
+        end: "13:45"
+        id: 20261202-r1-1330
+      - kind: talk
+        start: "13:45"
+        speaker: Hafiza Sehrish Kiani
+        title: 'Eco-Evolutionary Dynamics of the Duckweed Microbiome: Towards a Self-Sustaining Ecosystem'
+        student: true
+        end: "14:00"
+        id: 20261202-r1-1345
+      - kind: talk
+        start: "14:00"
+        speaker: Tahlia Fulton
+        title: 'Beyond detoxification: the impact of insecticide resistance on nutrient aquisition'
+        end: "14:15"
+        id: 20261202-r1-1400
+      - kind: talk
+        start: "14:15"
+        speaker: Katarina Stuart
+        title: 'Concordant landscape patterns of population demography and genetic diversity: links to fitness across restoration-relevant species'
+        end: "14:30"
+        id: 20261202-r1-1415
+      - kind: talk
+        start: "14:30"
+        speaker: Renee Firman
+        title: Genomic signatures of Pleistocene climatic fluctuation in Australian pebble mound mice
+        end: "14:45"
+        id: 20261202-r1-1430
+      - kind: talk
+        start: "14:45"
+        speaker: Christopher Friesen
+        title: 'Stuck in the middle: phenotypes, genome and geography in the painted dragon (<em>Ctenophorus pictus</em>)'
+        end: "15:00"
+        id: 20261202-r1-1445
+    - room: Room 2
+      rid: r2
+      topic: Phylogenetics and macro-evolution
+      chair: Juanita Rodriguez (TBC)
+      items:
+      - kind: talk
+        start: "13:15"
+        speaker: Kamryn Carter
+        title: 'Freaky frogday: phylogenomics explains evolution and introgression in a complex of Australian toadlets'
+        student: true
+        end: "13:30"
+        id: 20261202-r2-1315
+      - kind: talk
+        start: "13:30"
+        speaker: Giorgio Muneretto
+        title: Exploring the genomic, phylogeographic and adaptive landscapes of the native shrub <em>Calothamnus quadrifidus</em>
+        student: true
+        end: "13:45"
+        id: 20261202-r2-1330
+      - kind: talk
+        start: "13:45"
+        speaker: Maha Yudha Samawi
+        title: Reconstructing the Biogeographic History of White-Toothed Shrews (<em>Crocidura</em> Wagler 1832) in the Indo-Australian Archipelago
+        student: true
+        end: "14:00"
+        id: 20261202-r2-1345
+      - kind: talk
+        start: "14:00"
+        speaker: Consolata Nanjala
+        title: Unravelling the evolutionary history of the hyperdiverse genus <em>Bulbophyllum</em> (Orchidaceae) in Southeast Asia and Australasia
+        student: true
+        end: "14:15"
+        id: 20261202-r2-1400
+      - kind: talk
+        start: "14:15"
+        speaker: Hayden Jones
+        title: Signals of hybrid speciation in the genus <em>Anigozanthos</em>
+        student: true
+        end: "14:30"
+        id: 20261202-r2-1415
+      - kind: talk
+        start: "14:30"
+        speaker: Lyn Cook
+        title: 'Macs tracks: debogging the history of Stuart''s Central Australian "palm"'
+        end: "14:45"
+        id: 20261202-r2-1430
+      - kind: talk
+        start: "14:45"
+        speaker: Millicent Oulo
+        title: Phylogenomic and evolutionary analysis of Sword sedges (<em>Lepidosperma</em>)
+        end: "15:00"
+        id: 20261202-r2-1445
+    - room: Room 3
+      rid: r3
+      topic: Plasticity and development
+      chair: Lee Rollins (TBC)
+      items:
+      - kind: talk
+        start: "13:15"
+        speaker: Kyungwoon Min
+        title: What is the effect of nutritionally modified larval condition on adult lifespan in <em>Drosophila melanogaster</em>??
+        student: true
+        end: "13:30"
+        id: 20261202-r3-1315
+      - kind: talk
+        start: "13:30"
+        speaker: Harry Mortimer
+        title: 'Forms in Flow: Spatial and temporal plasticity in body shape between and within wild arid fish populations'
+        student: true
+        end: "13:45"
+        id: 20261202-r3-1330
+      - kind: talk
+        start: "13:45"
+        speaker: Aidan Stuckey
+        title: 'pleiotropy or modularity: genomic architecture of body shape plasticity'
+        student: true
+        end: "14:00"
+        id: 20261202-r3-1345
+      - kind: talk
+        start: "14:00"
+        speaker: Eva Sulkova
+        title: How does combined thermal-nutritional stress affect wing and ovary development and associated life-history traits in <em>Drosophila melanogaster</em>
+        student: true
+        end: "14:15"
+        id: 20261202-r3-1400
+      - kind: talk
+        start: "14:15"
+        speaker: Andre Nogueira Alves
+        title: Why won't it fix? The mystery of the <em>Cyp6g1</em> polymorphism
+        end: "14:30"
+        id: 20261202-r3-1415
+      - kind: talk
+        start: "14:30"
+        speaker: Hayley Cameron
+        title: Re-evaluating the evidence for transgenerational plasticity
+        end: "14:45"
+        id: 20261202-r3-1430
+      - kind: talk
+        start: "14:45"
+        speaker: Matthew Piper
+        title: The way nutrition shapes <em>Drosophila</em> life histories
+        end: "15:00"
+        id: 20261202-r3-1445
+  - type: break
+    title: Afternoon tea
+    start: "15:00"
+    end: "15:30"
+    id: 20261202-x-1500
+  - type: parallel
+    start: "15:30"
+    end: "17:15"
+    tracks:
+    - room: Room 1
+      rid: r1
+      topic: Micro-evolution
+      chair: Ondi Crino (TBC)
+      items:
+      - kind: talk
+        start: "15:30"
+        speaker: Jonas Courtalon
+        title: 'Benign but not harmless: tumours hinder fitness-related performance and competitiveness in a predatory freshwater planarian'
+        student: true
+        end: "15:45"
+        id: 20261202-r1-1530
+      - kind: talk
+        start: "15:45"
+        speaker: Grace Day
+        title: 'Characterisation of Major Histocompatibility Complex Class I and Class II inBurrunan Dolphins (<em>Tursiops australis</em>): Evidence for Genetic Erosion and Putative Novelty'
+        student: true
+        end: "16:00"
+        id: 20261202-r1-1545
+      - kind: talk
+        start: "16:00"
+        speaker: Anuk Jayasinghe
+        title: Mitochondrial Genetic effects on <em>Wolbachia</em> Fitness Traits in <em>Drosophila melanogaster</em>.
+        student: true
+        end: "16:15"
+        id: 20261202-r1-1600
+      - kind: talk
+        start: "16:15"
+        speaker: Robert Laird
+        title: Linking parental age, offspring fitness, and population dynamics in an aquatic plant
+        end: "16:30"
+        id: 20261202-r1-1615
+      - kind: talk
+        start: "16:30"
+        speaker: Jan Engelstaedter
+        title: Quantifying the mutational spectrum of antibiotic resistance
+        end: "16:45"
+        id: 20261202-r1-1630
+      - kind: talk
+        start: "16:45"
+        speaker: Matt Hall
+        title: Hotter, faster, sicker? Warming shifts the cost of infection from individuals to populations
+        end: "17:00"
+        id: 20261202-r1-1645
+    - room: Room 2
+      rid: r2
+      topic: Morphological and trait evolution
+      chair: Perry Beasley-Hall (TBC)
+      items:
+      - kind: talk
+        start: "15:30"
+        speaker: David Brito
+        title: Diet, not soil properties, explains morphological diversification in Australian fossorial elapids
+        student: true
+        end: "15:45"
+        id: 20261202-r2-1530
+      - kind: talk
+        start: "15:45"
+        speaker: Cameron Dodd
+        title: Convergent cochlea morphology as a signal of arid adaptation in the Sminthopsinae
+        student: true
+        end: "16:00"
+        id: 20261202-r2-1545
+      - kind: talk
+        start: "16:00"
+        speaker: Danelle van den Berg
+        title: The evolutionary link between diet and habitat choice in Australian marsupials
+        student: true
+        end: "16:15"
+        id: 20261202-r2-1600
+      - kind: talk
+        start: "16:15"
+        speaker: Guoyi Zhang
+        title: 'When shell mathematical model meets phylogenomics: adaptive evolution in Australian camaenid land snails'
+        student: true
+        end: "16:30"
+        id: 20261202-r2-1615
+      - kind: talk
+        start: "16:30"
+        speaker: Daniel Hoops
+        title: Neuroanatomical variation in snakes
+        end: "16:45"
+        id: 20261202-r2-1630
+      - kind: talk
+        start: "16:45"
+        speaker: Nikolas Johnston
+        title: Colour evolution in Australian blowflies
+        end: "17:00"
+        id: 20261202-r2-1645
+      - kind: talk
+        start: "17:00"
+        speaker: Christen Mirth
+        title: Genetic variation in body size traits across environments
+        end: "17:15"
+        id: 20261202-r2-1700
+    - room: Room 3
+      rid: r3
+      topic: Behaviour
+      chair: Martin Whitting (TBC)
+      items:
+      - kind: talk
+        start: "15:30"
+        speaker: Yuxin Hou
+        title: 'Evolutionary history of brood-parasitic bronze-cuckoos: towards testing cospeciation with their hosts'
+        student: true
+        end: "15:45"
+        id: 20261202-r3-1530
+      - kind: talk
+        start: "15:45"
+        speaker: Maddison Howie
+        title: 'Evolving escape: the genetic basis of antipredator behaviour in an Australian threatened bird, the Hooded Plover'
+        student: true
+        end: "16:00"
+        id: 20261202-r3-1545
+      - kind: talk
+        start: "16:00"
+        speaker: Caleb Wellard
+        title: 'Keeping time to hatch: impacts of rhythmic light and temperature cues on gene expression and hatch timing in chicks'
+        student: true
+        end: "16:15"
+        id: 20261202-r3-1600
+      - kind: talk
+        start: "16:15"
+        speaker: Yuxuan Zhao
+        title: Comparative Analyses Reveal Attenuation of Circadian Organisation in Australian Subterranean Diving Beetles
+        student: true
+        end: "16:30"
+        id: 20261202-r3-1615
+      - kind: talk
+        start: "16:30"
+        speaker: Ewan Auld
+        title: 'Calling against the clock: amphibian chytrid fungus infection effects calling investment in male Brown Toadlets (<em>Pseudophryne bibronii</em>)'
+        student: true
+        end: "16:45"
+        id: 20261202-r3-1630
+      - kind: talk
+        start: "16:45"
+        speaker: Tsering Chan
+        title: Sex-Specific responses to lungworm infection in cane toads
+        student: true
+        end: "17:00"
+        id: 20261202-r3-1645
+      - kind: talk
+        start: "17:00"
+        speaker: Evie Cotterill
+        title: Intergenerational effects of bisphenol S on movement and reproduction at different temperatures in zebrafish
+        end: "17:15"
+        id: 20261202-r3-1700
+  - type: social
+    title: Welcome mixer at UniBar
+    start: "17:15"
+    end: "18:15"
+    open_end: true
+    id: 20261202-x-1715
+- date: '2026-12-03'
+  label: Thursday 3 December
+  short: Thu 3
+  items:
+  - type: admin
+    title: Housekeeping address
+    start: "08:40"
+    location: Room 1
+    end: "09:00"
+    id: 20261203-x-0840
+  - type: plenary
+    label: Plenary
+    speaker: Dr Ian Brennan
+    title: Patterns and chance in the radiation of Australian animals
+    start: "09:00"
+    location: Room 1
+    end: "09:50"
+    id: 20261203-x-0900
+  - type: break
+    title: Morning tea
+    start: "09:50"
+    location: Room 1
+    end: "10:20"
+    id: 20261203-x-0950
+  - type: plenary
+    label: PhD Award Plenary
+    speaker: Dr Li "Living" Yun
+    title: 'Endless forms most charming: ecomorphological diversification of beetles'
+    start: "10:20"
+    location: Room 1
+    end: "11:05"
+    id: 20261203-x-1020
+  - type: parallel
+    start: "11:05"
+    end: "12:20"
+    tracks:
+    - room: Room 1
+      rid: r1
+      topic: Theoretical evolution and big ideas
+      chair: Alistair Senior (TBC)
+      items:
+      - kind: talk
+        start: "11:05"
+        speaker: William (Bill) Sherwin
+        title: 'Pan-Evo: The Evolution of Information and Biology''s Part in This.'
+        student: true
+        end: "11:20"
+        id: 20261203-r1-1105
+      - kind: talk
+        start: "11:20"
+        speaker: Disha Chaudhary
+        title: Molecular dynamics of co-evolution in experimental populations.
+        student: true
+        end: "11:35"
+        id: 20261203-r1-1120
+      - kind: talk
+        start: "11:35"
+        speaker: Jack Price
+        title: Simulating the effects of complexity in genetic architecture on evolution
+        student: true
+        end: "11:50"
+        id: 20261203-r1-1135
+      - kind: talk
+        start: "11:50"
+        speaker: Alistair Senior
+        title: Scientists (i.e., me) say this simple diet trick could knock 4 years off your biological clock in just 4 weeks!
+        end: "12:05"
+        id: 20261203-r1-1150
+      - kind: talk
+        start: "12:05"
+        speaker: Jodi Edwards
+        title: 'Before Time There Was Story: The Foundations of Indigenous Cultural Marine Science'
+        end: "12:20"
+        id: 20261203-r1-1205
+    - room: Room 2
+      rid: r2
+      topic: Venom evolution
+      chair: Damien Esquerré
+      items:
+      - kind: talk
+        start: "11:05"
+        speaker: Katherine Jordan
+        title: Variation in the clotting strength of brown snake (<em>Pseudonaja</em>) venom and implications for antivenom efficacy
+        student: true
+        end: "11:20"
+        id: 20261203-r2-1105
+      - kind: talk
+        start: "11:20"
+        speaker: Felipe Triana
+        title: Tracing the macroevolutionary pathway of venom composition in Viperidae
+        student: true
+        end: "11:35"
+        id: 20261203-r2-1120
+      - kind: talk
+        start: "11:35"
+        speaker: Navaneel Sarangi
+        title: A Toxic Arsenal - Evolutionary underpinnings of venom composition in snakes
+        student: true
+        end: "11:50"
+        id: 20261203-r2-1135
+      - kind: talk
+        start: "11:50"
+        speaker: Juanita Rodriguez
+        title: Uncovering the evolution of spider wasp venoms from fresh and museum specimens
+        end: "12:05"
+        id: 20261203-r2-1150
+      - kind: talk
+        start: "12:05"
+        speaker: Andrew Walker
+        title: Genome of venomous caterpillar <em>Doratifera vulnerans</em> reveals recruitment of immune peptides and their adaptation as pain-inducing toxins
+        end: "12:20"
+        id: 20261203-r2-1205
+    - room: Room 3
+      rid: r3
+      topic: Microbial evolution
+      chair: Bethany Hoye (TBC)
+      items:
+      - kind: talk
+        start: "11:05"
+        speaker: Divyangi Pandit
+        title: 'Hook, Line, and Swimmer!: Investigating the evolution of the bacterial flagellar filament proteins'
+        student: true
+        end: "11:20"
+        id: 20261203-r3-1105
+      - kind: talk
+        start: "11:20"
+        speaker: Jasmine Saghafifar
+        title: Profile-mixture models for viral protein evolution
+        student: true
+        end: "11:35"
+        id: 20261203-r3-1120
+      - kind: talk
+        start: "11:35"
+        speaker: Ryan O'Donnell
+        title: 'The Tightrope Hypothesis: Reconsidering the orchid mycorrhizal ''symbiosis'' as a controlled plant-pathogen interaction'
+        student: true
+        end: "11:50"
+        id: 20261203-r3-1135
+      - kind: talk
+        start: "11:50"
+        speaker: Alvaro Conca Esquembre
+        title: 'Captivity leaves a microbial footprint: the gut microbiome of the Lord Howe Island stick insect'
+        student: true
+        end: "12:05"
+        id: 20261203-r3-1150
+      - kind: talk
+        start: "12:05"
+        speaker: Bethany Hoye
+        title: Bacterial pathogen evolution in an era of global change
+        end: "12:20"
+        id: 20261203-r3-1205
+  - type: break
+    title: Lunch
+    start: "12:20"
+    end: "13:15"
+    id: 20261203-x-1220
+  - type: parallel
+    start: "13:15"
+    end: "15:00"
+    tracks:
+    - room: Room 1
+      rid: r1
+      topic: Adaptation and natural selection
+      chair: Alistair Senior (TBC)
+      items:
+      - kind: talk
+        start: "13:15"
+        speaker: Xinyi Liu
+        title: 'The Effects of Micro-plastics on the Fitness of Marine Animals: a Meta-analysis'
+        student: true
+        end: "13:30"
+        id: 20261203-r1-1315
+      - kind: talk
+        start: "13:30"
+        speaker: Adi Nugroho
+        title: Adaptive variants show stronger a genetic diversity area relationship than neutral variants in rusa deer (<em>Cervus timorensis</em>) introduced populations
+        student: true
+        end: "13:45"
+        id: 20261203-r1-1330
+      - kind: talk
+        start: "13:45"
+        speaker: Ting Yin
+        title: Understanding adaptive patterns in Alpine ash (<em>Eucalyptus delegatensis</em>) in a changing climate
+        student: true
+        end: "14:00"
+        id: 20261203-r1-1345
+      - kind: talk
+        start: "14:00"
+        speaker: Chandler Tsz To Tsang
+        title: 'Epigenetic mechanism of thermal acclimation: acclimation of performance is decoupled from reproductive fitness'
+        student: true
+        end: "14:15"
+        id: 20261203-r1-1400
+      - kind: talk
+        start: "14:15"
+        speaker: Jade Kannangara
+        title: 'More than a powerhouse: Unravelling the Mitochondrial Role in Climate Adaptation'
+        end: "14:30"
+        id: 20261203-r1-1415
+      - kind: talk
+        start: "14:30"
+        speaker: Carla Sgro
+        title: Climatic adaptation and species' ranges
+        end: "14:45"
+        id: 20261203-r1-1430
+      - kind: talk
+        start: "14:45"
+        speaker: Brooke Zanco
+        title: Does mother know best? Evolutionary narrowing of biotic interactions due to climate change could compromise future population resilience in a UK butterfly
+        end: "15:00"
+        id: 20261203-r1-1445
+    - room: Room 2
+      rid: r2
+      topic: Speciation, species delimitation and systematics
+      chair: Stephen Zozaya (TBC)
+      items:
+      - kind: talk
+        start: "13:15"
+        speaker: Naomi Laven
+        title: 'The clone wars: physiological consequences of mitonuclear discordance in hybrid parthenogens'
+        student: true
+        end: "13:30"
+        id: 20261203-r2-1315
+      - kind: talk
+        start: "13:30"
+        speaker: Reilly Seet
+        title: Insect-microbe symbiosis as a driver of speciation in Australian stingless bees
+        student: true
+        end: "13:45"
+        id: 20261203-r2-1330
+      - kind: talk
+        start: "13:45"
+        speaker: Jenny Wang
+        title: 'Species boundaries and drivers of evolution in a species complex of fairy wrasses (Labridae: <em>Cirrhilabrus</em>)'
+        student: true
+        end: "14:00"
+        id: 20261203-r2-1345
+      - kind: talk
+        start: "14:00"
+        speaker: Jackson Rendall
+        title: Population genomics and connectivity in a jarrah forest endemic trapdoor spider
+        student: true
+        end: "14:15"
+        id: 20261203-r2-1400
+      - kind: talk
+        start: "14:15"
+        speaker: Felipe Lin
+        title: 'Dual mitochondrial capture shaped mito-nuclear discordance in sky-island skinks (Scincidae: <em>Sphenomorphus</em>)'
+        end: "14:30"
+        id: 20261203-r2-1415
+      - kind: talk
+        start: "14:30"
+        speaker: Patricia Lu-Irving
+        title: Invasive lantana in Australia comprises multiple taxa and hybrids
+        end: "14:45"
+        id: 20261203-r2-1430
+      - kind: talk
+        start: "14:45"
+        speaker: Stephen Zozaya
+        title: Underestimating admixture is easy
+        end: "15:00"
+        id: 20261203-r2-1445
+    - room: Room 3
+      rid: r3
+      topic: Sexual selection
+      chair: Keith Bayless (TBC)
+      items:
+      - kind: talk
+        start: "13:15"
+        speaker: Incheol Shin
+        title: Is bigger better? The evolution and function of exaggerated weapons in bulb mites
+        student: true
+        end: "13:30"
+        id: 20261203-r3-1315
+      - kind: talk
+        start: "13:30"
+        speaker: Lachlan King
+        title: Sexual dimorphism of mutational effects for <em>Drosophila</em> wing shape
+        student: true
+        end: "13:45"
+        id: 20261203-r3-1330
+      - kind: talk
+        start: "13:45"
+        speaker: Aadhi Ramkumar
+        title: Cloaked in Darkness - Melanisation as a signal
+        student: true
+        end: "14:00"
+        id: 20261203-r3-1345
+      - kind: talk
+        start: "14:00"
+        speaker: Patricia Slattery
+        title: 'Fancy facades and pigment preferences: are the colourful faces of male bees sexy?'
+        student: true
+        end: "14:15"
+        id: 20261203-r3-1400
+      - kind: talk
+        start: "14:15"
+        speaker: Vicky Ying
+        title: How do pre-copulatory male behaviours affect female fitness? Insights from a facultatively parthenogenetic stick insect
+        student: true
+        end: "14:30"
+        id: 20261203-r3-1415
+      - kind: talk
+        start: "14:30"
+        speaker: Keith Bayless
+        title: Patterns underlying the evolution of stalk eyes in multiple lineages of flies
+        end: "14:45"
+        id: 20261203-r3-1430
+      - kind: talk
+        start: "14:45"
+        speaker: Keaghan Yaxley
+        title: The evolution of semelparity in response to intense sexual competition and sexual conflict
+        end: "15:00"
+        id: 20261203-r3-1445
+  - type: break
+    title: Afternoon tea
+    start: "15:00"
+    end: "15:25"
+    id: 20261203-x-1500
+  - type: parallel
+    start: "15:25"
+    end: "16:10"
+    tracks:
+    - room: Room 1
+      rid: r1
+      chair: Ondi Crino (TBC)
+      items:
+      - kind: speed
+        start: "15:25"
+        title: Speed talks 1 (5 minutes each)
+        talks:
+        - speaker: Joe Painter
+          title: Does nipple shape matter?
+          start: "15:25"
+          end: "15:30"
+          id: 20261203-r1-1525-1
+        - speaker: William Brooker
+          title: Why Cooperate? Using a synthetic <em>Escherichia coli</em> Model System to Investigate the Origins of Reproductive Division of Labour
+          start: "15:30"
+          end: "15:35"
+          id: 20261203-r1-1525-2
+        - speaker: Boris Yagound
+          title: Epigenetic markers of rapid adaptation in cane toads
+          start: "15:35"
+          end: "15:40"
+          id: 20261203-r1-1525-3
+        - speaker: Maddie James
+          title: Using MAGIC to deconstruct and reconstruct the genetic basis of adaptation
+          start: "15:40"
+          end: "15:45"
+          id: 20261203-r1-1525-4
+        - speaker: Jacob Scadden
+          title: Characterisation of bacterial flagellar filaments from extreme environments
+          start: "15:45"
+          end: "15:50"
+          id: 20261203-r1-1525-5
+        - speaker: Frank Fan
+          title: 'Hidden herds in borrowed homes: the scale insects in <em>Psydrax</em> nests of <em>Crematogaster</em>'
+          start: "15:50"
+          end: "15:55"
+          id: 20261203-r1-1525-6
+        - speaker: Matthew Symonds
+          title: Do species differences in physiological control of heat loss predict shape-shifting responses to climate change?
+          start: "15:55"
+          end: "16:00"
+          id: 20261203-r1-1525-7
+        end: "16:10"
+        id: 20261203-r1-1525
+    - room: Room 2
+      rid: r2
+      chair: Perry Beasley-Hall (TBC)
+      items:
+      - kind: speed
+        start: "15:25"
+        title: Speed talks 2 (5 minutes each)
+        talks:
+        - speaker: Madalyn Iaria
+          title: Temporal trends in avian colouration under climatic warming
+          start: "15:25"
+          end: "15:30"
+          id: 20261203-r2-1525-1
+        - speaker: Shamia Shoma
+          title: Evolution of semelparity in terrestrial arthropods
+          start: "15:30"
+          end: "15:35"
+          id: 20261203-r2-1525-2
+        - speaker: Zhe-Yu Chen
+          title: Mitogenomes and nuclear rDNA reveal complex lineage histories in the Australian pond snail genus <em>Austropeplea</em> (Gastropoda, Hygrophila, Lymnaeidae)
+          start: "15:35"
+          end: "15:40"
+          id: 20261203-r2-1525-3
+        - speaker: Wednesday Elgar
+          title: Evolution &amp; Systematics of Neoniphargidae Amphipods
+          start: "15:40"
+          end: "15:45"
+          id: 20261203-r2-1525-4
+        - speaker: Jacqueline Nguyen
+          title: Estimating the timing of passerine evolution using Bayesian tip dating and fossil occurrences
+          start: "15:45"
+          end: "15:50"
+          id: 20261203-r2-1525-5
+        - speaker: Laura Wilson
+          title: The evolution of prenatal cranial growth and development in bats
+          start: "15:50"
+          end: "15:55"
+          id: 20261203-r2-1525-6
+        - speaker: Devi Stuart-Fox
+          title: The eco-evo of skin colour in reptiles, and the rediscovery of riboflavin
+          start: "15:55"
+          end: "16:00"
+          id: 20261203-r2-1525-7
+        end: "16:10"
+        id: 20261203-r2-1525
+  - type: parallel
+    start: "16:10"
+    end: "16:25"
+    tracks:
+    - room: Room 1
+      rid: r1
+      items:
+      - kind: agm
+        start: "16:10"
+        title: 'Annual General Meeting: Australasian Evolution Society'
+        end: "16:25"
+        id: 20261203-r1-1610
+    - room: Room 2
+      rid: r2
+      items:
+      - kind: agm
+        start: "16:10"
+        title: 'Annual General Meeting: Society of Australian Systematic Biologists'
+        end: "16:25"
+        id: 20261203-r2-1610
+- date: '2026-12-04'
+  label: Friday 4 December
+  short: Fri 4
+  items:
+  - type: admin
+    title: Housekeeping address
+    start: "08:50"
+    location: Room 1
+    end: "09:00"
+    id: 20261204-x-0850
+  - type: plenary
+    label: Plenary
+    speaker: Dr Iliana Medina
+    title: 'Taking it to the nest-level: Building as a superpower'
+    start: "09:00"
+    location: Room 1
+    end: "09:50"
+    id: 20261204-x-0900
+  - type: break
+    title: Morning tea
+    start: "09:50"
+    location: Room 1
+    end: "10:20"
+    id: 20261204-x-0950
+  - type: plenary
+    label: ECR Award Plenary
+    speaker: Dr Carmen Da Silva
+    title: Nesting behaviour predicts heat tolerance evolution and climate vulnerability in bees
+    start: "10:20"
+    location: Room 1
+    end: "11:05"
+    id: 20261204-x-1020
+  - type: parallel
+    start: "11:05"
+    end: "12:20"
+    tracks:
+    - room: Room 1
+      rid: r1
+      topic: Evolution of viviparity
+      chair: Dan Noble (TBC)
+      items:
+      - kind: talk
+        start: "11:05"
+        speaker: Dineth Pathirana
+        title: Oviparity, viviparity, and transitional pregnancy in the lizard Saiphos equalis
+        student: true
+        end: "11:20"
+        id: 20261204-r1-1105
+      - kind: talk
+        start: "11:20"
+        speaker: Lizz Peni-Pearson
+        title: Single-cell analysis of the placenta of a live bearing lizard, <em>Pseudemoia entrecasteauxii</em>
+        student: true
+        end: "11:35"
+        id: 20261204-r1-1120
+      - kind: talk
+        start: "11:35"
+        speaker: Camilla Whittington
+        title: Evolution of male pregnancy
+        end: "11:50"
+        id: 20261204-r1-1135
+      - kind: talk
+        start: "11:50"
+        speaker: Claudia Crowther
+        title: Paying the Ultimate Price
+        end: "12:05"
+        id: 20261204-r1-1150
+      - kind: talk
+        start: "12:05"
+        speaker: Lisa Schwanz
+        title: Genetic and environmental influences on sex determination
+        end: "12:20"
+        id: 20261204-r1-1205
+    - room: Room 2
+      rid: r2
+      topic: Conservation genomics
+      chair: Putter Tiatragul (TBC)
+      items:
+      - kind: talk
+        start: "11:05"
+        speaker: Shengyao Lin
+        title: 'Population genomics of <em>Uperoleia daviesae</em> (Anura: Myobatrachidae) highlights the vulnerability of naturally fragmented short-range endemics to urban development'
+        student: true
+        end: "11:20"
+        id: 20261204-r2-1105
+      - kind: talk
+        start: "11:20"
+        speaker: Lucy Ockert
+        title: 'From colonies to captivity: using genomics to inform conservation of little penguins'
+        student: true
+        end: "11:35"
+        id: 20261204-r2-1120
+      - kind: talk
+        start: "11:35"
+        speaker: James Weppner
+        title: Using genetic data to understanding the impact of landscape on movement of the Southern Greater Glider
+        student: true
+        end: "11:50"
+        id: 20261204-r2-1135
+      - kind: talk
+        start: "11:50"
+        speaker: Putter Tiatragul
+        title: Genomic representation of endangered corroboree frogs
+        end: "12:05"
+        id: 20261204-r2-1150
+    - room: Room 3
+      rid: r3
+      topic: Genomics and adaptation
+      chair: Nik Johnston
+      items:
+      - kind: talk
+        start: "11:05"
+        speaker: Hongyuan Chen
+        title: Long-read sequencing reveals DNA methylation changes along the cane toad invasion trajectory
+        student: true
+        end: "11:20"
+        id: 20261204-r3-1105
+      - kind: talk
+        start: "11:20"
+        speaker: Neve Kelly
+        title: 'Do repeat invasions have the same genetic signature: Using population genetics to inform management of an active invasion'
+        student: true
+        end: "11:35"
+        id: 20261204-r3-1120
+      - kind: talk
+        start: "11:35"
+        speaker: Henry North
+        title: Bidirectional adaptive introgression of insecticide resistance between native and invasive species
+        end: "11:50"
+        id: 20261204-r3-1135
+      - kind: talk
+        start: "11:50"
+        speaker: Jonathan Wilson
+        title: Pangenomes and population genomics reveal more complexity at an already complex insecticide resistance locus
+        end: "12:05"
+        id: 20261204-r3-1150
+      - kind: talk
+        start: "12:05"
+        speaker: James Dorey
+        title: Weather, you want it or not? Extracting a new type of climate variable for eco-evolutionary enquiry
+        end: "12:20"
+        id: 20261204-r3-1205
+  - type: break
+    title: Lunch
+    start: "12:20"
+    end: "13:15"
+    id: 20261204-x-1220
+  - type: parallel
+    start: "13:15"
+    end: "14:45"
+    tracks:
+    - room: Room 1
+      rid: r1
+      topic: Macroevolution
+      chair: Damien Esquerré
+      items:
+      - kind: talk
+        start: "13:15"
+        speaker: Ziqi Shen
+        title: Evolution of Central Carbon Metabolism across the Tree of Life
+        student: true
+        end: "13:30"
+        id: 20261204-r1-1315
+      - kind: talk
+        start: "13:30"
+        speaker: Anuj Shinde
+        title: Patterns of Species &amp; Functional Diversity in Australian Frogs
+        student: true
+        end: "13:45"
+        id: 20261204-r1-1330
+      - kind: talk
+        start: "13:45"
+        speaker: Chenyue Yang
+        title: Macroevolution of flexibility in bird nest-building behaviour
+        student: true
+        end: "14:00"
+        id: 20261204-r1-1345
+      - kind: talk
+        start: "14:00"
+        speaker: Eleanor Hay
+        title: Mutualistic microbes drive niche expansion yet constrain diversification
+        end: "14:15"
+        id: 20261204-r1-1400
+      - kind: talk
+        start: "14:15"
+        speaker: Alexandra McQueen
+        title: 'The evolutionary ecology of hatch timing in wild birds: effects of daylight across ecologically diverse species'
+        end: "14:30"
+        id: 20261204-r1-1415
+      - kind: talk
+        start: "14:30"
+        speaker: Andre Wanderley do Prado
+        title: 'Revising <em>Artoria</em> (Araneae: Lycosidae): uncovering the diversity of Australia’s most speciose wolf spider genus'
+        end: "14:45"
+        id: 20261204-r1-1430
+    - room: Room 2
+      rid: r2
+      topic: 'BushBlitz sponsored symposium: Systematics and species discovery'
+      chair: Bryan Lessard
+      items:
+      - kind: talk
+        start: "13:15"
+        speaker: Andy Austin
+        title: The Decadal Plan for taxonomy and biosystematics
+        end: "13:30"
+        id: 20261204-r2-1315
+      - kind: talk
+        start: "13:30"
+        speaker: Helen Armstrong
+        title: Exploring the evolutionary history of the Cryptogonimidae
+        student: true
+        end: "13:45"
+        id: 20261204-r2-1330
+      - kind: talk
+        start: "13:45"
+        speaker: Jia Chang
+        title: A new <em>Serratia</em> taxon found in a Trombidiform mite shows genomic evidence of host-adapation but is phylogenetically distinct from <em>Serratia symbiotica</em>
+        student: true
+        end: "14:00"
+        id: 20261204-r2-1345
+      - kind: talk
+        start: "14:00"
+        speaker: Sebastian Hayden
+        title: A new species sheds light on a southern radiation of Australian burrowing scorpions
+        student: true
+        end: "14:15"
+        id: 20261204-r2-1400
+      - kind: talk
+        start: "14:15"
+        speaker: Volker Framenau
+        title: 'Cupboard spiders in the wrong cupboard: Australia <em>Steatoda</em> are not that'
+        end: "14:30"
+        id: 20261204-r2-1415
+      - kind: talk
+        start: "14:30"
+        speaker: Christoph Hoepel
+        title: 'The question of "paraphyletic species ": a case study in Tasmanian Mountain Shrimps (<em>Anaspides</em>, Malacostraca)'
+        end: "14:45"
+        id: 20261204-r2-1430
+    - room: Room 3
+      rid: r3
+      topic: Thermal biology and plasticity
+      chair: Renee Firman (TBC)
+      items:
+      - kind: talk
+        start: "13:15"
+        speaker: Qian Hu
+        title: Developmental plasticity in response to incubation temperature varies with reproductive ecology in birds
+        student: true
+        end: "13:30"
+        id: 20261204-r3-1315
+      - kind: talk
+        start: "13:30"
+        speaker: Chenke Zang
+        title: Effects of thermal stress on cognition, stress hormones, and parental care in zebra finches
+        student: true
+        end: "13:45"
+        id: 20261204-r3-1330
+      - kind: talk
+        start: "13:45"
+        speaker: Joshua Hufton
+        title: Temperature and sex-dependent differential methylation in the Swedish sand lizard (<em>Lacerta agilis</em>)
+        student: true
+        end: "14:00"
+        id: 20261204-r3-1345
+      - kind: talk
+        start: "14:00"
+        speaker: Luisa Fitzpatrick
+        title: Senescence diverges across thermal environments in a wild reptile
+        end: "14:15"
+        id: 20261204-r3-1400
+      - kind: talk
+        start: "14:15"
+        speaker: Mylene Mariette
+        title: 'avian heat adaptation: an acoustic signal of heat alters embryonic blood brain barrier'
+        end: "14:30"
+        id: 20261204-r3-1415
+      - kind: talk
+        start: "14:30"
+        speaker: Amanda Pettersen
+        title: Ultimate and proximate causes of variation in developmental thermal physiology in three-spined stickleback
+        end: "14:45"
+        id: 20261204-r3-1430
+  - type: break
+    title: Afternoon tea
+    start: "14:45"
+    end: "15:15"
+    id: 20261204-x-1445
+  - type: parallel
+    start: "15:15"
+    end: "17:00"
+    tracks:
+    - room: Room 1
+      rid: r1
+      topic: Morphological evolution
+      chair: Emma Sherratt (TBC)
+      items:
+      - kind: talk
+        start: "15:15"
+        speaker: Grace Anthes
+        title: Cortical cross-sectional geometry and implications of cortical heterogeneity in ecological predictions in primates
+        student: true
+        end: "15:30"
+        id: 20261204-r1-1515
+      - kind: talk
+        start: "15:30"
+        speaker: Nicholas Joris Fleck
+        title: Frankenskink - Straightening 3D meshes to address questions in morphological evolution
+        student: true
+        end: "15:45"
+        id: 20261204-r1-1530
+      - kind: talk
+        start: "15:45"
+        speaker: Lochlan Paterson-Crisp
+        title: Understanding the unique teeth of shark toothed dolphins
+        student: true
+        end: "16:00"
+        id: 20261204-r1-1545
+      - kind: talk
+        start: "16:00"
+        speaker: Elizabeth Surovic
+        title: 'The water-to-land transition in Gobiidae: Morphological convergence and the evolution of terrestrial Bauplans'
+        student: true
+        end: "16:15"
+        id: 20261204-r1-1600
+      - kind: talk
+        start: "16:15"
+        speaker: Shizhi Yao
+        title: 'How fish move on land: A comparative study of pectoral and caudal fin anatomy in aquatic and amphibious blennies and gobies.'
+        student: true
+        end: "16:30"
+        id: 20261204-r1-1615
+      - kind: talk
+        start: "16:30"
+        speaker: Ryan Dallas
+        title: The cranial morphology of the invasive red fox (<em>Vulpes vulpes</em>) in Southern and Eastern Australia
+        end: "16:45"
+        id: 20261204-r1-1630
+      - kind: talk
+        start: "16:45"
+        speaker: Trevor Wilson
+        title: Floral evolution and morphological losses in Australia's endemic mints (Lamiaceae) Lamiaceae systematics flower
+        end: "17:00"
+        id: 20261204-r1-1645
+    - room: Room 2
+      rid: r2
+      topic: 'BushBlitz sponsored symposium (continued): Systematics and species discovery'
+      chair: Bryan Lessard
+      items:
+      - kind: talk
+        start: "15:15"
+        speaker: Wesley Read
+        title: How many species do you see? (<em>Gehyra nana</em>)
+        student: true
+        end: "15:30"
+        id: 20261204-r2-1515
+      - kind: talk
+        start: "15:30"
+        speaker: Saphira Bloom-Quinn
+        title: The epiphytic moss subfamily Macromitrioideae in Australia
+        student: true
+        end: "15:45"
+        id: 20261204-r2-1530
+      - kind: talk
+        start: "15:45"
+        speaker: Steven Cooper
+        title: William (Bill) Humphreys - A lifetime of discovery
+        end: "16:00"
+        id: 20261204-r2-1545
+      - kind: talk
+        start: "16:00"
+        speaker: Kelton Cheung
+        title: New South Wales Plant Tree of Life
+        end: "16:15"
+        id: 20261204-r2-1600
+      - kind: talk
+        start: "16:15"
+        speaker: Daniel Huston
+        title: A fossil free-living nematode and mite from McGraths Flat, a Miocene Konservat-Lagerstätte in New South Wales, Australia
+        end: "16:30"
+        id: 20261204-r2-1615
+      - kind: talk
+        start: "16:30"
+        speaker: Bruno Buzatto
+        title: A molecular phylogeny of Australian burrowing scorpions and their continental radiations
+        end: "16:45"
+        id: 20261204-r2-1630
+      - kind: talk
+        start: "16:45"
+        speaker: Elena Kupriyanova
+        title: 'A paradox of <em>Ficopomatus</em>: a common but poorly known group of notorious estuarine biofoulers and bioinvaders'
+        end: "17:00"
+        id: 20261204-r2-1645
+    - room: Room 3
+      rid: r3
+      topic: Behaviour
+      chair: Iliana Medin
+      items:
+      - kind: talk
+        start: "15:15"
+        speaker: Manisha Koneru
+        title: 'Gloss as a Startling Visual Effect: A Study with Australian Magpies and Robotic Beetles'
+        student: true
+        end: "15:30"
+        id: 20261204-r3-1515
+      - kind: talk
+        start: "15:30"
+        speaker: Kimberley Wong
+        title: 'Differences at every scale: Intraspecific variation in cognition in the green-head ant, <em>Rhytidoponera metallica</em>'
+        student: true
+        end: "15:45"
+        id: 20261204-r3-1530
+      - kind: talk
+        start: "15:45"
+        speaker: Kieran Baughan
+        title: 'Locomotor diversity amongst marsupial gliders: implications for evolution, ecology and conservation'
+        student: true
+        end: "16:00"
+        id: 20261204-r3-1545
+      - kind: talk
+        start: "16:00"
+        speaker: Michael Kasumovic
+        title: Using a lizard videogame to explore personality in humans
+        end: "16:15"
+        id: 20261204-r3-1600
+      - kind: talk
+        start: "16:15"
+        speaker: Zhongqiu Li
+        title: 'Learning to Solve, Learning Not to Cooperate: Physical and Social Cognition in Azure-winged Magpies'
+        end: "16:30"
+        id: 20261204-r3-1615
+      - kind: talk
+        start: "16:30"
+        speaker: Caitlin Creak
+        title: 'In a hole in the ground there lived a hobbit: Microhabitat association and burrow architecture in natural populations of Sydney funnel-web spiders'
+        end: "16:45"
+        id: 20261204-r3-1630
+      - kind: talk
+        start: "16:45"
+        speaker: Martin Whiting
+        title: Dynamic visual signal evolution in Asian toad-headed agamas and its influence on brain size
+        end: "17:00"
+        id: 20261204-r3-1645
+  - type: admin
+    title: Closing and prizes
+    start: "17:00"
+    end: "18:00"
+    id: 20261204-x-1700
+  - type: social
+    title: CONFERENCE DINNER AND PARTY AT TEDDY'S, NORTH GONG HOTEL
+    start: "18:00"
+    end: "19:00"
+    open_end: true
+    id: 20261204-x-1800

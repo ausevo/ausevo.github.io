@@ -12,4 +12,7 @@ ehthumbs.db
 *TEMPLATE*
 .Rproj.user
 
-docs/2026/*xlsx
+# conference programme spreadsheets contain attendee personal data — never commit
+docs/2026/*.xlsx
+*PROGRAM*.xlsx
+CLAUDE.md

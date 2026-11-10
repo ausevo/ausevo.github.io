@@ -10,9 +10,30 @@ subtitle: Program
 
 **Evolution in the Gong (Joint AES x SASB Conference) 2026** will be held at the **University of Wollongong**, Wollongong, NSW, **2–4 December 2026** hosted by Damien Esquerre (AES) and Nik Johnson (SASB).
 
-**Conference times:** The conference runs for three full days, starting **early on Wednesday morning, 2 December**. Sessions conclude by **5:00pm on Friday 4 December**, followed by the [conference dinner](/conference-dinner) from 6:00pm. The full program will be released shortly. Registration to attend remains open until 27 November.
+**Conference times:** The conference runs for three full days, starting **early on Wednesday morning, 2 December**. Sessions conclude by **5:00pm on Friday 4 December**, followed by the [conference dinner](/conference-dinner) from 6:00pm. Registration to attend remains open until 27 November.
 
-We are delighted to announce our AES plenary speakers along with our two Best Paper Awardees.
+{% if site.data.conference.schedule_public %}
+<div class="programme-choice">
+  <a class="programme-choice__card" href="/schedule" data-track="programme-view" data-track-category="conference">
+    <span class="programme-choice__icon"><i class="fa-solid fa-calendar-days" aria-hidden="true"></i></span>
+    <span class="programme-choice__title">Interactive schedule</span>
+    <span class="programme-choice__text">Best on your phone. See what's on now in every room, star talks and build your own programme.</span>
+    <span class="programme-choice__cta">Open the schedule &rarr;</span>
+  </a>
+  <a class="programme-choice__card" href="{{ site.data.conference.programme_pdf_url }}" target="_blank" rel="noopener" data-track="programme-pdf" data-track-category="conference">
+    <span class="programme-choice__icon"><i class="fa-solid fa-file-pdf" aria-hidden="true"></i></span>
+    <span class="programme-choice__title">PDF programme</span>
+    <span class="programme-choice__text">A printable copy of the whole programme, one day per page. Works offline once downloaded.</span>
+    <span class="programme-choice__cta">Download the PDF &darr;</span>
+  </a>
+</div>
+{% else %}
+<p><strong>The full program will be released shortly.</strong></p>
+{% endif %}
+
+<!-- The interactive schedule works on your phone. It shows what's on now in every room, and you can star talks to build your own programme. -->
+
+We are delighted to announce our 2026 AES plenary speakers along with our two Best Paper Awardees.
 
 ## Pre-Conference Workshop
 
