@@ -18,7 +18,7 @@ layout: base
 <main id="main-content" class="schedule" data-tz="{{ prog.timezone | default: 'Australia/Sydney' }}" data-year="{{ prog.year }}" data-conf="{{ prog.conference | escape }}">
 
   {%- if page.draft_banner -%}
-  <div class="draft-banner" role="note"><strong>Unofficial &middot; for exec view</strong><span>Draft schedule. Not yet public: times, rooms and sessions may change. Please do not share this link.</span></div>
+  <div class="draft-banner" role="note"><strong>Schedule may still change</strong><span>Times, rooms and sessions are subject to change. Check back for the latest updates.</span></div>
   {%- endif %}
 
   {%- comment -%} Toolbar (only shown when JS is running) {%- endcomment -%}

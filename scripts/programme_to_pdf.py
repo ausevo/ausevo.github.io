@@ -117,7 +117,9 @@ def parallel(block):
         cells = []
         for tr in tracks:
             hit = [i for i in tr.get("items", []) if i["start"] == s]
-            cells.append("<td>" + "".join(item_cell(i) for i in hit) + "</td>")
+            is_stu = any(i.get("student") for i in hit)
+            td_cls = ' class="stu-td"' if is_stu else ""
+            cells.append(f"<td{td_cls}>" + "".join(item_cell(i) for i in hit) + "</td>")
         body.append(f'<tr><th class="time">{esc(s)}</th>{"".join(cells)}</tr>')
     return (f'<table class="par n{n}"><thead><tr><th class="time"></th>{head}</tr></thead>'
             f'<tbody>{"".join(body)}</tbody></table>')
@@ -185,14 +187,21 @@ em { font-style: italic; }
   padding: 7px 12px; border-radius: 6px; margin-bottom: 8px; }
 .dayhead h2 { margin: 0; font-size: 15pt; letter-spacing: .01em; }
 .dayhead span { font-size: 8pt; opacity: .85; }
-table.par { width: 100%; border-collapse: separate; border-spacing: 4px 4px; table-layout: fixed; margin: 6px 0; }
+table.par { width: 100%; border-collapse: collapse; table-layout: fixed; margin: 6px 0; }
 .par thead { display: table-header-group; }
 .par tr { break-inside: avoid; }
-.par th.time { width: 40px; text-align: right; vertical-align: top; font-size: 8.4pt; color: #0d3b66; padding: 5px 4px 0 0; }
-.par thead th:not(.time) { text-align: left; vertical-align: top; background: #eef3f8; border-radius: 5px; padding: 5px 8px; border-top: 4px solid #0d3b66; }
-.par thead th:nth-child(3) { border-top-color: #1f7a6f; }
-.par thead th:nth-child(4) { border-top-color: #9a5414; }
+.par th.time { width: 42px; text-align: right; vertical-align: top; font-size: 8.4pt; color: #0d3b66;
+  padding: 6px 6px 6px 0; border-bottom: 2px solid #0d3b66; }
+.par thead th:not(.time) { text-align: left; vertical-align: top; background: #eef3f8; padding: 6px 10px 7px;
+  border-top: 4px solid #0d3b66; border-bottom: 2px solid #0d3b66; border-right: 1px solid #d5dde5; }
+.par thead th:last-child { border-right: none; }
+.par thead th:nth-child(3) { border-top-color: #1f7a6f; border-bottom-color: #1f7a6f; }
+.par thead th:nth-child(4) { border-top-color: #9a5414; border-bottom-color: #9a5414; }
+.par tbody tr td { border-bottom: 1px solid #e8ecf0; border-right: 1px solid #e8ecf0; }
+.par tbody tr td:last-child { border-right: none; }
+.par tbody tr:last-child td { border-bottom: 2px solid #c8d0d8; }
 .par td { vertical-align: top; padding: 0; height: 1px; }
+.par tbody th.time { border-bottom: 1px solid #e8ecf0; padding: 6px 6px 6px 0; }
 .chip { display: inline-block; width: 15px; height: 15px; line-height: 15px; text-align: center; color: #fff; font-weight: 800; font-size: 8pt;
   background: #0d3b66; margin-right: 5px; }
 .par thead th:nth-child(3) .chip { background: #1f7a6f; }
@@ -201,8 +210,9 @@ table.par { width: 100%; border-collapse: separate; border-spacing: 4px 4px; tab
 .rt { font-weight: 700; font-size: 8.6pt; }
 .topic { display: block; font-weight: 600; margin-top: 2px; font-size: 8.4pt; }
 .chair { display: block; color: #55626f; font-size: 7.6pt; }
-.talk { border: 1px solid #d5dde5; border-radius: 4px; padding: 3px 6px 4px; background: #fff; height: 100%; }
-.stu-talk { border-left: 4px dashed #c2570c; background: #fff6ec; }
+.talk { padding: 5px 8px 6px; height: 100%; }
+.stu-td { background: #fff9f5; border-left: 3px dashed #c2570c !important; }
+.stu-talk { padding-left: 6px; }
 .ttl { font-size: 8pt; color: #33404d; }
 .speed { background: #f4f7fa; }
 .speed-h { font-weight: 800; color: #0d3b66; margin-bottom: 4px; font-size: 8.6pt; }

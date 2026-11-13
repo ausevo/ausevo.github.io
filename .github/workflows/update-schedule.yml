@@ -18,6 +18,9 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Install Chromium
+        run: sudo apt-get install -y chromium-browser
+
       - name: Install dependencies
         run: pip install -r scripts/requirements.txt
 
@@ -31,12 +34,19 @@ jobs:
         run: |
           git diff --quiet _data/programme_2026.yml || echo "changed=true" >> "$GITHUB_OUTPUT"
 
+      - name: Regenerate PDF programme
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          CHROME=$(which chromium-browser) python scripts/programme_to_pdf.py
+        env:
+          CHROME: /usr/bin/chromium-browser
+
       - name: Commit and push if changed
         if: steps.diff.outputs.changed == 'true'
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add _data/programme_2026.yml
-          git commit -m "chore: auto-update schedule from Google Sheets [skip ci]"
+          git add _data/programme_2026.yml docs/2026/Evolution_in_the_Gong_2026_Programme.pdf
+          git commit -m "chore: auto-update schedule and PDF from Google Sheets [skip ci]"
           git push
         # [skip ci] prevents a second Actions run; GitHub Pages still rebuilds on push

@@ -371,9 +371,20 @@ def parse(path, overrides):
     return year, days, problems
 
 
+def apply_end_overrides(item, end_overrides):
+    """If item title matches an end_override, replace its end time (in minutes)."""
+    title = str(item.get("title", "")).lower()
+    for ov in end_overrides:
+        if ov.get("match", "").lower() in title:
+            h, m = map(int, ov["end"].split(":"))
+            item["end"] = h * 60 + m
+            break
+
+
 def finalise(days, overrides):
     """Work out end times, ids, and turn internal structures into plain data."""
     locations = overrides.get("rooms") or {}
+    end_overrides = overrides.get("end_overrides") or []
     for d in days:
         starts = sorted({it["start"] for it in d["items"] if it["type"] != "parallel"} |
                         {x["start"] for it in d["items"] if it["type"] == "parallel"
@@ -393,6 +404,8 @@ def finalise(days, overrides):
                     for x in tr["items"]:
                         nxt = next_start(x["start"])
                         x["end"] = nxt if nxt else x["start"] + 15
+                        if end_overrides:
+                            apply_end_overrides(x, end_overrides)
                         if x["kind"] == "speed":
                             x["end"] = max([x["end"]] + [t.get("end", 0) for t in x["talks"]])
                     rid = f"r{col - 1}"   # r1/r2/r3 by column; room display name is in track["room"]
@@ -429,6 +442,8 @@ def finalise(days, overrides):
                     else:
                         it["end"] = it["start"] + LAST_ITEM_MINUTES
                         it["open_end"] = True
+                if end_overrides:
+                    apply_end_overrides(it, end_overrides)
                 it["id"] = f"{dkey}-x-{fmt(it['start']).replace(':', '')}"
                 it["start"], it["end"] = fmt(it["start"]), fmt(it["end"])
                 out.append(it)

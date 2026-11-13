@@ -14,7 +14,7 @@ navbar-links:
   Conference:
     - Overview: "conference"
     - Programme: "programme"
-    # - Schedule: "schedule"   # add back when the schedule goes public (see CLAUDE.md)
+    - Schedule: "schedule"
     - Registration: "registration"
     - Pre-conference Workshop: "workshop"
     - Venue: "2026_Venue"

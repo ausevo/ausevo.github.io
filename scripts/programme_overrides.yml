@@ -24,6 +24,12 @@ rooms:
   # Room 2: ""
   # Room 3: ""
 
+# Override the end time for items whose title matches the given substring (case-insensitive).
+# Useful for items like AGM where the spreadsheet end time is wrong.
+end_overrides:
+  - match: "Annual General Meeting"
+    end: "17:00"
+
 # Plain-text corrections applied to every cell before formatting
 replace:
   "Buidling": "Building"
