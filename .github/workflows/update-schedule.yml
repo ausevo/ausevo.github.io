@@ -1,0 +1,42 @@
+name: Sync schedule from Google Sheets
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # every 30 min (GitHub delivers within ~5-10 min)
+  workflow_dispatch:           # manual trigger: Actions tab → Run workflow
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write          # needed to push the commit
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Fetch sheet and regenerate YAML
+        run: |
+          PYTHONIOENCODING=utf-8 python scripts/programme_from_xlsx.py
+        # No path argument → reads source_url from scripts/programme_overrides.yml
+
+      - name: Check for changes
+        id: diff
+        run: |
+          git diff --quiet _data/programme_2026.yml || echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Commit and push if changed
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add _data/programme_2026.yml
+          git commit -m "chore: auto-update schedule from Google Sheets [skip ci]"
+          git push
+        # [skip ci] prevents a second Actions run; GitHub Pages still rebuilds on push

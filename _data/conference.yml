@@ -23,8 +23,10 @@ registration_open: true
 registration_url: "/registration"
 
 # Programme
-programme_available: false
-programme_url: ""
+programme_available: true
+schedule_public: true
+programme_url: "/schedule"
+programme_pdf_url: "/docs/2026/Evolution_in_the_Gong_2026_Programme.pdf"
 
 # Venue page URL (relative path or absolute)
 venue_url: "/2026_Venue"
