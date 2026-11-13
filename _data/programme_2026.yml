@@ -47,7 +47,7 @@ days:
   - type: break
     title: Morning tea
     start: "10:00"
-    location: 'Building 67: Menura (R107)'
+    location: Building 67 (McKinnon Building)
     end: "10:30"
     id: 20261202-x-1000
   - type: parallel
@@ -206,6 +206,7 @@ days:
   - type: break
     title: Lunch
     start: "12:15"
+    location: Building 67 (McKinnon Building)
     end: "13:15"
     id: 20261202-x-1215
   - type: parallel
@@ -362,6 +363,7 @@ days:
   - type: break
     title: Afternoon tea
     start: "15:00"
+    location: Building 67 (McKinnon Building)
     end: "15:30"
     id: 20261202-x-1500
   - type: parallel
@@ -534,7 +536,7 @@ days:
     id: 20261203-x-0840
   - type: plenary
     label: Plenary
-    speaker: Dr Ian G. Brennan
+    speaker: Dr Ian Brennan
     title: 'Oz-versification: Do Australian animals show adaptive syndromes'
     start: "09:00"
     location: 'Building 67: Menura (R107)'
@@ -543,7 +545,7 @@ days:
   - type: break
     title: Morning tea
     start: "09:50"
-    location: 'Building 67: Menura (R107)'
+    location: Building 67 (McKinnon Building)
     end: "10:20"
     id: 20261203-x-0950
   - type: plenary
@@ -669,6 +671,7 @@ days:
   - type: break
     title: Lunch
     start: "12:20"
+    location: Building 67 (McKinnon Building)
     end: "13:15"
     id: 20261203-x-1220
   - type: parallel
@@ -832,6 +835,7 @@ days:
   - type: break
     title: Afternoon tea
     start: "15:00"
+    location: Building 67 (McKinnon Building)
     end: "15:25"
     id: 20261203-x-1500
   - type: parallel
@@ -938,7 +942,7 @@ days:
       - kind: agm
         start: "16:00"
         title: 'Annual General Meeting: Australasian Evolution Society'
-        end: "17:00"
+        end: "16:15"
         id: 20261203-r1-1600
     - room: Morelia (R104)
       rid: r2
@@ -946,7 +950,7 @@ days:
       - kind: agm
         start: "16:00"
         title: 'Annual General Meeting: Society of Australian Systematic Biologists'
-        end: "17:00"
+        end: "16:15"
         id: 20261203-r2-1600
 - date: '2026-12-04'
   label: Friday 4 December
@@ -969,7 +973,7 @@ days:
   - type: break
     title: Morning tea
     start: "09:50"
-    location: 'Building 67: Menura (R107)'
+    location: Building 67 (McKinnon Building)
     end: "10:20"
     id: 20261204-x-0950
   - type: plenary
@@ -1093,6 +1097,7 @@ days:
   - type: break
     title: Lunch
     start: "12:20"
+    location: Building 67 (McKinnon Building)
     end: "13:15"
     id: 20261204-x-1220
   - type: parallel
@@ -1234,6 +1239,7 @@ days:
   - type: break
     title: Afternoon tea
     start: "14:45"
+    location: Building 67 (McKinnon Building)
     end: "15:15"
     id: 20261204-x-1445
   - type: parallel

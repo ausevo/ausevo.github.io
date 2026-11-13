@@ -319,7 +319,9 @@ def parse(path, overrides):
             item["start"] = start
             if end is not None:
                 item["end"] = end
-            if location:
+            if item.get("type") == "break" and overrides.get("break_location"):
+                item["location"] = overrides["break_location"]
+            elif location:
                 item["location"] = location
             day["items"].append(item)
             continue

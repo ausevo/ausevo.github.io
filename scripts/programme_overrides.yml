@@ -8,6 +8,10 @@ timezone: "Australia/Sydney"
 # Optional link to a PDF version of the programme (shown on the schedule page)
 pdf: "/docs/2026/Evolution_in_the_Gong_2026_Programme.pdf"
 
+# Location shown for break events (morning tea, lunch, afternoon tea).
+# Breaks happen across multiple rooms so we show the building, not a specific room.
+break_location: "Building 67 (McKinnon Building)"
+
 # Optional: building / room name shown next to each room
 rooms:
   # Room 1: "Building 67, Room 104"
