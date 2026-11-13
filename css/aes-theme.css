@@ -2210,6 +2210,18 @@ img.center-image { border-radius: var(--radius); }
   .schedule[data-room="all"]:not(.is-filtering) .track-head[data-room="r3"] { border-top-color: var(--sched-r3); }
   .schedule[data-room="all"]:not(.is-filtering) .track-head .room-chip { width: 22px; height: 22px; font-size: 0.75rem; }
   .schedule[data-room="all"]:not(.is-filtering) .track-head__meta { display: none; }
+  .track-head__room { display: none; }
+  .schedule[data-room="all"]:not(.is-filtering) .track-head__room {
+    display: block;
+    font-size: 0.6875rem;
+    font-weight: 700;
+    color: var(--c-text-muted);
+    line-height: 1.2;
+    margin-top: 2px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
   .schedule[data-room="all"]:not(.is-filtering) .track-head__chair {
     display: block;
     font-size: 0.6875rem;

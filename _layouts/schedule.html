@@ -92,7 +92,7 @@ layout: base
             <div class="sched-row__time" aria-hidden="true"></div>
             {%- for tr in it.tracks %}
             <div class="sched-cell track-head" data-room="{{ tr.rid }}" style="--col: {{ forloop.index }}">
-              <span class="room-chip room-chip--{{ tr.rid }}" aria-hidden="true">{{ tr.rid | remove: 'r' }}</span>
+              <span class="room-chip room-chip--{{ tr.rid }}" aria-hidden="true">{{ tr.rid | remove: 'r' }}</span><span class="track-head__room">{{ tr.room }}</span>
               <div>
                 <p class="track-head__topic">{{ tr.topic | default: tr.room }}</p>
                 <p class="track-head__meta">{{ tr.room }}{% if tr.location %} · {{ tr.location }}{% endif %}{% if tr.chair %} · Chair: {{ tr.chair }}{% endif %}</p>
