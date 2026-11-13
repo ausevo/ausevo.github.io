@@ -5,6 +5,12 @@
 conference: "Evolution in the Gong 2026"
 timezone: "Australia/Sydney"
 
+# Google Sheets source — PUBLIC tab (no personal data, shared publicly).
+# Omit xlsx path when running the script to fetch from here automatically.
+# To use a local file instead: python scripts/programme_from_xlsx.py path/to/file.xlsx
+source_url: "https://docs.google.com/spreadsheets/d/1JZ9wVI-ppCMykXydrX-NNBaIb8Qzn8Xz/export?format=xlsx"
+sheet_name: "PUBLIC"
+
 # Optional link to a PDF version of the programme (shown on the schedule page)
 pdf: "/docs/2026/Evolution_in_the_Gong_2026_Programme.pdf"
 

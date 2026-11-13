@@ -38,6 +38,11 @@ try:
 except ImportError:  # pragma: no cover
     sys.exit("Needs openpyxl and PyYAML:  pip install openpyxl pyyaml")
 
+try:
+    import urllib.request as _urllib
+except ImportError:  # pragma: no cover
+    pass
+
 REPO = Path(__file__).resolve().parent.parent
 OVERRIDES = Path(__file__).resolve().parent / "programme_overrides.yml"
 
@@ -241,10 +246,11 @@ def parse_whole_row(h, kind):
 
 
 def parse(path, overrides):
+    sheet_name = overrides.get("sheet_name") or "Program"
     wb = openpyxl.load_workbook(path, rich_text=True, data_only=True)
-    if "Program" not in wb.sheetnames:
-        sys.exit(f"No 'Program' sheet in {path}")
-    ws = wb["Program"]
+    if sheet_name not in wb.sheetnames:
+        sys.exit(f"No '{sheet_name}' sheet in {path}. Available: {wb.sheetnames}")
+    ws = wb[sheet_name]
     repl = overrides.get("replace") or {}
     terms = sorted(overrides.get("italicise") or [], key=len, reverse=True)
     problems = []
@@ -488,9 +494,29 @@ def report(days, problems, terms):
 
 # --------------------------------------------------------------------------- #
 
+def fetch_from_sheets(url):
+    """Download xlsx from a Google Sheets export URL to a temp file.
+    Returns (tmp_path, modified_date_str).  Caller must delete tmp_path."""
+    import tempfile
+    tmp = tempfile.NamedTemporaryFile(suffix=".xlsx", delete=False)
+    tmp.close()
+    print(f"Downloading from Google Sheets …")
+    _urllib.urlretrieve(url, tmp.name)
+    # Read modified date from xlsx internal metadata (more reliable than HTTP headers)
+    wb_meta = openpyxl.load_workbook(tmp.name, read_only=True, data_only=True)
+    modified = wb_meta.properties.modified
+    wb_meta.close()
+    if modified:
+        modified_str = modified.date().isoformat()
+    else:
+        modified_str = dt.date.today().isoformat()
+    return tmp.name, modified_str
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("xlsx", help="programme spreadsheet (.xlsx)")
+    ap.add_argument("xlsx", nargs="?", help="programme spreadsheet (.xlsx) or URL; "
+                    "omit to fetch from source_url in programme_overrides.yml")
     ap.add_argument("-o", "--out", help="output YAML (default: _data/programme_<year>.yml)")
     args = ap.parse_args()
 
@@ -498,28 +524,50 @@ def main():
     if OVERRIDES.exists():
         overrides = yaml.safe_load(OVERRIDES.read_text(encoding="utf-8")) or {}
 
-    year, days, problems = parse(args.xlsx, overrides)
-    days = finalise(days, overrides)
-    terms = overrides.get("italicise") or []
+    # --- resolve the source file -------------------------------------------------
+    tmp_path = None
+    updated_override = None
+    source_label = None
 
-    data = {
-        "conference": overrides.get("conference") or f"Conference {year}",
-        "year": year,
-        "timezone": overrides.get("timezone") or "Australia/Sydney",
-        "pdf": overrides.get("pdf") or "",
-        "updated": dt.date.today().isoformat(),
-        "source": Path(args.xlsx).name,
-        "days": days,
-    }
+    xlsx_arg = args.xlsx or overrides.get("source_url")
+    if not xlsx_arg:
+        ap.error("Provide a spreadsheet path, a URL, or set source_url in programme_overrides.yml")
 
-    out = Path(args.out) if args.out else REPO / "_data" / f"programme_{year}.yml"
-    header = ("# GENERATED FILE - do not edit by hand.\n"
-              "# Edit the programme spreadsheet (and scripts/programme_overrides.yml), then run:\n"
-              f"#   python scripts/programme_from_xlsx.py \"<spreadsheet>.xlsx\"\n\n")
-    out.write_text(header + yaml.safe_dump(data, allow_unicode=True, sort_keys=False, width=1000),
-                   encoding="utf-8", newline="\n")
-    print(f"Wrote {out.relative_to(REPO) if out.is_relative_to(REPO) else out}")
-    report(days, problems, terms)
+    if xlsx_arg.startswith("http"):
+        tmp_path, updated_override = fetch_from_sheets(xlsx_arg)
+        xlsx_path = tmp_path
+        source_label = f"Google Sheets – {overrides.get('sheet_name', 'Program')} tab"
+    else:
+        xlsx_path = xlsx_arg
+        source_label = Path(xlsx_arg).name
+    # -----------------------------------------------------------------------------
+
+    try:
+        year, days, problems = parse(xlsx_path, overrides)
+        days = finalise(days, overrides)
+        terms = overrides.get("italicise") or []
+
+        data = {
+            "conference": overrides.get("conference") or f"Conference {year}",
+            "year": year,
+            "timezone": overrides.get("timezone") or "Australia/Sydney",
+            "pdf": overrides.get("pdf") or "",
+            "updated": updated_override or dt.date.today().isoformat(),
+            "source": source_label,
+            "days": days,
+        }
+
+        out = Path(args.out) if args.out else REPO / "_data" / f"programme_{year}.yml"
+        header = ("# GENERATED FILE - do not edit by hand.\n"
+                  "# Source: programme_overrides.yml → source_url (Google Sheets) or pass a local .xlsx path.\n"
+                  "# Run:    python scripts/programme_from_xlsx.py\n\n")
+        out.write_text(header + yaml.safe_dump(data, allow_unicode=True, sort_keys=False, width=1000),
+                       encoding="utf-8", newline="\n")
+        print(f"Wrote {out.relative_to(REPO) if out.is_relative_to(REPO) else out}")
+        report(days, problems, terms)
+    finally:
+        if tmp_path:
+            import os; os.unlink(tmp_path)
 
 
 if __name__ == "__main__":
