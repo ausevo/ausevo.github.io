@@ -5,9 +5,9 @@
 conference: Evolution in the Gong 2026
 year: 2026
 timezone: Australia/Sydney
-pdf: /docs/2026/test.pdf
-updated: '2026-11-10'
-source: EVOLUTION_IN_THE_GONG_PROGRAM_V4.xlsx
+pdf: /docs/2026/Evolution_in_the_Gong_2026_Programme.pdf
+updated: '2026-11-13'
+source: EVOLUTION_IN_THE_GONG_PROGRAM_V5.xlsx
 days:
 - date: '2026-12-01'
   label: Tuesday 1 December
@@ -27,13 +27,13 @@ days:
   - type: admin
     title: Registration open (continued during breaks until lunch time)
     start: "08:30"
-    location: Room 1
+    location: 'Building 67: Menura (R107)'
     end: "08:50"
     id: 20261202-x-0830
   - type: admin
-    title: Welcome to Evolution in the Gong (Damien Esquerré &amp; Nikolas Johnston). Acknowledgement of Country
+    title: Welcome to Evolution in the Gong (Damien Esquerré &amp; Nikolas Johnston). Welcome to Country
     start: "08:50"
-    location: Room 1
+    location: 'Building 67: Menura (R107)'
     end: "09:10"
     id: 20261202-x-0850
   - type: plenary
@@ -41,20 +41,20 @@ days:
     speaker: Prof Phil Byrne
     title: 'The evolution of polyandry: causes and consequences'
     start: "09:10"
-    location: Room 1
+    location: 'Building 67: Menura (R107)'
     end: "10:00"
     id: 20261202-x-0910
   - type: break
     title: Morning tea
     start: "10:00"
-    location: Room 1
+    location: 'Building 67: Menura (R107)'
     end: "10:30"
     id: 20261202-x-1000
   - type: parallel
     start: "10:30"
     end: "12:15"
     tracks:
-    - room: Room 1
+    - room: Menura (R107)
       rid: r1
       topic: Genomic evolution
       chair: Ethan Briggs
@@ -68,16 +68,15 @@ days:
         id: 20261202-r1-1030
       - kind: talk
         start: "10:45"
-        speaker: Ethan Briggs
-        title: Investigating spider genome evolution with a new chromosome-level tarantula genome
+        speaker: Rhiannon Schembri
+        title: Using linked reads to understand the evolution of chromosome inversions in Australian finches
         student: true
         end: "11:00"
         id: 20261202-r1-1045
       - kind: talk
         start: "11:00"
-        speaker: Rhiannon Schembri
-        title: Using linked reads to understand the evolution of chromosome inversions in Australian finches
-        student: true
+        speaker: Ethan Briggs
+        title: Investigating spider genome evolution with a new chromosome-level tarantula genome
         end: "11:15"
         id: 20261202-r1-1100
       - kind: talk
@@ -104,10 +103,10 @@ days:
         title: Evolutionary genomics of a natural <em>Wolbachia</em> superinfection in the dengue mosquito Aedes albopictus
         end: "12:15"
         id: 20261202-r1-1200
-    - room: Room 2
+    - room: Morelia (R104)
       rid: r2
       topic: Phylogenetics and comparative methods
-      chair: Rob Lanfear (TBC)
+      chair: Rob Lanfear
       items:
       - kind: talk
         start: "10:30"
@@ -154,7 +153,7 @@ days:
         title: The tempo and mode of molecular and morphological evolution
         end: "12:15"
         id: 20261202-r2-1200
-    - room: Room 3
+    - room: Amenia (R102)
       rid: r3
       topic: Systematics and evolution
       chair: Nik Johnston
@@ -213,7 +212,7 @@ days:
     start: "13:15"
     end: "15:00"
     tracks:
-    - room: Room 1
+    - room: Menura (R107)
       rid: r1
       topic: Genomic evolution and landscape genetics
       chair: Putter Tiatragul
@@ -241,44 +240,38 @@ days:
         id: 20261202-r1-1345
       - kind: talk
         start: "14:00"
-        speaker: Tahlia Fulton
-        title: 'Beyond detoxification: the impact of insecticide resistance on nutrient aquisition'
+        speaker: Katarina Stuart
+        title: 'Concordant landscape patterns of population demography and genetic diversity: links to fitness across restoration-relevant species'
         end: "14:15"
         id: 20261202-r1-1400
       - kind: talk
         start: "14:15"
-        speaker: Katarina Stuart
-        title: 'Concordant landscape patterns of population demography and genetic diversity: links to fitness across restoration-relevant species'
+        speaker: Renee Firman
+        title: Genomic signatures of Pleistocene climatic fluctuation in Australian pebble mound mice
         end: "14:30"
         id: 20261202-r1-1415
       - kind: talk
         start: "14:30"
-        speaker: Renee Firman
-        title: Genomic signatures of Pleistocene climatic fluctuation in Australian pebble mound mice
-        end: "14:45"
-        id: 20261202-r1-1430
-      - kind: talk
-        start: "14:45"
         speaker: Christopher Friesen
         title: 'Stuck in the middle: phenotypes, genome and geography in the painted dragon (<em>Ctenophorus pictus</em>)'
-        end: "15:00"
-        id: 20261202-r1-1445
-    - room: Room 2
+        end: "14:45"
+        id: 20261202-r1-1430
+    - room: Morelia (R104)
       rid: r2
       topic: Phylogenetics and macro-evolution
-      chair: Juanita Rodriguez (TBC)
+      chair: Juanita Rodriguez
       items:
       - kind: talk
         start: "13:15"
-        speaker: Kamryn Carter
-        title: 'Freaky frogday: phylogenomics explains evolution and introgression in a complex of Australian toadlets'
+        speaker: Giorgio Muneretto
+        title: Exploring the genomic, phylogeographic and adaptive landscapes of the native shrub <em>Calothamnus quadrifidus</em>
         student: true
         end: "13:30"
         id: 20261202-r2-1315
       - kind: talk
         start: "13:30"
-        speaker: Giorgio Muneretto
-        title: Exploring the genomic, phylogeographic and adaptive landscapes of the native shrub <em>Calothamnus quadrifidus</em>
+        speaker: Kamryn Carter
+        title: 'Freaky frogday: phylogenomics explains evolution and introgression in a complex of Australian toadlets'
         student: true
         end: "13:45"
         id: 20261202-r2-1330
@@ -315,10 +308,10 @@ days:
         title: Phylogenomic and evolutionary analysis of Sword sedges (<em>Lepidosperma</em>)
         end: "15:00"
         id: 20261202-r2-1445
-    - room: Room 3
+    - room: Amenia (R102)
       rid: r3
       topic: Plasticity and development
-      chair: Lee Rollins (TBC)
+      chair: Lee Rollins
       items:
       - kind: talk
         start: "13:15"
@@ -375,7 +368,7 @@ days:
     start: "15:30"
     end: "17:15"
     tracks:
-    - room: Room 1
+    - room: Menura (R107)
       rid: r1
       topic: Micro-evolution
       chair: Ondi Crino (TBC)
@@ -419,15 +412,15 @@ days:
         title: Hotter, faster, sicker? Warming shifts the cost of infection from individuals to populations
         end: "17:00"
         id: 20261202-r1-1645
-    - room: Room 2
+    - room: Morelia (R104)
       rid: r2
       topic: Morphological and trait evolution
-      chair: Perry Beasley-Hall (TBC)
+      chair: Perry Beasley-Hall
       items:
       - kind: talk
         start: "15:30"
-        speaker: David Brito
-        title: Diet, not soil properties, explains morphological diversification in Australian fossorial elapids
+        speaker: Guoyi Zhang
+        title: 'When shell mathematical model meets phylogenomics: adaptive evolution in Australian camaenid land snails'
         student: true
         end: "15:45"
         id: 20261202-r2-1530
@@ -447,8 +440,8 @@ days:
         id: 20261202-r2-1600
       - kind: talk
         start: "16:15"
-        speaker: Guoyi Zhang
-        title: 'When shell mathematical model meets phylogenomics: adaptive evolution in Australian camaenid land snails'
+        speaker: David Brito
+        title: Diet, not soil properties, explains morphological diversification in Australian fossorial elapids
         student: true
         end: "16:30"
         id: 20261202-r2-1615
@@ -470,10 +463,10 @@ days:
         title: Genetic variation in body size traits across environments
         end: "17:15"
         id: 20261202-r2-1700
-    - room: Room 3
+    - room: Amenia (R102)
       rid: r3
       topic: Behaviour
-      chair: Martin Whitting (TBC)
+      chair: Iliana Medina
       items:
       - kind: talk
         start: "15:30"
@@ -536,21 +529,21 @@ days:
   - type: admin
     title: Housekeeping address
     start: "08:40"
-    location: Room 1
+    location: 'Building 67: Menura (R107)'
     end: "09:00"
     id: 20261203-x-0840
   - type: plenary
     label: Plenary
-    speaker: Dr Ian Brennan
-    title: Patterns and chance in the radiation of Australian animals
+    speaker: Dr Ian G. Brennan
+    title: 'Oz-versification: Do Australian animals show adaptive syndromes'
     start: "09:00"
-    location: Room 1
+    location: 'Building 67: Menura (R107)'
     end: "09:50"
     id: 20261203-x-0900
   - type: break
     title: Morning tea
     start: "09:50"
-    location: Room 1
+    location: 'Building 67: Menura (R107)'
     end: "10:20"
     id: 20261203-x-0950
   - type: plenary
@@ -558,52 +551,45 @@ days:
     speaker: Dr Li "Living" Yun
     title: 'Endless forms most charming: ecomorphological diversification of beetles'
     start: "10:20"
-    location: Room 1
+    location: 'Building 67: Menura (R107)'
     end: "11:05"
     id: 20261203-x-1020
   - type: parallel
     start: "11:05"
     end: "12:20"
     tracks:
-    - room: Room 1
+    - room: Menura (R107)
       rid: r1
       topic: Theoretical evolution and big ideas
-      chair: Alistair Senior (TBC)
+      chair: Alistair Senior
       items:
       - kind: talk
         start: "11:05"
-        speaker: William (Bill) Sherwin
-        title: 'Pan-Evo: The Evolution of Information and Biology''s Part in This.'
+        speaker: Disha Chaudhary
+        title: Molecular dynamics of co-evolution in experimental populations.
         student: true
         end: "11:20"
         id: 20261203-r1-1105
       - kind: talk
         start: "11:20"
-        speaker: Disha Chaudhary
-        title: Molecular dynamics of co-evolution in experimental populations.
+        speaker: Jack Price
+        title: Simulating the effects of complexity in genetic architecture on evolution
         student: true
         end: "11:35"
         id: 20261203-r1-1120
       - kind: talk
         start: "11:35"
-        speaker: Jack Price
-        title: Simulating the effects of complexity in genetic architecture on evolution
-        student: true
+        speaker: Alistair Senior
+        title: Scientists (i.e., me) say this simple diet trick could knock 4 years off your biological clock in just 4 weeks!
         end: "11:50"
         id: 20261203-r1-1135
       - kind: talk
         start: "11:50"
-        speaker: Alistair Senior
-        title: Scientists (i.e., me) say this simple diet trick could knock 4 years off your biological clock in just 4 weeks!
-        end: "12:05"
-        id: 20261203-r1-1150
-      - kind: talk
-        start: "12:05"
         speaker: Jodi Edwards
         title: 'Before Time There Was Story: The Foundations of Indigenous Cultural Marine Science'
-        end: "12:20"
-        id: 20261203-r1-1205
-    - room: Room 2
+        end: "12:05"
+        id: 20261203-r1-1150
+    - room: Morelia (R104)
       rid: r2
       topic: Venom evolution
       chair: Damien Esquerré
@@ -641,10 +627,10 @@ days:
         title: Genome of venomous caterpillar <em>Doratifera vulnerans</em> reveals recruitment of immune peptides and their adaptation as pain-inducing toxins
         end: "12:20"
         id: 20261203-r2-1205
-    - room: Room 3
+    - room: Amenia (R102)
       rid: r3
       topic: Microbial evolution
-      chair: Bethany Hoye (TBC)
+      chair: Bethany Hoye
       items:
       - kind: talk
         start: "11:05"
@@ -689,10 +675,10 @@ days:
     start: "13:15"
     end: "15:00"
     tracks:
-    - room: Room 1
+    - room: Menura (R107)
       rid: r1
       topic: Adaptation and natural selection
-      chair: Alistair Senior (TBC)
+      chair: Alistair Senior
       items:
       - kind: talk
         start: "13:15"
@@ -740,10 +726,10 @@ days:
         title: Does mother know best? Evolutionary narrowing of biotic interactions due to climate change could compromise future population resilience in a UK butterfly
         end: "15:00"
         id: 20261203-r1-1445
-    - room: Room 2
+    - room: Morelia (R104)
       rid: r2
       topic: Speciation, species delimitation and systematics
-      chair: Stephen Zozaya (TBC)
+      chair: Helen Armstrong
       items:
       - kind: talk
         start: "13:15"
@@ -791,10 +777,10 @@ days:
         title: Underestimating admixture is easy
         end: "15:00"
         id: 20261203-r2-1445
-    - room: Room 3
+    - room: Amenia (R102)
       rid: r3
       topic: Sexual selection
-      chair: Keith Bayless (TBC)
+      chair: Keith Bayless
       items:
       - kind: talk
         start: "13:15"
@@ -850,9 +836,9 @@ days:
     id: 20261203-x-1500
   - type: parallel
     start: "15:25"
-    end: "16:10"
+    end: "16:00"
     tracks:
-    - room: Room 1
+    - room: Menura (R107)
       rid: r1
       chair: Ondi Crino (TBC)
       items:
@@ -895,11 +881,11 @@ days:
           start: "15:55"
           end: "16:00"
           id: 20261203-r1-1525-7
-        end: "16:10"
+        end: "16:00"
         id: 20261203-r1-1525
-    - room: Room 2
+    - room: Morelia (R104)
       rid: r2
-      chair: Perry Beasley-Hall (TBC)
+      chair: Perry Beasley-Hall
       items:
       - kind: speed
         start: "15:25"
@@ -940,28 +926,28 @@ days:
           start: "15:55"
           end: "16:00"
           id: 20261203-r2-1525-7
-        end: "16:10"
+        end: "16:00"
         id: 20261203-r2-1525
   - type: parallel
-    start: "16:10"
-    end: "16:25"
+    start: "16:00"
+    end: "16:15"
     tracks:
-    - room: Room 1
+    - room: Menura (R107)
       rid: r1
       items:
       - kind: agm
-        start: "16:10"
+        start: "16:00"
         title: 'Annual General Meeting: Australasian Evolution Society'
-        end: "16:25"
-        id: 20261203-r1-1610
-    - room: Room 2
+        end: "17:00"
+        id: 20261203-r1-1600
+    - room: Morelia (R104)
       rid: r2
       items:
       - kind: agm
-        start: "16:10"
+        start: "16:00"
         title: 'Annual General Meeting: Society of Australian Systematic Biologists'
-        end: "16:25"
-        id: 20261203-r2-1610
+        end: "17:00"
+        id: 20261203-r2-1600
 - date: '2026-12-04'
   label: Friday 4 December
   short: Fri 4
@@ -969,7 +955,7 @@ days:
   - type: admin
     title: Housekeeping address
     start: "08:50"
-    location: Room 1
+    location: 'Building 67: Menura (R107)'
     end: "09:00"
     id: 20261204-x-0850
   - type: plenary
@@ -977,31 +963,31 @@ days:
     speaker: Dr Iliana Medina
     title: 'Taking it to the nest-level: Building as a superpower'
     start: "09:00"
-    location: Room 1
+    location: 'Building 67: Menura (R107)'
     end: "09:50"
     id: 20261204-x-0900
   - type: break
     title: Morning tea
     start: "09:50"
-    location: Room 1
+    location: 'Building 67: Menura (R107)'
     end: "10:20"
     id: 20261204-x-0950
   - type: plenary
     label: ECR Award Plenary
     speaker: Dr Carmen Da Silva
-    title: Nesting behaviour predicts heat tolerance evolution and climate vulnerability in bees
+    title: Nest microclimates drive evolution of heat tolerance in Australian native bees
     start: "10:20"
-    location: Room 1
+    location: 'Building 67: Menura (R107)'
     end: "11:05"
     id: 20261204-x-1020
   - type: parallel
     start: "11:05"
     end: "12:20"
     tracks:
-    - room: Room 1
+    - room: Menura (R107)
       rid: r1
       topic: Evolution of viviparity
-      chair: Dan Noble (TBC)
+      chair: Dan Noble
       items:
       - kind: talk
         start: "11:05"
@@ -1035,39 +1021,39 @@ days:
         title: Genetic and environmental influences on sex determination
         end: "12:20"
         id: 20261204-r1-1205
-    - room: Room 2
+    - room: Morelia (R104)
       rid: r2
       topic: Conservation genomics
-      chair: Putter Tiatragul (TBC)
+      chair: Putter Tiatragul
       items:
       - kind: talk
         start: "11:05"
-        speaker: Shengyao Lin
-        title: 'Population genomics of <em>Uperoleia daviesae</em> (Anura: Myobatrachidae) highlights the vulnerability of naturally fragmented short-range endemics to urban development'
-        student: true
+        speaker: Putter Tiatragul
+        title: Genomic representation of endangered corroboree frogs
         end: "11:20"
         id: 20261204-r2-1105
       - kind: talk
         start: "11:20"
-        speaker: Lucy Ockert
-        title: 'From colonies to captivity: using genomics to inform conservation of little penguins'
+        speaker: Shengyao Lin
+        title: 'Population genomics of <em>Uperoleia daviesae</em> (Anura: Myobatrachidae) highlights the vulnerability of naturally fragmented short-range endemics to urban development'
         student: true
         end: "11:35"
         id: 20261204-r2-1120
       - kind: talk
         start: "11:35"
-        speaker: James Weppner
-        title: Using genetic data to understanding the impact of landscape on movement of the Southern Greater Glider
+        speaker: Lucy Ockert
+        title: 'From colonies to captivity: using genomics to inform conservation of little penguins'
         student: true
         end: "11:50"
         id: 20261204-r2-1135
       - kind: talk
         start: "11:50"
-        speaker: Putter Tiatragul
-        title: Genomic representation of endangered corroboree frogs
+        speaker: James Weppner
+        title: Using genetic data to understanding the impact of landscape on movement of the Southern Greater Glider
+        student: true
         end: "12:05"
         id: 20261204-r2-1150
-    - room: Room 3
+    - room: Amenia (R102)
       rid: r3
       topic: Genomics and adaptation
       chair: Nik Johnston
@@ -1113,7 +1099,7 @@ days:
     start: "13:15"
     end: "14:45"
     tracks:
-    - room: Room 1
+    - room: Menura (R107)
       rid: r1
       topic: Macroevolution
       chair: Damien Esquerré
@@ -1157,9 +1143,9 @@ days:
         title: 'Revising <em>Artoria</em> (Araneae: Lycosidae): uncovering the diversity of Australia’s most speciose wolf spider genus'
         end: "14:45"
         id: 20261204-r1-1430
-    - room: Room 2
+    - room: Morelia (R104)
       rid: r2
-      topic: 'BushBlitz sponsored symposium: Systematics and species discovery'
+      topic: Uncovering species and systematics – presented by Bush Blitz
       chair: Bryan Lessard
       items:
       - kind: talk
@@ -1201,10 +1187,10 @@ days:
         title: 'The question of "paraphyletic species ": a case study in Tasmanian Mountain Shrimps (<em>Anaspides</em>, Malacostraca)'
         end: "14:45"
         id: 20261204-r2-1430
-    - room: Room 3
+    - room: Amenia (R102)
       rid: r3
       topic: Thermal biology and plasticity
-      chair: Renee Firman (TBC)
+      chair: Renee Firman
       items:
       - kind: talk
         start: "13:15"
@@ -1254,10 +1240,10 @@ days:
     start: "15:15"
     end: "17:00"
     tracks:
-    - room: Room 1
+    - room: Menura (R107)
       rid: r1
       topic: Morphological evolution
-      chair: Emma Sherratt (TBC)
+      chair: Emma Sherratt
       items:
       - kind: talk
         start: "15:15"
@@ -1306,9 +1292,9 @@ days:
         title: Floral evolution and morphological losses in Australia's endemic mints (Lamiaceae) Lamiaceae systematics flower
         end: "17:00"
         id: 20261204-r1-1645
-    - room: Room 2
+    - room: Morelia (R104)
       rid: r2
-      topic: 'BushBlitz sponsored symposium (continued): Systematics and species discovery'
+      topic: Uncovering species and systematics – presented by Bush Blitz
       chair: Bryan Lessard
       items:
       - kind: talk
@@ -1355,10 +1341,10 @@ days:
         title: 'A paradox of <em>Ficopomatus</em>: a common but poorly known group of notorious estuarine biofoulers and bioinvaders'
         end: "17:00"
         id: 20261204-r2-1645
-    - room: Room 3
+    - room: Amenia (R102)
       rid: r3
       topic: Behaviour
-      chair: Iliana Medin
+      chair: Martin Whiting
       items:
       - kind: talk
         start: "15:15"
@@ -1383,8 +1369,8 @@ days:
         id: 20261204-r3-1545
       - kind: talk
         start: "16:00"
-        speaker: Michael Kasumovic
-        title: Using a lizard videogame to explore personality in humans
+        speaker: Martin Whiting
+        title: Dynamic visual signal evolution in Asian toad-headed agamas and its influence on brain size
         end: "16:15"
         id: 20261204-r3-1600
       - kind: talk
@@ -1401,8 +1387,8 @@ days:
         id: 20261204-r3-1630
       - kind: talk
         start: "16:45"
-        speaker: Martin Whiting
-        title: Dynamic visual signal evolution in Asian toad-headed agamas and its influence on brain size
+        speaker: Michael Kasumovic
+        title: Using a lizard videogame to explore personality in humans
         end: "17:00"
         id: 20261204-r3-1645
   - type: admin

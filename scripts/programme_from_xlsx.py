@@ -387,8 +387,7 @@ def finalise(days, overrides):
                         x["end"] = nxt if nxt else x["start"] + 15
                         if x["kind"] == "speed":
                             x["end"] = max([x["end"]] + [t.get("end", 0) for t in x["talks"]])
-                    rnum = re.search(r"\d+", tr["room"])
-                    rid = f"r{rnum.group(0) if rnum else col - 1}"
+                    rid = f"r{col - 1}"   # r1/r2/r3 by column; room display name is in track["room"]
                     items = []
                     for x in tr["items"]:
                         x = dict(x)
