@@ -7,12 +7,11 @@ roles:
   - title: Vice-President
     members: [Perry Beasley-Hall]
   - title: Secretary
-    members: [-]
+    members: [Ethan Briggs]
   - title: Treasurer
     members: [Jeremy Wilson]
   - title: Councilor (student rep)
     members: [Shelby Adams, Helen Armstrong]
   - title: Councilor
-    members: [Bryan Lessard, David Juszkiewicz, Simon Tierney, Ethan Briggs, Mike Rix]
-  - title: Webmaster / Councilor
-    members: [James Buxton]
+    members: [Bryan Lessard, David Juszkiewicz, Simon Tierneys, Mike Rix]
+
