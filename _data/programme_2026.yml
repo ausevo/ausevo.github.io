@@ -144,7 +144,7 @@ days:
       - kind: talk
         start: "11:45"
         speaker: Jordan Douglas
-        title: Influence of the climate on molecular evolutionary rates in flowering plants (Proteaceae)
+        title: The influence of life history, metabolism, and climate on the molecular evolution of the bats
         end: "12:00"
         id: 20261202-r2-1145
       - kind: talk
@@ -422,7 +422,7 @@ days:
       - kind: talk
         start: "15:30"
         speaker: Guoyi Zhang
-        title: 'When shell mathematical model meets phylogenomics: adaptive evolution in Australian camaenid land snails'
+        title: 'How to coil a shell: Twist in camaenid land snail evolution'
         student: true
         end: "15:45"
         id: 20261202-r2-1530
@@ -487,7 +487,7 @@ days:
       - kind: talk
         start: "16:00"
         speaker: Caleb Wellard
-        title: 'Keeping time to hatch: impacts of rhythmic light and temperature cues on gene expression and hatch timing in chicks'
+        title: 'Keeping time to hatch: impacts of rhythmic light and temperature cues on hatch timing in chicks'
         student: true
         end: "16:15"
         id: 20261202-r3-1600
@@ -795,7 +795,6 @@ days:
         start: "13:30"
         speaker: Lachlan King
         title: Sexual dimorphism of mutational effects for <em>Drosophila</em> wing shape
-        student: true
         end: "13:45"
         id: 20261203-r3-1330
       - kind: talk
@@ -1289,6 +1288,7 @@ days:
         start: "16:30"
         speaker: Ryan Dallas
         title: The cranial morphology of the invasive red fox (<em>Vulpes vulpes</em>) in Southern and Eastern Australia
+        student: true
         end: "16:45"
         id: 20261204-r1-1630
       - kind: talk
