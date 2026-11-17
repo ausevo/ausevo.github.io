@@ -6,7 +6,7 @@ conference: Evolution in the Gong 2026
 year: 2026
 timezone: Australia/Sydney
 pdf: /docs/2026/Evolution_in_the_Gong_2026_Programme.pdf
-updated: '2026-11-16'
+updated: '2026-11-17'
 source: Google Sheets – PUBLIC tab
 days:
 - date: '2026-12-01'
@@ -1143,7 +1143,7 @@ days:
       - kind: talk
         start: "14:30"
         speaker: Andre Wanderley do Prado
-        title: 'Revising <em>Artoria</em> (Araneae: Lycosidae): uncovering the diversity of Australia’s most speciose wolf spider genus'
+        title: 'Revising <em>Artoria</em> (Araneae: Lycosidae): uncovering the diversity of Australia''s most speciose wolf spider genus'
         end: "14:45"
         id: 20261204-r1-1430
     - room: Morelia (R104)
