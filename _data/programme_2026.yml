@@ -6,7 +6,7 @@ conference: Evolution in the Gong 2026
 year: 2026
 timezone: Australia/Sydney
 pdf: /docs/2026/Evolution_in_the_Gong_2026_Programme.pdf
-updated: '2026-11-17'
+updated: '2026-11-18'
 source: Google Sheets – PUBLIC tab
 days:
 - date: '2026-12-01'
@@ -292,23 +292,16 @@ days:
         id: 20261202-r2-1400
       - kind: talk
         start: "14:15"
-        speaker: Hayden Jones
-        title: Signals of hybrid speciation in the genus <em>Anigozanthos</em>
-        student: true
+        speaker: Lyn Cook
+        title: 'Macs tracks: debogging the history of Stuart''s Central Australian "palm"'
         end: "14:30"
         id: 20261202-r2-1415
       - kind: talk
         start: "14:30"
-        speaker: Lyn Cook
-        title: 'Macs tracks: debogging the history of Stuart''s Central Australian "palm"'
-        end: "14:45"
-        id: 20261202-r2-1430
-      - kind: talk
-        start: "14:45"
         speaker: Millicent Oulo
         title: Phylogenomic and evolutionary analysis of Sword sedges (<em>Lepidosperma</em>)
-        end: "15:00"
-        id: 20261202-r2-1445
+        end: "14:45"
+        id: 20261202-r2-1430
     - room: Amenia (R102)
       rid: r3
       topic: Plasticity and development
@@ -591,6 +584,12 @@ days:
         title: 'Before Time There Was Story: The Foundations of Indigenous Cultural Marine Science'
         end: "12:05"
         id: 20261203-r1-1150
+      - kind: talk
+        start: "12:05"
+        speaker: Zhongqiu Li
+        title: 'Learning to Solve, Learning Not to Cooperate: Physical and Social Cognition in Azure-winged Magpies'
+        end: "12:20"
+        id: 20261203-r1-1205
     - room: Morelia (R104)
       rid: r2
       topic: Venom evolution
@@ -765,6 +764,7 @@ days:
         start: "14:15"
         speaker: Felipe Lin
         title: 'Dual mitochondrial capture shaped mito-nuclear discordance in sky-island skinks (Scincidae: <em>Sphenomorphus</em>)'
+        student: true
         end: "14:30"
         id: 20261203-r2-1415
       - kind: talk
@@ -1325,7 +1325,7 @@ days:
       - kind: talk
         start: "16:00"
         speaker: Kelton Cheung
-        title: New South Wales Plant Tree of Life
+        title: NSW Plant Tree of Life (NSWPToL) - A framework in advancing biodiversity knowledge, research and conservation
         end: "16:15"
         id: 20261204-r2-1600
       - kind: talk
@@ -1380,22 +1380,16 @@ days:
         id: 20261204-r3-1600
       - kind: talk
         start: "16:15"
-        speaker: Zhongqiu Li
-        title: 'Learning to Solve, Learning Not to Cooperate: Physical and Social Cognition in Azure-winged Magpies'
+        speaker: Caitlin Creak
+        title: 'In a hole in the ground there lived a hobbit: Microhabitat association and burrow architecture in natural populations of Sydney funnel-web spiders'
         end: "16:30"
         id: 20261204-r3-1615
       - kind: talk
         start: "16:30"
-        speaker: Caitlin Creak
-        title: 'In a hole in the ground there lived a hobbit: Microhabitat association and burrow architecture in natural populations of Sydney funnel-web spiders'
-        end: "16:45"
-        id: 20261204-r3-1630
-      - kind: talk
-        start: "16:45"
         speaker: Michael Kasumovic
         title: Using a lizard videogame to explore personality in humans
-        end: "17:00"
-        id: 20261204-r3-1645
+        end: "16:45"
+        id: 20261204-r3-1630
   - type: admin
     title: Closing and prizes
     start: "17:00"
