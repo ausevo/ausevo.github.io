@@ -391,22 +391,29 @@ days:
         id: 20261202-r1-1600
       - kind: talk
         start: "16:15"
-        speaker: Robert Laird
-        title: Linking parental age, offspring fitness, and population dynamics in an aquatic plant
+        speaker: Naomi Laven
+        title: 'The clone wars: physiological consequences of mitonuclear discordance in hybrid parthenogens'
+        student: true
         end: "16:30"
         id: 20261202-r1-1615
       - kind: talk
         start: "16:30"
-        speaker: Jan Engelstaedter
-        title: Quantifying the mutational spectrum of antibiotic resistance
+        speaker: Robert Laird
+        title: Linking parental age, offspring fitness, and population dynamics in an aquatic plant
         end: "16:45"
         id: 20261202-r1-1630
       - kind: talk
         start: "16:45"
-        speaker: Matt Hall
-        title: Hotter, faster, sicker? Warming shifts the cost of infection from individuals to populations
+        speaker: Jan Engelstaedter
+        title: Quantifying the mutational spectrum of antibiotic resistance
         end: "17:00"
         id: 20261202-r1-1645
+      - kind: talk
+        start: "17:00"
+        speaker: Matt Hall
+        title: Hotter, faster, sicker? Warming shifts the cost of infection from individuals to populations
+        end: "17:15"
+        id: 20261202-r1-1700
     - room: Morelia (R104)
       rid: r2
       topic: Morphological and trait evolution
@@ -734,51 +741,44 @@ days:
       items:
       - kind: talk
         start: "13:15"
-        speaker: Naomi Laven
-        title: 'The clone wars: physiological consequences of mitonuclear discordance in hybrid parthenogens'
+        speaker: Reilly Seet
+        title: Insect-microbe symbiosis as a driver of speciation in Australian stingless bees
         student: true
         end: "13:30"
         id: 20261203-r2-1315
       - kind: talk
         start: "13:30"
-        speaker: Reilly Seet
-        title: Insect-microbe symbiosis as a driver of speciation in Australian stingless bees
+        speaker: Jenny Wang
+        title: 'Species boundaries and drivers of evolution in a species complex of fairy wrasses (Labridae: <em>Cirrhilabrus</em>)'
         student: true
         end: "13:45"
         id: 20261203-r2-1330
       - kind: talk
         start: "13:45"
-        speaker: Jenny Wang
-        title: 'Species boundaries and drivers of evolution in a species complex of fairy wrasses (Labridae: <em>Cirrhilabrus</em>)'
+        speaker: Jackson Rendall
+        title: Population genomics and connectivity in a jarrah forest endemic trapdoor spider
         student: true
         end: "14:00"
         id: 20261203-r2-1345
       - kind: talk
         start: "14:00"
-        speaker: Jackson Rendall
-        title: Population genomics and connectivity in a jarrah forest endemic trapdoor spider
+        speaker: Felipe Lin
+        title: 'Dual mitochondrial capture shaped mito-nuclear discordance in sky-island skinks (Scincidae: <em>Sphenomorphus</em>)'
         student: true
         end: "14:15"
         id: 20261203-r2-1400
       - kind: talk
         start: "14:15"
-        speaker: Felipe Lin
-        title: 'Dual mitochondrial capture shaped mito-nuclear discordance in sky-island skinks (Scincidae: <em>Sphenomorphus</em>)'
-        student: true
+        speaker: Patricia Lu-Irving
+        title: Invasive lantana in Australia comprises multiple taxa and hybrids
         end: "14:30"
         id: 20261203-r2-1415
       - kind: talk
         start: "14:30"
-        speaker: Patricia Lu-Irving
-        title: Invasive lantana in Australia comprises multiple taxa and hybrids
-        end: "14:45"
-        id: 20261203-r2-1430
-      - kind: talk
-        start: "14:45"
         speaker: Stephen Zozaya
         title: Underestimating admixture is easy
-        end: "15:00"
-        id: 20261203-r2-1445
+        end: "14:45"
+        id: 20261203-r2-1430
     - room: Amenia (R102)
       rid: r3
       topic: Sexual selection
