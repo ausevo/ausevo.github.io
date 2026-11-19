@@ -6,7 +6,7 @@ conference: Evolution in the Gong 2026
 year: 2026
 timezone: Australia/Sydney
 pdf: /docs/2026/Evolution_in_the_Gong_2026_Programme.pdf
-updated: '2026-11-18'
+updated: '2026-11-19'
 source: Google Sheets – PUBLIC tab
 days:
 - date: '2026-12-01'
@@ -800,7 +800,7 @@ days:
       - kind: talk
         start: "13:45"
         speaker: Aadhi Ramkumar
-        title: Cloaked in Darkness - Melanisation as a signal
+        title: Cloaked in darkness - Are darker female seed beetles more attractive to males?
         student: true
         end: "14:00"
         id: 20261203-r3-1345
