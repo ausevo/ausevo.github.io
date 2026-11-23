@@ -28,13 +28,32 @@ Evolution in the Gong conference will be held at the **McKinnon Building (Buildi
 
 [View larger map](https://www.openstreetmap.org/#map=19/-34.404998/150.876888)
 
+### Campus map
+
+The map below shows the conference building (Building 67, McKinnon Building), the UniBar (Welcome Mixer), the nearest bus stop, and the paid and free parking options.
+
+<a href="/docs/2026/2026_UOW_map.pdf">
+  <img src="/img/aes2026/uow_map.png" alt="Map of University of Wollongong campus showing Building 67 (McKinnon Building), the UniBar, bus stops, paid parking and free parking" style="width:100%; border-radius:8px; margin:1rem 0;">
+</a>
+
+[Download the campus map (PDF)](/docs/2026/2026_UOW_map.pdf)
+
 ### Getting Here
 
-**By train:** Wollongong Station is approximately 2 km from campus. Local buses connect the station to the university.
+**By free bus (recommended):** Two free shuttles run between the university, the city and the train stations during the conference:
 
-**By bus:** The university is well serviced by local bus routes. 
+- **Free Gong Shuttle 55A / 55C** – a loop (both directions) connecting UOW, Innovation Campus, the city centre (Wollongong Central, Burelli St), Wollongong Station and Wollongong Hospital. At UOW it stops at the bus interchange on Northfields Ave (Stands A–F).
+- **Free North Gong Shuttle (route 9)** – North Wollongong Station to UOW.
 
-**By car:** Paid parking is available on campus. 
+<a href="/docs/2026/2026_UOW_bus_map.pdf">
+  <img src="/img/aes2026/uow_bus_map.png" alt="Map of the free Gong Shuttle 55A/55C and North Gong Shuttle route 9 between UOW, Wollongong city centre and the train stations" style="width:100%; border-radius:8px; margin:1rem 0;">
+</a>
+
+[Download the free bus route map (PDF)](/docs/2026/2026_UOW_bus_map.pdf)
+
+**By train:** Take the South Coast Line to Wollongong Station (about 2 km from campus) or North Wollongong Station, then catch one of the free shuttles above to the university.
+
+**By car:** Paid parking is available on campus (shown in pink on the campus map). Free parking is available on the south side of Gardens and the back streets near the campus (see the arrow on the map), a short walk from Building 67.
 
 ### Accommodation
 
