@@ -35,6 +35,12 @@ subtitle: Program
 
 We are delighted to announce our 2026 AES plenary speakers along with our two Best Paper Awardees.
 
+## Presenting at the Conference
+
+You are allocated a **12 minute talk**, followed by **3 minutes of questions**. The format is free, just ensure your talk is Windows compatible.
+
+Please upload your talk to the conference OneDrive folder (the link and password were sent to presenters by email – please check your email), with the file named **FIRSTNAME_LASTNAME** in the correct room, day and session folder. Please upload your presentation **at least a day before your presentation**, this will help us ensure smooth transitions.
+
 ## Pre-Conference Workshop
 
 A free half-day workshop, **Introduction to Phylogenomics**, will be held on **Tuesday 1 December 2026, 13:00–17:00** at the University of Wollongong, led by Simon Ho and Manuela Cascini (University of Sydney). Places are limited to 30 (first come, first served, with priority to conference attendees). Please [register](https://bit.ly/PhyloWorkshopGong) by Sunday 8 November. See the [workshop page](/workshop) for details.

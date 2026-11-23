@@ -40,10 +40,16 @@ The map below shows the conference building (Building 67, McKinnon Building), th
 
 ### Getting Here
 
-**By free bus (recommended):** Two free shuttles run between the university, the city and the train stations during the conference:
+**By train from Sydney:** Take the South Coast Line from Central towards Wollongong/Kiama and get off at **North Wollongong**, the closest station to the University. The trip takes about 1.5 hours from Central, depending on the train. Trains run about every 30 minutes in peak times and every 60 minutes off-peak.
 
-- **Free Gong Shuttle 55A / 55C** – a loop (both directions) connecting UOW, Innovation Campus, the city centre (Wollongong Central, Burelli St), Wollongong Station and Wollongong Hospital. At UOW it stops at the bus interchange on Northfields Ave (Stands A–F).
-- **Free North Gong Shuttle (route 9)** – North Wollongong Station to UOW.
+From North Wollongong Station you can either:
+
+- take the free **North Gong Shuttle (route 9)**, about 5 minutes to campus, or
+- walk, which takes about 15–20 minutes.
+
+**From Sydney Airport:** There is no direct train from the airport to Wollongong, so you will need to change trains at least once. Under the 2026 timetable, South Coast trains no longer stop at Wolli Creek. Please use the [Transport NSW Trip Planner](https://transportnsw.info/trip) from "Sydney Domestic Airport" or "Sydney International Airport" to "North Wollongong Station" to find the best connection.
+
+**From Wollongong city:** The free **Gong Shuttle (routes 55A and 55C)** runs in a loop in both directions between UOW, the city centre, Wollongong Station, Wollongong Hospital, the Innovation Campus and Fairy Meadow. On weekdays it runs every 10 minutes from 7am to 6pm, then every 20 minutes until 10pm. At UOW it stops at the bus interchange on Northfields Ave. See the map below for the routes, or use Google Maps.
 
 <a href="/docs/2026/2026_UOW_bus_map.pdf">
   <img src="/img/aes2026/uow_bus_map.png" alt="Map of the free Gong Shuttle 55A/55C and North Gong Shuttle route 9 between UOW, Wollongong city centre and the train stations" style="width:100%; border-radius:8px; margin:1rem 0;">
@@ -51,9 +57,17 @@ The map below shows the conference building (Building 67, McKinnon Building), th
 
 [Download the free bus route map (PDF)](/docs/2026/2026_UOW_bus_map.pdf)
 
-**By train:** Take the South Coast Line to Wollongong Station (about 2 km from campus) or North Wollongong Station, then catch one of the free shuttles above to the university.
+Timetables are available at [transportnsw.info](https://transportnsw.info).
 
-**By car:** Paid parking is available on campus (shown in pink on the campus map). Free parking is available on the south side of Gardens and the back streets near the campus (see the arrow on the map), a short walk from Building 67.
+### Driving and Parking
+
+There is paid casual parking on campus in the areas shown in pink on the campus map above. Casual parking is in car parks **P1, P3, P4, P5 North, P6 and P8**. You can pay with the CellOPark app or at the Pay and Display machines. Please check the current rates and signs before you park: [UOW parking information](https://www.uow.edu.au/about/locations/wollongong/getting-to-campus/parking/).
+
+There is also free parking on the streets around the south side of the Wollongong Botanic Garden. From there it's about a 20 minute walk to campus, through the beautiful Botanic Garden.
+
+### Finding the Conference
+
+The conference will be held in **Building 67 – McKinnon Building**, highlighted on the campus map and also findable on Google Maps. Go up the stairs into the main foyer next to Hemmingway cafe.
 
 ### Accommodation
 
