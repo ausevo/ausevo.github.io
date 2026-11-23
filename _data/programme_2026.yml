@@ -480,7 +480,7 @@ days:
       - kind: talk
         start: "15:45"
         speaker: Maddison Howie
-        title: 'Evolving escape: the genetic basis of antipredator behaviour in an Australian threatened bird, the Hooded Plover'
+        title: 'Genetic associations with antipredator behaviour: towards whole-genome, multi-species approaches'
         student: true
         end: "16:00"
         id: 20261202-r3-1545
@@ -1026,7 +1026,7 @@ days:
       - kind: talk
         start: "11:05"
         speaker: Putter Tiatragul
-        title: Genomic representation of endangered corroboree frogs
+        title: Optimising genetic diversity in group-breeding corroboree frogs
         end: "11:20"
         id: 20261204-r2-1105
       - kind: talk
