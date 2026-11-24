@@ -292,16 +292,23 @@ days:
         id: 20261202-r2-1400
       - kind: talk
         start: "14:15"
-        speaker: Lyn Cook
-        title: 'Macs tracks: debogging the history of Stuart''s Central Australian "palm"'
+        speaker: Christopher Vournazos
+        title: Uncovering the ecologies of small-bodied dinosaurs
+        student: true
         end: "14:30"
         id: 20261202-r2-1415
       - kind: talk
         start: "14:30"
-        speaker: Millicent Oulo
-        title: Phylogenomic and evolutionary analysis of Sword sedges (<em>Lepidosperma</em>)
+        speaker: Lyn Cook
+        title: 'Macs tracks: debogging the history of Stuart''s Central Australian "palm"'
         end: "14:45"
         id: 20261202-r2-1430
+      - kind: talk
+        start: "14:45"
+        speaker: Millicent Oulo
+        title: Phylogenomic and evolutionary analysis of Sword sedges (<em>Lepidosperma</em>)
+        end: "15:00"
+        id: 20261202-r2-1445
     - room: Amenia (R102)
       rid: r3
       topic: Plasticity and development
@@ -1058,7 +1065,7 @@ days:
       - kind: talk
         start: "11:05"
         speaker: Hongyuan Chen
-        title: Long-read sequencing reveals DNA methylation changes along the cane toad invasion trajectory
+        title: 'When a Warning Leaves a Mark: Epigenetic responses to alarm cue exposure in cane toads'
         student: true
         end: "11:20"
         id: 20261204-r3-1105
