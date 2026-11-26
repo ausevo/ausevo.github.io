@@ -6,7 +6,7 @@ conference: Evolution in the Gong 2026
 year: 2026
 timezone: Australia/Sydney
 pdf: /docs/2026/Evolution_in_the_Gong_2026_Programme.pdf
-updated: '2026-11-25'
+updated: '2026-11-26'
 source: Google Sheets – PUBLIC tab
 days:
 - date: '2026-12-01'
@@ -463,7 +463,7 @@ days:
       - kind: talk
         start: "16:45"
         speaker: Nikolas Johnston
-        title: Colour evolution in Australian blowflies
+        title: 'Bling flies: the repeated evolution of golden Australian blowflies'
         end: "17:00"
         id: 20261202-r2-1645
       - kind: talk
